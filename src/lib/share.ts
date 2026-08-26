@@ -13,6 +13,7 @@ export function formatShareText(restaurant: Restaurant, review: Review): string 
   if (review.whatToAvoid.trim()) lines.push(`Avoid: ${review.whatToAvoid.trim()}`);
   if (review.dietaryTags.length) lines.push(review.dietaryTags.join(" · "));
   lines.push("Tracked on Halal Passport 🕌");
+  lines.push("https://halal-passport.netlify.app/");
   return lines.join("\n");
 }
 
