@@ -9,7 +9,7 @@ interface GemRatingProps {
 
 const SIZES = { sm: "w-3.5 h-3.5", md: "w-5 h-5", lg: "w-7 h-7" };
 
-const RATING_LABELS: Record<1 | 2 | 3 | 4 | 5, string> = {
+export const RATING_LABELS: Record<1 | 2 | 3 | 4 | 5, string> = {
   1: "Not good",
   2: "Passable",
   3: "Would go again",

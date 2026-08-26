@@ -1,13 +1,16 @@
 import type { Restaurant, Review } from "../types";
+import { RATING_LABELS } from "../components/GemRating";
 
-const STAR_FILLED = "\u2726"; // jewel-styled star glyph
-const STAR_EMPTY = "\u2727";
+const GEM_FILLED = "💎";
+const GEM_EMPTY = "🤍";
 
 export function formatShareText(restaurant: Restaurant, review: Review): string {
-  const stars = STAR_FILLED.repeat(review.rating) + STAR_EMPTY.repeat(5 - review.rating);
+  const gems = GEM_FILLED.repeat(review.rating) + GEM_EMPTY.repeat(5 - review.rating);
+  const ratingLabel = RATING_LABELS[review.rating];
   const lines = [
-    `🍽️ ${restaurant.name} — ${stars} (${review.rating}/5)`,
-    `📍 ${restaurant.neighborhood} · 💰 ${review.pricePoint}`,
+    `🍽️ ${restaurant.name} — ${gems} (${review.rating}/5 ${ratingLabel})`,
+    `📍 ${restaurant.address}`,
+    `🏙️ ${restaurant.neighborhood} · 💰 ${review.pricePoint}`,
   ];
   if (review.whatToGet.trim()) lines.push(`✅ Get: ${review.whatToGet.trim()}`);
   if (review.whatToAvoid.trim()) lines.push(`🛑 Avoid: ${review.whatToAvoid.trim()}`);
