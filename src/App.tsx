@@ -4,6 +4,7 @@ import type { Restaurant, Review } from "./types";
 import { seedIfEmpty, getAllRestaurants, putRestaurant, getAllReviews, putReview } from "./lib/db";
 import { MapView } from "./components/MapView";
 import { BentoGrid } from "./components/BentoGrid";
+import { DiscoverFeed } from "./components/DiscoverFeed";
 import { RestaurantDetail } from "./components/RestaurantDetail";
 import { BottomNav, type Tab } from "./components/BottomNav";
 import { MeetupsView } from "./components/MeetupsView";
@@ -168,13 +169,23 @@ export default function App() {
               </div>
 
               <div className="mt-2">
-                <BentoGrid
-                  restaurants={discoverRestaurants}
-                  onOpen={setActiveId}
-                  onToggleSave={handleToggleSave}
-                  emptyTitle="No spots found"
-                  emptyBody="Try changing your filters to see more spots."
-                />
+                {selectedCategory === "All" ? (
+                  <DiscoverFeed
+                    restaurants={discoverRestaurants}
+                    onOpen={setActiveId}
+                    onToggleSave={handleToggleSave}
+                    emptyTitle="No spots found"
+                    emptyBody="Try changing your filters to see more spots."
+                  />
+                ) : (
+                  <BentoGrid
+                    restaurants={discoverRestaurants}
+                    onOpen={setActiveId}
+                    onToggleSave={handleToggleSave}
+                    emptyTitle="No spots found"
+                    emptyBody="Try changing your filters to see more spots."
+                  />
+                )}
               </div>
             </section>
           </>
