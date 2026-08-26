@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-base text-cream font-body antialiased;
+    -webkit-tap-highlight-color: transparent;
+  }
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #2A2A33 transparent;
+  }
+}
