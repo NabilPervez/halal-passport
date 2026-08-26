@@ -42,7 +42,7 @@ export function RestaurantCard({ restaurant, featured, onOpen, onToggleSave }: R
       exit={{ opacity: 0, scale: 0.94 }}
       transition={{ type: "spring", stiffness: 380, damping: 30 }}
       onClick={() => onOpen(restaurant.id)}
-      className={`group relative flex flex-col text-left rounded-xl2 border border-base-border bg-base-elevated overflow-hidden focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald ${
+      className={`group relative flex flex-col text-left rounded-xl2 border border-base-border bg-base-elevated overflow-hidden h-full w-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald ${
         featured ? "row-span-2" : ""
       }`}
       aria-label={`Open ${restaurant.name}`}
