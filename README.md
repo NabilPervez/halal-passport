@@ -1,4 +1,4 @@
-# Sofra — DFW Halal Spots
+# Halal Passport — DFW Halal Spots
 
 A local-first PWA for discovering, tracking, and sharing halal restaurants
 across the Dallas-Fort Worth metroplex. Built from the sprint PRD:
