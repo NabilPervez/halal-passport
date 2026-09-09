@@ -6,6 +6,7 @@ import type {
   UserPlaceState,
   RestaurantWithSaveState,
   SaveState,
+  MeetupRsvp,
 } from "../types";
 import restaurantsData from "../data/restaurants.json";
 
@@ -29,13 +30,18 @@ interface SofraDB extends DBSchema {
     value: Meetup;
     indexes: { "by-date": string };
   };
+  meetupRsvps: {
+    key: string;
+    value: MeetupRsvp;
+  };
 }
 
 const DB_NAME = "sofra-db";
 // v4: split per-user save state (wishlist/eaten) out of the restaurant
 // catalog into its own store, so refreshing the catalog with real geocoded
 // data never touches what a user has already saved. See docs/data-pipeline-plan.md.
-const DB_VERSION = 4;
+// v5: local RSVP tracking for meetups (meetupRsvps store).
+const DB_VERSION = 5;
 
 let dbPromise: Promise<IDBPDatabase<SofraDB>> | null = null;
 
@@ -88,6 +94,10 @@ export function getDB() {
           // ("by-saveState" index) we don't want to carry forward.
           const restaurantStore = tx.objectStore("restaurants");
           await restaurantStore.clear();
+        }
+
+        if (oldVersion < 5) {
+          db.createObjectStore("meetupRsvps", { keyPath: "meetupId" });
         }
       },
     });
@@ -180,4 +190,24 @@ export async function putReview(review: Review): Promise<void> {
 export async function getAllMeetups(): Promise<Meetup[]> {
   const db = await getDB();
   return db.getAll("meetups");
+}
+
+/**
+ * Local-only RSVP tracking — this app has no backend or user accounts, so
+ * "attending" here means "this device's owner tapped RSVP", not a synced
+ * headcount other attendees see. Meetup.attendees stays the seeded/organizer
+ * count; the UI adds this device's own RSVP on top of it (see MeetupsView).
+ */
+export async function getAllRsvps(): Promise<MeetupRsvp[]> {
+  const db = await getDB();
+  return db.getAll("meetupRsvps");
+}
+
+export async function setRsvp(meetupId: string, attending: boolean): Promise<void> {
+  const db = await getDB();
+  if (!attending) {
+    await db.delete("meetupRsvps", meetupId);
+    return;
+  }
+  await db.put("meetupRsvps", { meetupId, attending: true, rsvpedAt: Date.now() });
 }

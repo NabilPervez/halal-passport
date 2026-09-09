@@ -161,12 +161,21 @@ export function DiscoverFeed({
   emptyBody,
 }: DiscoverFeedProps) {
   const sections = useMemo(() => buildSections(restaurants), [restaurants]);
+
+  // Which categories are showing, and in what order — stable across a
+  // save/wishlist toggle (which only changes saveState on existing items,
+  // producing a new `restaurants` array identity but the same categories)
+  // and changes only when a real filter alters the section composition.
+  const sectionsKey = useMemo(() => sections.map((s) => s.name).join("|"), [sections]);
+
   const [visibleCount, setVisibleCount] = useState(INITIAL_SECTIONS);
 
-  // Reset visible count when the restaurant list changes (e.g. filter applied)
+  // Reset visible count when the actual filter results change — not on
+  // every restaurants array identity change, or toggling a heart mid-scroll
+  // would silently collapse the feed back to the first few sections.
   useEffect(() => {
     setVisibleCount(INITIAL_SECTIONS);
-  }, [restaurants]);
+  }, [sectionsKey]);
 
   const { ref: sentinelRef, isIntersecting } = useIntersectionObserver({
     rootMargin: "200px",

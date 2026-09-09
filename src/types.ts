@@ -88,3 +88,10 @@ export interface Meetup {
   organizer: string;
   attendees: number;
 }
+
+/** This device's local RSVP to a meetup — see the note on setRsvp() in db.ts. */
+export interface MeetupRsvp {
+  meetupId: string;
+  attending: true;
+  rsvpedAt: number;
+}
