@@ -1,0 +1,62 @@
+{
+  "queriedName": "Thai Jasmine",
+  "queriedAt": "2026-09-09T00:37:29.717Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Thai Jasmine Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Bedford",
+        "postcode": "76021",
+        "street": "Harwood Road",
+        "housenumber": "3104",
+        "iso3166_2": "US-TX",
+        "lon": -97.1165498,
+        "lat": 32.8515271,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30991.042525065408,
+        "formatted": "Thai Jasmine Restaurant, 3104 Harwood Road, Bedford, TX 76021, United States of America",
+        "address_line1": "Thai Jasmine Restaurant",
+        "address_line2": "3104 Harwood Road, Bedford, TX 76021, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VV2M+J9",
+        "plus_code_short": "VV2M+J9, 76021 Bedford, United States",
+        "rank": {
+          "importance": 0.00005616311894403017,
+          "popularity": 4.23574940978346,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bed64a8d754758c05930140bd7fe6c4040f00103f90159e703a600000000c0020192031754686169204a61736d696e652052657374617572616e74",
+        "bbox": {
+          "lon1": -97.1165998,
+          "lat1": 32.8514771,
+          "lon2": -97.1164998,
+          "lat2": 32.8515771
+        }
+      }
+    ],
+    "query": {
+      "text": "Thai Jasmine"
+    }
+  }
+}

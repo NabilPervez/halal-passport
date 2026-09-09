@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import type { Restaurant, JewelTone } from "../types";
+import type { RestaurantWithSaveState, JewelTone } from "../types";
 import { Badge } from "./Badge";
 
 const HERO_BG: Record<JewelTone, string> = {
@@ -19,7 +19,7 @@ const HERO_TEXT: Record<JewelTone, string> = {
 };
 
 interface RestaurantCardProps {
-  restaurant: Restaurant;
+  restaurant: RestaurantWithSaveState;
   featured?: boolean;
   onOpen: (id: string) => void;
   onToggleSave: (id: string, next: "wishlist" | "eaten" | "none") => void;
@@ -65,16 +65,20 @@ export function RestaurantCard({ restaurant, featured, onOpen, onToggleSave }: R
         <div>
           <h3 className="font-display font-semibold text-cream leading-tight truncate">{restaurant.name}</h3>
           <p className="text-xs text-muted font-body mt-0.5">
-            {restaurant.cuisine} · {restaurant.neighborhood}
+            {[restaurant.cuisine, restaurant.city].filter(Boolean).join(" · ")}
           </p>
         </div>
         <div className="flex flex-wrap gap-1.5 mt-auto pt-1">
-          <Badge tone="emerald">{restaurant.pricePoint}</Badge>
-          {restaurant.dietaryTags.slice(0, featured ? 3 : 1).map((tag) => (
-            <Badge key={tag} tone={restaurant.heroColor}>
-              {tag}
-            </Badge>
-          ))}
+          {restaurant.pricePoint && <Badge tone="emerald">{restaurant.pricePoint}</Badge>}
+          {restaurant.halalStatus === "unverified" ? (
+            <Badge tone={restaurant.heroColor}>Unverified halal</Badge>
+          ) : (
+            restaurant.dietaryTags.slice(0, featured ? 3 : 1).map((tag) => (
+              <Badge key={tag} tone={restaurant.heroColor}>
+                {tag}
+              </Badge>
+            ))
+          )}
         </div>
       </div>
     </motion.button>
@@ -87,7 +91,7 @@ function SaveToggle({
   onToggleSave,
 }: {
   restaurantId: string;
-  saveState: Restaurant["saveState"];
+  saveState: RestaurantWithSaveState["saveState"];
   onToggleSave: (id: string, next: "wishlist" | "eaten" | "none") => void;
 }) {
   const isSaved = saveState === "wishlist";

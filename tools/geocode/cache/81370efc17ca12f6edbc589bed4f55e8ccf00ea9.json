@@ -1,0 +1,62 @@
+{
+  "queriedName": "CHOWK",
+  "queriedAt": "2026-09-09T00:31:05.440Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chadni Chowk Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "East Harwood Road",
+        "housenumber": "918",
+        "iso3166_2": "US-TX",
+        "lon": -97.067777,
+        "lat": 32.8512432,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26617.251917959104,
+        "formatted": "Chadni Chowk Grill, 918 East Harwood Road, Euless, TX 76039, United States of America",
+        "address_line1": "Chadni Chowk Grill",
+        "address_line2": "918 East Harwood Road, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW2J+FV",
+        "plus_code_short": "2J+FV Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.386428866627969,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f29a5775564458c059a0788489f56c4040f00103f9011906ac6202000000c00201920312436861646e692043686f776b204772696c6c",
+        "bbox": {
+          "lon1": -97.067827,
+          "lat1": 32.8511932,
+          "lon2": -97.067727,
+          "lat2": 32.8512932
+        }
+      }
+    ],
+    "query": {
+      "text": "CHOWK"
+    }
+  }
+}

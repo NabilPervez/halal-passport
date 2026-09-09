@@ -1,0 +1,66 @@
+{
+  "queriedName": "𝟻𝟿 sʜᴀᴡᴀʀᴍᴀ & Juice",
+  "queriedAt": "2026-09-09T00:35:07.058Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "CoCo Fresh Tea & Juice",
+        "other_names": {
+          "brand": "CoCo",
+          "short_name": "CoCo"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.8066181,
+        "lat": 33.0921334,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 35052.77825326787,
+        "formatted": "CoCo Fresh Tea & Juice, Preston Road, Plano, TX 75024, United States of America",
+        "address_line1": "CoCo Fresh Tea & Juice",
+        "address_line2": "Preston Road, Plano, TX 75024, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RV+V9",
+        "plus_code_short": "35RV+V9, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.154061444187369,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5125f785a19f3358c05945eff906cb8b4040f00103f9015f964aea02000000c00201920316436f436f204672657368205465612026204a75696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353230363931323935",
+        "bbox": {
+          "lon1": -96.8066681,
+          "lat1": 33.0920834,
+          "lon2": -96.8065681,
+          "lat2": 33.0921834
+        }
+      }
+    ],
+    "query": {
+      "text": "𝟻𝟿 sʜᴀᴡᴀʀᴍᴀ & Juice"
+    }
+  }
+}

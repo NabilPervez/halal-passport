@@ -1,0 +1,62 @@
+{
+  "queriedName": "New York Eats",
+  "queriedAt": "2026-09-09T00:44:38.891Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "New York Eats",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76010",
+        "street": "Doug Russell Road",
+        "housenumber": "604 B",
+        "iso3166_2": "US-TX",
+        "lon": -97.1132733,
+        "lat": 32.7248925,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30139.540585823503,
+        "formatted": "New York Eats, 604 B Doug Russell Road, Arlington, TX 76010, United States of America",
+        "address_line1": "New York Eats",
+        "address_line2": "604 B Doug Russell Road, Arlington, TX 76010, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVFP+XM",
+        "plus_code_short": "FP+XM, 76010 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.886234921887989,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a4c0a7de3f4758c059cf4e0647c95c4040f00103f901edf4f99b02000000c0020192030d4e657720596f726b2045617473",
+        "bbox": {
+          "lon1": -97.1133233,
+          "lat1": 32.7248425,
+          "lon2": -97.1132233,
+          "lat2": 32.7249425
+        }
+      }
+    ],
+    "query": {
+      "text": "New York Eats"
+    }
+  }
+}

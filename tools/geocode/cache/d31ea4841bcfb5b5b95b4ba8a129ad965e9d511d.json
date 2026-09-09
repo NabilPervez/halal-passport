@@ -1,0 +1,273 @@
+{
+  "queriedName": "Louisiana Famous Fried Chicken & Seafood / JMN Chicken Mart",
+  "queriedAt": "2026-09-09T00:41:59.504Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mason's Chicken and Seafood",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Duncanville",
+        "postcode": "75116",
+        "street": "Oriole Boulevard",
+        "housenumber": "702",
+        "iso3166_2": "US-TX",
+        "lon": -96.9003606,
+        "lat": 32.6612019,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16102.687644790261,
+        "formatted": "Mason's Chicken and Seafood, 702 Oriole Boulevard, Duncanville, TX 75116, United States of America",
+        "address_line1": "Mason's Chicken and Seafood",
+        "address_line2": "702 Oriole Boulevard, Duncanville, TX 75116, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M36X+FV",
+        "plus_code_short": "6X+FV Duncanville, Dallas County, United States",
+        "rank": {
+          "importance": 0.0000558701457236136,
+          "popularity": 3.687578780777251,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d8e610829f3958c059cb468c43a2544040f00102f901e04c991700000000c0020192031b4d61736f6e277320436869636b656e20616e6420536561666f6f64e203216f70656e7374726565746d61703a76656e75653a7761792f333935393232363536",
+        "bbox": {
+          "lon1": -96.9005048,
+          "lat1": 32.6611323,
+          "lon2": -96.9002164,
+          "lat2": 32.6612715
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mason's Chicken & Seafood Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Cedar Hill",
+        "postcode": "75104",
+        "street": "East FM 1382",
+        "housenumber": "445",
+        "iso3166_2": "US-TX",
+        "lon": -96.9358843,
+        "lat": 32.5915296,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24377.671929446555,
+        "formatted": "Mason's Chicken & Seafood Grill, 445 East FM 1382, Cedar Hill, TX 75104, United States of America",
+        "address_line1": "Mason's Chicken & Seafood Grill",
+        "address_line2": "445 East FM 1382, Cedar Hill, TX 75104, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H3R7+JJ",
+        "plus_code_short": "H3R7+JJ, 75104 Cedar Hill, United States",
+        "rank": {
+          "importance": 0.000056138704508995463,
+          "popularity": 3.386676806240905,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c0554387e53b58c059d84eef3db74b4040f00103f901b5f8c98f00000000c0020192031f4d61736f6e277320436869636b656e202620536561666f6f64204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f32343132333738323933",
+        "bbox": {
+          "lon1": -96.9359343,
+          "lat1": 32.5914796,
+          "lon2": -96.9358343,
+          "lat2": 32.5915796
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Louisiana Fried Chicken and Seafood",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76123",
+        "district": "Wedgwood",
+        "street": "South Hulen Street",
+        "housenumber": "7289",
+        "iso3166_2": "US-TX",
+        "lon": -97.3953167,
+        "lat": 32.6410338,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 57985.518372463914,
+        "formatted": "Louisiana Fried Chicken and Seafood, 7289 South Hulen Street, Fort Worth, TX 76123, United States of America",
+        "address_line1": "Louisiana Fried Chicken and Seafood",
+        "address_line2": "7289 South Hulen Street, Fort Worth, TX 76123, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644JJR3+CV",
+        "plus_code_short": "JJR3+CV Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.1552562502309938,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "5102846ade4c5958c059b85043650d524040f00102f901b4d80b1e00000000c002019203234c6f75697369616e6120467269656420436869636b656e20616e6420536561666f6f64e203216f70656e7374726565746d61703a76656e75653a7761792f353034303932383532",
+        "bbox": {
+          "lon1": -97.3955391,
+          "lat1": 32.640964,
+          "lon2": -97.3951626,
+          "lat2": 32.6411088
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lisa's Chicken and Seafood",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Haltom City",
+        "postcode": "76117",
+        "street": "Haltom Road",
+        "housenumber": "5100",
+        "iso3166_2": "US-TX",
+        "lon": -97.2728146,
+        "lat": 32.8092788,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 44620.88574673332,
+        "formatted": "Lisa's Chicken and Seafood, 5100 Haltom Road, Haltom City, TX 76117, United States of America",
+        "address_line1": "Lisa's Chicken and Seafood",
+        "address_line2": "5100 Haltom Road, Haltom City, TX 76117, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RP5G+PV",
+        "plus_code_short": "5G+PV Haltom City, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005552529182874826,
+          "popularity": 3.846594747873728,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c4375ecb755158c0594eac9d7296674040f00103f901dd955c1503000000c0020192031a4c697361277320436869636b656e20616e6420536561666f6f64e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323433323931313031",
+        "bbox": {
+          "lon1": -97.2728646,
+          "lat1": 32.8092288,
+          "lon2": -97.2727646,
+          "lat2": 32.8093288
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lisa's Chicken & Seafood",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76137",
+        "street": "North Freeway",
+        "housenumber": "6440",
+        "iso3166_2": "US-TX",
+        "lon": -97.3129672,
+        "lat": 32.8586926,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Northbrook",
+        "result_type": "amenity",
+        "distance": 49064.32489491403,
+        "formatted": "Lisa's Chicken & Seafood, 6440 North Freeway, Fort Worth, TX 76137, United States of America",
+        "address_line1": "Lisa's Chicken & Seafood",
+        "address_line2": "6440 North Freeway, Fort Worth, TX 76137, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VM5P+FR",
+        "plus_code_short": "VM5P+FR Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.7089978765426124,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51202e94a7075458c0599a289da3e96d4040f00102f90119c2d00200000000c002019203184c697361277320436869636b656e202620536561666f6f64e203206f70656e7374726565746d61703a76656e75653a7761792f3437323335363039",
+        "bbox": {
+          "lon1": -97.3131272,
+          "lat1": 32.8586278,
+          "lon2": -97.3128089,
+          "lat2": 32.8587646
+        }
+      }
+    ],
+    "query": {
+      "text": "Louisiana Famous Fried Chicken & Seafood / JMN Chicken Mart"
+    }
+  }
+}

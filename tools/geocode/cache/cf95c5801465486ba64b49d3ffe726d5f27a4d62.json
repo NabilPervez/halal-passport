@@ -1,0 +1,274 @@
+{
+  "queriedName": "Golden Shawarma",
+  "queriedAt": "2026-09-09T00:33:14.334Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Golden Chick",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75233",
+        "district": "Oak Cliff",
+        "street": "West Illinois Avenue",
+        "housenumber": "2510",
+        "iso3166_2": "US-TX",
+        "lon": -96.8596227,
+        "lat": 32.7199828,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Hampton Hills",
+        "result_type": "amenity",
+        "distance": 8631.04978362206,
+        "formatted": "Golden Chick, 2510 West Illinois Avenue, Dallas, TX 75233, United States of America",
+        "address_line1": "Golden Chick",
+        "address_line2": "2510 West Illinois Avenue, Dallas, TX 75233, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P49R+X5",
+        "plus_code_short": "P49R+X5, 75233 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.094017704214515,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518dd9ed0e043758c0595cd77965285c4040f00102f901c7730e5600000000c0020192030c476f6c64656e20436869636be203226f70656e7374726565746d61703a76656e75653a7761792f31343433373837373139",
+        "bbox": {
+          "lon1": -96.8597666,
+          "lat1": 32.7199362,
+          "lon2": -96.8594787,
+          "lat2": 32.7200401
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Golden Chick",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Gifford",
+        "postcode": "75243",
+        "street": "North Central Expressway",
+        "housenumber": "10443",
+        "iso3166_2": "US-TX",
+        "lon": -96.7704923,
+        "lat": 32.8895808,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 12761.072650556473,
+        "formatted": "Golden Chick, 10443 North Central Expressway, Dallas, TX 75243, United States of America",
+        "address_line1": "Golden Chick",
+        "address_line2": "10443 North Central Expressway, Dallas, TX 75243, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6QH+RR",
+        "plus_code_short": "V6QH+RR, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.25104612186532,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517894efbe4f3158c05923939dc8dd714040f00102f901142e411b00000000c0020192030c476f6c64656e20436869636be203216f70656e7374726565746d61703a76656e75653a7761792f343537323536343638",
+        "bbox": {
+          "lon1": -96.7706089,
+          "lat1": 32.8895329,
+          "lon2": -96.7703758,
+          "lat2": 32.8896287
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Golden Bank",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "301",
+        "iso3166_2": "US-TX",
+        "lon": -96.7352811,
+        "lat": 32.9482857,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19899.38609373398,
+        "formatted": "Golden Bank, 301 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Golden Bank",
+        "address_line2": "301 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "service.financial.bank",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7X7+8V",
+        "plus_code_short": "X7+8V Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.004997009318621,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517b7775d80e2f58c059da61026d61794040f00102f9013b69220d00000000c0020192030b476f6c64656e2042616e6be203216f70656e7374726565746d61703a76656e75653a7761792f323230333538393731",
+        "bbox": {
+          "lon1": -96.7353999,
+          "lat1": 32.9481834,
+          "lon2": -96.7351596,
+          "lat2": 32.9483871
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Golden Hour",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Arapaho Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.8466558,
+        "lat": 32.9553397,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20365.583244156907,
+        "formatted": "Golden Hour, Arapaho Road, Addison, TX 75001, United States of America",
+        "address_line1": "Golden Hour",
+        "address_line2": "Arapaho Road, Addison, TX 75001, United States of America",
+        "category": "tourism.attraction.artwork",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X543+48",
+        "plus_code_short": "X543+48, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.3149740883365775,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fffdce9b2f3658c05905094092487a4040f00103f9014a16eccb02000000c0020192030b476f6c64656e20486f7572e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303131313831363432",
+        "bbox": {
+          "lon1": -96.8467058,
+          "lat1": 32.9552897,
+          "lon2": -96.8466058,
+          "lat2": 32.9553897
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Golden Chick",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Grand Prairie",
+        "postcode": "75051",
+        "street": "South Carrier Parkway",
+        "housenumber": "900",
+        "iso3166_2": "US-TX",
+        "lon": -97.0151491,
+        "lat": 32.7342785,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20945.67895200701,
+        "formatted": "Golden Chick, 900 South Carrier Parkway, Grand Prairie, TX 75051, United States of America",
+        "address_line1": "Golden Chick",
+        "address_line2": "900 South Carrier Parkway, Grand Prairie, TX 75051, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PXMM+PW",
+        "plus_code_short": "PXMM+PW Grand Prairie, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.204719222689153,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511644ee33f84058c059f6d37fd6fc5d4040f00102f901b168b81500000000c0020192030c476f6c64656e20436869636be203216f70656e7374726565746d61703a76656e75653a7761792f333634343036393631",
+        "bbox": {
+          "lon1": -97.0152525,
+          "lat1": 32.7342397,
+          "lon2": -97.0150458,
+          "lat2": 32.7343173
+        }
+      }
+    ],
+    "query": {
+      "text": "Golden Shawarma"
+    }
+  }
+}

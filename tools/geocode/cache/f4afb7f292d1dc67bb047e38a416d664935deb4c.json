@@ -1,0 +1,113 @@
+{
+  "queriedName": "Wayback Burgers",
+  "queriedAt": "2026-09-09T00:36:10.128Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wayback Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "Riverside Drive",
+        "housenumber": "6421",
+        "iso3166_2": "US-TX",
+        "lon": -96.9393321,
+        "lat": 32.8966855,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 18813.463177607264,
+        "formatted": "Wayback Burgers, 6421 Riverside Drive, Irving, TX 75039, United States of America",
+        "address_line1": "Wayback Burgers",
+        "address_line2": "6421 Riverside Drive, Irving, TX 75039, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W6+M7",
+        "plus_code_short": "V3W6+M7 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.656202247492728,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51506562041e3c58c05911a62897c6724040f00103f901fe801df901000000c0020192030f5761796261636b2042757267657273",
+        "bbox": {
+          "lon1": -96.9393821,
+          "lat1": 32.8966355,
+          "lon2": -96.9392821,
+          "lat2": 32.8967355
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wayback Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Hickory Creek",
+        "postcode": "75065",
+        "street": "Swisher Road",
+        "housenumber": "3100",
+        "iso3166_2": "US-TX",
+        "lon": -97.0592509,
+        "lat": 33.1294288,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 46200.38590583999,
+        "formatted": "Wayback Burgers, 3100 Swisher Road, Hickory Creek, TX 75065, United States of America",
+        "address_line1": "Wayback Burgers",
+        "address_line2": "3100 Swisher Road, Hickory Creek, TX 75065, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86544WHR+Q7",
+        "plus_code_short": "4WHR+Q7, 75065 Hickory Creek, United States",
+        "rank": {
+          "importance": 0.00005516365300979656,
+          "popularity": 3.4419829576215535,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518c7049c4ca4358c0598c94771f91904040f00103f901006eac3b03000000c0020192030f5761796261636b2042757267657273",
+        "bbox": {
+          "lon1": -97.0593009,
+          "lat1": 33.1293788,
+          "lon2": -97.0592009,
+          "lat2": 33.1294788
+        }
+      }
+    ],
+    "query": {
+      "text": "Wayback Burgers"
+    }
+  }
+}

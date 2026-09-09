@@ -1,0 +1,272 @@
+{
+  "queriedName": "Ked's Ice Cream, Waffles & Crepes",
+  "queriedAt": "2026-09-09T00:37:17.367Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ice Cream & Crepes",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "East Northwest Highway",
+        "housenumber": "10238",
+        "iso3166_2": "US-TX",
+        "lon": -96.7094239,
+        "lat": 32.8638648,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "L Streets",
+        "result_type": "amenity",
+        "distance": 12659.623930243877,
+        "formatted": "Ice Cream & Crepes, 10238 East Northwest Highway, Dallas, TX 75218, United States of America",
+        "address_line1": "Ice Cream & Crepes",
+        "address_line2": "10238 East Northwest Highway, Dallas, TX 75218, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V77R+G6",
+        "plus_code_short": "V77R+G6, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.5426212955829115,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "510d608033672d58c05932152c1f936e4040f00103f901d7cd684103000000c0020192031249636520437265616d202620437265706573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393832323839333637",
+        "bbox": {
+          "lon1": -96.7094739,
+          "lat1": 32.8638148,
+          "lon2": -96.7093739,
+          "lat2": 32.8639148
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Big Mama's Chicken and Waffles",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Audelia",
+        "postcode": "75243",
+        "suburb": "Lake Highlands",
+        "street": "Forest Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.7173877,
+        "lat": 32.9092535,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16479.714502437397,
+        "formatted": "Big Mama's Chicken and Waffles, Forest Lane, Dallas, TX 75243, United States of America",
+        "address_line1": "Big Mama's Chicken and Waffles",
+        "address_line2": "Forest Lane, Dallas, TX 75243, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W75M+P2",
+        "plus_code_short": "W75M+P2, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.75565473228121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515f8319aee92d58c05903232f6b62744040f00102f901e50a722100000000c0020192031e426967204d616d61277320436869636b656e20616e6420576166666c6573e203216f70656e7374726565746d61703a76656e75653a7761792f353631313232303231",
+        "bbox": {
+          "lon1": -96.7174565,
+          "lat1": 32.9092265,
+          "lon2": -96.7173191,
+          "lat2": 32.9092887
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Daiquiri Chicken & Waffles",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "70567",
+        "street": "East Corporate Drive",
+        "housenumber": "109",
+        "iso3166_2": "US-TX",
+        "lon": -96.984707,
+        "lat": 33.0174337,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 31967.06603749009,
+        "formatted": "Daiquiri Chicken & Waffles, 109 East Corporate Drive, Lewisville, TX 70567, United States of America",
+        "address_line1": "Daiquiri Chicken & Waffles",
+        "address_line2": "109 East Corporate Drive, Lewisville, TX 70567, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552288+X4",
+        "plus_code_short": "2288+X4, 70567 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.048510889936894,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b498270053f58c05994ac79443b824040f00103f9010d4ddcd802000000c0020192031a446169717569726920436869636b656e202620576166666c6573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323238323530383933",
+        "bbox": {
+          "lon1": -96.984757,
+          "lat1": 33.0173837,
+          "lon2": -96.984657,
+          "lat2": 33.0174837
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lo-Lo's Chicken & Waffles",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76051",
+        "street": "State Highway 26",
+        "iso3166_2": "US-TX",
+        "lon": -97.0911657,
+        "lat": 32.9299559,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 32315.939742445324,
+        "formatted": "Lo-Lo's Chicken & Waffles, State Highway 26, Grapevine, TX 76051, United States of America",
+        "address_line1": "Lo-Lo's Chicken & Waffles",
+        "address_line2": "State Highway 26, Grapevine, TX 76051, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WWH5+XG",
+        "plus_code_short": "H5+XG Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005779888609135603,
+          "popularity": 4.579432724209563,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511601a9a8d54558c059739c80cb08774040f00102f9018106f02600000000c002019203194c6f2d4c6f277320436869636b656e202620576166666c6573e203216f70656e7374726565746d61703a76656e75653a7761792f363533323634353133",
+        "bbox": {
+          "lon1": -97.0914004,
+          "lat1": 32.9297916,
+          "lon2": -97.0909268,
+          "lat2": 32.9301153
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Salomay Coffee & Crepes",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Collin McKinney Parkway",
+        "housenumber": "5121",
+        "iso3166_2": "US-TX",
+        "lon": -96.6822227,
+        "lat": 33.1497121,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 42804.75997925038,
+        "formatted": "Salomay Coffee & Crepes, 5121 Collin McKinney Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "Salomay Coffee & Crepes",
+        "address_line2": "5121 Collin McKinney Parkway, McKinney, TX 75070, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548X9+V4",
+        "plus_code_short": "48X9+V4 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.936665254784019,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51af456689a92b58c05962a81ec429934040f00103f901efc0272c03000000c0020192031753616c6f6d617920436f66666565202620437265706573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363235373034363837",
+        "bbox": {
+          "lon1": -96.6822727,
+          "lat1": 33.1496621,
+          "lon2": -96.6821727,
+          "lat2": 33.1497621
+        }
+      }
+    ],
+    "query": {
+      "text": "Ked's Ice Cream, Waffles & Crepes"
+    }
+  }
+}

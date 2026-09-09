@@ -1,0 +1,61 @@
+{
+  "queriedName": "Tarboosh Gyro Grill",
+  "queriedAt": "2026-09-09T00:34:32.300Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tarboosh Gyro & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Campbell Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.6982889,
+        "lat": 32.9751681,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23885.818866971105,
+        "formatted": "Tarboosh Gyro & Grill, East Campbell Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Tarboosh Gyro & Grill",
+        "address_line2": "East Campbell Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8G2+3M",
+        "plus_code_short": "X8G2+3M Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.829194676474223,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513a2aedc3b02c58c0591dcdec4ed27c4040f00103f901c53f661f03000000c00201920315546172626f6f7368204779726f2026204772696c6c",
+        "bbox": {
+          "lon1": -96.6983389,
+          "lat1": 32.9751181,
+          "lon2": -96.6982389,
+          "lat2": 32.9752181
+        }
+      }
+    ],
+    "query": {
+      "text": "Tarboosh Gyro Grill"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "queriedName": "Mai Colachi",
+  "queriedAt": "2026-09-09T00:38:15.980Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Mai Avenue",
+        "street": "Mai Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Desoto",
+        "iso3166_2": "US-TX",
+        "lon": -96.87901,
+        "lat": 32.621202,
+        "result_type": "street",
+        "distance": 18947.525320592493,
+        "postcode": "75115",
+        "formatted": "Mai Avenue, Desoto, TX 75115, United States of America",
+        "address_line1": "Mai Avenue",
+        "address_line2": "Desoto, TX 75115, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J4CC+F9",
+        "plus_code_short": "J4CC+F9 Desoto, Dallas County, United States",
+        "rank": {
+          "popularity": 3.565250311961397,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d8b628b3413858c059da1a118c834f4040c0020492030a4d6169204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363933303536",
+        "bbox": {
+          "lon1": -96.879305,
+          "lat1": 32.619989,
+          "lon2": -96.878928,
+          "lat2": 32.622402
+        }
+      }
+    ],
+    "query": {
+      "text": "Mai Colachi"
+    }
+  }
+}

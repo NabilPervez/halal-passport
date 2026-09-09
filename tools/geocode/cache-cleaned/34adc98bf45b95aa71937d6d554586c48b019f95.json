@@ -1,0 +1,198 @@
+{
+  "queriedName": "Phat Bae",
+  "queriedAt": "2026-09-09T00:45:45.316Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Giao Hoi Phat Giao Hoa Hao",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Mill Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.76599,
+        "lat": 32.78919,
+        "result_type": "amenity",
+        "distance": 3200.1960495284548,
+        "formatted": "Giao Hoi Phat Giao Hoa Hao, Mill Creek, Dallas, TX, United States of America",
+        "address_line1": "Giao Hoi Phat Giao Hoa Hao",
+        "address_line2": "Mill Creek, Dallas, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6QM+MJ",
+        "plus_code_short": "Q6QM+MJ Dallas, Dallas County, United States",
+        "rank": {
+          "popularity": 5.500113429969104,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5109c4ebfa053158c059452a8c2d04654040c0020192031a4769616f20486f692050686174204769616f20486f612048616fe2031667656f6e616d65733a76656e75653a37313831363030"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tín Phát Cargo",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Carrollton",
+        "postcode": "75007",
+        "street": "North Josey Lane",
+        "housenumber": "3040",
+        "iso3166_2": "US-TX",
+        "lon": -96.885021,
+        "lat": 32.9983401,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Far North Dallas",
+        "result_type": "amenity",
+        "distance": 25947.979569381536,
+        "formatted": "Tín Phát Cargo, 3040 North Josey Lane, Carrollton, TX 75007, United States of America",
+        "address_line1": "Tín Phát Cargo",
+        "address_line2": "3040 North Josey Lane, Carrollton, TX 75007, United States of America",
+        "category": "service.post.office",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X4X7+8X",
+        "plus_code_short": "X4X7+8X, 75007 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.73147933051409,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517cd11e2fa43858c05987e4bf9bc97f4040f00103f901f6d2683803000000c0020192031054c3ad6e205068c3a17420436172676fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133383331323935373334",
+        "bbox": {
+          "lon1": -96.885071,
+          "lat1": 32.9982901,
+          "lon2": -96.884971,
+          "lat2": 32.9983901
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Hoa Phát",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.080867,
+        "lat": 32.709235,
+        "result_type": "amenity",
+        "distance": 27597.7093413818,
+        "postcode": "76014",
+        "formatted": "Hoa Phát, Arlington, TX 76014, United States of America",
+        "address_line1": "Hoa Phát",
+        "address_line2": "Arlington, TX 76014, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PW59+MM",
+        "plus_code_short": "PW59+MM, 76014 Arlington, United States",
+        "rank": {
+          "popularity": 4.621848091525266,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d714c8ec2c4558c059db166536c85a4040f00103f901d70b10ab01000000c00201920309486f61205068c3a174e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37313634393232383339"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hoa Phát",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76014",
+        "street": "New York Avenue",
+        "housenumber": "2202",
+        "iso3166_2": "US-TX",
+        "lon": -97.0808668,
+        "lat": 32.7092349,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27597.694397139123,
+        "formatted": "Hoa Phát, 2202 New York Avenue, Arlington, TX 76014, United States of America",
+        "address_line1": "Hoa Phát",
+        "address_line2": "2202 New York Avenue, Arlington, TX 76014, United States of America",
+        "category": "service.financial.money_transfer",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PW59+MM",
+        "plus_code_short": "PW59+MM, 76014 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514255f1eb2c4558c05946578e35c85a4040f00103f901d70b10ab01000000c00201920309486f61205068c3a174",
+        "bbox": {
+          "lon1": -97.0809168,
+          "lat1": 32.7091849,
+          "lon2": -97.0808168,
+          "lat2": 32.7092849
+        }
+      }
+    ],
+    "query": {
+      "text": "Phat Bae"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "queriedName": "Cafe de Khan - Murphy",
+  "queriedAt": "2026-09-09T00:36:29.771Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Cafe de France",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Preston Highlands",
+        "iso3166_2": "US-TX",
+        "lon": -96.801713,
+        "lat": 32.989135,
+        "result_type": "amenity",
+        "distance": 23592.47351053714,
+        "postcode": "75252",
+        "formatted": "Cafe de France, Dallas, TX 75252, United States of America",
+        "address_line1": "Cafe de France",
+        "address_line2": "Dallas, TX 75252, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5QX+M8",
+        "plus_code_short": "X5QX+M8, 75252 Dallas, United States",
+        "rank": {
+          "popularity": 4.997835383212069,
+          "confidence": 0.10579591836734693,
+          "confidence_city_level": 0.16200000000000003,
+          "match_type": "full_match"
+        },
+        "place_id": "51ccf10a444f3358c0591b2ac6f99b7e4040f00103f901b5498acb02000000c0020192030e43616665206465204672616e6365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303034373732323737"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cafe de France",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "17370",
+        "iso3166_2": "US-TX",
+        "lon": -96.8017129,
+        "lat": 32.9891347,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23592.4399836426,
+        "formatted": "Cafe de France, 17370 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Cafe de France",
+        "address_line2": "17370 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5QX+M8",
+        "plus_code_short": "X5QX+M8, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0.00466472303206997,
+          "confidence_city_level": 0.05,
+          "confidence_street_level": 0.007142857142857143,
+          "match_type": "full_match"
+        },
+        "place_id": "5101929f434f3358c0595deb41f79b7e4040f00103f901b5498acb02000000c0020192030e43616665206465204672616e6365",
+        "bbox": {
+          "lon1": -96.8017629,
+          "lat1": 32.9890847,
+          "lon2": -96.8016629,
+          "lat2": 32.9891847
+        }
+      }
+    ],
+    "query": {
+      "text": "Cafe de Khan - Murphy"
+    }
+  }
+}

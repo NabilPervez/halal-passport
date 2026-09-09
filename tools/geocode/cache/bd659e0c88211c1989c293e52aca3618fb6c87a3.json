@@ -1,0 +1,62 @@
+{
+  "queriedName": "NUR CAFE",
+  "queriedAt": "2026-09-09T00:32:10.983Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Nur Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "DeSoto",
+        "hamlet": "Summit Parks",
+        "postcode": "75115",
+        "street": "West Belt Line Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.8683487,
+        "lat": 32.5903382,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 21803.54494030091,
+        "formatted": "Nur Cafe, West Belt Line Road, DeSoto, TX 75115, United States of America",
+        "address_line1": "Nur Cafe",
+        "address_line2": "West Belt Line Road, DeSoto, TX 75115, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H4RJ+4M",
+        "plus_code_short": "RJ+4M DeSoto, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005579842832069913,
+          "popularity": 3.3199212582470303,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518b016d06933758c0592d4abf33904b4040f00103f9013813c2c502000000c002019203084e75722043616665",
+        "bbox": {
+          "lon1": -96.8683987,
+          "lat1": 32.5902882,
+          "lon2": -96.8682987,
+          "lat2": 32.5903882
+        }
+      }
+    ],
+    "query": {
+      "text": "NUR CAFE"
+    }
+  }
+}

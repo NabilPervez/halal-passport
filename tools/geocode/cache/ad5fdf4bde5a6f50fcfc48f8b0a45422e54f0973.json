@@ -1,0 +1,278 @@
+{
+  "queriedName": "Burger Vault - Keller",
+  "queriedAt": "2026-09-09T00:30:59.515Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Burger King",
+        "housenumber": "5119",
+        "street": "Ross Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75206-7708",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Belmont",
+        "iso3166_2": "US-TX",
+        "lon": -96.773873,
+        "lat": 32.808719,
+        "result_type": "amenity",
+        "distance": 4136.787019703841,
+        "formatted": "Burger King, 5119 Ross Avenue, Dallas, TX 75206-7708, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "5119 Ross Avenue, Dallas, TX 75206-7708, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R65G+FF",
+        "plus_code_short": "R65G+FF, 75206-7708 Dallas, United States",
+        "rank": {
+          "popularity": 5.796657954475266,
+          "confidence": 0.01092436974789916,
+          "confidence_city_level": 0.3333333333333333,
+          "confidence_street_level": 0.0196078431372549,
+          "match_type": "full_match"
+        },
+        "place_id": "5179909e22873158c059b153ac1a84674040f00103f90149f82aca02000000c0020192030b427572676572204b696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393831373438323937"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Burger King",
+        "ref": "19651",
+        "other_names": {
+          "ref": "19651"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "street": "Ross Avenue",
+        "housenumber": "5119",
+        "iso3166_2": "US-TX",
+        "lon": -96.7738733,
+        "lat": 32.8087188,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4136.75340594296,
+        "formatted": "Burger King, 5119 Ross Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "5119 Ross Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R65G+FF",
+        "plus_code_short": "R65G+FF, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0.01092436974789916,
+          "confidence_city_level": 0.3333333333333333,
+          "confidence_street_level": 0.0196078431372549,
+          "match_type": "full_match"
+        },
+        "place_id": "51d9afe023873158c05987d4fe1884674040f00103f90149f82aca02000000c0020192030b427572676572204b696e67",
+        "bbox": {
+          "lon1": -96.7739233,
+          "lat1": 32.8086688,
+          "lon2": -96.7738233,
+          "lat2": 32.8087688
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hat Creek Burger Company",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76244",
+        "street": "Golden Triangle Boulevard",
+        "housenumber": "5300",
+        "iso3166_2": "US-TX",
+        "lon": -97.2692373,
+        "lat": 32.9321949,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Heritage",
+        "result_type": "amenity",
+        "distance": 47366.78277378435,
+        "formatted": "Hat Creek Burger Company, 5300 Golden Triangle Boulevard, Fort Worth, TX 76244, United States of America",
+        "address_line1": "Hat Creek Burger Company",
+        "address_line2": "5300 Golden Triangle Boulevard, Fort Worth, TX 76244, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WPJJ+V8",
+        "plus_code_short": "WPJJ+V8 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005644541084911906,
+          "popularity": 3.686618493485051,
+          "confidence": 0.06942857142857144,
+          "confidence_city_level": 0.06722689075630252,
+          "confidence_street_level": 0.02240896358543417,
+          "match_type": "full_match"
+        },
+        "place_id": "514197152f3b5158c059be7f982952774040f00102f90141dc444400000000c0020192031848617420437265656b2042757267657220436f6d70616e79e203226f70656e7374726565746d61703a76656e75653a7761792f31313435333633353231",
+        "bbox": {
+          "lon1": -97.2694133,
+          "lat1": 32.9320704,
+          "lon2": -97.269052,
+          "lat2": 32.9323278
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Burger Street",
+        "housenumber": "1510",
+        "street": "North US Highway 377",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "76262",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Roanoke",
+        "iso3166_2": "US-TX",
+        "lon": -97.216571,
+        "lat": 33.018071,
+        "result_type": "amenity",
+        "distance": 47466.47708527905,
+        "formatted": "Burger Street, 1510 North US Highway 377, Roanoke, TX 76262, United States of America",
+        "address_line1": "Burger Street",
+        "address_line2": "1510 North US Highway 377, Roanoke, TX 76262, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542Q9M+69",
+        "plus_code_short": "9M+69, 76262 Roanoke, United States",
+        "rank": {
+          "popularity": 3.986397614650608,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c5909c4cdc4d58c059c500892650824040f00102f901a0b6f92300000000c0020192030d42757267657220537472656574e203216f70656e7374726565746d61703a76656e75653a7761792f363033353637373736",
+        "bbox": {
+          "lon1": -97.2166284,
+          "lat1": 33.0179499,
+          "lon2": -97.2162552,
+          "lat2": 33.0181823
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Burger King",
+        "ref": "25223",
+        "other_names": {
+          "ref": "25223"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76244",
+        "street": "Golden Triangle Boulevard",
+        "housenumber": "3101",
+        "iso3166_2": "US-TX",
+        "lon": -97.3122919,
+        "lat": 32.933727,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Heritage",
+        "result_type": "amenity",
+        "distance": 51190.423174423086,
+        "formatted": "Burger King, 3101 Golden Triangle Boulevard, Fort Worth, TX 76244, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "3101 Golden Triangle Boulevard, Fort Worth, TX 76244, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WMMQ+F3",
+        "plus_code_short": "WMMQ+F3 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.537946852116916,
+          "confidence": 0.0857142857142857,
+          "confidence_city_level": 0.06722689075630252,
+          "confidence_street_level": 0.02240896358543417,
+          "match_type": "full_match"
+        },
+        "place_id": "5191532a97fc5358c0593332c85d84774040f00103f9017143aed301000000c0020192030b427572676572204b696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37383436333830343031",
+        "bbox": {
+          "lon1": -97.3123419,
+          "lat1": 32.933677,
+          "lon2": -97.3122419,
+          "lat2": 32.933777
+        }
+      }
+    ],
+    "query": {
+      "text": "Burger Vault - Keller"
+    }
+  }
+}

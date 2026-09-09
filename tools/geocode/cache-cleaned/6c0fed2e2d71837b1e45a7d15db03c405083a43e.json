@@ -1,0 +1,62 @@
+{
+  "queriedName": "Heritage Scoop",
+  "queriedAt": "2026-09-09T00:44:33.844Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Heritage Scoop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75078",
+        "street": "East University Drive",
+        "housenumber": "2111",
+        "iso3166_2": "US-TX",
+        "lon": -96.7727677,
+        "lat": 33.2192849,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 49231.798072757636,
+        "formatted": "Heritage Scoop, 2111 East University Drive, Frisco, TX 75078, United States of America",
+        "address_line1": "Heritage Scoop",
+        "address_line2": "2111 East University Drive, Frisco, TX 75078, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655669G+PV",
+        "plus_code_short": "669G+PV, 75078 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.114359390492341,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51eeb9a706753158c059d9001187119c4040f00103f901d25c712303000000c0020192030e48657269746167652053636f6f70",
+        "bbox": {
+          "lon1": -96.7728177,
+          "lat1": 33.2192349,
+          "lon2": -96.7727177,
+          "lat2": 33.2193349
+        }
+      }
+    ],
+    "query": {
+      "text": "Heritage Scoop"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "queriedName": "Bombay Chowpatty | Best Indian Street Food & Chaat in Irving, Tx",
+  "queriedAt": "2026-09-09T00:40:49.399Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Irving",
+        "other_names": {
+          "name:ru": "Ирвинг",
+          "name:uk": "Ірвінг",
+          "name:ko": "어빙"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.9442177,
+        "lat": 32.8295183,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 14947.442464325703,
+        "formatted": "Irving, TX, United States of America",
+        "address_line1": "Irving, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R3H4+R8",
+        "plus_code_short": "R3H4+R8 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.5643463082592607,
+          "popularity": 4.474646740743574,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517a7313106e3c58c0597df7d8a72d6a4040f00101f90160b8570000000000c00208920306497276696e67",
+        "bbox": {
+          "lon1": -97.0340376,
+          "lat1": 32.7718391,
+          "lon2": -96.888782,
+          "lat2": 32.9539846
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Indian Paintbrush Street",
+        "street": "Indian Paintbrush Street",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Dish",
+        "iso3166_2": "US-TX",
+        "lon": -97.296031,
+        "lat": 33.148504,
+        "result_type": "street",
+        "postcode": "76247",
+        "formatted": "Indian Paintbrush Street, Dish, TX 76247, United States of America",
+        "address_line1": "Indian Paintbrush Street",
+        "address_line2": "Dish, TX 76247, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86544PX3+CH",
+        "rank": {
+          "popularity": 2.2415223879269264,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518ae6012cf25258c059a0a9d72d02934040c00204920318496e6469616e205061696e74627275736820537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343234343934",
+        "bbox": {
+          "lon1": -97.29688,
+          "lat1": 33.148471,
+          "lon2": -97.295183,
+          "lat2": 33.148537
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Indian Cove Street",
+        "street": "Indian Cove Street",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Lake Worth",
+        "iso3166_2": "US-TX",
+        "lon": -97.462962,
+        "lat": 32.791215,
+        "result_type": "street",
+        "postcode": "76108",
+        "formatted": "Indian Cove Street, Fort Worth, TX 76108, United States of America",
+        "address_line1": "Indian Cove Street",
+        "address_line2": "Fort Worth, TX 76108, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QGRP+FR",
+        "plus_code_short": "QGRP+FR Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.219223162151776,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "confidence_street_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519c525e2ba15d58c059658d7a8846654040c00204920312496e6469616e20436f766520537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353539373137",
+        "bbox": {
+          "lon1": -97.463986,
+          "lat1": 32.790407,
+          "lon2": -97.462539,
+          "lat2": 32.791466
+        }
+      }
+    ],
+    "query": {
+      "text": "Bombay Chowpatty | Best Indian Street Food & Chaat in Irving, Tx"
+    }
+  }
+}

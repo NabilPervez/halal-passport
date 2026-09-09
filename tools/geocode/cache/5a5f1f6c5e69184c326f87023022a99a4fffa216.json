@@ -1,0 +1,276 @@
+{
+  "queriedName": "Nizams Kitchen Irving",
+  "queriedAt": "2026-09-09T00:31:54.956Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spices of India Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75060",
+        "street": "East Shady Grove Road",
+        "housenumber": "833",
+        "iso3166_2": "US-TX",
+        "lon": -96.9364383,
+        "lat": 32.8012466,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Eagle Ford",
+        "result_type": "amenity",
+        "distance": 13310.37102645438,
+        "formatted": "Spices of India Kitchen, 833 East Shady Grove Road, Irving, TX 75060, United States of America",
+        "address_line1": "Spices of India Kitchen",
+        "address_line2": "833 East Shady Grove Road, Irving, TX 75060, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R327+FC",
+        "plus_code_short": "27+FC Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.3308314815760465,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51334ee89aee3b58c059fe83a33f8f664040f00103f90101a61ddf02000000c00201920317537069636573206f6620496e646961204b69746368656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333333313936383031",
+        "bbox": {
+          "lon1": -96.9364883,
+          "lat1": 32.8011966,
+          "lon2": -96.9363883,
+          "lat2": 32.8012966
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kitchen 101",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "suburb": "Las Colinas",
+        "street": "West Las Colinas Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.9446535,
+        "lat": 32.8741741,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17524.38145027662,
+        "formatted": "Kitchen 101, West Las Colinas Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "Kitchen 101",
+        "address_line2": "West Las Colinas Boulevard, Irving, TX 75039, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3F4+M4",
+        "plus_code_short": "V3F4+M4 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.84526993160609,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515323f433753c58c0594f41d9efe46f4040f00103f9017a80cf4d02000000c0020192030b4b69746368656e20313031e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39383935333739303636",
+        "bbox": {
+          "lon1": -96.9447035,
+          "lat1": 32.8741241,
+          "lon2": -96.9446035,
+          "lat2": 32.8742241
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "ZAAP Kitchen",
+        "other_names": {
+          "brand": "Jimmy John's",
+          "official_name": "Jimmy John's Gourmet Sandwiches"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "Tuscan Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.9581019,
+        "lat": 32.897317,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20137.84321994609,
+        "formatted": "ZAAP Kitchen, Tuscan Drive, Irving, TX 75063, United States of America",
+        "address_line1": "ZAAP Kitchen",
+        "address_line2": "Tuscan Drive, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WR+WQ",
+        "plus_code_short": "V2WR+WQ Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.60604292812387,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5112afa18a513d58c0598a929048db724040f00103f901c26ab06202000000c0020192030c5a414150204b69746368656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435363633343236",
+        "bbox": {
+          "lon1": -96.9581519,
+          "lat1": 32.897267,
+          "lon2": -96.9580519,
+          "lat2": 32.897367
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spot Bar & Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75061",
+        "street": "Esters Road",
+        "housenumber": "2000",
+        "iso3166_2": "US-TX",
+        "lon": -97.0091008,
+        "lat": 32.8348292,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20839.945002642526,
+        "formatted": "Spot Bar & Kitchen, 2000 Esters Road, Irving, TX 75061, United States of America",
+        "address_line1": "Spot Bar & Kitchen",
+        "address_line2": "2000 Esters Road, Irving, TX 75061, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RXMR+W9",
+        "plus_code_short": "RXMR+W9 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.363065269083026,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518497851b954058c05978dfe7aedb6a4040f00103f9012a2c4fe202000000c0020192031253706f74204261722026204b69746368656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333836373734303538",
+        "bbox": {
+          "lon1": -97.0091508,
+          "lat1": 32.8347792,
+          "lon2": -97.0090508,
+          "lat2": 32.8348792
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sheesh Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3601",
+        "iso3166_2": "US-TX",
+        "lon": -96.9958465,
+        "lat": 32.9214125,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24553.983149444786,
+        "formatted": "Sheesh Kitchen, 3601 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Sheesh Kitchen",
+        "address_line2": "3601 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C3+HM",
+        "plus_code_short": "W2C3+HM Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.664819174603681,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518255f5f2bb3f58c05914d044d8f0754040f00103f9012790a98e02000000c0020192030e536865657368204b69746368656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130393833343131373531",
+        "bbox": {
+          "lon1": -96.9958965,
+          "lat1": 32.9213625,
+          "lon2": -96.9957965,
+          "lat2": 32.9214625
+        }
+      }
+    ],
+    "query": {
+      "text": "Nizams Kitchen Irving"
+    }
+  }
+}

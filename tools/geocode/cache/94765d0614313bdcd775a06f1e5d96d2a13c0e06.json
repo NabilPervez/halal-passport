@@ -1,0 +1,112 @@
+{
+  "queriedName": "Olive Burger",
+  "queriedAt": "2026-09-09T00:38:21.383Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Olive Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Custer Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.733849,
+        "lat": 33.0428953,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30148.24244330999,
+        "formatted": "Olive Burger, Custer Road, Plano, TX 75023, United States of America",
+        "address_line1": "Olive Burger",
+        "address_line2": "Custer Road, Plano, TX 75023, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865527V8+5F",
+        "plus_code_short": "27V8+5F, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.858029087757921,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f3cccb61f72e58c0597853db977d854040f00103f901ae2cdf7c02000000c0020192030c4f6c69766520427572676572",
+        "bbox": {
+          "lon1": -96.733899,
+          "lat1": 33.0428453,
+          "lon2": -96.733799,
+          "lat2": 33.0429453
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Olive Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "State Highway 121",
+        "housenumber": "5720",
+        "iso3166_2": "US-TX",
+        "lon": -96.8152865,
+        "lat": 33.0920545,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 35074.05339434366,
+        "formatted": "Olive Burger, 5720 State Highway 121, Plano, TX 75024, United States of America",
+        "address_line1": "Olive Burger",
+        "address_line2": "5720 State Highway 121, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RM+RV",
+        "plus_code_short": "35RM+RV, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 5.187197885314532,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b3976da72d3458c0598e791d71c88b4040f00102f9015306a92600000000c0020192030c4f6c69766520427572676572",
+        "bbox": {
+          "lon1": -96.8153898,
+          "lat1": 33.0918977,
+          "lon2": -96.8151825,
+          "lat2": 33.0921475
+        }
+      }
+    ],
+    "query": {
+      "text": "Olive Burger"
+    }
+  }
+}

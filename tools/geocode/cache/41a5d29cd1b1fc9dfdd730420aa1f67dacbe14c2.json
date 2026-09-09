@@ -1,0 +1,61 @@
+{
+  "queriedName": "DAR Coffee",
+  "queriedAt": "2026-09-09T00:32:17.093Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dar Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75094",
+        "street": "Los Rios Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.6472822,
+        "lat": 33.032778,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31690.127135963532,
+        "formatted": "Dar Coffee, Los Rios Boulevard, Plano, TX 75094, United States of America",
+        "address_line1": "Dar Coffee",
+        "address_line2": "Los Rios Boulevard, Plano, TX 75094, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865529M3+43",
+        "plus_code_short": "29M3+43, 75094 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.285708359005348,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511c1252126d2958c0599f03cb1132844040f00103f901bd074c1f03000000c0020192030a44617220436f66666565",
+        "bbox": {
+          "lon1": -96.6473322,
+          "lat1": 33.032728,
+          "lon2": -96.6472322,
+          "lat2": 33.032828
+        }
+      }
+    ],
+    "query": {
+      "text": "DAR Coffee"
+    }
+  }
+}

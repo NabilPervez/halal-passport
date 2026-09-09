@@ -1,0 +1,169 @@
+{
+  "queriedName": "BAZARIA | GELATO & FROZEN YOGURT",
+  "queriedAt": "2026-09-09T00:37:11.833Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Le Rêve Gelato & Patisserie",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Preston Road",
+        "housenumber": "12817",
+        "iso3166_2": "US-TX",
+        "lon": -96.8056679,
+        "lat": 32.9234348,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 16302.949126370504,
+        "formatted": "Le Rêve Gelato & Patisserie, 12817 Preston Road, Dallas, TX 75230, United States of America",
+        "address_line1": "Le Rêve Gelato & Patisserie",
+        "address_line2": "12817 Preston Road, Dallas, TX 75230, United States of America",
+        "category": "commercial.food_and_drink.bakery",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5FV+9P",
+        "plus_code_short": "W5FV+9P, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.013068657516846,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f87b1810903358c05981fe8c1c33764040f00103f901cbf1940f03000000c0020192031c4c652052c3aa76652047656c61746f20262050617469737365726965e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313436333231333535",
+        "bbox": {
+          "lon1": -96.8057179,
+          "lat1": 32.9233848,
+          "lon2": -96.8056179,
+          "lat2": 32.9234848
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tifa Chocolate & Gelato",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "suburb": "Glade Parks",
+        "street": "Red River Drive",
+        "housenumber": "1300",
+        "iso3166_2": "US-TX",
+        "lon": -97.1031812,
+        "lat": 32.8757448,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30643.929148803465,
+        "formatted": "Tifa Chocolate & Gelato, 1300 Red River Drive, Euless, TX 76039, United States of America",
+        "address_line1": "Tifa Chocolate & Gelato",
+        "address_line2": "1300 Red River Drive, Euless, TX 76039, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VVGW+7P",
+        "plus_code_short": "VVGW+7P Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005574654764625036,
+          "popularity": 4.239797930860269,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f8e351859a4658c0592fd2d56718704040f00103f901f7a2b03403000000c00201920317546966612043686f636f6c61746520262047656c61746fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373638383933313735",
+        "bbox": {
+          "lon1": -97.1032312,
+          "lat1": 32.8756948,
+          "lon2": -97.1031312,
+          "lat2": 32.8757948
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Epic Gelato & Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75028",
+        "suburb": "Lakeside Village",
+        "street": "Lakeside Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -97.0645942,
+        "lat": 32.9944762,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 34772.59269180856,
+        "formatted": "Epic Gelato & Coffee, Lakeside Parkway, Flower Mound, TX 75028, United States of America",
+        "address_line1": "Epic Gelato & Coffee",
+        "address_line2": "Lakeside Parkway, Flower Mound, TX 75028, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XWVP+Q5",
+        "plus_code_short": "XWVP+Q5 Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.6249725613629895,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b920b64f224458c0593fd301ff4a7f4040f00103f9018616410003000000c00201920314457069632047656c61746f202620436f66666565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132383839313637343934",
+        "bbox": {
+          "lon1": -97.0646442,
+          "lat1": 32.9944262,
+          "lon2": -97.0645442,
+          "lat2": 32.9945262
+        }
+      }
+    ],
+    "query": {
+      "text": "BAZARIA | GELATO & FROZEN YOGURT"
+    }
+  }
+}

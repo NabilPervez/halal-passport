@@ -1,0 +1,273 @@
+{
+  "queriedName": "Bonchon Richardson - Audelia Rd.",
+  "queriedAt": "2026-09-09T00:33:53.165Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bonchon Chicken",
+        "other_names": {
+          "official_name": "Starbucks Coffee"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75205",
+        "district": "University Crossing PID",
+        "street": "Mockingbird Lane",
+        "housenumber": "3036",
+        "iso3166_2": "US-TX",
+        "lon": -96.7802866,
+        "lat": 32.8372416,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Greenville Ave",
+        "result_type": "amenity",
+        "distance": 6878.281227078375,
+        "formatted": "Bonchon Chicken, 3036 Mockingbird Lane, Dallas, TX 75205, United States of America",
+        "address_line1": "Bonchon Chicken",
+        "address_line2": "3036 Mockingbird Lane, Dallas, TX 75205, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6P9+VV",
+        "plus_code_short": "R6P9+VV, 75205 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.724119800696862,
+          "confidence": 0.09075630252100841,
+          "confidence_city_level": 0.05714285714285714,
+          "confidence_street_level": 0.020168067226890758,
+          "match_type": "full_match"
+        },
+        "place_id": "5173203537f03158c059e46c95bb2a6b4040f00103f90184dcd83100000000c0020192030f426f6e63686f6e20436869636b656ee203226f70656e7374726565746d61703a76656e75653a6e6f64652f383336323935383132",
+        "bbox": {
+          "lon1": -96.7803366,
+          "lat1": 32.8371916,
+          "lon2": -96.7802366,
+          "lat2": 32.8372916
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bonchon Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75254",
+        "street": "Belt Line Road",
+        "housenumber": "4980",
+        "iso3166_2": "US-TX",
+        "lon": -96.826848,
+        "lat": 32.9536831,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19843.09169992917,
+        "formatted": "Bonchon Chicken, 4980 Belt Line Road, Addison, TX 75254, United States of America",
+        "address_line1": "Bonchon Chicken",
+        "address_line2": "4980 Belt Line Road, Addison, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X53F+F7",
+        "plus_code_short": "3F+F7, 75254 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 6.478250074833524,
+          "confidence": 0.07346938775510203,
+          "confidence_city_level": 0.05714285714285714,
+          "confidence_street_level": 0.016326530612244896,
+          "match_type": "full_match"
+        },
+        "place_id": "51d5b0df13eb3458c059bb9fae49127a4040f00103f9013ccf1f6b00000000c0020192030f426f6e63686f6e20436869636b656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f31373937323436373830",
+        "bbox": {
+          "lon1": -96.826898,
+          "lat1": 32.9536331,
+          "lon2": -96.826798,
+          "lat2": 32.9537331
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bonchon Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75074",
+        "street": "Sparrow Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.696657,
+        "lat": 32.9983102,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 26331.92971991657,
+        "formatted": "Bonchon Chicken, Sparrow Lane, Richardson, TX 75074, United States of America",
+        "address_line1": "Bonchon Chicken",
+        "address_line2": "Sparrow Lane, Richardson, TX 75074, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8X3+88",
+        "plus_code_short": "X8X3+88 Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.879055367447978,
+          "confidence": 0.534375,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e3e13d07962c58c059b121eea0c87f4040f00103f901967a825a01000000c0020192030f426f6e63686f6e20436869636b656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f35383133343637373938",
+        "bbox": {
+          "lon1": -96.696707,
+          "lat1": 32.9982602,
+          "lon2": -96.696607,
+          "lat2": 32.9983602
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Bonchon Chicken",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Flower Mound",
+        "iso3166_2": "US-TX",
+        "lon": -97.066542,
+        "lat": 33.035772,
+        "result_type": "amenity",
+        "distance": 38224.726632067024,
+        "postcode": "75028",
+        "formatted": "Bonchon Chicken, Flower Mound, TX 75028, United States of America",
+        "address_line1": "Bonchon Chicken",
+        "address_line2": "Flower Mound, TX 75028, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542WPM+89",
+        "plus_code_short": "2WPM+89 Flower Mound, Denton County, United States",
+        "rank": {
+          "popularity": 3.6452182174199006,
+          "confidence": 0.11450892857142855,
+          "confidence_city_level": 0.026785714285714284,
+          "match_type": "full_match"
+        },
+        "place_id": "51de736039424458c059670e492d94844040f00103f901b862180203000000c0020192030f426f6e63686f6e20436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132393230303534343536"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bonchon Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Preston Road",
+        "housenumber": "4760",
+        "iso3166_2": "US-TX",
+        "lon": -96.8039877,
+        "lat": 33.118133,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 37937.91486311635,
+        "formatted": "Bonchon Chicken, 4760 Preston Road, Frisco, TX 75034, United States of America",
+        "address_line1": "Bonchon Chicken",
+        "address_line2": "4760 Preston Road, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655459W+7C",
+        "plus_code_short": "459W+7C, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.779291241851263,
+          "confidence": 0.02647058823529412,
+          "confidence_city_level": 0.16666666666666666,
+          "confidence_street_level": 0.029411764705882353,
+          "match_type": "full_match"
+        },
+        "place_id": "51b878d388743358c05908ca6dfb1e8f4040f00103f901ca40fe8802000000c0020192030f426f6e63686f6e20436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383838323938363938",
+        "bbox": {
+          "lon1": -96.8040377,
+          "lat1": 33.118083,
+          "lon2": -96.8039377,
+          "lat2": 33.118183
+        }
+      }
+    ],
+    "query": {
+      "text": "Bonchon Richardson - Audelia Rd."
+    }
+  }
+}

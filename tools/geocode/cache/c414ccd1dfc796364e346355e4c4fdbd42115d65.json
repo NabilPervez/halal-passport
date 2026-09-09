@@ -1,0 +1,61 @@
+{
+  "queriedName": "Pho 544",
+  "queriedAt": "2026-09-09T00:31:00.894Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pho 544",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Murphy",
+        "postcode": "75094",
+        "street": "East FM 544",
+        "iso3166_2": "US-TX",
+        "lon": -96.6094243,
+        "lat": 33.0119629,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31453.546546620317,
+        "formatted": "Pho 544, East FM 544, Murphy, TX 75094, United States of America",
+        "address_line1": "Pho 544",
+        "address_line2": "East FM 544, Murphy, TX 75094, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655296R+Q6",
+        "plus_code_short": "6R+Q6, 75094 Murphy, United States",
+        "rank": {
+          "importance": 0.00005413519493395922,
+          "popularity": 4.619015911193701,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d078c7ce002758c059f621140088814040f00103f901a44dfae501000000c0020192030750686f20353434",
+        "bbox": {
+          "lon1": -96.6094743,
+          "lat1": 33.0119129,
+          "lon2": -96.6093743,
+          "lat2": 33.0120129
+        }
+      }
+    ],
+    "query": {
+      "text": "Pho 544"
+    }
+  }
+}

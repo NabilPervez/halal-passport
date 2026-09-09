@@ -1,0 +1,249 @@
+{
+  "queriedName": "Frisco Smokehouse",
+  "queriedAt": "2026-09-09T00:36:00.814Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Frisco",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.822688,
+        "lat": 33.144537,
+        "result_type": "city",
+        "distance": 40938.517594020115,
+        "formatted": "Frisco, TX, United States of America",
+        "address_line1": "Frisco, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865545VG+RW",
+        "plus_code_short": "VG+RW Frisco, Collin County, United States",
+        "rank": {
+          "popularity": 4.032697539229834,
+          "confidence": 0.5,
+          "confidence_city_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "51f2b391eba63458c059ee073c3080924040c0020892030646726973636fe2031e77686f736f6e66697273743a6c6f63616c6974793a313031373234333837",
+        "bbox": {
+          "lon1": -96.922838,
+          "lat1": 33.081274,
+          "lon2": -96.732758,
+          "lat2": 33.219479
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Skyhaus Frisco",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "John Hickman Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.8275937,
+        "lat": 33.115972,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 37799.973176014246,
+        "formatted": "Skyhaus Frisco, John Hickman Parkway, Frisco, TX 75034, United States of America",
+        "address_line1": "Skyhaus Frisco",
+        "address_line2": "John Hickman Parkway, Frisco, TX 75034, United States of America",
+        "category": "building.residential",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655458C+9X",
+        "plus_code_short": "458C+9X, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.62681110031583,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510af8904bf73458c05938a0a52bd88e4040f00102f9016482594100000000c0020192030e536b79686175732046726973636fe203226f70656e7374726565746d61703a76656e75653a7761792f31303936333835313234",
+        "bbox": {
+          "lon1": -96.8279248,
+          "lat1": 33.1158681,
+          "lon2": -96.8272626,
+          "lat2": 33.1160759
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "CityVet - Frisco",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Lebanon Road",
+        "housenumber": "8837",
+        "iso3166_2": "US-TX",
+        "lon": -96.8075457,
+        "lat": 33.1214262,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 38311.13809498286,
+        "formatted": "CityVet - Frisco, 8837 Lebanon Road, Frisco, TX 75034, United States of America",
+        "address_line1": "CityVet - Frisco",
+        "address_line2": "8837 Lebanon Road, Frisco, TX 75034, United States of America",
+        "category": "pet.veterinary",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865545CR+HX",
+        "plus_code_short": "45CR+HX, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.61225378487086,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1e128d4ae3358c05954f0cae48a8f4040f00103f901bf40fe8802000000c0020192031043697479566574202d2046726973636fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383838323938363837",
+        "bbox": {
+          "lon1": -96.8075957,
+          "lat1": 33.1213762,
+          "lon2": -96.8074957,
+          "lat2": 33.1214762
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "The Trails of Frisco",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "The Trails of Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.87182,
+        "lat": 33.16087,
+        "result_type": "city",
+        "distance": 43251.36929448608,
+        "formatted": "The Trails of Frisco, TX, United States of America",
+        "address_line1": "The Trails of Frisco, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655546H+87",
+        "rank": {
+          "popularity": 3.4854398263621236,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ebff1ce6cb3758c0592a745e6397944040c0020892031454686520547261696c73206f662046726973636fe2031a67656f6e616d65733a6c6f63616c6974793a3133353631373934"
+      },
+      {
+        "country_code": "us",
+        "name": "Frisco Heights",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Fort Worth",
+        "suburb": "Frisco Heights",
+        "iso3166_2": "US-TX",
+        "lon": -97.354518,
+        "lat": 32.709688,
+        "result_type": "suburb",
+        "distance": 52677.03582586322,
+        "formatted": "Frisco Heights, Fort Worth, TX, United States of America",
+        "address_line1": "Frisco Heights",
+        "address_line2": "Fort Worth, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PJ5W+V5",
+        "plus_code_short": "PJ5W+V5 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.04685280972468,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f9f5436cb05658c0598c2e6f0ed75a4040c0020592030e46726973636f2048656967687473e2032377686f736f6e66697273743a6e65696768626f7572686f6f643a343230353433383033",
+        "bbox": {
+          "lon1": -97.359518,
+          "lat1": 32.704688,
+          "lon2": -97.349518,
+          "lat2": 32.714688
+        }
+      }
+    ],
+    "query": {
+      "text": "Frisco Smokehouse"
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "queriedName": "Halal grills",
+  "queriedAt": "2026-09-09T00:39:06.621Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "746",
+        "iso3166_2": "US-TX",
+        "lon": -96.7436057,
+        "lat": 32.9426643,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19084.228141354684,
+        "formatted": "The Halal Guys, 746 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "746 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7V4+3H",
+        "plus_code_short": "V4+3H Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.891107141109623,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1a75c3c972f58c059a9cd4939a9784040f00103f9012beb142602000000c0020192030e5468652048616c616c2047757973e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323238383339373233",
+        "bbox": {
+          "lon1": -96.7436557,
+          "lat1": 32.9426143,
+          "lon2": -96.7435557,
+          "lat2": 32.9427143
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Shack",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "Margaret McDermott Mall",
+        "iso3166_2": "US-TX",
+        "lon": -96.7488345,
+        "lat": 32.9867329,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23751.020790516,
+        "formatted": "The Halal Shack, Margaret McDermott Mall, Richardson, TX 75080, United States of America",
+        "address_line1": "The Halal Shack",
+        "address_line2": "Margaret McDermott Mall, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7P2+MF",
+        "plus_code_short": "X7P2+MF Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.238082280461582,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5175e789e7ec2f58c05991b17f434d7e4040f00103f9016ef12e9701000000c0020192030f5468652048616c616c20536861636be203236f70656e7374726565746d61703a76656e75653a6e6f64652f36383331343033333734",
+        "bbox": {
+          "lon1": -96.7488845,
+          "lat1": 32.9866829,
+          "lon2": -96.7487845,
+          "lat2": 32.9867829
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chopped Halal Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "Northside Boulevard",
+        "housenumber": "3000",
+        "iso3166_2": "US-TX",
+        "lon": -96.7502608,
+        "lat": 32.9935031,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24466.48742703149,
+        "formatted": "Chopped Halal Grill, 3000 Northside Boulevard, Richardson, TX 75080, United States of America",
+        "address_line1": "Chopped Halal Grill",
+        "address_line2": "3000 Northside Boulevard, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6VX+CV",
+        "plus_code_short": "X6VX+CV Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.948270628657129,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5122dedf45043058c059c07c0d1c2b7f4040f00103f9011688892b01000000c0020192031343686f707065642048616c616c204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f35303235343030383534",
+        "bbox": {
+          "lon1": -96.7503108,
+          "lat1": 32.9934531,
+          "lon2": -96.7502108,
+          "lat2": 32.9935531
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shan Grills",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Wylie",
+        "postcode": "75086",
+        "street": "FM 544",
+        "iso3166_2": "US-TX",
+        "lon": -96.5877954,
+        "lat": 33.0107738,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32515.40476698354,
+        "formatted": "Shan Grills, FM 544, Wylie, TX 75086, United States of America",
+        "address_line1": "Shan Grills",
+        "address_line2": "FM 544, Wylie, TX 75086, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552C66+8V",
+        "plus_code_short": "2C66+8V Wylie, Collin County, United States",
+        "rank": {
+          "importance": 0.000055952544441855764,
+          "popularity": 3.7432038553796185,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5150ef98709e2558c059ab532f0961814040f00103f901b1a85b0903000000c0020192030b5368616e204772696c6c73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133303431393033373933",
+        "bbox": {
+          "lon1": -96.5878454,
+          "lat1": 33.0107238,
+          "lon2": -96.5877454,
+          "lat2": 33.0108238
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Paradise Grills",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.806255,
+        "lat": 33.10145,
+        "result_type": "amenity",
+        "distance": 36087.5803468242,
+        "postcode": "75024",
+        "formatted": "Paradise Grills, Frisco, TX 75024, United States of America",
+        "address_line1": "Paradise Grills",
+        "address_line2": "Frisco, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655452V+HF",
+        "plus_code_short": "452V+HF, 75024 Frisco, United States",
+        "rank": {
+          "popularity": 4.948303933346839,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51224f92ae993358c059f0164850fc8c4040f00103f901529844ea02000000c0020192030f5061726164697365204772696c6c73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353230323938353738"
+      }
+    ],
+    "query": {
+      "text": "Halal grills"
+    }
+  }
+}

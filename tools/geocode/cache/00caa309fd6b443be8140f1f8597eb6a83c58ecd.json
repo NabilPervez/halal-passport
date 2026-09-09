@@ -1,0 +1,263 @@
+{
+  "queriedName": "Khashoka Middle Eastern Cuisine",
+  "queriedAt": "2026-09-09T00:31:27.576Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Middle College High School",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "district": "West End Historic District",
+        "suburb": "Downtown PID",
+        "street": "Elm Street",
+        "housenumber": "701",
+        "iso3166_2": "US-TX",
+        "lon": -96.8061849,
+        "lat": 32.7802358,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 931.0255893484008,
+        "formatted": "Middle College High School, 701 Elm Street, Dallas, TX 75202, United States of America",
+        "address_line1": "Middle College High School",
+        "address_line2": "701 Elm Street, Dallas, TX 75202, United States of America",
+        "category": "building.university",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5JV+3G",
+        "plus_code_short": "JV+3G, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.3425880974885877,
+          "popularity": 7.968469239092068,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51dc018d88983358c0598e1546c4de634040f00102f901919dc51a00000000c0020192031a4d6964646c6520436f6c6c6567652048696768205363686f6f6ce203216f70656e7374726565746d61703a76656e75653a7761792f343439313538353435",
+        "bbox": {
+          "lon1": -96.8063015,
+          "lat1": 32.7800921,
+          "lon2": -96.8060683,
+          "lat2": 32.7803799
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Bowie Middle School",
+        "housenumber": "600",
+        "street": "East 6th Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75060",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.937006,
+        "lat": 32.806619,
+        "result_type": "amenity",
+        "distance": 13495.182352121352,
+        "formatted": "Bowie Middle School, 600 East 6th Street, Irving, TX 75060, United States of America",
+        "address_line1": "Bowie Middle School",
+        "address_line2": "600 East 6th Street, Irving, TX 75060, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R347+J5",
+        "plus_code_short": "47+J5 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.542806726583496,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f88903e8f73b58c05986aa984a3f674040f00102f9011d3a031b00000000c00201920313426f776965204d6964646c65205363686f6f6ce203216f70656e7374726565746d61703a76656e75653a7761792f343533313936333137",
+        "bbox": {
+          "lon1": -96.940258,
+          "lat1": 32.8049323,
+          "lon2": -96.934679,
+          "lat2": 32.8085213
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Austin Middle School",
+        "housenumber": "825",
+        "street": "East Union Bower Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75061",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.937547,
+        "lat": 32.823701,
+        "result_type": "amenity",
+        "distance": 14125.592045310368,
+        "formatted": "Austin Middle School, 825 East Union Bower Road, Irving, TX 75061, United States of America",
+        "address_line1": "Austin Middle School",
+        "address_line2": "825 East Union Bower Road, Irving, TX 75061, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R3F6+FX",
+        "plus_code_short": "F6+FX Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.515602372549368,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a0dd21c5003c58c0595c57cc086f694040f00102f9011e3a031b00000000c0020192031441757374696e204d6964646c65205363686f6f6ce203216f70656e7374726565746d61703a76656e75653a7761792f343533313936333138",
+        "bbox": {
+          "lon1": -96.9391488,
+          "lat1": 32.8221568,
+          "lon2": -96.9355415,
+          "lat2": 32.8248168
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Lyles Middle School",
+        "housenumber": "4655",
+        "street": "South Country Club Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75043",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.589119,
+        "lat": 32.860396,
+        "result_type": "amenity",
+        "distance": 21525.751739644948,
+        "formatted": "Lyles Middle School, 4655 South Country Club Road, Garland, TX 75043, United States of America",
+        "address_line1": "Lyles Middle School",
+        "address_line2": "4655 South Country Club Road, Garland, TX 75043, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645VC66+59",
+        "plus_code_short": "VC66+59, 75043 Garland, United States",
+        "rank": {
+          "popularity": 3.8929248704326835,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f19c2d20b42558c059fbcdc474216e4040f00102f90145a8802800000000c002019203134c796c6573204d6964646c65205363686f6f6ce203216f70656e7374726565746d61703a76656e75653a7761792f363739353230333235",
+        "bbox": {
+          "lon1": -96.5923172,
+          "lat1": 32.8596678,
+          "lon2": -96.5878916,
+          "lat2": 32.8627049
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Bussey Middle School",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.645678,
+        "lat": 32.923423,
+        "result_type": "amenity",
+        "distance": 21561.603042106017,
+        "postcode": "75040",
+        "formatted": "Bussey Middle School, Garland, TX 75040, United States of America",
+        "address_line1": "Bussey Middle School",
+        "address_line2": "Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W9F3+9P",
+        "plus_code_short": "F3+9P, 75040 Garland, United States",
+        "rank": {
+          "popularity": 4.88765212097054,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ca6fd1c9522958c059e6af90b932764040f00102f9016f456d2100000000c00201e203216f70656e7374726565746d61703a76656e75653a7761792f353630383039333237",
+        "bbox": {
+          "lon1": -96.6466802,
+          "lat1": 32.9217567,
+          "lon2": -96.6438829,
+          "lat2": 32.9244231
+        }
+      }
+    ],
+    "query": {
+      "text": "Khashoka Middle Eastern Cuisine"
+    }
+  }
+}

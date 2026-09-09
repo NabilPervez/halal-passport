@@ -1,0 +1,276 @@
+{
+  "queriedName": "Kozies Pot Pies",
+  "queriedAt": "2026-09-09T00:33:11.897Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rice Pot",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Duncanville",
+        "postcode": "75116",
+        "street": "South Main Street",
+        "housenumber": "100",
+        "iso3166_2": "US-TX",
+        "lon": -96.9081992,
+        "lat": 32.6513929,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17415.68090660985,
+        "formatted": "Rice Pot, 100 South Main Street, Duncanville, TX 75116, United States of America",
+        "address_line1": "Rice Pot",
+        "address_line2": "100 South Main Street, Duncanville, TX 75116, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M32R+HP",
+        "plus_code_short": "+HP Duncanville, Dallas County, United States",
+        "rank": {
+          "importance": 0.0000558701457236136,
+          "popularity": 3.6426035141867836,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51379089ef1f3a58c0595d2cb1d760534040f00103f901d40a121901000000c002019203085269636520506f74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f34373135353830313136",
+        "bbox": {
+          "lon1": -96.9082492,
+          "lat1": 32.6513429,
+          "lon2": -96.9081492,
+          "lat2": 32.6514429
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Melting Pot",
+        "other_names": {
+          "alt_name": "Melting Pot"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75254",
+        "street": "Belt Line Road",
+        "housenumber": "4900",
+        "iso3166_2": "US-TX",
+        "lon": -96.8280054,
+        "lat": 32.9537047,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19860.942950732795,
+        "formatted": "The Melting Pot, 4900 Belt Line Road, Addison, TX 75254, United States of America",
+        "address_line1": "The Melting Pot",
+        "address_line2": "4900 Belt Line Road, Addison, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X53C+FQ",
+        "plus_code_short": "3C+FQ, 75254 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.736905285994129,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51547a5c0afe3458c0595045e0fe127a4040f00103f901e478eebf02000000c0020192030f546865204d656c74696e6720506f74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131383130303131333634",
+        "bbox": {
+          "lon1": -96.8280554,
+          "lat1": 32.9536547,
+          "lon2": -96.8279554,
+          "lat2": 32.9537547
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Melting Pot",
+        "other_names": {
+          "alt_name": "Melting Pot"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76015",
+        "suburb": "Arlington Highlands",
+        "street": "Partners Way",
+        "iso3166_2": "US-TX",
+        "lon": -97.1073107,
+        "lat": 32.6798293,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30972.850617423155,
+        "formatted": "The Melting Pot, Partners Way, Arlington, TX 76015, United States of America",
+        "address_line1": "The Melting Pot",
+        "address_line2": "Partners Way, Arlington, TX 76015, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MVHV+W3",
+        "plus_code_short": "MVHV+W3, 76015 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.334835772865477,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2c0b22dde4658c059692e81a504574040f00103f9015adedd4b01000000c0020192030f546865204d656c74696e6720506f74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35353637373938383734",
+        "bbox": {
+          "lon1": -97.1073607,
+          "lat1": 32.6797793,
+          "lon2": -97.1072607,
+          "lat2": 32.6798793
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Squares Hot Pot",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "housenumber": "4152",
+        "iso3166_2": "US-TX",
+        "lon": -96.7734341,
+        "lat": 33.0555526,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 31051.692901461476,
+        "formatted": "Squares Hot Pot, 4152 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Squares Hot Pot",
+        "address_line2": "4152 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655364G+6J",
+        "plus_code_short": "364G+6J, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.88490416294347,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511e47bdf17f3158c059981afc581c874040f00103f90169ed033403000000c0020192030f5371756172657320486f7420506f74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373537353734353035",
+        "bbox": {
+          "lon1": -96.7734841,
+          "lat1": 33.0555026,
+          "lon2": -96.7733841,
+          "lat2": 33.0556026
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rice Pot Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Cross Roads",
+        "postcode": "76227",
+        "street": "US Highway 380 East",
+        "housenumber": "12000",
+        "iso3166_2": "US-TX",
+        "lon": -96.9783298,
+        "lat": 33.2248573,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 52592.15814793151,
+        "formatted": "Rice Pot Express, 12000 US Highway 380 East, Cross Roads, TX 76227, United States of America",
+        "address_line1": "Rice Pot Express",
+        "address_line2": "12000 US Highway 380 East, Cross Roads, TX 76227, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865562FC+WM",
+        "rank": {
+          "importance": 0.000043243305104097314,
+          "popularity": 2.806866433380938,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f1ec97f49c3e58c05928e2be1fc89c4040f00103f9019dace96402000000c002019203105269636520506f742045787072657373e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323832393730323639",
+        "bbox": {
+          "lon1": -96.9783798,
+          "lat1": 33.2248073,
+          "lon2": -96.9782798,
+          "lat2": 33.2249073
+        }
+      }
+    ],
+    "query": {
+      "text": "Kozies Pot Pies"
+    }
+  }
+}

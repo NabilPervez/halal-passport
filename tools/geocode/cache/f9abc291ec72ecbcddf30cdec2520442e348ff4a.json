@@ -1,0 +1,260 @@
+{
+  "queriedName": "Krispy Krunchy Chicken HALAL",
+  "queriedAt": "2026-09-09T00:41:01.271Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Krispy Kreme",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Lovers Lane East",
+        "iso3166_2": "US-TX",
+        "lon": -96.769436,
+        "lat": 32.849628,
+        "result_type": "amenity",
+        "distance": 8476.745638199991,
+        "postcode": "75214",
+        "formatted": "Krispy Kreme, Dallas, TX 75214, United States of America",
+        "address_line1": "Krispy Kreme",
+        "address_line2": "Dallas, TX 75214, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6XJ+V6",
+        "plus_code_short": "R6XJ+V6, 75214 Dallas, United States",
+        "rank": {
+          "popularity": 5.328246123171238,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515d177e703e3158c05909e23c9cc06c4040f00103f901c045791400000000c0020192030c4b7269737079204b72656d65e203226f70656e7374726565746d61703a76656e75653a6e6f64652f333433343932303332"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Krispy Kreme",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "district": "University Crossing PID",
+        "street": "East Lovers Lane",
+        "housenumber": "5750",
+        "iso3166_2": "US-TX",
+        "lon": -96.7694356,
+        "lat": 32.8496276,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 8476.714624935075,
+        "formatted": "Krispy Kreme, 5750 East Lovers Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Krispy Kreme",
+        "address_line2": "5750 East Lovers Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6XJ+V6",
+        "plus_code_short": "R6XJ+V6, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513398d06e3e3158c059b5e3e198c06c4040f00103f901c045791400000000c0020192030c4b7269737079204b72656d65",
+        "bbox": {
+          "lon1": -96.7694856,
+          "lat1": 32.8495776,
+          "lon2": -96.7693856,
+          "lat2": 32.8496776
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Krispy Kreme",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75150",
+        "street": "North Galloway Avenue",
+        "housenumber": "2222",
+        "iso3166_2": "US-TX",
+        "lon": -96.6112703,
+        "lat": 32.7957692,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17487.217081148006,
+        "formatted": "Krispy Kreme, 2222 North Galloway Avenue, Mesquite, TX 75150, United States of America",
+        "address_line1": "Krispy Kreme",
+        "address_line2": "2222 North Galloway Avenue, Mesquite, TX 75150, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q9WQ+8F",
+        "plus_code_short": "Q9WQ+8F, 75150 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "popularity": 4.2153972518996765,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5108e1760d1f2758c0590195e0c3db654040f00102f9019566eb2600000000c0020192030c4b7269737079204b72656d65e203216f70656e7374726565746d61703a76656e75653a7761792f363532393631343239",
+        "bbox": {
+          "lon1": -96.6114099,
+          "lat1": 32.7957058,
+          "lon2": -96.6111307,
+          "lat2": 32.7958325
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Krispy Kreme",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76034",
+        "street": "Ira E Woods Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -97.1251341,
+        "lat": 32.9149268,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 34276.38626829639,
+        "formatted": "Krispy Kreme, Ira E Woods Avenue, Grapevine, TX 76034, United States of America",
+        "address_line1": "Krispy Kreme",
+        "address_line2": "Ira E Woods Avenue, Grapevine, TX 76034, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WV7F+XW",
+        "plus_code_short": "WV7F+XW Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005574654764625036,
+          "popularity": 4.101569824346427,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5152c77432024858c059f21d46521c754040f00102f901706c601400000000c0020192030c4b7269737079204b72656d65e203216f70656e7374726565746d61703a76656e75653a7761792f333431383633353336",
+        "bbox": {
+          "lon1": -97.1252207,
+          "lat1": 32.9148214,
+          "lon2": -97.1250699,
+          "lat2": 32.9151554
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Krispy Kreme",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "West McDermott Drive",
+        "housenumber": "604",
+        "iso3166_2": "US-TX",
+        "lon": -96.6763369,
+        "lat": 33.1022689,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 37880.58349095159,
+        "formatted": "Krispy Kreme, 604 West McDermott Drive, Allen, TX 75013, United States of America",
+        "address_line1": "Krispy Kreme",
+        "address_line2": "604 West McDermott Drive, Allen, TX 75013, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655482F+WF",
+        "plus_code_short": "2F+WF Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.87855242370943,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fea4901a492b58c059ee72b625178d4040f00102f901895db91600000000c0020192030c4b7269737079204b72656d65e203216f70656e7374726565746d61703a76656e75653a7761792f333831323436383537",
+        "bbox": {
+          "lon1": -96.6764219,
+          "lat1": 33.102148,
+          "lon2": -96.6762519,
+          "lat2": 33.1023886
+        }
+      }
+    ],
+    "query": {
+      "text": "Krispy Krunchy Chicken HALAL"
+    }
+  }
+}

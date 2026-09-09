@@ -1,0 +1,271 @@
+{
+  "queriedName": "TEXAS KING Restaurant & Meat",
+  "queriedAt": "2026-09-09T00:41:16.773Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Michoacana Meat Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76010",
+        "street": "East Park Row Drive",
+        "housenumber": "923",
+        "iso3166_2": "US-TX",
+        "lon": -97.0965667,
+        "lat": 32.7219127,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 28677.287704984934,
+        "formatted": "Michoacana Meat Market, 923 East Park Row Drive, Arlington, TX 76010, United States of America",
+        "address_line1": "Michoacana Meat Market",
+        "address_line2": "923 East Park Row Drive, Arlington, TX 76010, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PWC3+Q9",
+        "plus_code_short": "C3+Q9, 76010 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.655483740810123,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517d9818262e4658c0599588a6a2675c4040f00103f901cc7b700503000000c002019203164d6963686f6163616e61204d656174204d61726b6574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132393736313539363932",
+        "bbox": {
+          "lon1": -97.0966167,
+          "lat1": 32.7218627,
+          "lon2": -97.0965167,
+          "lat2": 32.7219627
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Osvaldo's Meat Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75077",
+        "street": "Valley View Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.9943998,
+        "lat": 33.013117,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 32078.232707357594,
+        "formatted": "Osvaldo's Meat Market, Valley View Drive, Lewisville, TX 75077, United States of America",
+        "address_line1": "Osvaldo's Meat Market",
+        "address_line2": "Valley View Drive, Lewisville, TX 75077, United States of America",
+        "category": "commercial.food_and_drink.butcher",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552274+66",
+        "plus_code_short": "2274+66, 75077 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 3.973595640900114,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5188090f3fa43f58c059c5025fd1ad814040f00103f9010c4b4a8802000000c002019203154f7376616c646f2773204d656174204d61726b6574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383736353034383434",
+        "bbox": {
+          "lon1": -96.9944498,
+          "lat1": 33.013067,
+          "lon2": -96.9943498,
+          "lat2": 33.013167
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Country Meat Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "hamlet": "Handley",
+        "postcode": "76112",
+        "street": "East Lancaster Avenue",
+        "housenumber": "6899",
+        "iso3166_2": "US-TX",
+        "lon": -97.2115987,
+        "lat": 32.7311406,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Handley",
+        "result_type": "amenity",
+        "distance": 39105.127503185875,
+        "formatted": "Country Meat Market, 6899 East Lancaster Avenue, Fort Worth, TX 76112, United States of America",
+        "address_line1": "Country Meat Market",
+        "address_line2": "6899 East Lancaster Avenue, Fort Worth, TX 76112, United States of America",
+        "category": "commercial.food_and_drink.butcher",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PQJQ+F9",
+        "plus_code_short": "PQJQ+F9 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.8266764651925187,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51121846d58a4d58c05990e3e203965d4040f00102f901569f161e00000000c00201920313436f756e747279204d656174204d61726b6574e203216f70656e7374726565746d61703a76656e75653a7761792f353034373939303632",
+        "bbox": {
+          "lon1": -97.211713,
+          "lat1": 32.7310618,
+          "lon2": -97.2114811,
+          "lat2": 32.7312193
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Haley's Meat Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Crowley",
+        "postcode": "76036",
+        "street": "South Texas Street",
+        "iso3166_2": "US-TX",
+        "lon": -97.3604984,
+        "lat": 32.5786308,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 57167.38083511663,
+        "formatted": "Haley's Meat Market, South Texas Street, Crowley, TX 76036, United States of America",
+        "address_line1": "Haley's Meat Market",
+        "address_line2": "South Texas Street, Crowley, TX 76036, United States of America",
+        "category": "tourism.sights.memorial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HJHQ+FR",
+        "plus_code_short": "HQ+FR, 76036 Crowley, United States",
+        "rank": {
+          "importance": 0.000055232318608331696,
+          "popularity": 3.1659693919194325,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a990e167125758c059aa3af592104a4040f00103f901af10c34003000000c0020192031348616c65792773204d656174204d61726b6574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393731343237353033",
+        "bbox": {
+          "lon1": -97.3605484,
+          "lat1": 32.5785808,
+          "lon2": -97.3604484,
+          "lat2": 32.5786808
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Meat Up",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76201",
+        "street": "Bolivar Street",
+        "housenumber": "529",
+        "iso3166_2": "US-TX",
+        "lon": -97.1353246,
+        "lat": 33.2190481,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 58408.56243033889,
+        "formatted": "The Meat Up, 529 Bolivar Street, Denton, TX 76201, United States of America",
+        "address_line1": "The Meat Up",
+        "address_line2": "529 Bolivar Street, Denton, TX 76201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546V97+JV",
+        "plus_code_short": "97+JV, 76201 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 3.087568245919565,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5109d68228a94858c0591fe0a4c4099c4040f00103f90181d4687b02000000c0020192030b546865204d656174205570e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363630343032333035",
+        "bbox": {
+          "lon1": -97.1353746,
+          "lat1": 33.2189981,
+          "lon2": -97.1352746,
+          "lat2": 33.2190981
+        }
+      }
+    ],
+    "query": {
+      "text": "TEXAS KING Restaurant & Meat"
+    }
+  }
+}

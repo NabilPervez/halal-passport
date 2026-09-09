@@ -1,0 +1,274 @@
+{
+  "queriedName": "Abacos Tacos",
+  "queriedAt": "2026-09-09T00:31:36.041Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Torchy's Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "University Crossing PID",
+        "street": "SMU Boulevard",
+        "housenumber": "5600",
+        "iso3166_2": "US-TX",
+        "lon": -96.7713826,
+        "lat": 32.8418273,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Stonewall Terrace",
+        "result_type": "amenity",
+        "distance": 7595.654654213024,
+        "formatted": "Torchy's Tacos, 5600 SMU Boulevard, Dallas, TX 75206, United States of America",
+        "address_line1": "Torchy's Tacos",
+        "address_line2": "5600 SMU Boulevard, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6RH+PC",
+        "plus_code_short": "R6RH+PC, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.523167220498152,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5105ed1f555e3158c059a33039ffc06b4040f00103f901b215e35f02000000c0020192030e546f726368792773205461636f73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130313938363532333338",
+        "bbox": {
+          "lon1": -96.7714326,
+          "lat1": 32.8417773,
+          "lon2": -96.7713326,
+          "lat2": 32.8418773
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Torchy's Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Forest Lane",
+        "housenumber": "5921",
+        "iso3166_2": "US-TX",
+        "lon": -96.8059426,
+        "lat": 32.9100609,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 14819.284498820569,
+        "formatted": "Torchy's Tacos, 5921 Forest Lane, Dallas, TX 75230, United States of America",
+        "address_line1": "Torchy's Tacos",
+        "address_line2": "5921 Forest Lane, Dallas, TX 75230, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W56V+2J",
+        "plus_code_short": "W56V+2J, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.794470520233827,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51015d4590943358c059256f25e07c744040f00103f9019794fed902000000c0020192030e546f726368792773205461636f73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323437323734363437",
+        "bbox": {
+          "lon1": -96.8059926,
+          "lat1": 32.9100109,
+          "lon2": -96.8058926,
+          "lat2": 32.9101109
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cesar's Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Duncanville",
+        "postcode": "75116",
+        "street": "East Camp Wisdom Road",
+        "housenumber": "423",
+        "iso3166_2": "US-TX",
+        "lon": -96.9011993,
+        "lat": 32.6622393,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16058.071534404107,
+        "formatted": "Cesar's Tacos, 423 East Camp Wisdom Road, Duncanville, TX 75116, United States of America",
+        "address_line1": "Cesar's Tacos",
+        "address_line2": "423 East Camp Wisdom Road, Duncanville, TX 75116, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M36X+VG",
+        "plus_code_short": "6X+VG Duncanville, Dallas County, United States",
+        "rank": {
+          "importance": 0.0000558701457236136,
+          "popularity": 3.687578780777251,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51662bd43fad3958c0591fd0e341c4544040f00102f90153a71e1800000000c0020192030d43657361722773205461636f73e203216f70656e7374726565746d61703a76656e75653a7761792f343034363632303939",
+        "bbox": {
+          "lon1": -96.9012908,
+          "lat1": 32.6621479,
+          "lon2": -96.9011079,
+          "lat2": 32.662318
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Torchy's Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75254",
+        "street": "Preston Road",
+        "housenumber": "14760",
+        "iso3166_2": "US-TX",
+        "lon": -96.802925,
+        "lat": 32.9491713,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19152.59815258379,
+        "formatted": "Torchy's Tacos, 14760 Preston Road, Dallas, TX 75254, United States of America",
+        "address_line1": "Torchy's Tacos",
+        "address_line2": "14760 Preston Road, Dallas, TX 75254, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5XW+MR",
+        "plus_code_short": "W5XW+MR, 75254 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.404208655691729,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5103098a1f633358c059a2e6f5717e794040f00103f901fa5a85c302000000c0020192030e546f726368792773205461636f73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131383730323331323930",
+        "bbox": {
+          "lon1": -96.802975,
+          "lat1": 32.9491213,
+          "lon2": -96.802875,
+          "lat2": 32.9492213
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "OMG Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "744",
+        "iso3166_2": "US-TX",
+        "lon": -96.7431502,
+        "lat": 32.943044,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19136.12077857849,
+        "formatted": "OMG Tacos, 744 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "OMG Tacos",
+        "address_line2": "744 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7V4+6P",
+        "plus_code_short": "V4+6P Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.891107141109623,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510441dbc58f2f58c059325871aab5784040f00103f901a71e639101000000c002019203094f4d47205461636f73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36373334313539353237",
+        "bbox": {
+          "lon1": -96.7432002,
+          "lat1": 32.942994,
+          "lon2": -96.7431002,
+          "lat2": 32.943094
+        }
+      }
+    ],
+    "query": {
+      "text": "Abacos Tacos"
+    }
+  }
+}

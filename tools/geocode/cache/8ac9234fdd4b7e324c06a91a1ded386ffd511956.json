@@ -1,0 +1,262 @@
+{
+  "queriedName": "Yummy Deli",
+  "queriedAt": "2026-09-09T00:31:44.069Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jason's Deli",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1409",
+        "iso3166_2": "US-TX",
+        "lon": -96.800005,
+        "lat": 32.7806104,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 489.99337956250446,
+        "formatted": "Jason's Deli, 1409 Main Street, Dallas, TX 75202, United States of America",
+        "address_line1": "Jason's Deli",
+        "address_line2": "1409 Main Street, Dallas, TX 75202, United States of America",
+        "category": "commercial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5JX+6X",
+        "plus_code_short": "JX+6X, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bce82b48333358c0597075a50aeb634040f00103f90180fb74d200000000c0020192030c4a61736f6e27732044656c69e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33353330383831393230",
+        "bbox": {
+          "lon1": -96.800055,
+          "lat1": 32.7805604,
+          "lon2": -96.799955,
+          "lat2": 32.7806604
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Yummy Thai",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Coppell",
+        "postcode": "75063",
+        "street": "West Lyndon B Johnson Freeway",
+        "iso3166_2": "US-TX",
+        "lon": -96.9956012,
+        "lat": 32.9256638,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24848.264092396177,
+        "formatted": "Yummy Thai, West Lyndon B Johnson Freeway, Coppell, TX 75063, United States of America",
+        "address_line1": "Yummy Thai",
+        "address_line2": "West Lyndon B Johnson Freeway, Coppell, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2G3+7Q",
+        "plus_code_short": "W2G3+7Q Coppell, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.664819174603681,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ef7618eeb73f58c059a90bc2267c764040f00103f901077b968202000000c0020192030a59756d6d792054686169e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373830383334353637",
+        "bbox": {
+          "lon1": -96.9956512,
+          "lat1": 32.9256138,
+          "lon2": -96.9955512,
+          "lat2": 32.9257138
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Yummy Extensions",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "19009A",
+        "iso3166_2": "US-TX",
+        "lon": -96.7964451,
+        "lat": 33.006319,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 25499.19724098799,
+        "formatted": "Yummy Extensions, 19009A Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Yummy Extensions",
+        "address_line2": "19009A Preston Road, Dallas, TX 75252, United States of America",
+        "category": "commercial.health_and_beauty;service.beauty.spa",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552643+GC",
+        "plus_code_short": "2643+GC, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.0664126209155205,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ce63def4f83258c059f52b9d0fcf804040f00103f9016337bcef01000000c0020192031059756d6d7920457874656e73696f6e73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333137303536383637",
+        "bbox": {
+          "lon1": -96.7964951,
+          "lat1": 33.006269,
+          "lon2": -96.7963951,
+          "lat2": 33.006369
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Yummy Sichuan",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75028",
+        "street": "Morriss Road",
+        "iso3166_2": "US-TX",
+        "lon": -97.0632371,
+        "lat": 33.0333592,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 37819.92963096507,
+        "formatted": "Yummy Sichuan, Morriss Road, Flower Mound, TX 75028, United States of America",
+        "address_line1": "Yummy Sichuan",
+        "address_line2": "Morriss Road, Flower Mound, TX 75028, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542WMP+8P",
+        "plus_code_short": "2WMP+8P Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.623040496182028,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5135199f130c4458c059a782401d45844040f00103f901455e170203000000c0020192030d59756d6d79205369636875616ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132393139393837373831",
+        "bbox": {
+          "lon1": -97.0632871,
+          "lat1": 33.0333092,
+          "lon2": -97.0631871,
+          "lat2": 33.0334092
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Yummy Buffet",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Stockyards",
+        "iso3166_2": "US-TX",
+        "lon": -97.347591,
+        "lat": 32.796574,
+        "result_type": "amenity",
+        "distance": 51515.60586312933,
+        "postcode": "76106",
+        "formatted": "Yummy Buffet, Fort Worth, TX 76106, United States of America",
+        "address_line1": "Yummy Buffet",
+        "address_line2": "Fort Worth, TX 76106, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QMW2+JX",
+        "plus_code_short": "QMW2+JX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.8593252151804616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51925852ee3e5658c059056c0723f6654040f00103f90148f3a87d01000000c0020192030c59756d6d7920427566666574e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36343033313931363234"
+      }
+    ],
+    "query": {
+      "text": "Yummy Deli"
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "queriedName": "Irving Kabab N Kurry",
+  "queriedAt": "2026-09-09T00:36:48.238Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Irving Heights",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Dallas",
+        "suburb": "Irving Heights",
+        "iso3166_2": "US-TX",
+        "lon": -96.897914,
+        "lat": 32.821693,
+        "result_type": "suburb",
+        "distance": 10661.305665964155,
+        "formatted": "Irving Heights, Dallas, TX, United States of America",
+        "address_line1": "Irving Heights",
+        "address_line2": "Dallas, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R4C2+MR",
+        "plus_code_short": "R4C2+MR Dallas, Dallas County, United States",
+        "rank": {
+          "popularity": 4.5434502225940445,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b727486c773958c059132d793c2d694040c0020592030e497276696e672048656967687473e2032277686f736f6e66697273743a6e65696768626f7572686f6f643a3835383738333137",
+        "bbox": {
+          "lon1": -96.902914,
+          "lat1": 32.816693,
+          "lon2": -96.892914,
+          "lat2": 32.826693
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "South Irving",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Irving",
+        "suburb": "South Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.949152,
+        "lat": 32.799748,
+        "result_type": "suburb",
+        "distance": 14446.20222656265,
+        "formatted": "South Irving, Irving, TX, United States of America",
+        "address_line1": "South Irving",
+        "address_line2": "Irving, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q3X2+V8",
+        "plus_code_short": "X2+V8 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.1859148689960195,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b6bb07e8be3c58c0594d8578245e664040c0020592030c536f75746820497276696e67e2032277686f736f6e66697273743a6e65696768626f7572686f6f643a3835383738333335",
+        "bbox": {
+          "lon1": -96.954152,
+          "lat1": 32.794748,
+          "lon2": -96.944152,
+          "lat2": 32.804748
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Irving Lake",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Irving",
+        "suburb": "Irving Lake",
+        "iso3166_2": "US-TX",
+        "lon": -96.969911,
+        "lat": 32.788923,
+        "result_type": "suburb",
+        "distance": 16218.822381075403,
+        "formatted": "Irving Lake, Irving, TX, United States of America",
+        "address_line1": "Irving Lake",
+        "address_line2": "Irving, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q2QJ+H2",
+        "plus_code_short": "Q2QJ+H2 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.097198959126382,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f6419605133e58c059f607ca6dfb644040c0020592030b497276696e67204c616b65e2032277686f736f6e66697273743a6e65696768626f7572686f6f643a3835383738333139",
+        "bbox": {
+          "lon1": -96.974911,
+          "lat1": 32.783923,
+          "lon2": -96.964911,
+          "lat2": 32.793923
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Irving",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.978893,
+        "lat": 32.860125,
+        "result_type": "city",
+        "distance": 19348.043859096815,
+        "formatted": "Irving, TX, United States of America",
+        "address_line1": "Irving, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V26C+2C",
+        "plus_code_short": "V26C+2C Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.531804720531979,
+          "confidence": 0.25,
+          "confidence_city_level": 0.25,
+          "match_type": "full_match"
+        },
+        "place_id": "512252d32ea63e58c0596abc7493186e4040c00208920306497276696e67e2031e77686f736f6e66697273743a6c6f63616c6974793a313031373235363937",
+        "bbox": {
+          "lon1": -96.99224,
+          "lat1": 32.87869,
+          "lon2": -96.95224,
+          "lat2": 32.91869
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "North Irving",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Irving",
+        "suburb": "North Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.961386,
+        "lat": 32.911666,
+        "result_type": "suburb",
+        "distance": 21449.08093437448,
+        "formatted": "North Irving, Irving, TX, United States of America",
+        "address_line1": "North Irving",
+        "address_line2": "Irving, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W26Q+MC",
+        "plus_code_short": "W26Q+MC Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 5.50628286367307,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5144352559873d58c0590470b378b1744040c0020592030c4e6f72746820497276696e67e2032277686f736f6e66697273743a6e65696768626f7572686f6f643a3835383738333237",
+        "bbox": {
+          "lon1": -96.966386,
+          "lat1": 32.906666,
+          "lon2": -96.956386,
+          "lat2": 32.916666
+        }
+      }
+    ],
+    "query": {
+      "text": "Irving Kabab N Kurry"
+    }
+  }
+}

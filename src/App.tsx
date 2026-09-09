@@ -1,7 +1,13 @@
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence } from "framer-motion";
-import type { Restaurant, Review } from "./types";
-import { seedIfEmpty, getAllRestaurants, putRestaurant, getAllReviews, putReview } from "./lib/db";
+import type { RestaurantWithSaveState, Review } from "./types";
+import {
+  syncCatalog,
+  getAllRestaurantsWithState,
+  setUserPlaceState,
+  getAllReviews,
+  putReview,
+} from "./lib/db";
 import { MapView } from "./components/MapView";
 import { BentoGrid } from "./components/BentoGrid";
 import { DiscoverFeed } from "./components/DiscoverFeed";
@@ -21,7 +27,7 @@ function getDistanceInMiles(lat1: number, lon1: number, lat2: number, lon2: numb
 }
 
 export default function App() {
-  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+  const [restaurants, setRestaurants] = useState<RestaurantWithSaveState[]>([]);
   const [reviews, setReviews] = useState<Record<string, Review>>({});
   const [tab, setTab] = useState<Tab>("discover");
   const [activeId, setActiveId] = useState<string | null>(null);
@@ -32,18 +38,17 @@ export default function App() {
 
   useEffect(() => {
     (async () => {
-      await seedIfEmpty();
-      const [r, rv] = await Promise.all([getAllRestaurants(), getAllReviews()]);
+      await syncCatalog();
+      const [r, rv] = await Promise.all([getAllRestaurantsWithState(), getAllReviews()]);
       setRestaurants(r);
       setReviews(Object.fromEntries(rv.map((x) => [x.restaurantId, x])));
       setReady(true);
     })();
   }, []);
 
-  async function handleToggleSave(id: string, next: Restaurant["saveState"]) {
+  async function handleToggleSave(id: string, next: RestaurantWithSaveState["saveState"]) {
     setRestaurants((prev) => prev.map((r) => (r.id === id ? { ...r, saveState: next, savedAt: Date.now() } : r)));
-    const target = restaurants.find((r) => r.id === id);
-    if (target) await putRestaurant({ ...target, saveState: next, savedAt: Date.now() });
+    await setUserPlaceState(id, next);
   }
 
   async function handleSaveReview(review: Review) {

@@ -1,0 +1,62 @@
+{
+  "queriedName": "Del's Charcoal Burgers",
+  "queriedAt": "2026-09-09T00:34:36.274Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Del's Charcoal Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "South McKinney Street",
+        "housenumber": "110",
+        "iso3166_2": "US-TX",
+        "lon": -96.7313936,
+        "lat": 32.948186,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19997.036761472005,
+        "formatted": "Del's Charcoal Burgers, 110 South McKinney Street, Richardson, TX 75081, United States of America",
+        "address_line1": "Del's Charcoal Burgers",
+        "address_line2": "110 South McKinney Street, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7X9+7C",
+        "plus_code_short": "X9+7C Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.02598746210701,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513d201a27cf2e58c0593543aa285e794040f00103f9012b5b6c2a02000000c0020192031644656c27732043686172636f616c2042757267657273",
+        "bbox": {
+          "lon1": -96.7314436,
+          "lat1": 32.948136,
+          "lon2": -96.7313436,
+          "lat2": 32.948236
+        }
+      }
+    ],
+    "query": {
+      "text": "Del's Charcoal Burgers"
+    }
+  }
+}

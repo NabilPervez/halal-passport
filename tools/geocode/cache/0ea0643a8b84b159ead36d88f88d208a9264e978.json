@@ -1,0 +1,279 @@
+{
+  "queriedName": "Shami’s Restaurant & Grill",
+  "queriedAt": "2026-09-09T00:33:48.754Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pressbox Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1623",
+        "iso3166_2": "US-TX",
+        "lon": -96.7974139,
+        "lat": 32.7816508,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 518.5917131128838,
+        "formatted": "Pressbox Grill, 1623 Main Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Pressbox Grill",
+        "address_line2": "1623 Main Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J3+M2",
+        "plus_code_short": "J3+M2, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510d784fd4083358c059357227220d644040f00103f901851e5b8300000000c0020192030e5072657373626f78204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f32323033373836383835",
+        "bbox": {
+          "lon1": -96.7974639,
+          "lat1": 32.7816008,
+          "lon2": -96.7973639,
+          "lat2": 32.7817008
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Record Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "district": "West End Historic District",
+        "suburb": "Downtown PID",
+        "street": "Elm Street",
+        "housenumber": "605",
+        "iso3166_2": "US-TX",
+        "lon": -96.8069224,
+        "lat": 32.7799935,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 985.5522589021996,
+        "formatted": "Record Grill, 605 Elm Street, Dallas, TX 75202, United States of America",
+        "address_line1": "Record Grill",
+        "address_line2": "605 Elm Street, Dallas, TX 75202, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5HV+X6",
+        "plus_code_short": "HV+X6, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.968469239092068,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513b9ad99da43358c059dacbb6d3d6634040f00102f90175db601600000000c0020192030c5265636f7264204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f333735343436333839",
+        "bbox": {
+          "lon1": -96.8069726,
+          "lat1": 32.7799374,
+          "lon2": -96.8068721,
+          "lat2": 32.7800495
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Serengetti Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Oak Cliff",
+        "postcode": "75203",
+        "district": "Giants of the Savana",
+        "street": "Marsalis Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.8149662,
+        "lat": 32.7382034,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Cliff",
+        "result_type": "amenity",
+        "distance": 4629.586292218387,
+        "formatted": "Serengetti Grill, Marsalis Parkway, Dallas, TX 75203, United States of America",
+        "address_line1": "Serengetti Grill",
+        "address_line2": "Marsalis Parkway, Dallas, TX 75203, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5QP+72",
+        "plus_code_short": "P5QP+72, 75203 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.692777286752636,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b16fe67283458c059e465f2727d5e4040f00102f90152a7202800000000c00201920310536572656e6765747469204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f363733323238363236",
+        "bbox": {
+          "lon1": -96.815128,
+          "lat1": 32.7381184,
+          "lon2": -96.8148044,
+          "lat2": 32.7382791
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roti Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75205",
+        "district": "Knox",
+        "suburb": "Knox Street PID",
+        "street": "Knox Street",
+        "housenumber": "3001",
+        "iso3166_2": "US-TX",
+        "lon": -96.7874737,
+        "lat": 32.8208111,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 4952.282275660108,
+        "formatted": "Roti Grill, 3001 Knox Street, Dallas, TX 75205, United States of America",
+        "address_line1": "Roti Grill",
+        "address_line2": "3001 Knox Street, Dallas, TX 75205, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6C7+82",
+        "plus_code_short": "R6C7+82, 75205 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.950353487969499,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5173fd16f8653258c059ce588f5610694040f00103f9015adea4dd02000000c0020192030a526f7469204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333038353034313534",
+        "bbox": {
+          "lon1": -96.7875237,
+          "lat1": 32.8207611,
+          "lon2": -96.7874237,
+          "lat2": 32.8208611
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "street": "Walnut Hill Lane",
+        "housenumber": "8165",
+        "iso3166_2": "US-TX",
+        "lon": -96.7657983,
+        "lat": 32.8823578,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 12072.563781633558,
+        "formatted": "Luna Grill, 8165 Walnut Hill Lane, Dallas, TX 75231, United States of America",
+        "address_line1": "Luna Grill",
+        "address_line2": "8165 Walnut Hill Lane, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6JM+WM",
+        "plus_code_short": "V6JM+WM, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.145081508282445,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514675dfd6023158c0596d2fb319f1704040f00102f9014629da2900000000c0020192030a4c756e61204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f373032313633323730",
+        "bbox": {
+          "lon1": -96.765929,
+          "lat1": 32.8822504,
+          "lon2": -96.7656676,
+          "lat2": 32.8824651
+        }
+      }
+    ],
+    "query": {
+      "text": "Shami’s Restaurant & Grill"
+    }
+  }
+}

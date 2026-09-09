@@ -1,0 +1,261 @@
+{
+  "queriedName": "Our Place Indian Cuisine",
+  "queriedAt": "2026-09-09T00:40:52.247Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Our Lane",
+        "street": "Our Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Grand Prairie",
+        "iso3166_2": "US-TX",
+        "lon": -97.016049,
+        "lat": 32.67332,
+        "result_type": "street",
+        "distance": 23511.559906006325,
+        "postcode": "75052",
+        "formatted": "Our Lane, Grand Prairie, TX 75052, United States of America",
+        "address_line1": "Our Lane",
+        "address_line2": "Grand Prairie, TX 75052, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MXFM+8H",
+        "plus_code_short": "MXFM+8H Grand Prairie, Dallas County, United States",
+        "rank": {
+          "popularity": 3.797344216590376,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518b8862f2064158c05911df89592f564040c002049203084f7572204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363936363534",
+        "bbox": {
+          "lon1": -97.016736,
+          "lat1": 32.673081,
+          "lon2": -97.015271,
+          "lat2": 32.67333
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Our Community Boulevard",
+        "street": "Our Community Boulevard",
+        "country": "United States",
+        "county": "Ellis County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "EL",
+        "iso3166_2": "US-TX",
+        "lon": -96.579747,
+        "lat": 32.512957,
+        "result_type": "street",
+        "distance": 35718.23782415684,
+        "postcode": "75125",
+        "formatted": "Our Community Boulevard, Ellis County, TX 75125, United States of America",
+        "address_line1": "Our Community Boulevard",
+        "address_line2": "Ellis County, TX 75125, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645GC7C+54",
+        "rank": {
+          "popularity": 2.2256794641787225,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51103d29931a2558c0598ca03193a8414040c002049203174f757220436f6d6d756e69747920426f756c6576617264e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363837373637",
+        "bbox": {
+          "lon1": -96.580532,
+          "lat1": 32.512309,
+          "lon2": -96.577836,
+          "lat2": 32.51449
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Our Lane",
+        "street": "Our Lane",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Southlake",
+        "iso3166_2": "US-TX",
+        "lon": -97.180915,
+        "lat": 32.964654,
+        "result_type": "street",
+        "distance": 41484.39817036504,
+        "postcode": "76092",
+        "formatted": "Our Lane, Southlake, TX 76092, United States of America",
+        "address_line1": "Our Lane",
+        "address_line2": "Southlake, TX 76092, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XR79+VJ",
+        "plus_code_short": "XR79+VJ Southlake, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.6712953069847813,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c616821c944b58c05951fa42c8797b4040c002049203084f7572204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353439343238",
+        "bbox": {
+          "lon1": -97.182115,
+          "lat1": 32.963337,
+          "lon2": -97.180914,
+          "lat2": 32.965018
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Our Place",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Burleson",
+        "postcode": "76028",
+        "street": "North Burleson Boulevard",
+        "housenumber": "950",
+        "iso3166_2": "US-TX",
+        "lon": -97.3174945,
+        "lat": 32.562399,
+        "state_code": "TX",
+        "county_code": "JH",
+        "suburb": "Oak Grove",
+        "result_type": "amenity",
+        "distance": 54250.03391559904,
+        "formatted": "Our Place, 950 North Burleson Boulevard, Burleson, TX 76028, United States of America",
+        "address_line1": "Our Place",
+        "address_line2": "950 North Burleson Boulevard, Burleson, TX 76028, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HM6M+X2",
+        "plus_code_short": "HM6M+X2 Burleson, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005603799496447726,
+          "popularity": 3.2125797057508785,
+          "confidence": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "513b8a73d4515458c059cc26c0b0fc474040f00102f901c36b311000000000c002019203094f757220506c616365e203216f70656e7374726565746d61703a76656e75653a7761792f323731363734333037",
+        "bbox": {
+          "lon1": -97.3176281,
+          "lat1": 32.5622588,
+          "lon2": -97.3173606,
+          "lat2": 32.5625201
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Our Place Too",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Crowley",
+        "postcode": "76036",
+        "street": "East Main Street",
+        "iso3166_2": "US-TX",
+        "lon": -97.3548781,
+        "lat": 32.5780861,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Oak Grove",
+        "result_type": "amenity",
+        "distance": 56706.19109872235,
+        "formatted": "Our Place Too, East Main Street, Crowley, TX 76036, United States of America",
+        "address_line1": "Our Place Too",
+        "address_line2": "East Main Street, Crowley, TX 76036, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HJHW+62",
+        "plus_code_short": "HW+62, 76036 Crowley, United States",
+        "rank": {
+          "importance": 0.000055232318608331696,
+          "popularity": 3.1636364689682677,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514364a252b65658c059d7e2aeb9fe494040f00102f901411dea2600000000c0020192030d4f757220506c61636520546f6fe203216f70656e7374726565746d61703a76656e75653a7761792f363532383737313231",
+        "bbox": {
+          "lon1": -97.3549451,
+          "lat1": 32.5779856,
+          "lon2": -97.3548111,
+          "lat2": 32.5781866
+        }
+      }
+    ],
+    "query": {
+      "text": "Our Place Indian Cuisine"
+    }
+  }
+}

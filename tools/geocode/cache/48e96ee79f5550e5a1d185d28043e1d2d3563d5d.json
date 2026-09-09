@@ -1,0 +1,225 @@
+{
+  "queriedName": "Aladdin Mediterranean Café",
+  "queriedAt": "2026-09-09T00:37:35.598Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taziki's Mediterranean Cafe",
+        "other_names": {
+          "short_name": "Taziki's"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "street": "Greenville Avenue",
+        "housenumber": "5500",
+        "iso3166_2": "US-TX",
+        "lon": -96.7689771,
+        "lat": 32.8534323,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Lovers Lane East",
+        "result_type": "amenity",
+        "distance": 8893.20827056709,
+        "formatted": "Taziki's Mediterranean Cafe, 5500 Greenville Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Taziki's Mediterranean Cafe",
+        "address_line2": "5500 Greenville Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V63J+9C",
+        "plus_code_short": "V63J+9C, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.544412595043675,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51def7b9eb363158c059cfec04453d6d4040f00103f901b534631f03000000c0020192031b54617a696b692773204d65646974657272616e65616e2043616665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343131343937313431",
+        "bbox": {
+          "lon1": -96.7690271,
+          "lat1": 32.8533823,
+          "lon2": -96.7689271,
+          "lat2": 32.8534823
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chefika Cafe Mediterranean",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "suburb": "Preston Hollow Village",
+        "street": "Reflection Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.7729156,
+        "lat": 32.8810385,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 11785.410765713774,
+        "formatted": "Chefika Cafe Mediterranean, Reflection Place, Dallas, TX 75231, United States of America",
+        "address_line1": "Chefika Cafe Mediterranean",
+        "address_line2": "Reflection Place, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6JG+CR",
+        "plus_code_short": "V6JG+CR, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.332465401794129,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515e24fe72773158c0592a029cdec5704040f00103f9019ca3011803000000c0020192031a43686566696b612043616665204d65646974657272616e65616ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323837363632343932",
+        "bbox": {
+          "lon1": -96.7729656,
+          "lat1": 32.8809885,
+          "lon2": -96.7728656,
+          "lat2": 32.8810885
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hala Cafe Mediterranean Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "North Main Street",
+        "housenumber": "605",
+        "iso3166_2": "US-TX",
+        "lon": -97.0829285,
+        "lat": 32.8445862,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27758.28110904813,
+        "formatted": "Hala Cafe Mediterranean Restaurant, 605 North Main Street, Euless, TX 76039, United States of America",
+        "address_line1": "Hala Cafe Mediterranean Restaurant",
+        "address_line2": "605 North Main Street, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWV8+RR",
+        "plus_code_short": "V8+RR Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.35762715218737,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5101da56b34e4558c05993d38d661b6c4040f00103f9017cc3f33303000000c0020192032248616c612043616665204d65646974657272616e65616e2052657374617572616e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373536353135313936",
+        "bbox": {
+          "lon1": -97.0829785,
+          "lat1": 32.8445362,
+          "lon2": -97.0828785,
+          "lat2": 32.8446362
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taziki's Mediterranean Cafe",
+        "other_names": {
+          "short_name": "Taziki's"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Towne Square Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.8066375,
+        "lat": 33.0915319,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 34985.96296349902,
+        "formatted": "Taziki's Mediterranean Cafe, Towne Square Drive, Plano, TX 75024, United States of America",
+        "address_line1": "Taziki's Mediterranean Cafe",
+        "address_line2": "Towne Square Drive, Plano, TX 75024, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RV+J8",
+        "plus_code_short": "35RV+J8, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.150183298908829,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518a8ee4f29f3358c05937853a51b78b4040f00103f9015d964aea02000000c0020192031b54617a696b692773204d65646974657272616e65616e2043616665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353230363931323933",
+        "bbox": {
+          "lon1": -96.8066875,
+          "lat1": 33.0914819,
+          "lon2": -96.8065875,
+          "lat2": 33.0915819
+        }
+      }
+    ],
+    "query": {
+      "text": "Aladdin Mediterranean Café"
+    }
+  }
+}

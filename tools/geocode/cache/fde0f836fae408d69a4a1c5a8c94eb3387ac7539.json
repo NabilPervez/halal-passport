@@ -1,0 +1,261 @@
+{
+  "queriedName": "Hangry Joe's Hot Chicken & Wings",
+  "queriedAt": "2026-09-09T00:34:31.810Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Wings World (West)",
+        "housenumber": "1050",
+        "street": "North Westmoreland Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75211-2404",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "El Tivoli Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.871516,
+        "lat": 32.755281,
+        "result_type": "amenity",
+        "distance": 7374.110501670303,
+        "formatted": "Wings World (West), 1050 North Westmoreland Road, Dallas, TX 75211-2404, United States of America",
+        "address_line1": "Wings World (West)",
+        "address_line2": "1050 North Westmoreland Road, Dallas, TX 75211-2404, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q44H+49",
+        "plus_code_short": "Q44H+49, 75211-2404 Dallas, United States",
+        "rank": {
+          "popularity": 4.52938402951865,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51357c0bebc63758c05924253d0cad604040f00103f9014595872803000000c0020192031257696e677320576f726c6420285765737429e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353634383736313031"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wings World (West)",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "North Westmoreland Road",
+        "housenumber": "1050",
+        "iso3166_2": "US-TX",
+        "lon": -96.8715155,
+        "lat": 32.7552814,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7374.051747334092,
+        "formatted": "Wings World (West), 1050 North Westmoreland Road, Dallas, TX 75211, United States of America",
+        "address_line1": "Wings World (West)",
+        "address_line2": "1050 North Westmoreland Road, Dallas, TX 75211, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q44H+49",
+        "plus_code_short": "Q44H+49, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51419df2e8c63758c0597823980fad604040f00103f9014595872803000000c0020192031257696e677320576f726c6420285765737429",
+        "bbox": {
+          "lon1": -96.8715655,
+          "lat1": 32.7552314,
+          "lon2": -96.8714655,
+          "lat2": 32.7553314
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sport Wings",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75287",
+        "street": "Midway Road",
+        "housenumber": "17610",
+        "iso3166_2": "US-TX",
+        "lon": -96.8409014,
+        "lat": 32.988164,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23835.583314538773,
+        "formatted": "Sport Wings, 17610 Midway Road, Dallas, TX 75287, United States of America",
+        "address_line1": "Sport Wings",
+        "address_line2": "17610 Midway Road, Dallas, TX 75287, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5Q5+7J",
+        "plus_code_short": "X5Q5+7J, 75287 Dallas, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 5.137136719249441,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51480a1b54d13558c059d28a6f287c7e4040f00103f901ea103ba600000000c0020192030b53706f72742057696e6773e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32373838383838383130",
+        "bbox": {
+          "lon1": -96.8409514,
+          "lat1": 32.988114,
+          "lon2": -96.8408514,
+          "lat2": 32.988214
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Inspired Wings",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76051",
+        "street": "South Main Street",
+        "housenumber": "424",
+        "iso3166_2": "US-TX",
+        "lon": -97.0785333,
+        "lat": 32.9368475,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 31740.576262834187,
+        "formatted": "Inspired Wings, 424 South Main Street, Grapevine, TX 76051, United States of America",
+        "address_line1": "Inspired Wings",
+        "address_line2": "424 South Main Street, Grapevine, TX 76051, United States of America",
+        "category": "commercial.clothing.clothes",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WWPC+PH",
+        "plus_code_short": "PC+PH Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005779888609135603,
+          "popularity": 4.828621889310271,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5168c988b0064558c05970eb6e9eea774040f00103f90170af928302000000c0020192030e496e7370697265642057696e6773e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373937333633303536",
+        "bbox": {
+          "lon1": -97.0785833,
+          "lat1": 32.9367975,
+          "lon2": -97.0784833,
+          "lat2": 32.9368975
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "America's Best Wings",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "70567",
+        "street": "South Business 121",
+        "iso3166_2": "US-TX",
+        "lon": -96.9925744,
+        "lat": 33.0136451,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 32028.81091192746,
+        "formatted": "America's Best Wings, South Business 121, Lewisville, TX 70567, United States of America",
+        "address_line1": "America's Best Wings",
+        "address_line2": "South Business 121, Lewisville, TX 70567, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552274+FX",
+        "plus_code_short": "2274+FX, 70567 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 3.972130764985758,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5132b6c656863f58c0591520651fbf814040f00103f901d43b849802000000c00201920314416d6572696361277320426573742057696e6773e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131313438373337343932",
+        "bbox": {
+          "lon1": -96.9926244,
+          "lat1": 33.0135951,
+          "lon2": -96.9925244,
+          "lat2": 33.0136951
+        }
+      }
+    ],
+    "query": {
+      "text": "Hangry Joe's Hot Chicken & Wings"
+    }
+  }
+}

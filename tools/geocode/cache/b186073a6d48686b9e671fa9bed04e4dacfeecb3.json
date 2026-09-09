@@ -1,0 +1,270 @@
+{
+  "queriedName": "Jimmy's Restaurant & Catering",
+  "queriedAt": "2026-09-09T00:38:17.035Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Central Market - Catering",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "University Crossing PID",
+        "street": "East Lovers Lane",
+        "housenumber": "5750",
+        "iso3166_2": "US-TX",
+        "lon": -96.7681201,
+        "lat": 32.849657,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Lovers Lane East",
+        "result_type": "amenity",
+        "distance": 8517.979829166743,
+        "formatted": "Central Market - Catering, 5750 East Lovers Lane, Dallas, TX 75206, United States of America",
+        "address_line1": "Central Market - Catering",
+        "address_line2": "5750 East Lovers Lane, Dallas, TX 75206, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6XJ+VQ",
+        "plus_code_short": "R6XJ+VQ, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.328246123171238,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519e3935e1283158c059a3e8818fc16c4040f00103f9018b5ef03703000000c0020192031943656e7472616c204d61726b6574202d204361746572696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133383233343031363131",
+        "bbox": {
+          "lon1": -96.7681701,
+          "lat1": 32.849607,
+          "lon2": -96.7680701,
+          "lat2": 32.849707
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Central Market Catering",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Preston Road",
+        "housenumber": "10720",
+        "iso3166_2": "US-TX",
+        "lon": -96.8022388,
+        "lat": 32.8943231,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 13054.930155066926,
+        "formatted": "Central Market Catering, 10720 Preston Road, Dallas, TX 75230, United States of America",
+        "address_line1": "Central Market Catering",
+        "address_line2": "10720 Preston Road, Dallas, TX 75230, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V5VX+P4",
+        "plus_code_short": "V5VX+P4, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.81385862128582,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51446568e1573358c0595747e92d79724040f00103f901aa97022503000000c0020192031743656e7472616c204d61726b6574204361746572696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353035383238373738",
+        "bbox": {
+          "lon1": -96.8022888,
+          "lat1": 32.8942731,
+          "lon2": -96.8021888,
+          "lat2": 32.8943731
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Royal Catering",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "South Central Expressway",
+        "housenumber": "800",
+        "iso3166_2": "US-TX",
+        "lon": -96.7444283,
+        "lat": 32.9419777,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 18990.538094966523,
+        "formatted": "Royal Catering, 800 South Central Expressway, Richardson, TX 75081, United States of America",
+        "address_line1": "Royal Catering",
+        "address_line2": "800 South Central Expressway, Richardson, TX 75081, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7R4+Q6",
+        "plus_code_short": "R4+Q6 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.891107141109623,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e1ad98b6a42f58c059d987abb992784040f00103f901ff4f272e03000000c0020192030e526f79616c204361746572696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363539323330323037",
+        "bbox": {
+          "lon1": -96.7444783,
+          "lat1": 32.9419277,
+          "lon2": -96.7443783,
+          "lat2": 32.9420277
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Central Market Catering",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "Coit Road",
+        "housenumber": "320",
+        "iso3166_2": "US-TX",
+        "lon": -96.7649402,
+        "lat": 33.0023598,
+        "state_code": "TX",
+        "county_code": "CI",
+        "suburb": "Renner",
+        "result_type": "amenity",
+        "distance": 25237.067082237867,
+        "formatted": "Central Market Catering, 320 Coit Road, Plano, TX 75075, United States of America",
+        "address_line1": "Central Market Catering",
+        "address_line2": "320 Coit Road, Plano, TX 75075, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655262P+W2",
+        "plus_code_short": "262P+W2, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.859294107989523,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515399bdc7f43058c0599de96f534d804040f00103f901adf5022503000000c0020192031743656e7472616c204d61726b6574204361746572696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353035383532383435",
+        "bbox": {
+          "lon1": -96.7649902,
+          "lat1": 33.0023098,
+          "lon2": -96.7648902,
+          "lat2": 33.0024098
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lyzette's Catering",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76103",
+        "street": "Brentwood Stair Road",
+        "housenumber": "4817",
+        "iso3166_2": "US-TX",
+        "lon": -97.250096,
+        "lat": 32.7587682,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 42413.20240265507,
+        "formatted": "Lyzette's Catering, 4817 Brentwood Stair Road, Fort Worth, TX 76103, United States of America",
+        "address_line1": "Lyzette's Catering",
+        "address_line2": "4817 Brentwood Stair Road, Fort Worth, TX 76103, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QP5X+GX",
+        "plus_code_short": "QP5X+GX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.8446572725342034,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511137a792015058c059551ffe501f614040f00102f9015abfb31d00000000c002019203124c797a657474652773204361746572696e67e203216f70656e7374726565746d61703a76656e75653a7761792f343938333139313934",
+        "bbox": {
+          "lon1": -97.2502492,
+          "lat1": 32.7586744,
+          "lon2": -97.2499428,
+          "lat2": 32.7588621
+        }
+      }
+    ],
+    "query": {
+      "text": "Jimmy's Restaurant & Catering"
+    }
+  }
+}

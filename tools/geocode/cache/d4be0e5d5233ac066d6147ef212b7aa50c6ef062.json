@@ -1,0 +1,257 @@
+{
+  "queriedName": "Bawarchi Indian Cuisine - Irving,TX",
+  "queriedAt": "2026-09-09T00:37:45.063Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Irving",
+        "other_names": {
+          "name:ru": "Ирвинг",
+          "name:uk": "Ірвінг",
+          "name:ko": "어빙"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.9442177,
+        "lat": 32.8295183,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 14947.442464325703,
+        "formatted": "Irving, TX, United States of America",
+        "address_line1": "Irving, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R3H4+R8",
+        "plus_code_short": "R3H4+R8 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.5643463082592607,
+          "popularity": 4.474646740743574,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "517a7313106e3c58c0597df7d8a72d6a4040f00101f90160b8570000000000c00208920306497276696e67",
+        "bbox": {
+          "lon1": -97.0340376,
+          "lat1": 32.7718391,
+          "lon2": -96.888782,
+          "lat2": 32.9539846
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Sigree Indian Cuisine",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Addison",
+        "iso3166_2": "US-TX",
+        "lon": -96.839975,
+        "lat": 32.954792,
+        "result_type": "amenity",
+        "postcode": "75001",
+        "formatted": "Sigree Indian Cuisine, Addison, TX 75001, United States of America",
+        "address_line1": "Sigree Indian Cuisine",
+        "address_line2": "Addison, TX 75001, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X536+W2",
+        "plus_code_short": "36+W2, 75001 Addison, United States",
+        "rank": {
+          "popularity": 5.456600845893935,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51499d8026c23558c059c03dcf9f367a4040f00103f901384676ca02000000c0020192031553696772656520496e6469616e2043756973696e65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393836363833343438"
+      },
+      {
+        "country_code": "us",
+        "name": "Mythri's Indian Cuisine Pickup",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.956217,
+        "lat": 32.92167,
+        "result_type": "amenity",
+        "postcode": "75063",
+        "formatted": "Mythri's Indian Cuisine Pickup, Irving, TX 75063, United States of America",
+        "address_line1": "Mythri's Indian Cuisine Pickup",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2CV+MG",
+        "plus_code_short": "W2CV+MG Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.59058247081006,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5145b8c9a8323d58c05927da5548f9754040f00103f901cce0b82d02000000c0020192031e4d7974687269277320496e6469616e2043756973696e65205069636b7570e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39333537303235343834"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sigree Indian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Belt Line Road",
+        "housenumber": "4145",
+        "iso3166_2": "US-TX",
+        "lon": -96.8399749,
+        "lat": 32.954792,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Sigree Indian Cuisine, 4145 Belt Line Road, Addison, TX 75001, United States of America",
+        "address_line1": "Sigree Indian Cuisine",
+        "address_line2": "4145 Belt Line Road, Addison, TX 75001, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X536+W2",
+        "plus_code_short": "36+W2, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517f3d1526c23558c059c03dcf9f367a4040f00103f901384676ca02000000c0020192031553696772656520496e6469616e2043756973696e65",
+        "bbox": {
+          "lon1": -96.8400249,
+          "lat1": 32.954742,
+          "lon2": -96.8399249,
+          "lat2": 32.954842
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mythri's Indian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "8350",
+        "iso3166_2": "US-TX",
+        "lon": -96.9561132,
+        "lat": 32.9217779,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "formatted": "Mythri's Indian Cuisine, 8350 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Mythri's Indian Cuisine",
+        "address_line2": "8350 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2CV+PH",
+        "plus_code_short": "W2CV+PH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.59058247081006,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5188516bf5303d58c059795677d1fc754040f00103f901cbe0b82d02000000c002019203174d7974687269277320496e6469616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39333537303235343833",
+        "bbox": {
+          "lon1": -96.9561632,
+          "lat1": 32.9217279,
+          "lon2": -96.9560632,
+          "lat2": 32.9218279
+        }
+      }
+    ],
+    "query": {
+      "text": "Bawarchi Indian Cuisine - Irving,TX",
+      "parsed": {
+        "house": "bawarchi indian cuisine",
+        "city": "irving",
+        "state": "tx",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

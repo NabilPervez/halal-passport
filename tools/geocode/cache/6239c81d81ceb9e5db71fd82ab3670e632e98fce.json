@@ -1,0 +1,259 @@
+{
+  "queriedName": "Noodle Wave Dallas",
+  "queriedAt": "2026-09-09T00:37:28.519Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Wave",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Greenville Ave",
+        "iso3166_2": "US-TX",
+        "lon": -96.784924,
+        "lat": 32.838068,
+        "result_type": "amenity",
+        "postcode": "75205",
+        "formatted": "Wave, Dallas, TX 75205, United States of America",
+        "address_line1": "Wave",
+        "address_line2": "Dallas, TX 75205, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6Q8+62",
+        "plus_code_short": "R6Q8+62, 75205 Dallas, United States",
+        "rank": {
+          "popularity": 5.47814890450273,
+          "confidence": 0.5,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511d76df313c3258c0597de9edcf456b4040f00103f90109b15c7502000000c0020192030457617665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130353538393433343937"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wave",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "University Park",
+        "postcode": "75205",
+        "street": "Bishop Boulevard",
+        "housenumber": "6425",
+        "iso3166_2": "US-TX",
+        "lon": -96.7849238,
+        "lat": 32.8380677,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Wave, 6425 Bishop Boulevard, University Park, TX 75205, United States of America",
+        "address_line1": "Wave",
+        "address_line2": "6425 Bishop Boulevard, University Park, TX 75205, United States of America",
+        "category": "tourism.attraction.artwork",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6Q8+62",
+        "plus_code_short": "R6Q8+62, 75205 University Park, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0.25,
+          "confidence_city_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "5188b608313c3258c059bfaa69cd456b4040f00103f90109b15c7502000000c0020192030457617665",
+        "bbox": {
+          "lon1": -96.7849738,
+          "lat1": 32.8380177,
+          "lon2": -96.7848738,
+          "lat2": 32.8381177
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Noodle Wave",
+        "housenumber": "1490 W Spring Valley Rd",
+        "street": "W Spring Valley Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75080",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.768354,
+        "lat": 32.94077,
+        "result_type": "amenity",
+        "formatted": "Noodle Wave, 1490 W Spring Valley Rd W Spring Valley Road, Dallas, TX 75080, United States of America",
+        "address_line1": "Noodle Wave",
+        "address_line2": "1490 W Spring Valley Rd W Spring Valley Road, Dallas, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W6RJ+8M",
+        "plus_code_short": "W6RJ+8M, 75080 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.9494040039241485,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "510d7041b62c3158c0596a87bf266b784040f00103f901de347be900000000c0020192030b4e6f6f646c652057617665e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33393137313635373930"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Thai Noodle Wave",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Forest Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.8053239,
+        "lat": 32.9092679,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "formatted": "Thai Noodle Wave, Forest Lane, Dallas, TX 75230, United States of America",
+        "address_line1": "Thai Noodle Wave",
+        "address_line2": "Forest Lane, Dallas, TX 75230, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W55V+PV",
+        "plus_code_short": "W55V+PV, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.793087578077971,
+          "confidence": 0.9,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb4b416d8a3358c059bce6fae362744040f00103f901b42eb51603000000c0020192031054686169204e6f6f646c652057617665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323635383734363132",
+        "bbox": {
+          "lon1": -96.8053739,
+          "lat1": 32.9092179,
+          "lon2": -96.8052739,
+          "lat2": 32.9093179
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Noodle Wave",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75024",
+        "street": "State Highway 121",
+        "housenumber": "9288",
+        "iso3166_2": "US-TX",
+        "lon": -96.8027424,
+        "lat": 33.0996102,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "formatted": "Noodle Wave, 9288 State Highway 121, Frisco, TX 75024, United States of America",
+        "address_line1": "Noodle Wave",
+        "address_line2": "9288 State Highway 121, Frisco, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535XW+RW",
+        "plus_code_short": "35XW+RW, 75024 Frisco, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.005557362174413,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5134c7a821603358c0598caceb06c08c4040f00103f901765c08d600000000c0020192030b4e6f6f646c652057617665e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33353930383732313832",
+        "bbox": {
+          "lon1": -96.8027924,
+          "lat1": 33.0995602,
+          "lon2": -96.8026924,
+          "lat2": 33.0996602
+        }
+      }
+    ],
+    "query": {
+      "text": "Noodle Wave Dallas",
+      "parsed": {
+        "house": "noodle wave",
+        "city": "dallas",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

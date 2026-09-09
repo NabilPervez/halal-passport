@@ -1,0 +1,62 @@
+{
+  "queriedName": "Krispy Krunchy Chicken",
+  "queriedAt": "2026-09-09T00:45:02.094Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Krispy Krunchy Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76203",
+        "street": "Union Circle",
+        "housenumber": "1155",
+        "iso3166_2": "US-TX",
+        "lon": -97.1470891,
+        "lat": 33.210733,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 58241.365783451845,
+        "formatted": "Krispy Krunchy Chicken, 1155 Union Circle, Denton, TX 76203, United States of America",
+        "address_line1": "Krispy Krunchy Chicken",
+        "address_line2": "1155 Union Circle, Denton, TX 76203, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546V63+75",
+        "plus_code_short": "63+75, 76203 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 3.2399210661904556,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51478666e8694958c0590f98874cf99a4040f00103f9015448c23301000000c002019203164b7269737079204b72756e63687920436869636b656e",
+        "bbox": {
+          "lon1": -97.1471391,
+          "lat1": 33.210683,
+          "lon2": -97.1470391,
+          "lat2": 33.210783
+        }
+      }
+    ],
+    "query": {
+      "text": "Krispy Krunchy Chicken"
+    }
+  }
+}

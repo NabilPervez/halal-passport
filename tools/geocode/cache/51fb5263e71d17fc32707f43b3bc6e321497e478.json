@@ -1,0 +1,63 @@
+{
+  "queriedName": "DECCAN MORSELS",
+  "queriedAt": "2026-09-09T00:30:40.525Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Deccan Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Roanoke",
+        "postcode": "76262",
+        "street": "North US Highway 377",
+        "housenumber": "1224",
+        "iso3166_2": "US-TX",
+        "lon": -97.2188891,
+        "lat": 33.0119147,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 47264.63899176031,
+        "formatted": "Deccan Spice, 1224 North US Highway 377, Roanoke, TX 76262, United States of America",
+        "address_line1": "Deccan Spice",
+        "address_line2": "1224 North US Highway 377, Roanoke, TX 76262, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542Q6J+QC",
+        "plus_code_short": "6J+QC, 76262 Roanoke, United States",
+        "rank": {
+          "importance": 0.000055679407949904895,
+          "popularity": 3.300488204211989,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51db7c6d47024e58c059bb6bbf6b86814040f00103f9014484daaa01000000c0020192030c44656363616e205370696365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37313631343134373234",
+        "bbox": {
+          "lon1": -97.2189391,
+          "lat1": 33.0118647,
+          "lon2": -97.2188391,
+          "lat2": 33.0119647
+        }
+      }
+    ],
+    "query": {
+      "text": "DECCAN MORSELS"
+    }
+  }
+}

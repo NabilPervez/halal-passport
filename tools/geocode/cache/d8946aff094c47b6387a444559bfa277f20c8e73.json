@@ -1,0 +1,257 @@
+{
+  "queriedName": "New York Eats (Irving)",
+  "queriedAt": "2026-09-09T00:31:20.979Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "New York Sub",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "University Park",
+        "postcode": "75205",
+        "street": "Asbury Avenue",
+        "housenumber": "3411",
+        "iso3166_2": "US-TX",
+        "lon": -96.7876368,
+        "lat": 32.8426721,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Greenville Ave",
+        "result_type": "amenity",
+        "distance": 7354.656524967636,
+        "formatted": "New York Sub, 3411 Asbury Avenue, University Park, TX 75205, United States of America",
+        "address_line1": "New York Sub",
+        "address_line2": "3411 Asbury Avenue, University Park, TX 75205, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6V6+3W",
+        "plus_code_short": "V6+3W, 75205 University Park, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.467083681364959,
+          "confidence": 0.05625,
+          "confidence_city_level": 0.06818181818181818,
+          "confidence_street_level": 0.017045454545454544,
+          "match_type": "full_match"
+        },
+        "place_id": "5112482ea4683258c0593660ebaddc6b4040f00102f9013f37391100000000c0020192030c4e657720596f726b20537562e203216f70656e7374726565746d61703a76656e75653a7761792f323838393632333637",
+        "bbox": {
+          "lon1": -96.7877202,
+          "lat1": 32.8425847,
+          "lon2": -96.7875524,
+          "lat2": 32.8427315
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "New York Bakery",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Gribble",
+        "iso3166_2": "US-TX",
+        "lon": -96.90287,
+        "lat": 32.894886,
+        "result_type": "amenity",
+        "distance": 16421.54340243443,
+        "postcode": "75234",
+        "formatted": "New York Bakery, Dallas, TX 75234, United States of America",
+        "address_line1": "New York Bakery",
+        "address_line2": "Dallas, TX 75234, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3VW+XV",
+        "plus_code_short": "V3VW+XV, 75234 Dallas, United States",
+        "rank": {
+          "popularity": 4.628804800876884,
+          "confidence": 0.12200206611570247,
+          "confidence_city_level": 0.22090909090909092,
+          "match_type": "full_match"
+        },
+        "place_id": "5187a2409fc83958c059fad2db9f8b724040f00103f90185c05d3003000000c0020192030f4e657720596f726b2042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363936333532333839"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "New York Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Gribble",
+        "postcode": "75234",
+        "street": "Royal Lane",
+        "housenumber": "2240",
+        "iso3166_2": "US-TX",
+        "lon": -96.9028699,
+        "lat": 32.8948862,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 16421.555520224738,
+        "formatted": "New York Bakery, 2240 Royal Lane, Dallas, TX 75234, United States of America",
+        "address_line1": "New York Bakery",
+        "address_line2": "2240 Royal Lane, Dallas, TX 75234, United States of America",
+        "category": "commercial.food_and_drink.bakery",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3VW+XV",
+        "plus_code_short": "V3VW+XV, 75234 Dallas, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0.009413739669421486,
+          "confidence_city_level": 0.25,
+          "confidence_street_level": 0.0625,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd42d59ec83958c059245289a18b724040f00103f90185c05d3003000000c0020192030f4e657720596f726b2042616b657279",
+        "bbox": {
+          "lon1": -96.9029199,
+          "lat1": 32.8948362,
+          "lon2": -96.9028199,
+          "lat2": 32.8949362
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "New York Avenue",
+        "street": "New York Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Lancaster",
+        "iso3166_2": "US-TX",
+        "lon": -96.792341,
+        "lat": 32.629472,
+        "result_type": "street",
+        "distance": 16410.179112206053,
+        "postcode": "75134",
+        "formatted": "New York Avenue, Lancaster, TX 75134, United States of America",
+        "address_line1": "New York Avenue",
+        "address_line2": "Lancaster, TX 75134, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J6H5+Q3",
+        "plus_code_short": "J6H5+Q3, 75134 Lancaster, United States",
+        "rank": {
+          "popularity": 3.521829173026625,
+          "confidence": 0.00513476709241172,
+          "confidence_city_level": 0.03409090909090909,
+          "confidence_street_level": 0.03068181818181818,
+          "match_type": "full_match"
+        },
+        "place_id": "51ea9106b7b53258c059b5dfda8992504040c0020492030f4e657720596f726b204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363936303632",
+        "bbox": {
+          "lon1": -96.792701,
+          "lat1": 32.62889,
+          "lon2": -96.791948,
+          "lat2": 32.630065
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "New York Pizza & Pasta",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.952779,
+        "lat": 32.941738,
+        "result_type": "amenity",
+        "distance": 23393.721912115274,
+        "postcode": "75057",
+        "formatted": "New York Pizza & Pasta, Irving, TX 75057, United States of America",
+        "address_line1": "New York Pizza & Pasta",
+        "address_line2": "Irving, TX 75057, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2RW+MV",
+        "plus_code_short": "W2RW+MV Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.450229291820925,
+          "confidence": 0.5666318181818182,
+          "confidence_city_level": 0.25909090909090904,
+          "match_type": "full_match"
+        },
+        "place_id": "513354c554fa3c58c05942b3ebde8a784040f00103f90107bd746502000000c002019203164e657720596f726b2050697a7a612026205061737461e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323932303833393735"
+      }
+    ],
+    "query": {
+      "text": "New York Eats (Irving)"
+    }
+  }
+}

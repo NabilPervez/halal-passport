@@ -1,0 +1,62 @@
+{
+  "queriedName": "Madurai Mes",
+  "queriedAt": "2026-09-09T00:36:32.645Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Madurai Thattu Kadai",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.7691666,
+        "lat": 33.0579489,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 31347.981414815287,
+        "formatted": "Madurai Thattu Kadai, West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Madurai Thattu Kadai",
+        "address_line2": "West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655365J+58",
+        "plus_code_short": "365J+58, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.897407298414792,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513c0b8c063a3158c0596a2b9bde6a874040f00103f9019a82049201000000c002019203144d61647572616920546861747475204b61646169e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36373434373336343130",
+        "bbox": {
+          "lon1": -96.7692166,
+          "lat1": 33.0578989,
+          "lon2": -96.7691166,
+          "lat2": 33.0579989
+        }
+      }
+    ],
+    "query": {
+      "text": "Madurai Mes"
+    }
+  }
+}

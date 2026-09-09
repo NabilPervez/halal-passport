@@ -1,0 +1,62 @@
+{
+  "queriedName": "Gyros & Kabobs",
+  "queriedAt": "2026-09-09T00:40:06.757Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyros & Kabobs",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Wylie",
+        "postcode": "75098",
+        "street": "Woodbridge Parkway",
+        "housenumber": "805",
+        "iso3166_2": "US-TX",
+        "lon": -96.5740123,
+        "lat": 33.0088329,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33136.34726130115,
+        "formatted": "Gyros & Kabobs, 805 Woodbridge Parkway, Wylie, TX 75098, United States of America",
+        "address_line1": "Gyros & Kabobs",
+        "address_line2": "805 Woodbridge Parkway, Wylie, TX 75098, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552C5G+G9",
+        "plus_code_short": "2C5G+G9 Wylie, Collin County, United States",
+        "rank": {
+          "importance": 0.000055952544441855764,
+          "popularity": 3.755924416183829,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511d00169ebc2458c0597e50bc6f21814040f00103f90170c3491f03000000c0020192030e4779726f732026204b61626f6273",
+        "bbox": {
+          "lon1": -96.5740623,
+          "lat1": 33.0087829,
+          "lon2": -96.5739623,
+          "lat2": 33.0088829
+        }
+      }
+    ],
+    "query": {
+      "text": "Gyros & Kabobs"
+    }
+  }
+}

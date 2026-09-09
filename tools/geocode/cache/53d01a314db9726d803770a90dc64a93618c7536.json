@@ -1,0 +1,164 @@
+{
+  "queriedName": "STOP-N-GO GYROS",
+  "queriedAt": "2026-09-09T00:31:59.302Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Stop-N-Go Gyros",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "Lacy Lane",
+        "housenumber": "2460",
+        "iso3166_2": "US-TX",
+        "lon": -96.9265019,
+        "lat": 32.9184223,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19840.435110167014,
+        "formatted": "Stop-N-Go Gyros, 2460 Lacy Lane, Carrollton, TX 75006, United States of America",
+        "address_line1": "Stop-N-Go Gyros",
+        "address_line2": "2460 Lacy Lane, Carrollton, TX 75006, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W39F+99",
+        "plus_code_short": "W39F+99, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.795742746925204,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a40ba0ce4b3b58c0596435a7dc8e754040f00103f9014cfe638702000000c0020192030f53746f702d4e2d476f204779726f73",
+        "bbox": {
+          "lon1": -96.9265519,
+          "lat1": 32.9183723,
+          "lon2": -96.9264519,
+          "lat2": 32.9184723
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Stop -N- Go Gyros",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75019",
+        "street": "South Stemmons Freeway",
+        "housenumber": "2601",
+        "iso3166_2": "US-TX",
+        "lon": -96.963495,
+        "lat": 33.0008426,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 29346.29323101589,
+        "formatted": "Stop -N- Go Gyros, 2601 South Stemmons Freeway, Lewisville, TX 75019, United States of America",
+        "address_line1": "Stop -N- Go Gyros",
+        "address_line2": "2601 South Stemmons Freeway, Lewisville, TX 75019, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655222P+8J",
+        "plus_code_short": "222P+8J, 75019 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.081500453245385,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5102b7eee6a93d58c059c8b83d9c1b804040f00103f90103e5455102000000c0020192031153746f70202d4e2d20476f204779726f73",
+        "bbox": {
+          "lon1": -96.963545,
+          "lat1": 33.0007926,
+          "lon2": -96.963445,
+          "lat2": 33.0008926
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Stop-N-Go Gyros",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Mansfield",
+        "postcode": "76063",
+        "street": "East Broad Street",
+        "housenumber": "3807",
+        "iso3166_2": "US-TX",
+        "lon": -97.0739583,
+        "lat": 32.5806395,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33892.001455386824,
+        "formatted": "Stop-N-Go Gyros, 3807 East Broad Street, Mansfield, TX 76063, United States of America",
+        "address_line1": "Stop-N-Go Gyros",
+        "address_line2": "3807 East Broad Street, Mansfield, TX 76063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HWJG+7C",
+        "plus_code_short": "HWJG+7C, 76063 Mansfield, United States",
+        "rank": {
+          "importance": 0.00005678568703741539,
+          "popularity": 3.3606439106406425,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5123f197bbbb4458c05905a22765524a4040f00103f90162f0852503000000c0020192030f53746f702d4e2d476f204779726f73",
+        "bbox": {
+          "lon1": -97.0740083,
+          "lat1": 32.5805895,
+          "lon2": -97.0739083,
+          "lat2": 32.5806895
+        }
+      }
+    ],
+    "query": {
+      "text": "STOP-N-GO GYROS"
+    }
+  }
+}

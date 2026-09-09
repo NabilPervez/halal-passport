@@ -1,0 +1,157 @@
+{
+  "queriedName": "Namak Indian Cuisine",
+  "queriedAt": "2026-09-09T00:33:31.620Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Namak Indian Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Downtown PID",
+        "street": "Pacific Avenue",
+        "housenumber": "1700",
+        "iso3166_2": "US-TX",
+        "lon": -96.7970529,
+        "lat": 32.7822995,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 589.2990800521189,
+        "formatted": "Namak Indian Restaurant, 1700 Pacific Avenue, Dallas, TX 75226, United States of America",
+        "address_line1": "Namak Indian Restaurant",
+        "address_line2": "1700 Pacific Avenue, Dallas, TX 75226, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J3+W5",
+        "plus_code_short": "J3+W5, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a5ab2aea023358c059ad16d86322644040f00103f901d798673003000000c002019203174e616d616b20496e6469616e2052657374617572616e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363936393937353931",
+        "bbox": {
+          "lon1": -96.7971029,
+          "lat1": 32.7822495,
+          "lon2": -96.7970029,
+          "lat2": 32.7823495
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Namak",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Lovers Lane East",
+        "iso3166_2": "US-TX",
+        "lon": -96.768516,
+        "lat": 32.853307,
+        "result_type": "amenity",
+        "distance": 8892.697814930627,
+        "postcode": "75026",
+        "formatted": "Namak, Dallas, TX 75026, United States of America",
+        "address_line1": "Namak",
+        "address_line2": "Dallas, TX 75026, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V63J+8H",
+        "plus_code_short": "V63J+8H, 75026 Dallas, United States",
+        "rank": {
+          "popularity": 5.551154019555142,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fa9cbb5d2f3158c0595439ed29396d4040f00103f9011d32631603000000c002019203054e616d616be203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323630353031353333"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Namak",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75026",
+        "street": "Greenville Avenue",
+        "housenumber": "5500",
+        "iso3166_2": "US-TX",
+        "lon": -96.7685155,
+        "lat": 32.8533075,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 8892.76484745187,
+        "formatted": "Namak, 5500 Greenville Avenue, Dallas, TX 75026, United States of America",
+        "address_line1": "Namak",
+        "address_line2": "5500 Greenville Avenue, Dallas, TX 75026, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V63J+8H",
+        "plus_code_short": "V63J+8H, 75026 Dallas, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5106bea25b2f3158c0593cf71e2e396d4040f00103f9011d32631603000000c002019203054e616d616b",
+        "bbox": {
+          "lon1": -96.7685655,
+          "lat1": 32.8532575,
+          "lon2": -96.7684655,
+          "lat2": 32.8533575
+        }
+      }
+    ],
+    "query": {
+      "text": "Namak Indian Cuisine"
+    }
+  }
+}

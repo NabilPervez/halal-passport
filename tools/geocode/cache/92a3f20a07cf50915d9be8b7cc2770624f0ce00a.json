@@ -1,0 +1,61 @@
+{
+  "queriedName": "Board Bites",
+  "queriedAt": "2026-09-09T00:38:26.753Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Board Bites",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75074",
+        "street": "East Spring Creek Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.6891251,
+        "lat": 33.0575562,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 32781.278134509965,
+        "formatted": "Board Bites, East Spring Creek Parkway, Plano, TX 75074, United States of America",
+        "address_line1": "Board Bites",
+        "address_line2": "East Spring Creek Parkway, Plano, TX 75074, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553856+28",
+        "plus_code_short": "3856+28, 75074 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.712292739282316,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5193d629a01a2c58c0594d5766005e874040f00103f901de9d5cb102000000c0020192030b426f617264204269746573",
+        "bbox": {
+          "lon1": -96.6891751,
+          "lat1": 33.0575062,
+          "lon2": -96.6890751,
+          "lat2": 33.0576062
+        }
+      }
+    ],
+    "query": {
+      "text": "Board Bites"
+    }
+  }
+}

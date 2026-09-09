@@ -1,0 +1,256 @@
+{
+  "queriedName": "Salt N Pepper",
+  "queriedAt": "2026-09-09T00:39:09.957Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Salt Creek Drive",
+        "street": "Salt Creek Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Desoto",
+        "iso3166_2": "US-TX",
+        "lon": -96.895121,
+        "lat": 32.591008,
+        "result_type": "street",
+        "distance": 22628.468973562198,
+        "postcode": "75115",
+        "formatted": "Salt Creek Drive, Desoto, TX 75115, United States of America",
+        "address_line1": "Salt Creek Drive",
+        "address_line2": "Desoto, TX 75115, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H4R3+CX",
+        "plus_code_short": "H4R3+CX Desoto, Dallas County, United States",
+        "rank": {
+          "popularity": 3.3174588201101907,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519f3d97a9493958c05952d66f26a64b4040c0020492031053616c7420437265656b204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363933323934",
+        "bbox": {
+          "lon1": -96.8953,
+          "lat1": 32.590888,
+          "lon2": -96.894943,
+          "lat2": 32.591127
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Salt Flats Trail",
+        "street": "Salt Flats Trail",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.078239,
+        "lat": 32.633538,
+        "result_type": "street",
+        "distance": 30772.17392180935,
+        "postcode": "76002",
+        "formatted": "Salt Flats Trail, Arlington, TX 76002, United States of America",
+        "address_line1": "Salt Flats Trail",
+        "address_line2": "Arlington, TX 76002, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644JWMC+CP",
+        "plus_code_short": "JWMC+CP, 76002 Arlington, United States",
+        "rank": {
+          "popularity": 3.7648142251637973,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51649126de014558c059fa62efc517514040c0020492031053616c7420466c61747320547261696ce203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373031393234",
+        "bbox": {
+          "lon1": -97.079441,
+          "lat1": 32.632971,
+          "lon2": -97.077669,
+          "lat2": 32.63452
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Attic Salt",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76051",
+        "street": "Grapevine Mills Parkway",
+        "housenumber": "3000",
+        "iso3166_2": "US-TX",
+        "lon": -97.0418129,
+        "lat": 32.9664914,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 31091.811952641623,
+        "formatted": "Attic Salt, 3000 Grapevine Mills Parkway, Grapevine, TX 76051, United States of America",
+        "address_line1": "Attic Salt",
+        "address_line2": "3000 Grapevine Mills Parkway, Grapevine, TX 76051, United States of America",
+        "category": "commercial.gift_and_souvenir",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XX85+H7",
+        "plus_code_short": "XX85+H7 Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005779888609135603,
+          "popularity": 4.058333339050066,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5142830310ad4258c059c16e7dfdb57b4040f00103f901c1979e8302000000c0020192030a41747469632053616c74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373938313433343235",
+        "bbox": {
+          "lon1": -97.0418629,
+          "lat1": 32.9664414,
+          "lon2": -97.0417629,
+          "lat2": 32.9665414
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Salt Road",
+        "street": "Salt Road",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Forest Hill",
+        "suburb": "Echo Heights",
+        "iso3166_2": "US-TX",
+        "lon": -97.24377,
+        "lat": 32.657281,
+        "result_type": "street",
+        "distance": 43865.75704808067,
+        "postcode": "76140",
+        "formatted": "Salt Road, Forest Hill, TX 76140, United States of America",
+        "address_line1": "Salt Road",
+        "address_line2": "Forest Hill, TX 76140, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MQ44+WF",
+        "plus_code_short": "MQ44+WF Forest Hill, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.5353651731957374,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd6f7ced994f58c0591ea4a7c821544040c0020492030953616c7420526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373031313038",
+        "bbox": {
+          "lon1": -97.245584,
+          "lat1": 32.65343,
+          "lon2": -97.240321,
+          "lat2": 32.661792
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Salt Creek",
+        "country": "United States",
+        "county": "Wise County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "WE",
+        "iso3166_2": "US-TX",
+        "lon": -97.605321,
+        "lat": 33.110397,
+        "result_type": "amenity",
+        "distance": 84046.37598319065,
+        "formatted": "Salt Creek, Wise County, TX, United States of America",
+        "address_line1": "Salt Creek",
+        "address_line2": "Wise County, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8654496V+5V",
+        "rank": {
+          "popularity": 2.2263119797385356,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5140a54a94bd6658c059cb49287d218e4040f00101f9017e58360100000000c0020192030a53616c7420437265656be203256f70656e7374726565746d61703a76656e75653a72656c6174696f6e2f3230333338383134",
+        "bbox": {
+          "lon1": -97.6166922,
+          "lat1": 33.1078311,
+          "lon2": -97.5938412,
+          "lat2": 33.1108504
+        }
+      }
+    ],
+    "query": {
+      "text": "Salt N Pepper"
+    }
+  }
+}

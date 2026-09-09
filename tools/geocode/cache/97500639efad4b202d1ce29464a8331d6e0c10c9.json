@@ -1,0 +1,264 @@
+{
+  "queriedName": "Spice 6",
+  "queriedAt": "2026-09-09T00:41:31.729Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spice Lane",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "76172",
+        "street": "Spice Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.6470938,
+        "lat": 32.67258,
+        "state_code": "TX",
+        "result_type": "street",
+        "county_code": "DS",
+        "suburb": "Rylie",
+        "distance": 18206.108676759046,
+        "formatted": "Spice Lane, Dallas, TX 76172, United States of America",
+        "address_line1": "Spice Lane",
+        "address_line2": "Dallas, TX 76172, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M9F3+25",
+        "plus_code_short": "M9F3+25, 76172 Dallas, United States",
+        "rank": {
+          "importance": 0.05340974822613867,
+          "popularity": 3.18794073163587,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51701c1dfc692958c059cbf8f71917564040f00102f9016facdf3a00000000c0020492030a5370696365204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363838343634",
+        "bbox": {
+          "lon1": -96.6488004,
+          "lat1": 32.6722187,
+          "lon2": -96.6453888,
+          "lat2": 32.6729092
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Southern Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "West Royal Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.961094,
+        "lat": 32.8963421,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20276.579842617604,
+        "formatted": "Southern Spice, West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Southern Spice",
+        "address_line2": "West Royal Lane, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WQ+GH",
+        "plus_code_short": "V2WQ+GH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.605744352143677,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5170986890823d58c05994c38256bb724040f00103f901bb6ab06202000000c0020192030e536f75746865726e205370696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435363633343139",
+        "bbox": {
+          "lon1": -96.961144,
+          "lat1": 32.8962921,
+          "lon2": -96.961044,
+          "lat2": 32.8963921
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spice 'N' Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Terrace Drive",
+        "housenumber": "300",
+        "iso3166_2": "US-TX",
+        "lon": -96.7276938,
+        "lat": 32.9518269,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20489.284693587382,
+        "formatted": "Spice 'N' Rice, 300 Terrace Drive, Richardson, TX 75081, United States of America",
+        "address_line1": "Spice 'N' Rice",
+        "address_line2": "300 Terrace Drive, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X72C+PW",
+        "plus_code_short": "2C+PW Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.051308431546644,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5120200489922e58c059fe79bf76d5794040f00103f901c60e82a700000000c0020192030e537069636520274e272052696365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32383130333138353334",
+        "bbox": {
+          "lon1": -96.7277438,
+          "lat1": 32.9517769,
+          "lon2": -96.7276438,
+          "lat2": 32.9518769
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spice Street",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "DeSoto",
+        "postcode": "75115",
+        "street": "Spice Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.8833627,
+        "lat": 32.5779519,
+        "state_code": "TX",
+        "result_type": "street",
+        "distance": 23562.989424104995,
+        "formatted": "Spice Street, DeSoto, TX 75115, United States of America",
+        "address_line1": "Spice Street",
+        "address_line2": "DeSoto, TX 75115, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H4H8+5M",
+        "plus_code_short": "H4H8+5M DeSoto, Dallas County, United States",
+        "rank": {
+          "importance": 0.053389131761654045,
+          "popularity": 3.2860305205664777,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5167c0b403893858c0599e94ee53fa494040f00102f9010593980000000000c0020492030c537069636520537472656574",
+        "bbox": {
+          "lon1": -96.8834116,
+          "lat1": 32.5759334,
+          "lon2": -96.8833618,
+          "lat2": 32.5799585
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spice Island Drive",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76002",
+        "street": "Spice Island Drive",
+        "iso3166_2": "US-TX",
+        "lon": -97.1103798,
+        "lat": 32.63085,
+        "state_code": "TX",
+        "result_type": "street",
+        "distance": 33524.5039785741,
+        "formatted": "Spice Island Drive, Arlington, TX 76002, United States of America",
+        "address_line1": "Spice Island Drive",
+        "address_line2": "Arlington, TX 76002, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644JVJQ+8R",
+        "plus_code_short": "JVJQ+8R, 76002 Arlington, United States",
+        "rank": {
+          "importance": 0.05340182421606771,
+          "popularity": 3.839278406940684,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e6c86f76104758c0593f575bb1bf504040f00102f9018574410b00000000c0020492031253706963652049736c616e64204472697665",
+        "bbox": {
+          "lon1": -97.1109816,
+          "lat1": 32.6308383,
+          "lon2": -97.1098303,
+          "lat2": 32.6310904
+        }
+      }
+    ],
+    "query": {
+      "text": "Spice 6"
+    }
+  }
+}

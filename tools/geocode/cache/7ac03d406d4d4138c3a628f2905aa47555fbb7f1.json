@@ -1,0 +1,260 @@
+{
+  "queriedName": "Hungry Platters & Gyro",
+  "queriedAt": "2026-09-09T00:42:01.286Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro Rice & Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75251",
+        "street": "Forest Lane",
+        "housenumber": "7722",
+        "iso3166_2": "US-TX",
+        "lon": -96.7737552,
+        "lat": 32.9093394,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Bouchard",
+        "result_type": "amenity",
+        "distance": 14874.85575194178,
+        "formatted": "Gyro Rice & Spice, 7722 Forest Lane, Dallas, TX 75251, United States of America",
+        "address_line1": "Gyro Rice & Spice",
+        "address_line2": "7722 Forest Lane, Dallas, TX 75251, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W65G+PF",
+        "plus_code_short": "W65G+PF, 75251 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.970879970080758,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5109c78734853158c0596dfbc33b65744040f00103f9014365272303000000c002019203114779726f20526963652026205370696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343734363836323735",
+        "bbox": {
+          "lon1": -96.7738052,
+          "lat1": 32.9092894,
+          "lon2": -96.7737052,
+          "lat2": 32.9093894
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tarboosh Gyro & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Campbell Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.6982889,
+        "lat": 32.9751681,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23885.818866971105,
+        "formatted": "Tarboosh Gyro & Grill, East Campbell Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Tarboosh Gyro & Grill",
+        "address_line2": "East Campbell Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8G2+3M",
+        "plus_code_short": "X8G2+3M Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.829194676474223,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513a2aedc3b02c58c0591dcdec4ed27c4040f00103f901c53f661f03000000c00201920315546172626f6f7368204779726f2026204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343131363936353831",
+        "bbox": {
+          "lon1": -96.6983389,
+          "lat1": 32.9751181,
+          "lon2": -96.6982389,
+          "lat2": 32.9752181
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Gyro & Burrito House",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Tarrant",
+        "iso3166_2": "US-TX",
+        "lon": -97.057544,
+        "lat": 32.821675,
+        "result_type": "amenity",
+        "distance": 24853.916063951838,
+        "postcode": "76155",
+        "formatted": "Gyro & Burrito House, Fort Worth, TX 76155, United States of America",
+        "address_line1": "Gyro & Burrito House",
+        "address_line2": "Fort Worth, TX 76155, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWCR+MX",
+        "plus_code_short": "RWCR+MX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.255403404039043,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512f8507cdae4358c0596c787aa52c694040f00103f901b5f10b0702000000c002019203144779726f2026204275727269746f20486f757365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38373038313537383737"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro Oasis Deli and Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3550",
+        "iso3166_2": "US-TX",
+        "lon": -96.9949878,
+        "lat": 32.9201193,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24399.42539515666,
+        "formatted": "Gyro Oasis Deli and Grill, 3550 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Gyro Oasis Deli and Grill",
+        "address_line2": "3550 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C4+22",
+        "plus_code_short": "W2C4+22 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.663248678633068,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d13a4fe1ad3f58c0598ff51e78c6754040f00103f90188703da600000000c002019203194779726f204f617369732044656c6920616e64204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f32373839303434333630",
+        "bbox": {
+          "lon1": -96.9950378,
+          "lat1": 32.9200693,
+          "lon2": -96.9949378,
+          "lat2": 32.9201693
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro & Burrito House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76155",
+        "street": "Trinity Boulevard",
+        "housenumber": "14150",
+        "iso3166_2": "US-TX",
+        "lon": -97.0575437,
+        "lat": 32.8216745,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24853.877544205337,
+        "formatted": "Gyro & Burrito House, 14150 Trinity Boulevard, Fort Worth, TX 76155, United States of America",
+        "address_line1": "Gyro & Burrito House",
+        "address_line2": "14150 Trinity Boulevard, Fort Worth, TX 76155, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWCR+MX",
+        "plus_code_short": "RWCR+MX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d065c5cbae4358c05984ba48a12c694040f00103f901b5f10b0702000000c002019203144779726f2026204275727269746f20486f757365",
+        "bbox": {
+          "lon1": -97.0575937,
+          "lat1": 32.8216245,
+          "lon2": -97.0574937,
+          "lat2": 32.8217245
+        }
+      }
+    ],
+    "query": {
+      "text": "Hungry Platters & Gyro"
+    }
+  }
+}

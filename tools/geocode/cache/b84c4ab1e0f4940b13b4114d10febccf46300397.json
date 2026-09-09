@@ -1,0 +1,260 @@
+{
+  "queriedName": "Bird & Beast",
+  "queriedAt": "2026-09-09T00:30:36.880Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Petra and the Beast",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Wilson Block",
+        "iso3166_2": "US-TX",
+        "lon": -96.775073,
+        "lat": 32.792118,
+        "result_type": "amenity",
+        "distance": 2650.9650934141387,
+        "postcode": "75246",
+        "formatted": "Petra and the Beast, Dallas, TX 75246, United States of America",
+        "address_line1": "Petra and the Beast",
+        "address_line2": "Dallas, TX 75246, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6RF+RX",
+        "plus_code_short": "Q6RF+RX, 75246 Dallas, United States",
+        "rank": {
+          "popularity": 5.997667622399825,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51cfc0c8cb9a3158c0595649641f64654040f00103f9018e3fcf9401000000c00201920313506574726120616e6420746865204265617374e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36373931353737343836"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Petra and the Beast",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75246",
+        "street": "Gaston Avenue",
+        "housenumber": "3500",
+        "iso3166_2": "US-TX",
+        "lon": -96.7750728,
+        "lat": 32.7921184,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 2651.007751419578,
+        "formatted": "Petra and the Beast, 3500 Gaston Avenue, Dallas, TX 75246, United States of America",
+        "address_line1": "Petra and the Beast",
+        "address_line2": "3500 Gaston Avenue, Dallas, TX 75246, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6RF+RX",
+        "plus_code_short": "Q6RF+RX, 75246 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513a01f2ca9a3158c059a947bf2264654040f00103f9018e3fcf9401000000c00201920313506574726120616e6420746865204265617374",
+        "bbox": {
+          "lon1": -96.7751228,
+          "lat1": 32.7920684,
+          "lon2": -96.7750228,
+          "lat2": 32.7921684
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Summertree Animal & Bird Clinic",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75244",
+        "street": "Inwood Road",
+        "housenumber": "12300",
+        "iso3166_2": "US-TX",
+        "lon": -96.8180119,
+        "lat": 32.9161834,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 15600.489124644018,
+        "formatted": "Summertree Animal & Bird Clinic, 12300 Inwood Road, Dallas, TX 75244, United States of America",
+        "address_line1": "Summertree Animal & Bird Clinic",
+        "address_line2": "12300 Inwood Road, Dallas, TX 75244, United States of America",
+        "category": "pet.veterinary",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W58J+FQ",
+        "plus_code_short": "W58J+FQ, 75244 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.857219555915035,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51498f954e5a3458c059ad11667f45754040f00103f901963c3ef401000000c0020192031f53756d6d65727472656520416e696d616c2026204269726420436c696e6963e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333932363836373432",
+        "bbox": {
+          "lon1": -96.8180619,
+          "lat1": 32.9161334,
+          "lon2": -96.8179619,
+          "lat2": 32.9162334
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Parker Animal & Bird Clinic",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Parker Road",
+        "housenumber": "2129",
+        "iso3166_2": "US-TX",
+        "lon": -96.7354058,
+        "lat": 33.0414139,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 29958.49265371657,
+        "formatted": "Parker Animal & Bird Clinic, 2129 West Parker Road, Plano, TX 75023, United States of America",
+        "address_line1": "Parker Animal & Bird Clinic",
+        "address_line2": "2129 West Parker Road, Plano, TX 75023, United States of America",
+        "category": "pet.veterinary",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865527R7+HR",
+        "plus_code_short": "27R7+HR, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.837055073296054,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517a127de3102f58c059c70cf90c4d854040f00103f901f17b6e6102000000c0020192031b5061726b657220416e696d616c2026204269726420436c696e6963e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323234353635323333",
+        "bbox": {
+          "lon1": -96.7354558,
+          "lat1": 33.0413639,
+          "lon2": -96.7353558,
+          "lat2": 33.0414639
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "A-Bird Air Conditioning & Heating",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "North Richland Hills",
+        "postcode": "76182",
+        "street": "Northeast Parkway",
+        "housenumber": "8208",
+        "iso3166_2": "US-TX",
+        "lon": -97.2056834,
+        "lat": 32.8699161,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 39561.196904233904,
+        "formatted": "A-Bird Air Conditioning & Heating, 8208 Northeast Parkway, North Richland Hills, TX 76182, United States of America",
+        "address_line1": "A-Bird Air Conditioning & Heating",
+        "address_line2": "8208 Northeast Parkway, North Richland Hills, TX 76182, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VQ9V+XP",
+        "plus_code_short": "VQ9V+XP North Richland Hills, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000056076142519219004,
+          "popularity": 3.9813547599762926,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512015b5ea294d58c059c6e12769596f4040f00103f9017f2b5a2d01000000c00201920321412d426972642041697220436f6e646974696f6e696e6720262048656174696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35303535383531333931",
+        "bbox": {
+          "lon1": -97.2057334,
+          "lat1": 32.8698661,
+          "lon2": -97.2056334,
+          "lat2": 32.8699661
+        }
+      }
+    ],
+    "query": {
+      "text": "Bird & Beast"
+    }
+  }
+}

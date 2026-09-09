@@ -1,0 +1,262 @@
+{
+  "queriedName": "Layne's Chicken Fingers- Lewisville",
+  "queriedAt": "2026-09-09T00:34:19.503Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "The Colony",
+        "postcode": "75056",
+        "street": "State Highway 121",
+        "housenumber": "4650",
+        "iso3166_2": "US-TX",
+        "lon": -96.8888944,
+        "lat": 33.0645572,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "formatted": "Layne's Chicken Fingers, 4650 State Highway 121, The Colony, TX 75056, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "4650 State Highway 121, The Colony, TX 75056, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553476+RC",
+        "plus_code_short": "3476+RC The Colony, Denton County, United States",
+        "rank": {
+          "importance": 0.00003750133516437045,
+          "popularity": 4.455673898548911,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513e6656a5e33858c059555c0b6943884040f00102f901fbcf521d00000000c002019203174c61796e65277320436869636b656e2046696e67657273e203216f70656e7374726565746d61703a76656e75653a7761792f343931393636343539",
+        "bbox": {
+          "lon1": -96.8890178,
+          "lat1": 33.0644317,
+          "lon2": -96.888771,
+          "lat2": 33.0646745
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Denton",
+        "iso3166_2": "US-TX",
+        "lon": -97.145305,
+        "lat": 33.214761,
+        "result_type": "amenity",
+        "postcode": "76201",
+        "formatted": "Layne's Chicken Fingers, Denton, TX 76201, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "Denton, TX 76201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546V73+WV",
+        "plus_code_short": "73+WV, 76201 Denton, United States",
+        "rank": {
+          "popularity": 3.0586893451739003,
+          "confidence": 0.23809523809523808,
+          "confidence_city_level": 0.23809523809523808,
+          "match_type": "full_match"
+        },
+        "place_id": "517fbc57ad4c4958c05967bad7497d9b4040f00103f901bb99cd3301000000c002019203174c61796e65277320436869636b656e2046696e67657273e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35313634303739353437"
+      },
+      {
+        "country_code": "us",
+        "name": "Layne's Chicken Fingers",
+        "housenumber": "1801",
+        "street": "South Goliad Street",
+        "country": "United States",
+        "county": "Rockwall County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75087-4936",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "RC",
+        "city": "Rockwall",
+        "iso3166_2": "US-TX",
+        "lon": -96.452765,
+        "lat": 32.913884,
+        "result_type": "amenity",
+        "formatted": "Layne's Chicken Fingers, 1801 South Goliad Street, Rockwall, TX 75087-4936, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "1801 South Goliad Street, Rockwall, TX 75087-4936, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WG7W+HV",
+        "plus_code_short": "WG7W+HV Rockwall, Rockwall County, United States",
+        "rank": {
+          "popularity": 3.3634742517199445,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5180f10c1afa1c58c059392ba226fa744040f00102f901ac021d3b00000000c002019203174c61796e65277320436869636b656e2046696e67657273e203216f70656e7374726565746d61703a76656e75653a7761792f393931373536393732",
+        "bbox": {
+          "lon1": -96.452914,
+          "lat1": 32.9138323,
+          "lon2": -96.4526274,
+          "lat2": 32.9140487
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Rockwall County",
+        "city": "Rockwall",
+        "postcode": "75087",
+        "street": "South Goliad Street",
+        "housenumber": "1801",
+        "iso3166_2": "US-TX",
+        "lon": -96.452777,
+        "lat": 32.9139456,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Layne's Chicken Fingers, 1801 South Goliad Street, Rockwall, TX 75087, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "1801 South Goliad Street, Rockwall, TX 75087, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WG7W+HV",
+        "plus_code_short": "WG7W+HV Rockwall, Rockwall County, United States",
+        "rank": {
+          "importance": 0.0000578355077439081,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5162d8614cfa1c58c0595b295f2bfc744040f00102f901ac021d3b00000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -96.452914,
+          "lat1": 32.9138323,
+          "lon2": -96.4526274,
+          "lat2": 32.9140487
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "Central Expressway South",
+        "housenumber": "102",
+        "iso3166_2": "US-TX",
+        "lon": -96.6795738,
+        "lat": 33.1012826,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "formatted": "Layne's Chicken Fingers, 102 Central Expressway South, Allen, TX 75013, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "102 Central Expressway South, Allen, TX 75013, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655482C+G5",
+        "plus_code_short": "2C+G5 Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.868372787653019,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb8d1b237e2b58c059b15307d4f68c4040f00102f901453ba02200000000c002019203174c61796e65277320436869636b656e2046696e67657273e203216f70656e7374726565746d61703a76656e75653a7761792f353830393236323737",
+        "bbox": {
+          "lon1": -96.6797227,
+          "lat1": 33.1012322,
+          "lon2": -96.6794453,
+          "lat2": 33.1013616
+        }
+      }
+    ],
+    "query": {
+      "text": "Layne's Chicken Fingers- Lewisville",
+      "parsed": {
+        "house": "layne's chicken fingers",
+        "city": "lewisville",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

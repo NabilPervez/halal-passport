@@ -1,0 +1,62 @@
+{
+  "queriedName": "Mughlai Fine Indian Restaurant",
+  "queriedAt": "2026-09-09T00:37:06.719Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mughlai Fine Indian",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Southlake",
+        "postcode": "76092",
+        "street": "East State Highway 114",
+        "housenumber": "3311",
+        "iso3166_2": "US-TX",
+        "lon": -97.1003066,
+        "lat": 32.9369914,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33453.44733616696,
+        "formatted": "Mughlai Fine Indian, 3311 East State Highway 114, Southlake, TX 76092, United States of America",
+        "address_line1": "Mughlai Fine Indian",
+        "address_line2": "3311 East State Highway 114, Southlake, TX 76092, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WVPX+QV",
+        "plus_code_short": "WVPX+QV Southlake, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005686503395127821,
+          "popularity": 4.349309737272314,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "51aba45f6c6b4658c0590ed18d55ef774040f00102f901e69c3c2900000000c002019203134d7567686c61692046696e6520496e6469616e",
+        "bbox": {
+          "lon1": -97.1005216,
+          "lat1": 32.9368158,
+          "lon2": -97.1001021,
+          "lat2": 32.937175
+        }
+      }
+    ],
+    "query": {
+      "text": "Mughlai Fine Indian Restaurant"
+    }
+  }
+}

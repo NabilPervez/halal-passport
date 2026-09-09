@@ -1,0 +1,270 @@
+{
+  "queriedName": "Foodies Den",
+  "queriedAt": "2026-09-09T00:41:58.586Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lions Den",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Uptown PID",
+        "street": "Maple Avenue",
+        "housenumber": "2927",
+        "iso3166_2": "US-TX",
+        "lon": -96.8074366,
+        "lat": 32.7976005,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 2489.782002456554,
+        "formatted": "Lions Den, 2927 Maple Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Lions Den",
+        "address_line2": "2927 Maple Avenue, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5XV+22",
+        "plus_code_short": "XV+22, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.400032997156565,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fba58f0aad3358c059fa62efc517664040f00103f901abf1f72703000000c002019203094c696f6e732044656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353535343632353731",
+        "bbox": {
+          "lon1": -96.8074866,
+          "lat1": 32.7975505,
+          "lon2": -96.8073866,
+          "lat2": 32.7976505
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Bear Den Road",
+        "street": "Bear Den Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Mountain Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.926883,
+        "lat": 32.6752,
+        "result_type": "street",
+        "distance": 16605.81670878832,
+        "postcode": "75236",
+        "formatted": "Bear Den Road, Dallas, TX 75236, United States of America",
+        "address_line1": "Bear Den Road",
+        "address_line2": "Dallas, TX 75236, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M3GF+36",
+        "plus_code_short": "M3GF+36, 75236 Dallas, United States",
+        "rank": {
+          "popularity": 3.5896816244745553,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fa0d130d523b58c0592d211ff46c564040c0020492030d426561722044656e20526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363935363932",
+        "bbox": {
+          "lon1": -96.928964,
+          "lat1": 32.673004,
+          "lon2": -96.926763,
+          "lat2": 32.675626
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fox Den Pavillon",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75236",
+        "street": "Bear Den Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.9279717,
+        "lat": 32.6752153,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Mountain Creek",
+        "result_type": "amenity",
+        "distance": 16679.319657333122,
+        "formatted": "Fox Den Pavillon, Bear Den Road, Dallas, TX 75236, United States of America",
+        "address_line1": "Fox Den Pavillon",
+        "address_line2": "Bear Den Road, Dallas, TX 75236, United States of America",
+        "category": "building.sport",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M3GC+3R",
+        "plus_code_short": "M3GC+3R, 75236 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 3.5896816244745553,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5144c769e3633b58c05921a177746d564040f00102f901a0cc3b5a00000000c00201920310466f782044656e20506176696c6c6f6ee203226f70656e7374726565746d61703a76656e75653a7761792f31353133383638343438",
+        "bbox": {
+          "lon1": -96.9280409,
+          "lat1": 32.675151,
+          "lon2": -96.9279025,
+          "lat2": 32.6752795
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fox Den",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75236",
+        "street": "Critter Camp Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.9431747,
+        "lat": 32.6776858,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Mountain Creek",
+        "result_type": "amenity",
+        "distance": 17576.17279119066,
+        "formatted": "Fox Den, Critter Camp Road, Dallas, TX 75236, United States of America",
+        "address_line1": "Fox Den",
+        "address_line2": "Critter Camp Road, Dallas, TX 75236, United States of America",
+        "category": "camping.camp_site",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M3H4+3P",
+        "plus_code_short": "M3H4+3P, 75236 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 3.583353599691989,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5189ba6af95c3c58c05957fb8568be564040f00103f90159cadb4601000000c00201920307466f782044656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f35343833373736363031",
+        "bbox": {
+          "lon1": -96.9432247,
+          "lat1": 32.6776358,
+          "lon2": -96.9431247,
+          "lat2": 32.6777358
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Billiard Den",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Arapaho Road",
+        "housenumber": "580",
+        "iso3166_2": "US-TX",
+        "lon": -96.7377405,
+        "lat": 32.9645548,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21577.013909339774,
+        "formatted": "The Billiard Den, 580 West Arapaho Road, Richardson, TX 75080, United States of America",
+        "address_line1": "The Billiard Den",
+        "address_line2": "580 West Arapaho Road, Richardson, TX 75080, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X776+RW",
+        "plus_code_short": "X776+RW Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.934491069444785,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d21bee23372f58c05994991c88767b4040f00103f901155242cd02000000c002019203105468652042696c6c696172642044656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303333363130323631",
+        "bbox": {
+          "lon1": -96.7377905,
+          "lat1": 32.9645048,
+          "lon2": -96.7376905,
+          "lat2": 32.9646048
+        }
+      }
+    ],
+    "query": {
+      "text": "Foodies Den"
+    }
+  }
+}

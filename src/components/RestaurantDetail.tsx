@@ -1,17 +1,17 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import type { Restaurant, Review } from "../types";
+import type { RestaurantWithSaveState, Review } from "../types";
 import { Badge } from "./Badge";
 import { GemRating } from "./GemRating";
 import { ReviewForm } from "./ReviewForm";
 import { ShareSheet } from "./ShareSheet";
 
 interface RestaurantDetailProps {
-  restaurant: Restaurant;
+  restaurant: RestaurantWithSaveState;
   review?: Review;
   onClose: () => void;
   onSaveReview: (review: Review) => void;
-  onSetSaveState: (id: string, next: Restaurant["saveState"]) => void;
+  onSetSaveState: (id: string, next: RestaurantWithSaveState["saveState"]) => void;
 }
 
 export function RestaurantDetail({ restaurant, review, onClose, onSaveReview, onSetSaveState }: RestaurantDetailProps) {
@@ -38,7 +38,7 @@ export function RestaurantDetail({ restaurant, review, onClose, onSaveReview, on
           <div>
             <h2 className="font-display font-bold text-xl text-cream">{restaurant.name}</h2>
             <p className="text-sm text-muted font-body">
-              {restaurant.cuisine} · {restaurant.neighborhood}
+              {[restaurant.cuisine, restaurant.city].filter(Boolean).join(" · ")}
             </p>
           </div>
           <button
@@ -52,12 +52,19 @@ export function RestaurantDetail({ restaurant, review, onClose, onSaveReview, on
 
         <div className="p-5 flex flex-col gap-5">
           <div className="flex flex-wrap gap-1.5">
-            <Badge tone="emerald">{restaurant.pricePoint}</Badge>
-            {restaurant.dietaryTags.map((tag) => (
-              <Badge key={tag} tone={restaurant.heroColor}>
-                {tag}
-              </Badge>
-            ))}
+            {restaurant.pricePoint && <Badge tone="emerald">{restaurant.pricePoint}</Badge>}
+            {restaurant.scrapedRating != null && (
+              <Badge tone="topaz">★ {restaurant.scrapedRating.toFixed(1)}</Badge>
+            )}
+            {restaurant.halalStatus === "unverified" ? (
+              <Badge tone={restaurant.heroColor}>Unverified halal — help confirm below</Badge>
+            ) : (
+              restaurant.dietaryTags.map((tag) => (
+                <Badge key={tag} tone={restaurant.heroColor}>
+                  {tag}
+                </Badge>
+              ))
+            )}
           </div>
 
           <div className="flex flex-col gap-2.5 p-3.5 bg-base-elevated2 rounded-xl border border-base-border">

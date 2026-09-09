@@ -1,0 +1,104 @@
+{
+  "queriedName": "Smokey Beards BBQ",
+  "queriedAt": "2026-09-09T00:31:01.609Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Smokey John's BBQ",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Stemmons Corridor",
+        "iso3166_2": "US-TX",
+        "lon": -96.854354,
+        "lat": 32.821532,
+        "result_type": "amenity",
+        "distance": 7297.758945325976,
+        "postcode": "75235",
+        "formatted": "Smokey John's BBQ, Dallas, TX 75235, United States of America",
+        "address_line1": "Smokey John's BBQ",
+        "address_line2": "Dallas, TX 75235, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R4CW+J7",
+        "plus_code_short": "R4CW+J7, 75235 Dallas, United States",
+        "rank": {
+          "popularity": 5.792015211793431,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513c4d66bcad3658c059094fe8f527694040f00103f90107dccd3b01000000c00201920311536d6f6b6579204a6f686e277320424251e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35323938333134323437"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smokey John's BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75235",
+        "street": "West Mockingbird Lane",
+        "housenumber": "1820",
+        "iso3166_2": "US-TX",
+        "lon": -96.8543536,
+        "lat": 32.8215322,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7297.74656727441,
+        "formatted": "Smokey John's BBQ, 1820 West Mockingbird Lane, Dallas, TX 75235, United States of America",
+        "address_line1": "Smokey John's BBQ",
+        "address_line2": "1820 West Mockingbird Lane, Dallas, TX 75235, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R4CW+J7",
+        "plus_code_short": "R4CW+J7, 75235 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5112ceb8baad3658c05933ce95f727694040f00103f90107dccd3b01000000c00201920311536d6f6b6579204a6f686e277320424251",
+        "bbox": {
+          "lon1": -96.8544036,
+          "lat1": 32.8214822,
+          "lon2": -96.8543036,
+          "lat2": 32.8215822
+        }
+      }
+    ],
+    "query": {
+      "text": "Smokey Beards BBQ"
+    }
+  }
+}

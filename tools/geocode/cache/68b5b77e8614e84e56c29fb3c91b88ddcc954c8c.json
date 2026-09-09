@@ -1,0 +1,60 @@
+{
+  "queriedName": "Chino-Mex",
+  "queriedAt": "2026-09-09T00:30:45.522Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Chino Drive",
+        "street": "Chino Drive",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "iso3166_2": "US-TX",
+        "lon": -97.369684,
+        "lat": 32.992493,
+        "result_type": "street",
+        "distance": 58598.83344841278,
+        "postcode": "76052",
+        "formatted": "Chino Drive, Fort Worth, TX 76052, United States of America",
+        "address_line1": "Chino Drive",
+        "address_line2": "Fort Worth, TX 76052, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XJRJ+X4",
+        "plus_code_short": "XJRJ+X4 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.0539450696838477,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b07614e7a85758c0592541b8020a7f4040c0020492030b4368696e6f204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353539343335",
+        "bbox": {
+          "lon1": -97.37115,
+          "lat1": 32.99169,
+          "lon2": -97.369197,
+          "lat2": 32.993827
+        }
+      }
+    ],
+    "query": {
+      "text": "Chino-Mex"
+    }
+  }
+}

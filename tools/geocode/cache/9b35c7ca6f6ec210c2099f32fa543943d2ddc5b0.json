@@ -1,0 +1,274 @@
+{
+  "queriedName": "Tikka Bowls And Tacos",
+  "queriedAt": "2026-09-09T00:34:37.365Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Primo Tacos & Hot Dogs",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "North Akard Street",
+        "housenumber": "300",
+        "iso3166_2": "US-TX",
+        "lon": -96.7997129,
+        "lat": 32.7822768,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 639.2228028556324,
+        "formatted": "Primo Tacos & Hot Dogs, 300 North Akard Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Primo Tacos & Hot Dogs",
+        "address_line2": "300 North Akard Street, Dallas, TX 75201, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J2+W4",
+        "plus_code_short": "J2+W4, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511eec037f2e3358c059b3356ca521644040f00103f9014599b5f702000000c002019203165072696d6f205461636f73202620486f7420446f6773e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132373435383038313937",
+        "bbox": {
+          "lon1": -96.7997629,
+          "lat1": 32.7822268,
+          "lon2": -96.7996629,
+          "lat2": 32.7823268
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Los Primos Tacos & More",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75247",
+        "street": "Sharp Street",
+        "housenumber": "5012",
+        "iso3166_2": "US-TX",
+        "lon": -96.8714379,
+        "lat": 32.8086554,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Stemmons Corridor",
+        "result_type": "amenity",
+        "distance": 7797.7028427431305,
+        "formatted": "Los Primos Tacos & More, 5012 Sharp Street, Dallas, TX 75247, United States of America",
+        "address_line1": "Los Primos Tacos & More",
+        "address_line2": "5012 Sharp Street, Dallas, TX 75247, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R45H+FC",
+        "plus_code_short": "R45H+FC, 75247 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.714351248344694,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ad3f78a3c53758c059ed5d280582674040f00103f901f161f82c03000000c002019203174c6f73205072696d6f73205461636f732026204d6f7265e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363339333737333933",
+        "bbox": {
+          "lon1": -96.8714879,
+          "lat1": 32.8086054,
+          "lon2": -96.8713879,
+          "lat2": 32.8087054
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Nuno’s Tacos & Vegmex Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "Spring Valley Road",
+        "housenumber": "8024",
+        "iso3166_2": "US-TX",
+        "lon": -96.7681661,
+        "lat": 32.9392076,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 18236.657458186586,
+        "formatted": "Nuno’s Tacos & Vegmex Grill, 8024 Spring Valley Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Nuno’s Tacos & Vegmex Grill",
+        "address_line2": "8024 Spring Valley Road, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W6QJ+MP",
+        "plus_code_short": "W6QJ+MP Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.941365194040672,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51565925a2293158c059cc1363f437784040f00103f90103ec372402000000c0020192031d4e756e6fe2809973205461636f732026205665676d6578204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f39313937353739323637",
+        "bbox": {
+          "lon1": -96.7682161,
+          "lat1": 32.9391576,
+          "lon2": -96.7681161,
+          "lat2": 32.9392576
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Burnt BBQ & Tacos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "Custer Road",
+        "housenumber": "2929",
+        "iso3166_2": "US-TX",
+        "lon": -96.7352875,
+        "lat": 33.0404009,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 29850.089775211673,
+        "formatted": "Burnt BBQ & Tacos, 2929 Custer Road, Plano, TX 75075, United States of America",
+        "address_line1": "Burnt BBQ & Tacos",
+        "address_line2": "2929 Custer Road, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865527R7+5V",
+        "plus_code_short": "27R7+5V, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.821840030079864,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51166a4df30e2f58c0594f1d50db2b854040f00103f901f57b6e6102000000c002019203114275726e74204242512026205461636f73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323234353635323337",
+        "bbox": {
+          "lon1": -96.7353375,
+          "lat1": 33.0403509,
+          "lon2": -96.7352375,
+          "lat2": 33.0404509
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Papi's Tacos and More",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76116",
+        "street": "Alta Mere Drive",
+        "housenumber": "3520",
+        "iso3166_2": "US-TX",
+        "lon": -97.4420744,
+        "lat": 32.7203086,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Bomber Heights",
+        "result_type": "amenity",
+        "distance": 60656.24000199517,
+        "formatted": "Papi's Tacos and More, 3520 Alta Mere Drive, Fort Worth, TX 76116, United States of America",
+        "address_line1": "Papi's Tacos and More",
+        "address_line2": "3520 Alta Mere Drive, Fort Worth, TX 76116, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PHC5+45",
+        "plus_code_short": "PHC5+45 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.4488509804068768,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5186996cf24a5c58c05987037c12335c4040f00102f901e287d41d00000000c00201920315506170692773205461636f7320616e64204d6f7265e203216f70656e7374726565746d61703a76656e75653a7761792f353030343637363832",
+        "bbox": {
+          "lon1": -97.442141,
+          "lat1": 32.7202179,
+          "lon2": -97.4420087,
+          "lat2": 32.7204102
+        }
+      }
+    ],
+    "query": {
+      "text": "Tikka Bowls And Tacos"
+    }
+  }
+}

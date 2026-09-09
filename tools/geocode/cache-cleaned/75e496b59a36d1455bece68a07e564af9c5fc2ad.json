@@ -1,0 +1,281 @@
+{
+  "queriedName": "Big Guy's Bodega",
+  "queriedAt": "2026-09-09T00:44:42.654Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Big Guys Chicken and Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Elm Street",
+        "housenumber": "2614",
+        "iso3166_2": "US-TX",
+        "lon": -96.7858678,
+        "lat": 32.7840053,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1299.9495735397193,
+        "formatted": "Big Guys Chicken and Rice, 2614 Elm Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Big Guys Chicken and Rice",
+        "address_line2": "2614 Elm Street, Dallas, TX 75226, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M7+JM",
+        "plus_code_short": "Q6M7+JM, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.3837938884960295,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b0fe74a84b3258c05901b221495a644040f00102f901c24c5a4200000000c00201920319426967204775797320436869636b656e20616e642052696365e203226f70656e7374726565746d61703a76656e75653a7761792f31313133323134313436",
+        "bbox": {
+          "lon1": -96.7859257,
+          "lat1": 32.7838806,
+          "lon2": -96.7858099,
+          "lat2": 32.78413
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Five Guys",
+        "other_names": {
+          "official_name": "Five Guys Burgers and Fries"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "street": "East Northwest Highway",
+        "housenumber": "6451",
+        "iso3166_2": "US-TX",
+        "lon": -96.7505839,
+        "lat": 32.8578401,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Williamson/Caruth",
+        "result_type": "amenity",
+        "distance": 9980.809359614987,
+        "formatted": "Five Guys, 6451 East Northwest Highway, Dallas, TX 75231, United States of America",
+        "address_line1": "Five Guys",
+        "address_line2": "6451 East Northwest Highway, Dallas, TX 75231, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V65X+4Q",
+        "plus_code_short": "V65X+4Q, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.112230872191708,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ddd90d91093058c059435953b4cd6d4040f00103f90130f82aca02000000c00201920309466976652047757973e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393831373438323732",
+        "bbox": {
+          "lon1": -96.7506339,
+          "lat1": 32.8577901,
+          "lon2": -96.7505339,
+          "lat2": 32.8578901
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Five Guys",
+        "other_names": {
+          "official_name": "Five Guys Burgers and Fries"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75150",
+        "street": "North Town East Boulevard",
+        "housenumber": "1725",
+        "iso3166_2": "US-TX",
+        "lon": -96.6254869,
+        "lat": 32.8108548,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16467.929819446927,
+        "formatted": "Five Guys, 1725 North Town East Boulevard, Mesquite, TX 75150, United States of America",
+        "address_line1": "Five Guys",
+        "address_line2": "1725 North Town East Boulevard, Mesquite, TX 75150, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R96F+8R",
+        "plus_code_short": "R96F+8R, 75150 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "popularity": 5.273776481709095,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e4e434fa072858c059fee60f17ca674040f00103f901350d2ece01000000c00201920309466976652047757973e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37373534303931383239",
+        "bbox": {
+          "lon1": -96.6255369,
+          "lat1": 32.8108048,
+          "lon2": -96.6254369,
+          "lat2": 32.8109048
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Big Guys Bodega",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "East Harwood Road",
+        "housenumber": "1001",
+        "iso3166_2": "US-TX",
+        "lon": -97.0665614,
+        "lat": 32.8521281,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Tarrant",
+        "result_type": "amenity",
+        "distance": 26539.965308684932,
+        "formatted": "Big Guys Bodega, 1001 East Harwood Road, Euless, TX 76039, United States of America",
+        "address_line1": "Big Guys Bodega",
+        "address_line2": "1001 East Harwood Road, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW2M+V9",
+        "plus_code_short": "VW2M+V9 Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.387871284497312,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51430bbf8a424458c05956c09888126d4040f00103f9017fc3f33303000000c0020192030f426967204775797320426f64656761e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373536353135313939",
+        "bbox": {
+          "lon1": -97.0666114,
+          "lat1": 32.8520781,
+          "lon2": -97.0665114,
+          "lat2": 32.8521781
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Big Guys Chicken & Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "East Harwood Road",
+        "housenumber": "1001",
+        "iso3166_2": "US-TX",
+        "lon": -97.0666594,
+        "lat": 32.8521283,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Tarrant",
+        "result_type": "amenity",
+        "distance": 26548.665160185992,
+        "formatted": "Big Guys Chicken & Rice, 1001 East Harwood Road, Euless, TX 76039, United States of America",
+        "address_line1": "Big Guys Chicken & Rice",
+        "address_line2": "1001 East Harwood Road, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW2M+V8",
+        "plus_code_short": "VW2M+V8 Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.387871284497312,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5125bec925444458c0597f3f468a126d4040f00103f9010706ac6202000000c00201920317426967204775797320436869636b656e20262052696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435333735343935",
+        "bbox": {
+          "lon1": -97.0667094,
+          "lat1": 32.8520783,
+          "lon2": -97.0666094,
+          "lat2": 32.8521783
+        }
+      }
+    ],
+    "query": {
+      "text": "Big Guy's Bodega"
+    }
+  }
+}

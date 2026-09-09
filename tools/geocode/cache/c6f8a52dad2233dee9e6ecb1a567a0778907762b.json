@@ -1,0 +1,119 @@
+{
+  "queriedName": "Layne's Chicken Fingers- Allen",
+  "queriedAt": "2026-09-09T00:34:22.195Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "Central Expressway South",
+        "housenumber": "102",
+        "iso3166_2": "US-TX",
+        "lon": -96.6795738,
+        "lat": 33.1012826,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Layne's Chicken Fingers, 102 Central Expressway South, Allen, TX 75013, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "102 Central Expressway South, Allen, TX 75013, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655482C+G5",
+        "plus_code_short": "2C+G5 Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.868372787653019,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb8d1b237e2b58c059b15307d4f68c4040f00102f901453ba02200000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -96.6797227,
+          "lat1": 33.1012322,
+          "lon2": -96.6794453,
+          "lat2": 33.1013616
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Allen",
+        "other_names": {
+          "name:ko": "앨런"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "iso3166_2": "US-TX",
+        "lon": -96.6705503,
+        "lat": 33.1031744,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 38140.311731219364,
+        "formatted": "Allen, TX, United States of America",
+        "address_line1": "Allen, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655483H+7Q",
+        "plus_code_short": "+7Q Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.5239251961629158,
+          "popularity": 4.950436807160736,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51ac34ce4bea2a58c05968e498d1348d4040f00101f901e665640000000000c00208920305416c6c656e",
+        "bbox": {
+          "lon1": -96.7366668,
+          "lat1": 33.0708371,
+          "lon2": -96.608809,
+          "lat2": 33.1580078
+        }
+      }
+    ],
+    "query": {
+      "text": "Layne's Chicken Fingers- Allen",
+      "parsed": {
+        "house": "layne's chicken fingers",
+        "city": "allen",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

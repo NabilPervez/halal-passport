@@ -1,0 +1,258 @@
+{
+  "queriedName": "Heritage Scoop - Plano",
+  "queriedAt": "2026-09-09T00:30:58.533Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Heritage Park",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.73111,
+        "lat": 33.01873,
+        "result_type": "amenity",
+        "distance": 27574.16374793993,
+        "formatted": "Heritage Park, Plano, TX, United States of America",
+        "address_line1": "Heritage Park",
+        "address_line2": "Plano, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552799+FH",
+        "plus_code_short": "2799+FH Plano, Collin County, United States",
+        "rank": {
+          "popularity": 4.905727847896837,
+          "confidence": 0.6954545454545454,
+          "confidence_city_level": 0.23076923076923078,
+          "match_type": "full_match"
+        },
+        "place_id": "51d4f19881ca2e58c0591fbaa0be65824040c0020192030d4865726974616765205061726be2031667656f6e616d65733a76656e75653a34363937323439"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Heritage Farmstead Museum",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "West 15th Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.7315817,
+        "lat": 33.0191999,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27615.322608442406,
+        "formatted": "Heritage Farmstead Museum, West 15th Street, Plano, TX 75075, United States of America",
+        "address_line1": "Heritage Farmstead Museum",
+        "address_line2": "West 15th Street, Plano, TX 75075, United States of America",
+        "category": "entertainment.museum",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552799+M9",
+        "plus_code_short": "2799+M9, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.905727847896837,
+          "confidence": 0.625909090909091,
+          "confidence_city_level": 0.23076923076923078,
+          "match_type": "full_match"
+        },
+        "place_id": "5189f60c3cd22e58c059114b6f2475824040f00103f901b0c0f11500000000c002019203194865726974616765204661726d7374656164204d757365756de203226f70656e7374726565746d61703a76656e75653a6e6f64652f333638313635303430",
+        "bbox": {
+          "lon1": -96.7316317,
+          "lat1": 33.0191499,
+          "lon2": -96.7315317,
+          "lat2": 33.0192499
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Heritage Yards at Plano",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "housenumber": "4525",
+        "iso3166_2": "US-TX",
+        "lon": -96.7851174,
+        "lat": 33.0879355,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34592.2782463889,
+        "formatted": "Heritage Yards at Plano, 4525, Plano, TX 75024, United States of America",
+        "address_line1": "Heritage Yards at Plano",
+        "address_line2": "4525, Plano, TX 75024, United States of America",
+        "category": "leisure.park",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865536Q7+5X",
+        "plus_code_short": "36Q7+5X, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.08006374380102232,
+          "confidence": 0.5633181818181818,
+          "confidence_city_level": 0.23076923076923078,
+          "match_type": "full_match"
+        },
+        "place_id": "5151210d5d3f3258c05926547078418b4040f00102f9010719e11e00000000c00201920317486572697461676520596172647320617420506c616e6f",
+        "bbox": {
+          "lon1": -96.7885342,
+          "lat1": 33.0862982,
+          "lon2": -96.7816951,
+          "lat2": 33.0900483
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Heritage Yards at Plano",
+        "housenumber": "4525",
+        "street": "Hedgcoxe Road",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75024",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.785121,
+        "lat": 33.089274,
+        "result_type": "amenity",
+        "distance": 34741.02569654531,
+        "formatted": "Heritage Yards at Plano, 4525 Hedgcoxe Road, Plano, TX 75024, United States of America",
+        "address_line1": "Heritage Yards at Plano",
+        "address_line2": "4525 Hedgcoxe Road, Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865536Q7+PX",
+        "plus_code_short": "36Q7+PX, 75024 Plano, United States",
+        "rank": {
+          "popularity": 4.764352007978497,
+          "confidence": 0.2166608391608392,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.38461538461538464,
+          "match_type": "full_match"
+        },
+        "place_id": "51c899266c3f3258c0590a3197546d8b4040f00102f9010719e11e00000000c00201920317486572697461676520596172647320617420506c616e6fe203216f70656e7374726565746d61703a76656e75653a7761792f353138303638343837",
+        "bbox": {
+          "lon1": -96.7885342,
+          "lat1": 33.0862982,
+          "lon2": -96.7816951,
+          "lat2": 33.0900483
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Heritage Drive",
+        "street": "Heritage Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.697456,
+        "lat": 33.055009,
+        "result_type": "street",
+        "distance": 32279.515609151,
+        "postcode": "75023",
+        "formatted": "Heritage Drive, Plano, TX 75023, United States of America",
+        "address_line1": "Heritage Drive",
+        "address_line2": "Plano, TX 75023, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553843+22",
+        "plus_code_short": "3843+22, 75023 Plano, United States",
+        "rank": {
+          "popularity": 4.757892486281949,
+          "confidence": 0.06439393939393939,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "5189997d1ea32c58c0592afeef880a874040c0020492030e4865726974616765204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230333932383336",
+        "bbox": {
+          "lon1": -96.699273,
+          "lat1": 33.054705,
+          "lon2": -96.695756,
+          "lat2": 33.055078
+        }
+      }
+    ],
+    "query": {
+      "text": "Heritage Scoop - Plano"
+    }
+  }
+}

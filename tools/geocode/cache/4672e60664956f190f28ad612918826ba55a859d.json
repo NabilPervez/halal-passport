@@ -1,0 +1,63 @@
+{
+  "queriedName": "Shawarma way",
+  "queriedAt": "2026-09-09T00:32:51.385Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Way",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Valley Ranch",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "10045",
+        "iso3166_2": "US-TX",
+        "lon": -96.9527749,
+        "lat": 32.9428419,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23489.668518668976,
+        "formatted": "Shawarma Way, 10045 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Shawarma Way",
+        "address_line2": "10045 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2VW+4V",
+        "plus_code_short": "W2VW+4V Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.448199862249806,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c7fc9243fa3c58c05935e61a0baf784040f00103f9014736b63003000000c0020192030c5368617761726d6120576179",
+        "bbox": {
+          "lon1": -96.9528249,
+          "lat1": 32.9427919,
+          "lon2": -96.9527249,
+          "lat2": 32.9428919
+        }
+      }
+    ],
+    "query": {
+      "text": "Shawarma way"
+    }
+  }
+}

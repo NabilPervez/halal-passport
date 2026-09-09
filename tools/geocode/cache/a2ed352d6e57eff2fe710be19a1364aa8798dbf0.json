@@ -1,0 +1,62 @@
+{
+  "queriedName": "Yummy Burgers & BBQ",
+  "queriedAt": "2026-09-09T00:40:15.921Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Yummy Burgers & BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "South Central Expressway",
+        "housenumber": "210",
+        "iso3166_2": "US-TX",
+        "lon": -96.6800396,
+        "lat": 33.0994883,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37483.46422035897,
+        "formatted": "Yummy Burgers & BBQ, 210 South Central Expressway, Allen, TX 75013, United States of America",
+        "address_line1": "Yummy Burgers & BBQ",
+        "address_line2": "210 South Central Expressway, Allen, TX 75013, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865538X9+QX",
+        "plus_code_short": "X9+QX Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 5.005605285795478,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51097fd0c4852b58c059d56a5908bc8c4040f00103f901f974e12402000000c0020192031359756d6d792042757267657273202620424251",
+        "bbox": {
+          "lon1": -96.6800896,
+          "lat1": 33.0994383,
+          "lon2": -96.6799896,
+          "lat2": 33.0995383
+        }
+      }
+    ],
+    "query": {
+      "text": "Yummy Burgers & BBQ"
+    }
+  }
+}

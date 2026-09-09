@@ -1,0 +1,61 @@
+{
+  "queriedName": "S&S CHEESESTEAKS",
+  "queriedAt": "2026-09-09T00:45:50.943Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "S&S CheeseSteaks",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76013",
+        "street": "West Pioneer Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -97.1180473,
+        "lat": 32.7089555,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30965.116321487792,
+        "formatted": "S&S CheeseSteaks, West Pioneer Parkway, Arlington, TX 76013, United States of America",
+        "address_line1": "S&S CheeseSteaks",
+        "address_line2": "West Pioneer Parkway, Arlington, TX 76013, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PV5J+HQ",
+        "plus_code_short": "PV5J+HQ, 76013 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.676320615774341,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51643843168e4758c059e068c70dbf5a4040f00102f901b8f1eb4a00000000c0020192031053265320436865657365537465616b73",
+        "bbox": {
+          "lon1": -97.1180832,
+          "lat1": 32.7089107,
+          "lon2": -97.1180115,
+          "lat2": 32.7090002
+        }
+      }
+    ],
+    "query": {
+      "text": "S&S CHEESESTEAKS"
+    }
+  }
+}

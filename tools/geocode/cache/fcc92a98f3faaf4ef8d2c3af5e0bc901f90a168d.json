@@ -1,0 +1,272 @@
+{
+  "queriedName": "Stucky’s food and Motel",
+  "queriedAt": "2026-09-09T00:31:13.847Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ly Food oriental food and Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "West Illinois Avenue",
+        "housenumber": "4440",
+        "iso3166_2": "US-TX",
+        "lon": -96.8923755,
+        "lat": 32.7190043,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 11006.716118200682,
+        "formatted": "Ly Food oriental food and Market, 4440 West Illinois Avenue, Dallas, TX 75211, United States of America",
+        "address_line1": "Ly Food oriental food and Market",
+        "address_line2": "4440 West Illinois Avenue, Dallas, TX 75211, United States of America",
+        "category": "commercial.marketplace",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P495+J2",
+        "plus_code_short": "P495+J2, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.2151311399620734,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b1021ae1c3958c05979173955085c4040f00102f9010f29d91b00000000c002019203204c7920466f6f64206f7269656e74616c20666f6f6420616e64204d61726b6574e203216f70656e7374726565746d61703a76656e75653a7761792f343637323136363535",
+        "bbox": {
+          "lon1": -96.8924686,
+          "lat1": 32.7188545,
+          "lon2": -96.8922825,
+          "lat2": 32.7191554
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sabaidee Lao & Thai Street Food",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75254",
+        "street": "Spring Valley Road",
+        "housenumber": "5365",
+        "iso3166_2": "US-TX",
+        "lon": -96.8157292,
+        "lat": 32.9398314,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 18190.36815677862,
+        "formatted": "Sabaidee Lao & Thai Street Food, 5365 Spring Valley Road, Dallas, TX 75254, United States of America",
+        "address_line1": "Sabaidee Lao & Thai Street Food",
+        "address_line2": "5365 Spring Valley Road, Dallas, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5QM+WP",
+        "plus_code_short": "W5QM+WP, 75254 Dallas, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.454952279061303,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b193fe8343458c059806033654c784040f00103f90190d739a600000000c0020192031f5361626169646565204c616f202620546861692053747265657420466f6f64e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32373838383038353932",
+        "bbox": {
+          "lon1": -96.8157792,
+          "lat1": 32.9397814,
+          "lon2": -96.8156792,
+          "lat2": 32.9398814
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "CRÚ Food & Wine Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "75261",
+        "street": "Terminal D",
+        "housenumber": "2400",
+        "iso3166_2": "US-TX",
+        "lon": -97.0447068,
+        "lat": 32.8989357,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 26821.83799602165,
+        "formatted": "CRÚ Food & Wine Bar, 2400 Terminal D, Grapevine, TX 75261, United States of America",
+        "address_line1": "CRÚ Food & Wine Bar",
+        "address_line2": "2400 Terminal D, Grapevine, TX 75261, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VXX4+H4",
+        "plus_code_short": "VXX4+H4 Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.332546645392331,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512afae879dc4258c0597b5a345310734040f00103f901c493ee1201000000c002019203144352c39a20466f6f6420262057696e6520426172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f34363132353932353830",
+        "bbox": {
+          "lon1": -97.0447568,
+          "lat1": 32.8988857,
+          "lon2": -97.0446568,
+          "lat2": 32.8989857
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Utopia Food & Fitness",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Southlake",
+        "postcode": "76092",
+        "street": "East Southlake Boulevard",
+        "housenumber": "2777",
+        "iso3166_2": "US-TX",
+        "lon": -97.1084545,
+        "lat": 32.9374626,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 34127.677598630384,
+        "formatted": "Utopia Food & Fitness, 2777 East Southlake Boulevard, Southlake, TX 76092, United States of America",
+        "address_line1": "Utopia Food & Fitness",
+        "address_line2": "2777 East Southlake Boulevard, Southlake, TX 76092, United States of America",
+        "category": "sport.fitness.fitness_centre",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WVPR+XJ",
+        "plus_code_short": "WVPR+XJ Southlake, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005686503395127821,
+          "popularity": 4.329231180259999,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a8a624ebf04658c059901c44c6fe774040f00103f90174e5c56f01000000c0020192031555746f70696120466f6f642026204669746e657373e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36313730323037363034",
+        "bbox": {
+          "lon1": -97.1085045,
+          "lat1": 32.9374126,
+          "lon2": -97.1084045,
+          "lat2": 32.9375126
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "CRÚ Food & Wine Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76109",
+        "suburb": "The Shops at Clearfork",
+        "street": "Marathon Avenue",
+        "housenumber": "5188",
+        "iso3166_2": "US-TX",
+        "lon": -97.3992107,
+        "lat": 32.709726,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 56817.092931400926,
+        "formatted": "CRÚ Food & Wine Bar, 5188 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "address_line1": "CRÚ Food & Wine Bar",
+        "address_line2": "5188 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PJ52+V8",
+        "plus_code_short": "PJ52+V8 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.5986948595636483,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a62d09ab8c5958c0597a8f334dd85a4040f00103f9010044a5aa01000000c002019203144352c39a20466f6f6420262057696e6520426172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37313537393234383634",
+        "bbox": {
+          "lon1": -97.3992607,
+          "lat1": 32.709676,
+          "lon2": -97.3991607,
+          "lat2": 32.709776
+        }
+      }
+    ],
+    "query": {
+      "text": "Stucky’s food and Motel"
+    }
+  }
+}

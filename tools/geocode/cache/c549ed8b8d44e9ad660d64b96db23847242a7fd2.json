@@ -1,0 +1,63 @@
+{
+  "queriedName": "Swagath Biryanis Indian Cuisine",
+  "queriedAt": "2026-09-09T00:40:53.867Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Swagath Birynais",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "8600",
+        "iso3166_2": "US-TX",
+        "lon": -96.9536201,
+        "lat": 32.9238742,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21926.575139260378,
+        "formatted": "Swagath Birynais, 8600 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Swagath Birynais",
+        "address_line2": "8600 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2FW+GH",
+        "plus_code_short": "W2FW+GH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.571610780640153,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ba93991c083d58c059204f818241764040f00103f9016f92b82d02000000c002019203105377616761746820426972796e616973e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39333537303035343233",
+        "bbox": {
+          "lon1": -96.9536701,
+          "lat1": 32.9238242,
+          "lon2": -96.9535701,
+          "lat2": 32.9239242
+        }
+      }
+    ],
+    "query": {
+      "text": "Swagath Biryanis Indian Cuisine"
+    }
+  }
+}

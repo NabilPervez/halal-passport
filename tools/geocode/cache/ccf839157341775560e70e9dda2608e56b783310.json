@@ -1,0 +1,62 @@
+{
+  "queriedName": "Big Guys Chicken & Rice",
+  "queriedAt": "2026-09-09T00:37:06.067Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Big Guys Chicken & Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "East Harwood Road",
+        "housenumber": "1001",
+        "iso3166_2": "US-TX",
+        "lon": -97.0666594,
+        "lat": 32.8521283,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26548.665160185992,
+        "formatted": "Big Guys Chicken & Rice, 1001 East Harwood Road, Euless, TX 76039, United States of America",
+        "address_line1": "Big Guys Chicken & Rice",
+        "address_line2": "1001 East Harwood Road, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW2M+V8",
+        "plus_code_short": "VW2M+V8 Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.387871284497312,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5125bec925444458c0597f3f468a126d4040f00103f9010706ac6202000000c00201920317426967204775797320436869636b656e20262052696365",
+        "bbox": {
+          "lon1": -97.0667094,
+          "lat1": 32.8520783,
+          "lon2": -97.0666094,
+          "lat2": 32.8521783
+        }
+      }
+    ],
+    "query": {
+      "text": "Big Guys Chicken & Rice"
+    }
+  }
+}

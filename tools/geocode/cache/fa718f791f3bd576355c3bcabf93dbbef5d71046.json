@@ -1,0 +1,273 @@
+{
+  "queriedName": "Chai Stop",
+  "queriedAt": "2026-09-09T00:33:10.179Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "RedCoach Bus Stop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "district": "West End Historic District",
+        "suburb": "Downtown PID",
+        "street": "South Griffin Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.8019408,
+        "lat": 32.7752961,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 499.27124522455813,
+        "formatted": "RedCoach Bus Stop, South Griffin Street, Dallas, TX 75202, United States of America",
+        "address_line1": "RedCoach Bus Stop",
+        "address_line2": "South Griffin Street, Dallas, TX 75202, United States of America",
+        "category": "public_transport.bus",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5GX+46",
+        "plus_code_short": "GX+46, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.80387232675454,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ff5481ff523358c059b11b11e73c634040f00103f9013975ac6102000000c00201920311526564436f616368204275732053746f70e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323238363236373435",
+        "bbox": {
+          "lon1": -96.8019908,
+          "lat1": 32.7752461,
+          "lon2": -96.8018908,
+          "lat2": 32.7753461
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Brake Stop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "suburb": "Old East Dallas",
+        "street": "Live Oak Street",
+        "housenumber": "4308",
+        "iso3166_2": "US-TX",
+        "lon": -96.7774395,
+        "lat": 32.7979588,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 2962.2244178794267,
+        "formatted": "Brake Stop, 4308 Live Oak Street, Dallas, TX 75206, United States of America",
+        "address_line1": "Brake Stop",
+        "address_line2": "4308 Live Oak Street, Dallas, TX 75206, United States of America",
+        "category": "commercial;service.vehicle.repair.car",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6XF+52",
+        "plus_code_short": "Q6XF+52, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.857386020573363,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5197c79a91c13158c05918c7928323664040f00102f901d6d6612a00000000c0020192030a4272616b652053746f70e203216f70656e7374726565746d61703a76656e75653a7761792f373131303535303632",
+        "bbox": {
+          "lon1": -96.7775911,
+          "lat1": 32.7978319,
+          "lon2": -96.777288,
+          "lat2": 32.7980857
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ship Stop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Campbell Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.7089422,
+        "lat": 32.9759563,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23601.89784015434,
+        "formatted": "Ship Stop, East Campbell Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Ship Stop",
+        "address_line2": "East Campbell Road, Richardson, TX 75081, United States of America",
+        "category": "service.post.office",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7GR+9C",
+        "plus_code_short": "X7GR+9C Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.497679008112838,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5146f01a4f5f2d58c0599f69d322ec7c4040f00103f901dbb5714601000000c00201920309536869702053746f70e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35343736383234353339",
+        "bbox": {
+          "lon1": -96.7089922,
+          "lat1": 32.9759063,
+          "lon2": -96.7088922,
+          "lat2": 32.9760063
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hold My Chai",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75035",
+        "street": "Independence Parkway",
+        "housenumber": "5266",
+        "iso3166_2": "US-TX",
+        "lon": -96.7499616,
+        "lat": 33.1209502,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 38496.59905800515,
+        "formatted": "Hold My Chai, 5266 Independence Parkway, Frisco, TX 75035, United States of America",
+        "address_line1": "Hold My Chai",
+        "address_line2": "5266 Independence Parkway, Frisco, TX 75035, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865547C2+92",
+        "plus_code_short": "47C2+92, 75035 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.392106348516058,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516050f05eff2f58c059ebb8d04b7b8f4040f00103f901f992052603000000c0020192030c486f6c64204d792043686169e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353232383031343031",
+        "bbox": {
+          "lon1": -96.7500116,
+          "lat1": 33.1209002,
+          "lon2": -96.7499116,
+          "lat2": 33.1210002
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Stop 2",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76196",
+        "district": "Downtown Fort Worth",
+        "suburb": "Sundance Square",
+        "street": "Trinity Trail",
+        "iso3166_2": "US-TX",
+        "lon": -97.342188,
+        "lat": 32.7570262,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 51024.21842257925,
+        "formatted": "Stop 2, Trinity Trail, Fort Worth, TX 76196, United States of America",
+        "address_line1": "Stop 2",
+        "address_line2": "Trinity Trail, Fort Worth, TX 76196, United States of America",
+        "category": "building",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QM45+R4",
+        "plus_code_short": "QM45+R4 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 4.593748009015427,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515a457f68e65558c0598a9b093ce6604040f00102f901842cea4d00000000c0020192030653746f702032e203226f70656e7374726565746d61703a76656e75653a7761792f31333037313932343532",
+        "bbox": {
+          "lon1": -97.3422673,
+          "lat1": 32.7569547,
+          "lon2": -97.3421086,
+          "lat2": 32.7570977
+        }
+      }
+    ],
+    "query": {
+      "text": "Chai Stop"
+    }
+  }
+}

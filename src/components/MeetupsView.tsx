@@ -1,16 +1,16 @@
 import { useState, useEffect } from "react";
-import type { Meetup, Restaurant } from "../types";
-import { getAllMeetups, getAllRestaurants } from "../lib/db";
+import type { Meetup, RestaurantWithSaveState } from "../types";
+import { getAllMeetups, getAllRestaurantsWithState } from "../lib/db";
 import { Badge } from "./Badge";
 
 export function MeetupsView() {
   const [meetups, setMeetups] = useState<Meetup[]>([]);
-  const [restaurants, setRestaurants] = useState<Record<string, Restaurant>>({});
+  const [restaurants, setRestaurants] = useState<Record<string, RestaurantWithSaveState>>({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     (async () => {
-      const [m, r] = await Promise.all([getAllMeetups(), getAllRestaurants()]);
+      const [m, r] = await Promise.all([getAllMeetups(), getAllRestaurantsWithState()]);
       setMeetups(m);
       setRestaurants(Object.fromEntries(r.map((x) => [x.id, x])));
       setLoading(false);

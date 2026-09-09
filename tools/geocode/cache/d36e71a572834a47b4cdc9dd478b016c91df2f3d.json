@@ -1,0 +1,247 @@
+{
+  "queriedName": "Delucca Gaucho Pizza & Wine Southlake",
+  "queriedAt": "2026-09-09T00:36:49.421Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Olivella's Pizza and Wine",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Caruth Terrace",
+        "iso3166_2": "US-TX",
+        "lon": -96.75115,
+        "lat": 32.837009,
+        "result_type": "amenity",
+        "distance": 7930.147222920281,
+        "postcode": "75214",
+        "formatted": "Olivella's Pizza and Wine, Dallas, TX 75214, United States of America",
+        "address_line1": "Olivella's Pizza and Wine",
+        "address_line2": "Dallas, TX 75214, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PX+RG",
+        "plus_code_short": "R6PX+RG, 75214 Dallas, United States",
+        "rank": {
+          "popularity": 4.936477485103446,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fc1873d7123058c05995ba641c236b4040f00103f9017b8e0e8202000000c002019203194f6c6976656c6c6127732050697a7a6120616e642057696e65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373731393236363531"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Olivella's Pizza and Wine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6465",
+        "iso3166_2": "US-TX",
+        "lon": -96.7511503,
+        "lat": 32.8370093,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7930.160137683735,
+        "formatted": "Olivella's Pizza and Wine, 6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Olivella's Pizza and Wine",
+        "address_line2": "6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PX+RG",
+        "plus_code_short": "R6PX+RG, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515c38b5d8123058c05953f9e81e236b4040f00103f9017b8e0e8202000000c002019203194f6c6976656c6c6127732050697a7a6120616e642057696e65",
+        "bbox": {
+          "lon1": -96.7512003,
+          "lat1": 32.8369593,
+          "lon2": -96.7511003,
+          "lat2": 32.8370593
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Delucca Gaucho Pizza & Wine",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.804832,
+        "lat": 33.090755,
+        "result_type": "amenity",
+        "distance": 34895.66824359385,
+        "postcode": "75024",
+        "formatted": "Delucca Gaucho Pizza & Wine, Plano, TX 75024, United States of America",
+        "address_line1": "Delucca Gaucho Pizza & Wine",
+        "address_line2": "Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+83",
+        "plus_code_short": "35RW+83, 75024 Plano, United States",
+        "rank": {
+          "popularity": 5.002817091782242,
+          "confidence": 0.8333333333333334,
+          "match_type": "full_match"
+        },
+        "place_id": "518eb1135e823358c05968791edc9d8b4040f00103f9015b17213703000000c0020192031b44656c756363612047617563686f2050697a7a6120262057696e65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133383039383137343335"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Delucca Gaucho Pizza & Wine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "housenumber": "8240",
+        "iso3166_2": "US-TX",
+        "lon": -96.8048315,
+        "lat": 33.0907549,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34895.65614916371,
+        "formatted": "Delucca Gaucho Pizza & Wine, 8240 Preston Road, Plano, TX 75024, United States of America",
+        "address_line1": "Delucca Gaucho Pizza & Wine",
+        "address_line2": "8240 Preston Road, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+83",
+        "plus_code_short": "35RW+83, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "confidence": 0.8333333333333334,
+          "match_type": "full_match"
+        },
+        "place_id": "519ad2fa5b823358c059d3b947db9d8b4040f00103f9015b17213703000000c0020192031b44656c756363612047617563686f2050697a7a6120262057696e65",
+        "bbox": {
+          "lon1": -96.8048815,
+          "lat1": 33.0907049,
+          "lon2": -96.8047815,
+          "lat2": 33.0908049
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Coal Vines Pizza and Wine Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Southlake",
+        "postcode": "76092",
+        "street": "East Southlake Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -97.1326183,
+        "lat": 32.940602,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 36244.461119044914,
+        "formatted": "Coal Vines Pizza and Wine Bar, East Southlake Boulevard, Southlake, TX 76092, United States of America",
+        "address_line1": "Coal Vines Pizza and Wine Bar",
+        "address_line2": "East Southlake Boulevard, Southlake, TX 76092, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WVR8+6X",
+        "plus_code_short": "R8+6X Southlake, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005686503395127821,
+          "popularity": 4.05999279423179,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51795677d17c4858c059ae4676a565784040f00103f9018824c38102000000c0020192031d436f616c2056696e65732050697a7a6120616e642057696e6520426172e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373636393834333238",
+        "bbox": {
+          "lon1": -97.1326683,
+          "lat1": 32.940552,
+          "lon2": -97.1325683,
+          "lat2": 32.940652
+        }
+      }
+    ],
+    "query": {
+      "text": "Delucca Gaucho Pizza & Wine Southlake"
+    }
+  }
+}

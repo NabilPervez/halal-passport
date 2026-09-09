@@ -1,0 +1,257 @@
+{
+  "queriedName": "Chop House Gyro - Plano",
+  "queriedAt": "2026-09-09T00:42:36.277Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chop House Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1501",
+        "iso3166_2": "US-TX",
+        "lon": -96.79944,
+        "lat": 32.7807383,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 474.1582406829587,
+        "formatted": "Chop House Burger, 1501 Main Street, Dallas, TX 75202, United States of America",
+        "address_line1": "Chop House Burger",
+        "address_line2": "1501 Main Street, Dallas, TX 75202, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J2+76",
+        "plus_code_short": "J2+76, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0.12391304347826086,
+          "confidence_city_level": 0.16666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "5150c763062a3358c059099e8c3bef634040f00103f9012cc974d200000000c0020192031143686f7020486f75736520427572676572e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33353330383639303336",
+        "bbox": {
+          "lon1": -96.79949,
+          "lat1": 32.7806883,
+          "lon2": -96.79939,
+          "lat2": 32.7807883
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chamberlain's Steak and Chop House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75254",
+        "street": "Belt Line Road",
+        "housenumber": "5330",
+        "iso3166_2": "US-TX",
+        "lon": -96.8147727,
+        "lat": 32.9536787,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19715.804067166042,
+        "formatted": "Chamberlain's Steak and Chop House, 5330 Belt Line Road, Addison, TX 75254, United States of America",
+        "address_line1": "Chamberlain's Steak and Chop House",
+        "address_line2": "5330 Belt Line Road, Addison, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X53P+F3",
+        "plus_code_short": "3P+F3, 75254 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.744250756007157,
+          "confidence": 0.011152173913043479,
+          "confidence_city_level": 0.16666666666666666,
+          "confidence_street_level": 0.018518518518518517,
+          "match_type": "full_match"
+        },
+        "place_id": "511d0b653c253458c05926b2c524127a4040f00103f901747bb87c00000000c002019203224368616d6265726c61696e277320537465616b20616e642043686f7020486f757365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32303932343635303132",
+        "bbox": {
+          "lon1": -96.8148227,
+          "lat1": 32.9536287,
+          "lon2": -96.8147227,
+          "lat2": 32.9537287
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Gyro & Burrito House",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Tarrant",
+        "iso3166_2": "US-TX",
+        "lon": -97.057544,
+        "lat": 32.821675,
+        "result_type": "amenity",
+        "distance": 24853.916063951838,
+        "postcode": "76155",
+        "formatted": "Gyro & Burrito House, Fort Worth, TX 76155, United States of America",
+        "address_line1": "Gyro & Burrito House",
+        "address_line2": "Fort Worth, TX 76155, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWCR+MX",
+        "plus_code_short": "RWCR+MX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.255403404039043,
+          "confidence": 0.4877960869565218,
+          "confidence_city_level": 0.2082857142857143,
+          "match_type": "full_match"
+        },
+        "place_id": "512f8507cdae4358c0596c787aa52c694040f00103f901b5f10b0702000000c002019203144779726f2026204275727269746f20486f757365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38373038313537383737"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro & Burrito House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76155",
+        "street": "Trinity Boulevard",
+        "housenumber": "14150",
+        "iso3166_2": "US-TX",
+        "lon": -97.0575437,
+        "lat": 32.8216745,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24853.877544205337,
+        "formatted": "Gyro & Burrito House, 14150 Trinity Boulevard, Fort Worth, TX 76155, United States of America",
+        "address_line1": "Gyro & Burrito House",
+        "address_line2": "14150 Trinity Boulevard, Fort Worth, TX 76155, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWCR+MX",
+        "plus_code_short": "RWCR+MX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "confidence": 0.19118012422360248,
+          "confidence_city_level": 0.2857142857142857,
+          "match_type": "full_match"
+        },
+        "place_id": "51d065c5cbae4358c05984ba48a12c694040f00103f901b5f10b0702000000c002019203144779726f2026204275727269746f20486f757365",
+        "bbox": {
+          "lon1": -97.0575937,
+          "lat1": 32.8216245,
+          "lon2": -97.0574937,
+          "lat2": 32.8217245
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Bob's Steak and Chop House",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.82033,
+        "lat": 33.07742,
+        "result_type": "amenity",
+        "distance": 33476.11711809054,
+        "postcode": "79093",
+        "formatted": "Bob's Steak and Chop House, Plano, TX 79093, United States of America",
+        "address_line1": "Bob's Steak and Chop House",
+        "address_line2": "Plano, TX 79093, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535GH+XV",
+        "plus_code_short": "35GH+XV, 79093 Plano, United States",
+        "rank": {
+          "popularity": 5.038039379768765,
+          "confidence": 0.6022173913043479,
+          "confidence_city_level": 0.16666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "515f7b6649803458c059350708e6e8894040c0020192031a426f62277320537465616b20616e642043686f7020486f757365e2031767656f6e616d65733a76656e75653a3130333033333933"
+      }
+    ],
+    "query": {
+      "text": "Chop House Gyro - Plano"
+    }
+  }
+}

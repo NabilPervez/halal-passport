@@ -1,0 +1,166 @@
+{
+  "queriedName": "Bawarchi Indian Cuisine",
+  "queriedAt": "2026-09-09T00:45:46.818Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "BawarcHi Signature",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Belt Line Road",
+        "housenumber": "4460",
+        "iso3166_2": "US-TX",
+        "lon": -96.8354311,
+        "lat": 32.953642,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19966.99622773419,
+        "formatted": "BawarcHi Signature, 4460 Belt Line Road, Addison, TX 75001, United States of America",
+        "address_line1": "BawarcHi Signature",
+        "address_line2": "4460 Belt Line Road, Addison, TX 75001, United States of America",
+        "category": "building.commercial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X537+FR",
+        "plus_code_short": "37+FR, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.503912536008121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ec2301b4773558c059c80be9f0107a4040f00102f90148a2551900000000c002019203124261776172634869205369676e6174757265e203216f70656e7374726565746d61703a76656e75653a7761792f343235303432353034",
+        "bbox": {
+          "lon1": -96.8355372,
+          "lat1": 32.9535274,
+          "lon2": -96.8353249,
+          "lat2": 32.9537564
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bawarchi",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "West Lyndon B Johnson Freeway",
+        "iso3166_2": "US-TX",
+        "lon": -96.9558207,
+        "lat": 32.9127596,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21166.453250140203,
+        "formatted": "Bawarchi, West Lyndon B Johnson Freeway, Irving, TX 75063, United States of America",
+        "address_line1": "Bawarchi",
+        "address_line2": "West Lyndon B Johnson Freeway, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W27V+4M",
+        "plus_code_short": "W27V+4M Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.572388679645696,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c0d5952a2c3d58c059168e7b4ed5744040f00103f901dd7e7c0d03000000c002019203084261776172636869e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313131313634363337",
+        "bbox": {
+          "lon1": -96.9558707,
+          "lat1": 32.9127096,
+          "lon2": -96.9557707,
+          "lat2": 32.9128096
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bawarchi",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75035",
+        "street": "Coit Road",
+        "housenumber": "8949",
+        "iso3166_2": "US-TX",
+        "lon": -96.768575,
+        "lat": 33.1516308,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 41741.42448306307,
+        "formatted": "Bawarchi, 8949 Coit Road, Frisco, TX 75035, United States of America",
+        "address_line1": "Bawarchi",
+        "address_line2": "8949 Coit Road, Frisco, TX 75035, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655562J+MH",
+        "plus_code_short": "562J+MH, 75035 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.6814611900882026,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517c613255303158c0597d8857a368934040f00103f901d3c2fa2e03000000c002019203084261776172636869e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363733303837363939",
+        "bbox": {
+          "lon1": -96.768625,
+          "lat1": 33.1515808,
+          "lon2": -96.768525,
+          "lat2": 33.1516808
+        }
+      }
+    ],
+    "query": {
+      "text": "Bawarchi Indian Cuisine"
+    }
+  }
+}

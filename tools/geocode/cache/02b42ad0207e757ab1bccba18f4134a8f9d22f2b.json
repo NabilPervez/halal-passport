@@ -1,0 +1,257 @@
+{
+  "queriedName": "Epic Market",
+  "queriedAt": "2026-09-09T00:33:45.212Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Epic Waters",
+        "housenumber": "2970",
+        "street": "Epic Place",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75052",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Grand Prairie",
+        "iso3166_2": "US-TX",
+        "lon": -97.031583,
+        "lat": 32.702328,
+        "result_type": "amenity",
+        "distance": 23459.162941828155,
+        "formatted": "Epic Waters, 2970 Epic Place, Grand Prairie, TX 75052, United States of America",
+        "address_line1": "Epic Waters",
+        "address_line2": "2970 Epic Place, Grand Prairie, TX 75052, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PX29+W9",
+        "plus_code_short": "PX29+W9 Grand Prairie, Dallas County, United States",
+        "rank": {
+          "popularity": 4.100358668275349,
+          "confidence": 0.7,
+          "match_type": "full_match"
+        },
+        "place_id": "510307b474054258c059558847e2e5594040f00102f9011458562600000000c0020192030b4570696320576174657273e203216f70656e7374726565746d61703a76656e75653a7761792f363433313932383532",
+        "bbox": {
+          "lon1": -97.0321983,
+          "lat1": 32.7016735,
+          "lon2": -97.0308517,
+          "lat2": 32.7026107
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Market Street",
+        "street": "Market Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.668272,
+        "lat": 32.88273,
+        "result_type": "street",
+        "distance": 16819.21096345574,
+        "postcode": "75041",
+        "formatted": "Market Street, Garland, TX 75041, United States of America",
+        "address_line1": "Market Street",
+        "address_line2": "Garland, TX 75041, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V8MJ+3M",
+        "plus_code_short": "V8MJ+3M, 75041 Garland, United States",
+        "rank": {
+          "popularity": 4.5512294962288,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514835ecf7c42a58c0595b99f04bfd704040c0020492030d4d61726b657420537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353237363536",
+        "bbox": {
+          "lon1": -96.668337,
+          "lat1": 32.878833,
+          "lon2": -96.668254,
+          "lat2": 32.886623
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Market Street",
+        "street": "Market Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -97.026459,
+        "lat": 32.84199,
+        "result_type": "street",
+        "distance": 22629.419017014512,
+        "postcode": "75063",
+        "formatted": "Market Street, Irving, TX 75063, United States of America",
+        "address_line1": "Market Street",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RXRF+QC",
+        "plus_code_short": "RXRF+QC Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.285252347961529,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d5eb1681b14158c0598fc70c54c66b4040c0020492030d4d61726b657420537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353432343431",
+        "bbox": {
+          "lon1": -97.031066,
+          "lat1": 32.841968,
+          "lon2": -97.021852,
+          "lat2": 32.842047
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Epic Place",
+        "street": "Epic Place",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Grand Prairie",
+        "iso3166_2": "US-TX",
+        "lon": -97.032749,
+        "lat": 32.698818,
+        "result_type": "street",
+        "distance": 23701.952641207674,
+        "postcode": "75052",
+        "formatted": "Epic Place, Grand Prairie, TX 75052, United States of America",
+        "address_line1": "Epic Place",
+        "address_line2": "Grand Prairie, TX 75052, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MXX8+GW",
+        "plus_code_short": "MXX8+GW Grand Prairie, Dallas County, United States",
+        "rank": {
+          "popularity": 4.101982401397508,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5182fe428f184258c05996ed43de72594040c0020492030a4570696320506c616365e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383731393536",
+        "bbox": {
+          "lon1": -97.0329,
+          "lat1": 32.698135,
+          "lon2": -97.032585,
+          "lat2": 32.699504
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Market Row",
+        "street": "Market Row",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Richardson",
+        "iso3166_2": "US-TX",
+        "lon": -96.695903,
+        "lat": 32.998576,
+        "result_type": "street",
+        "distance": 26384.655303962754,
+        "postcode": "75082",
+        "formatted": "Market Row, Richardson, TX 75082, United States of America",
+        "address_line1": "Market Row",
+        "address_line2": "Richardson, TX 75082, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8X3+CJ",
+        "plus_code_short": "X8X3+CJ Richardson, Dallas County, United States",
+        "rank": {
+          "popularity": 4.8648656349844055,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510d8cbcac892c58c05906499f56d17f4040c0020492030a4d61726b657420526f77e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353331343334",
+        "bbox": {
+          "lon1": -96.695905,
+          "lat1": 32.998036,
+          "lon2": -96.695902,
+          "lat2": 32.999115
+        }
+      }
+    ],
+    "query": {
+      "text": "Epic Market"
+    }
+  }
+}

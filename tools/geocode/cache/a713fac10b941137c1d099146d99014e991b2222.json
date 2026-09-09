@@ -1,0 +1,62 @@
+{
+  "queriedName": "Queen of Sheba Restaurant",
+  "queriedAt": "2026-09-09T00:38:44.739Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Queen of Sheba",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Inwood Road",
+        "housenumber": "14875",
+        "iso3166_2": "US-TX",
+        "lon": -96.8301343,
+        "lat": 32.9509985,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19593.71854349087,
+        "formatted": "Queen of Sheba, 14875 Inwood Road, Addison, TX 75001, United States of America",
+        "address_line1": "Queen of Sheba",
+        "address_line2": "14875 Inwood Road, Addison, TX 75001, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X529+9W",
+        "plus_code_short": "29+9W, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.6381879738921725,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "516c729deb203558c059c405a051ba794040f00103f9018b25bec902000000c0020192030e517565656e206f66205368656261",
+        "bbox": {
+          "lon1": -96.8301843,
+          "lat1": 32.9509485,
+          "lon2": -96.8300843,
+          "lat2": 32.9510485
+        }
+      }
+    ],
+    "query": {
+      "text": "Queen of Sheba Restaurant"
+    }
+  }
+}

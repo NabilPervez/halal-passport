@@ -1,0 +1,272 @@
+{
+  "queriedName": "Mama Miyan - Falooda, Ice Cream and More",
+  "queriedAt": "2026-09-09T00:33:47.161Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Sanchez Insurance & More",
+        "housenumber": "1050",
+        "street": "North Westmoreland Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75211-2404",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "El Tivoli Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.871404,
+        "lat": 32.755329,
+        "result_type": "amenity",
+        "distance": 7362.466173942931,
+        "formatted": "Sanchez Insurance & More, 1050 North Westmoreland Road, Dallas, TX 75211-2404, United States of America",
+        "address_line1": "Sanchez Insurance & More",
+        "address_line2": "1050 North Westmoreland Road, Dallas, TX 75211-2404, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q44H+4C",
+        "plus_code_short": "Q44H+4C, 75211-2404 Dallas, United States",
+        "rank": {
+          "popularity": 4.52938402951865,
+          "confidence": 0.05278195488721804,
+          "confidence_city_level": 0.07142857142857142,
+          "confidence_street_level": 0.023809523809523808,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1664815c53758c059365ce49eae604040f00103f9014795872803000000c0020192031853616e6368657a20496e737572616e63652026204d6f7265e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353634383736313033"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sanchez Insurance & More",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "North Westmoreland Road",
+        "housenumber": "1050",
+        "iso3166_2": "US-TX",
+        "lon": -96.871404,
+        "lat": 32.7553285,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7362.484389461826,
+        "formatted": "Sanchez Insurance & More, 1050 North Westmoreland Road, Dallas, TX 75211, United States of America",
+        "address_line1": "Sanchez Insurance & More",
+        "address_line2": "1050 North Westmoreland Road, Dallas, TX 75211, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q44H+4C",
+        "plus_code_short": "Q44H+4C, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0.05278195488721804,
+          "confidence_city_level": 0.07142857142857142,
+          "confidence_street_level": 0.023809523809523808,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1664815c53758c0594d9eb29aae604040f00103f9014795872803000000c0020192031853616e6368657a20496e737572616e63652026204d6f7265",
+        "bbox": {
+          "lon1": -96.871454,
+          "lat1": 32.7552785,
+          "lon2": -96.871354,
+          "lat2": 32.7553785
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Novelty Vape & More",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Shiloh Road",
+        "housenumber": "10710",
+        "iso3166_2": "US-TX",
+        "lon": -96.6652446,
+        "lat": 32.8435485,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Briarwood",
+        "result_type": "amenity",
+        "distance": 14365.804466285843,
+        "formatted": "Novelty Vape & More, 10710 Shiloh Road, Dallas, TX 75218, United States of America",
+        "address_line1": "Novelty Vape & More",
+        "address_line2": "10710 Shiloh Road, Dallas, TX 75218, United States of America",
+        "category": "commercial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R8VM+CW",
+        "plus_code_short": "R8VM+CW, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.403425767621237,
+          "confidence": 0.04529605263157895,
+          "confidence_city_level": 0.08333333333333333,
+          "confidence_street_level": 0.015625,
+          "match_type": "full_match"
+        },
+        "place_id": "51cc35165e932a58c059800bb265f96b4040f00102f90151c3e51b00000000c002019203134e6f76656c747920566170652026204d6f7265e203216f70656e7374726565746d61703a76656e75653a7761792f343638303432353737",
+        "bbox": {
+          "lon1": -96.6653567,
+          "lat1": 32.8434341,
+          "lon2": -96.6651395,
+          "lat2": 32.8436521
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hemp & More",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "North Collins Boulevard",
+        "housenumber": "2050",
+        "iso3166_2": "US-TX",
+        "lon": -96.7220206,
+        "lat": 32.9766737,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23280.67058451945,
+        "formatted": "Hemp & More, 2050 North Collins Boulevard, Richardson, TX 75080, United States of America",
+        "address_line1": "Hemp & More",
+        "address_line2": "2050 North Collins Boulevard, Richardson, TX 75080, United States of America",
+        "category": "commercial.smoking",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7GH+M5",
+        "plus_code_short": "X7GH+M5 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.557474399601547,
+          "confidence": 0.20526315789473684,
+          "confidence_city_level": 0.08333333333333333,
+          "match_type": "full_match"
+        },
+        "place_id": "517302e495352e58c059812ed0a4037d4040f00103f901dc4d3a1003000000c0020192030b48656d702026204d6f7265e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313537313538333634",
+        "bbox": {
+          "lon1": -96.7220706,
+          "lat1": 32.9766237,
+          "lon2": -96.7219706,
+          "lat2": 32.9767237
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tejano BBQ & More",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Coit Road",
+        "housenumber": "17509",
+        "iso3166_2": "US-TX",
+        "lon": -96.7687613,
+        "lat": 32.9891243,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Renner",
+        "result_type": "amenity",
+        "distance": 23734.11660772575,
+        "formatted": "Tejano BBQ & More, 17509 Coit Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Tejano BBQ & More",
+        "address_line2": "17509 Coit Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6QJ+JF",
+        "plus_code_short": "X6QJ+JF, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.933162180240405,
+          "confidence": 0.04618421052631579,
+          "confidence_city_level": 0.08333333333333333,
+          "confidence_street_level": 0.020833333333333332,
+          "match_type": "full_match"
+        },
+        "place_id": "518c7b9862333158c059e61604a09b7e4040f00103f90130018a2b01000000c0020192031154656a616e6f204242512026204d6f7265e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35303235343331383536",
+        "bbox": {
+          "lon1": -96.7688113,
+          "lat1": 32.9890743,
+          "lon2": -96.7687113,
+          "lat2": 32.9891743
+        }
+      }
+    ],
+    "query": {
+      "text": "Mama Miyan - Falooda, Ice Cream and More"
+    }
+  }
+}

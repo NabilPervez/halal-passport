@@ -1,0 +1,264 @@
+{
+  "queriedName": "Bagelology Bagels & Coffee",
+  "queriedAt": "2026-09-09T00:36:23.888Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pax & Beneficia Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Harwood District",
+        "suburb": "Design District",
+        "street": "Payne Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.8085046,
+        "lat": 32.7917294,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1959.383555602295,
+        "formatted": "Pax & Beneficia Coffee, Payne Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Pax & Beneficia Coffee",
+        "address_line2": "Payne Street, Dallas, TX 75201, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5RR+MH",
+        "plus_code_short": "RR+MH, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.363539621199744,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5199ea138abe3358c0590f24946357654040f00103f901f9cfa51803000000c0020192031650617820262042656e65666963696120436f66666565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323938343231373533",
+        "bbox": {
+          "lon1": -96.8085546,
+          "lat1": 32.7916794,
+          "lon2": -96.8084546,
+          "lat2": 32.7917794
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Slow and Steady Coffee",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.844708,
+        "lat": 32.728004,
+        "result_type": "amenity",
+        "distance": 7041.797445539522,
+        "postcode": "75224",
+        "formatted": "Slow and Steady Coffee, Dallas, TX 75224, United States of America",
+        "address_line1": "Slow and Steady Coffee",
+        "address_line2": "Dallas, TX 75224, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5H4+64",
+        "plus_code_short": "P5H4+64, 75224 Dallas, United States",
+        "rank": {
+          "popularity": 4.21106999840043,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51daaa24b20f3658c059b8ad2d3c2f5d4040f00103f901e4f9e2d802000000c00201920316536c6f7720616e642053746561647920436f66666565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323238363838333536"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Slow and Steady Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75224",
+        "street": "South Edgefield Avenue",
+        "housenumber": "1805",
+        "iso3166_2": "US-TX",
+        "lon": -96.8447083,
+        "lat": 32.7280041,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7041.806615974885,
+        "formatted": "Slow and Steady Coffee, 1805 South Edgefield Avenue, Dallas, TX 75224, United States of America",
+        "address_line1": "Slow and Steady Coffee",
+        "address_line2": "1805 South Edgefield Avenue, Dallas, TX 75224, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5H4+64",
+        "plus_code_short": "P5H4+64, 75224 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5139ca66b30f3658c0594d6d043d2f5d4040f00103f901e4f9e2d802000000c00201920316536c6f7720616e642053746561647920436f66666565",
+        "bbox": {
+          "lon1": -96.8447583,
+          "lat1": 32.7279541,
+          "lon2": -96.8446583,
+          "lat2": 32.7280541
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sclafani's New York Bagels & Sandwiches",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75225",
+        "suburb": "Preston Center",
+        "street": "Luther Lane",
+        "housenumber": "6135",
+        "iso3166_2": "US-TX",
+        "lon": -96.8046481,
+        "lat": 32.8638044,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 9678.644582559355,
+        "formatted": "Sclafani's New York Bagels & Sandwiches, 6135 Luther Lane, Dallas, TX 75225, United States of America",
+        "address_line1": "Sclafani's New York Bagels & Sandwiches",
+        "address_line2": "6135 Luther Lane, Dallas, TX 75225, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V57W+G4",
+        "plus_code_short": "V57W+G4, 75225 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.467764133743506,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517792be5a7f3358c05909128024916e4040f00103f9011a475ed602000000c0020192032753636c6166616e692773204e657720596f726b20426167656c7320262053616e64776963686573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132313836343337343032",
+        "bbox": {
+          "lon1": -96.8046981,
+          "lat1": 32.8637544,
+          "lon2": -96.8045981,
+          "lat2": 32.8638544
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Black Sheep Coffee",
+        "other_names": {
+          "alt_name": "Einstein Brothers Bagels"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "1501",
+        "iso3166_2": "US-TX",
+        "lon": -96.7958259,
+        "lat": 33.0191342,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 26924.354943114788,
+        "formatted": "Black Sheep Coffee, 1501 Preston Road, Plano, TX 75252, United States of America",
+        "address_line1": "Black Sheep Coffee",
+        "address_line2": "1501 Preston Road, Plano, TX 75252, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552693+MM",
+        "plus_code_short": "2693+MM, 75252 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.181975818833334,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d373c1cfee3258c059199e4dfd72824040f00103f901724bc78801000000c00201920312426c61636b20536865657020436f66666565e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36353839373239363530",
+        "bbox": {
+          "lon1": -96.7958759,
+          "lat1": 33.0190842,
+          "lon2": -96.7957759,
+          "lat2": 33.0191842
+        }
+      }
+    ],
+    "query": {
+      "text": "Bagelology Bagels & Coffee"
+    }
+  }
+}

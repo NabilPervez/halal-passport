@@ -1,0 +1,116 @@
+{
+  "queriedName": "Kwality carrollton",
+  "queriedAt": "2026-09-09T00:38:15.120Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kwality Ice Cream & Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Valley Ranch",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "8600",
+        "iso3166_2": "US-TX",
+        "lon": -96.9537447,
+        "lat": 32.9239364,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21939.48995066164,
+        "formatted": "Kwality Ice Cream & Bakery, 8600 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Kwality Ice Cream & Bakery",
+        "address_line2": "8600 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2FW+HG",
+        "plus_code_short": "W2FW+HG Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.571610780640153,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51efce35270a3d58c059c0ca468c43764040f00103f901a91b9af902000000c0020192031a4b77616c6974792049636520437265616d20262042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132373737353631303031",
+        "bbox": {
+          "lon1": -96.9537947,
+          "lat1": 32.9238864,
+          "lon2": -96.9536947,
+          "lat2": 32.9239864
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kwality Ice Cream, Sweets & Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "North Main Street",
+        "housenumber": "1060",
+        "iso3166_2": "US-TX",
+        "lon": -97.0814244,
+        "lat": 32.8501516,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27796.939827452086,
+        "formatted": "Kwality Ice Cream, Sweets & Bakery, 1060 North Main Street, Euless, TX 76039, United States of America",
+        "address_line1": "Kwality Ice Cream, Sweets & Bakery",
+        "address_line2": "1060 North Main Street, Euless, TX 76039, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW29+3C",
+        "plus_code_short": "29+3C Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.355154187380979,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512cc6af0e364558c0592f5283c4d16c4040f00103f901de3ae83303000000c002019203224b77616c6974792049636520437265616d2c2053776565747320262042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373535373539333236",
+        "bbox": {
+          "lon1": -97.0814744,
+          "lat1": 32.8501016,
+          "lon2": -97.0813744,
+          "lat2": 32.8502016
+        }
+      }
+    ],
+    "query": {
+      "text": "Kwality carrollton"
+    }
+  }
+}

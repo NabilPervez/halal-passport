@@ -1,0 +1,202 @@
+{
+  "queriedName": "FAR EAST PIZZA CO",
+  "queriedAt": "2026-09-09T00:37:14.772Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Gino's East Chicago Pizza",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.090224,
+        "lat": 32.758747,
+        "result_type": "amenity",
+        "distance": 27491.644280710803,
+        "postcode": "76011",
+        "formatted": "Gino's East Chicago Pizza, Arlington, TX 76011, United States of America",
+        "address_line1": "Gino's East Chicago Pizza",
+        "address_line2": "Arlington, TX 76011, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QW55+FW",
+        "plus_code_short": "QW55+FW, 76011 Arlington, United States",
+        "rank": {
+          "popularity": 4.79413236140913,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511e54e23ac64558c0591478279f1e614040f00103f9018063702402000000c0020192031947696e6f27732045617374204368696361676f2050697a7a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323031323739383732"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gino's East Chicago Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76011",
+        "street": "East Copeland Road",
+        "housenumber": "1400",
+        "iso3166_2": "US-TX",
+        "lon": -97.0902236,
+        "lat": 32.7587474,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27491.60363746087,
+        "formatted": "Gino's East Chicago Pizza, 1400 East Copeland Road, Arlington, TX 76011, United States of America",
+        "address_line1": "Gino's East Chicago Pizza",
+        "address_line2": "1400 East Copeland Road, Arlington, TX 76011, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QW55+FW",
+        "plus_code_short": "QW55+FW, 76011 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f4d43439c64558c059677682a21e614040f00103f9018063702402000000c0020192031947696e6f27732045617374204368696361676f2050697a7a61",
+        "bbox": {
+          "lon1": -97.0902736,
+          "lat1": 32.7586974,
+          "lon2": -97.0901736,
+          "lat2": 32.7587974
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kenny's East Coast Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "West Park Boulevard",
+        "housenumber": "4701",
+        "iso3166_2": "US-TX",
+        "lon": -96.7891272,
+        "lat": 33.0273925,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27852.113851123086,
+        "formatted": "Kenny's East Coast Pizza, 4701 West Park Boulevard, Plano, TX 75093, United States of America",
+        "address_line1": "Kenny's East Coast Pizza",
+        "address_line2": "4701 West Park Boulevard, Plano, TX 75093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526G6+X8",
+        "plus_code_short": "26G6+X8, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.032734481122078,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5194185f0f813258c059edd3f19881834040f00103f9019845e4eb01000000c002019203184b656e6e792773204561737420436f6173742050697a7a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38323532353733303830",
+        "bbox": {
+          "lon1": -96.7891772,
+          "lat1": 33.0273425,
+          "lon2": -96.7890772,
+          "lat2": 33.0274425
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Far East Fort Worth",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Fort Worth",
+        "suburb": "Far East Fort Worth",
+        "iso3166_2": "US-TX",
+        "lon": -97.173352,
+        "lat": 32.753142,
+        "result_type": "suburb",
+        "distance": 35290.093523791285,
+        "formatted": "Far East Fort Worth, Fort Worth, TX, United States of America",
+        "address_line1": "Far East Fort Worth",
+        "address_line2": "Fort Worth, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QR3G+7M",
+        "plus_code_short": "QR3G+7M Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.052131435596901,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518eacfc32184b58c0593c9f01f566604040c00205920313466172204561737420466f727420576f727468e2032277686f736f6e66697273743a6e65696768626f7572686f6f643a3835383733373731",
+        "bbox": {
+          "lon1": -97.185902,
+          "lat1": 32.741475,
+          "lon2": -97.14011,
+          "lat2": 32.794077
+        }
+      }
+    ],
+    "query": {
+      "text": "FAR EAST PIZZA CO"
+    }
+  }
+}

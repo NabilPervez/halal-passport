@@ -1,0 +1,64 @@
+{
+  "queriedName": "Zato Thai Cuisine & Sushi Bar",
+  "queriedAt": "2026-09-09T00:39:28.422Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zato Thai Cuisine and Sushi Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "19129",
+        "iso3166_2": "US-TX",
+        "lon": -96.7960372,
+        "lat": 33.0086708,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 25760.810045546095,
+        "formatted": "Zato Thai Cuisine and Sushi Bar, 19129 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Zato Thai Cuisine and Sushi Bar",
+        "address_line2": "19129 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552653+FH",
+        "plus_code_short": "2653+FH, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.194475837853899,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5190190346f23258c0590f37f11f1c814040f00103f901e66174f001000000c0020192031f5a61746f20546861692043756973696e6520616e6420537573686920426172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333239313236333734",
+        "bbox": {
+          "lon1": -96.7960872,
+          "lat1": 33.0086208,
+          "lon2": -96.7959872,
+          "lat2": 33.0087208
+        }
+      }
+    ],
+    "query": {
+      "text": "Zato Thai Cuisine & Sushi Bar"
+    }
+  }
+}

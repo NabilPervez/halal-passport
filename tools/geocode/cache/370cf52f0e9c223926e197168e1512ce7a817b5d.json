@@ -1,0 +1,274 @@
+{
+  "queriedName": "Signature Cuisine and Reception",
+  "queriedAt": "2026-09-09T00:37:10.007Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Oishi Sushi & Pan-Asian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Wycliff Avenue",
+        "housenumber": "2525",
+        "iso3166_2": "US-TX",
+        "lon": -96.8197822,
+        "lat": 32.8103966,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Lawn",
+        "result_type": "amenity",
+        "distance": 4280.802178486013,
+        "formatted": "Oishi Sushi & Pan-Asian Cuisine, 2525 Wycliff Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Oishi Sushi & Pan-Asian Cuisine",
+        "address_line2": "2525 Wycliff Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56J+53",
+        "plus_code_short": "R56J+53, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.930296706674387,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f3b5c24f773458c05911e56613bb674040f00103f9011ca66d4f02000000c0020192031f4f6973686920537573686920262050616e2d417369616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393232353230363034",
+        "bbox": {
+          "lon1": -96.8198322,
+          "lat1": 32.8103466,
+          "lon2": -96.8197322,
+          "lat2": 32.8104466
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Giovanni's Mediterranean & Italian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "18484",
+        "iso3166_2": "US-TX",
+        "lon": -96.7951596,
+        "lat": 33.0017966,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 24996.86665458092,
+        "formatted": "Giovanni's Mediterranean & Italian Cuisine, 18484 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Giovanni's Mediterranean & Italian Cuisine",
+        "address_line2": "18484 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552623+PW",
+        "plus_code_short": "2623+PW, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.16624991808756,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516e4617e5e33258c0593b1ff9de3a804040f00103f9016a3caf4b02000000c0020192032a47696f76616e6e692773204d65646974657272616e65616e2026204974616c69616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39383539373130303538",
+        "bbox": {
+          "lon1": -96.7952096,
+          "lat1": 33.0017466,
+          "lon2": -96.7951096,
+          "lat2": 33.0018466
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zato Thai Cuisine and Sushi Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "19129",
+        "iso3166_2": "US-TX",
+        "lon": -96.7960372,
+        "lat": 33.0086708,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 25760.810045546095,
+        "formatted": "Zato Thai Cuisine and Sushi Bar, 19129 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Zato Thai Cuisine and Sushi Bar",
+        "address_line2": "19129 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552653+FH",
+        "plus_code_short": "2653+FH, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.194475837853899,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5190190346f23258c0590f37f11f1c814040f00103f901e66174f001000000c0020192031f5a61746f20546861692043756973696e6520616e6420537573686920426172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333239313236333734",
+        "bbox": {
+          "lon1": -96.7960872,
+          "lat1": 33.0086208,
+          "lon2": -96.7959872,
+          "lat2": 33.0087208
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hawaiian Shaved Ice and Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76013",
+        "street": "South Bowen Road",
+        "housenumber": "1110",
+        "iso3166_2": "US-TX",
+        "lon": -97.14958,
+        "lat": 32.7242612,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 33490.24855163465,
+        "formatted": "Hawaiian Shaved Ice and Cuisine, 1110 South Bowen Road, Arlington, TX 76013, United States of America",
+        "address_line1": "Hawaiian Shaved Ice and Cuisine",
+        "address_line2": "1110 South Bowen Road, Arlington, TX 76013, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVF2+P5",
+        "plus_code_short": "PVF2+P5, 76013 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.425683439036243,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51af08feb7924958c05980e14b97b45c4040f00102f9018cec561f00000000c0020192031f486177616969616e205368617665642049636520616e642043756973696e65e203216f70656e7374726565746d61703a76656e75653a7761792f353235373930333438",
+        "bbox": {
+          "lon1": -97.14969,
+          "lat1": 32.7242191,
+          "lon2": -97.14947,
+          "lat2": 32.7243023
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "SWAD Indian & Nepal Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76137",
+        "street": "Sohi Drive",
+        "housenumber": "8333",
+        "iso3166_2": "US-TX",
+        "lon": -97.2715546,
+        "lat": 32.8935346,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 46192.244440092036,
+        "formatted": "SWAD Indian & Nepal Cuisine, 8333 Sohi Drive, Fort Worth, TX 76137, United States of America",
+        "address_line1": "SWAD Indian & Nepal Cuisine",
+        "address_line2": "8333 Sohi Drive, Fort Worth, TX 76137, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VPVH+C9",
+        "plus_code_short": "VPVH+C9 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.9249331009322703,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5104858b26615158c059176c7e575f724040f00103f9016f925c7b02000000c0020192031b5357414420496e6469616e2026204e6570616c2043756973696e65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363539353938393539",
+        "bbox": {
+          "lon1": -97.2716046,
+          "lat1": 32.8934846,
+          "lon2": -97.2715046,
+          "lat2": 32.8935846
+        }
+      }
+    ],
+    "query": {
+      "text": "Signature Cuisine and Reception"
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "queriedName": "Medina Oven & Bar",
+  "queriedAt": "2026-09-09T00:36:39.981Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Medina Hall",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Country Forest",
+        "iso3166_2": "US-TX",
+        "lon": -96.729086,
+        "lat": 32.920855,
+        "result_type": "amenity",
+        "distance": 17208.137485739717,
+        "postcode": "75243",
+        "formatted": "Medina Hall, Dallas, TX 75243, United States of America",
+        "address_line1": "Medina Hall",
+        "address_line2": "Dallas, TX 75243, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7CC+89",
+        "plus_code_short": "W7CC+89, 75243 Dallas, United States",
+        "rank": {
+          "popularity": 4.764987237941689,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512c7e5358a92e58c059d6ad9e93de754040f00102f901c513a72400000000c00201e203216f70656e7374726565746d61703a76656e75653a7761792f363134393239333439",
+        "bbox": {
+          "lon1": -96.7292172,
+          "lat1": 32.9207366,
+          "lon2": -96.7286335,
+          "lat2": 32.9210777
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Medina Drive",
+        "street": "Medina Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Mesquite",
+        "iso3166_2": "US-TX",
+        "lon": -96.629543,
+        "lat": 32.843224,
+        "result_type": "street",
+        "distance": 17295.79717992544,
+        "postcode": "75150",
+        "formatted": "Medina Drive, Mesquite, TX 75150, United States of America",
+        "address_line1": "Medina Drive",
+        "address_line2": "Mesquite, TX 75150, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R9VC+75",
+        "plus_code_short": "R9VC+75, 75150 Mesquite, United States",
+        "rank": {
+          "popularity": 4.338039796050077,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513f1bb96e4a2858c059e59997c3ee6b4040c0020492030c4d6564696e61204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353236363330",
+        "bbox": {
+          "lon1": -96.630637,
+          "lat1": 32.84253,
+          "lon2": -96.628545,
+          "lat2": 32.844099
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Medina Hall",
+        "ref": "N",
+        "other_names": {
+          "ref": "N"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75243",
+        "suburb": "Lake Highlands",
+        "street": "Richland College Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.7288836,
+        "lat": 32.9209627,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 17226.243841150845,
+        "formatted": "Medina Hall, Richland College Drive, Dallas, TX 75243, United States of America",
+        "address_line1": "Medina Hall",
+        "address_line2": "Richland College Drive, Dallas, TX 75243, United States of America",
+        "category": "building.college",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7CC+9C",
+        "plus_code_short": "W7CC+9C, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51cf256607a62e58c059fdaa121be2754040f00102f901c513a72400000000c0020192030b4d6564696e612048616c6c",
+        "bbox": {
+          "lon1": -96.7292172,
+          "lat1": 32.9207366,
+          "lon2": -96.7286335,
+          "lat2": 32.9210777
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Medina Street",
+        "street": "Medina Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.987882,
+        "lat": 32.8187,
+        "result_type": "street",
+        "distance": 18434.259056888477,
+        "postcode": "75061",
+        "formatted": "Medina Street, Irving, TX 75061, United States of America",
+        "address_line1": "Medina Street",
+        "address_line2": "Irving, TX 75061, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R296+FR",
+        "plus_code_short": "R296+FR Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.271721908338464,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a7936c75393f58c0591b9e5e29cb684040c0020492030d4d6564696e6120537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353338333035",
+        "bbox": {
+          "lon1": -96.989464,
+          "lat1": 32.8187,
+          "lon2": -96.9863,
+          "lat2": 32.818702
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Medina Drive",
+        "street": "Medina Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.633837,
+        "lat": 32.877362,
+        "result_type": "street",
+        "distance": 18893.66450367424,
+        "postcode": "75041",
+        "formatted": "Medina Drive, Garland, TX 75041, United States of America",
+        "address_line1": "Medina Drive",
+        "address_line2": "Garland, TX 75041, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V9G8+WF",
+        "plus_code_short": "V9G8+WF, 75041 Garland, United States",
+        "rank": {
+          "popularity": 4.449879200655581,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51aa7f10c9902858c0596760e4654d704040c0020492030c4d6564696e61204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353233333932",
+        "bbox": {
+          "lon1": -96.633858,
+          "lat1": 32.875993,
+          "lon2": -96.63383,
+          "lat2": 32.878732
+        }
+      }
+    ],
+    "query": {
+      "text": "Medina Oven & Bar"
+    }
+  }
+}

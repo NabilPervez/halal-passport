@@ -1,0 +1,265 @@
+{
+  "queriedName": "Palio's Pizza Cafe",
+  "queriedAt": "2026-09-09T00:36:51.090Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Palio's Pizza Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75040",
+        "street": "Town Boulevard Lane",
+        "housenumber": "245",
+        "iso3166_2": "US-TX",
+        "lon": -96.6119883,
+        "lat": 32.9540614,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26195.783281426746,
+        "formatted": "Palio's Pizza Cafe, 245 Town Boulevard Lane, Garland, TX 75040, United States of America",
+        "address_line1": "Palio's Pizza Cafe",
+        "address_line2": "245 Town Boulevard Lane, Garland, TX 75040, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X93Q+J6",
+        "plus_code_short": "X93Q+J6, 75040 Garland, United States",
+        "rank": {
+          "importance": 0.00006185778591587729,
+          "popularity": 4.258675215061078,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513782f9d02a2758c05920b017af1e7a4040f00103f9019e0b990a03000000c0020192031250616c696f27732050697a7a612043616665",
+        "bbox": {
+          "lon1": -96.6120383,
+          "lat1": 32.9540114,
+          "lon2": -96.6119383,
+          "lat2": 32.9541114
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Palio's Pizza Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Coppell",
+        "postcode": "75019",
+        "street": "North Denton Tap Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.9941907,
+        "lat": 32.9725565,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 28494.969222092757,
+        "formatted": "Palio's Pizza Cafe, North Denton Tap Road, Coppell, TX 75019, United States of America",
+        "address_line1": "Palio's Pizza Cafe",
+        "address_line2": "North Denton Tap Road, Coppell, TX 75019, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X2F4+28",
+        "plus_code_short": "X2F4+28 Coppell, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.267759762348875,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51319f07d2a03f58c05991813cbb7c7c4040f00103f901904e640c03000000c0020192031250616c696f27732050697a7a612043616665",
+        "bbox": {
+          "lon1": -96.9942407,
+          "lat1": 32.9725065,
+          "lon2": -96.9941407,
+          "lat2": 32.9726065
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Palio's Pizza Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "The Colony",
+        "postcode": "75056",
+        "street": "Main Street",
+        "housenumber": "4181",
+        "iso3166_2": "US-TX",
+        "lon": -96.8931536,
+        "lat": 33.0724683,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34058.30599732367,
+        "formatted": "Palio's Pizza Cafe, 4181 Main Street, The Colony, TX 75056, United States of America",
+        "address_line1": "Palio's Pizza Cafe",
+        "address_line2": "4181 Main Street, The Colony, TX 75056, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865534C4+XP",
+        "plus_code_short": "34C4+XP The Colony, Denton County, United States",
+        "rank": {
+          "importance": 0.00005557106889443835,
+          "popularity": 4.496455057045815,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518093b76d293958c059943f29a446894040f00103f901d85382a700000000c0020192031250616c696f27732050697a7a612043616665",
+        "bbox": {
+          "lon1": -96.8932036,
+          "lat1": 33.0724183,
+          "lon2": -96.8931036,
+          "lat2": 33.0725183
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Palio's Pizza Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Lucas",
+        "postcode": "75002",
+        "street": "West Lucas Road",
+        "housenumber": "2650",
+        "iso3166_2": "US-TX",
+        "lon": -96.6176514,
+        "lat": 33.0860416,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 38223.650059464875,
+        "formatted": "Palio's Pizza Cafe, 2650 West Lucas Road, Lucas, TX 75002, United States of America",
+        "address_line1": "Palio's Pizza Cafe",
+        "address_line2": "2650 West Lucas Road, Lucas, TX 75002, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865539PJ+CW",
+        "plus_code_short": "39PJ+CW Lucas, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.098889311504244,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5108d5bc99872758c0593a0c4169038b4040f00103f901a164e8cb02000000c0020192031250616c696f27732050697a7a612043616665",
+        "bbox": {
+          "lon1": -96.6177014,
+          "lat1": 33.0859916,
+          "lon2": -96.6176014,
+          "lat2": 33.0860916
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Palio's Pizza Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Eldorado Parkway",
+        "housenumber": "6405",
+        "iso3166_2": "US-TX",
+        "lon": -96.7002533,
+        "lat": 33.1736561,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 45020.02452849783,
+        "formatted": "Palio's Pizza Cafe, 6405 Eldorado Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "Palio's Pizza Cafe",
+        "address_line2": "6405 Eldorado Parkway, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865557FX+FV",
+        "plus_code_short": "57FX+FV McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.8350483439803345,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a19a37f3d02c58c0591e20f35c3a964040f00103f90107f2839200000000c0020192031250616c696f27732050697a7a612043616665",
+        "bbox": {
+          "lon1": -96.7003033,
+          "lat1": 33.1736061,
+          "lon2": -96.7002033,
+          "lat2": 33.1737061
+        }
+      }
+    ],
+    "query": {
+      "text": "Palio's Pizza Cafe"
+    }
+  }
+}

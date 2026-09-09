@@ -1,0 +1,61 @@
+{
+  "queriedName": "Nest Burger",
+  "queriedAt": "2026-09-09T00:38:36.604Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Nest Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75074",
+        "street": "Research Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.6816844,
+        "lat": 33.0058213,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27628.19263182916,
+        "formatted": "Nest Burger, Research Drive, Plano, TX 75074, United States of America",
+        "address_line1": "Nest Burger",
+        "address_line2": "Research Drive, Plano, TX 75074, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552849+88",
+        "plus_code_short": "2849+88, 75074 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.93276277346603,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51600c9bb7a02b58c059638f9ac0be804040f00103f9013216e61b01000000c0020192030b4e65737420427572676572",
+        "bbox": {
+          "lon1": -96.6817344,
+          "lat1": 33.0057713,
+          "lon2": -96.6816344,
+          "lat2": 33.0058713
+        }
+      }
+    ],
+    "query": {
+      "text": "Nest Burger"
+    }
+  }
+}

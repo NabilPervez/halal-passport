@@ -1,0 +1,121 @@
+{
+  "queriedName": "Escape 360 Cafe McKinney TX",
+  "queriedAt": "2026-09-09T00:31:58.470Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Escape 360 Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75013",
+        "street": "State Highway 121",
+        "housenumber": "7540",
+        "iso3166_2": "US-TX",
+        "lon": -96.7094098,
+        "lat": 33.1349958,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Escape 360 Cafe, 7540 State Highway 121, McKinney, TX 75013, United States of America",
+        "address_line1": "Escape 360 Cafe",
+        "address_line2": "7540 State Highway 121, McKinney, TX 75013, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865547MR+X6",
+        "plus_code_short": "47MR+X6 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 4.550480987284368,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51909d5cf8662d58c059760cd98a47914040f00103f90149ac1c1a03000000c0020192030f457363617065203336302043616665",
+        "bbox": {
+          "lon1": -96.7094598,
+          "lat1": 33.1349458,
+          "lon2": -96.7093598,
+          "lat2": 33.1350458
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "McKinney",
+        "other_names": {
+          "name:ko": "매키니",
+          "name:sr": "Макинли"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "iso3166_2": "US-TX",
+        "lon": -96.6154471,
+        "lat": 33.1976496,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 49744.92446944583,
+        "formatted": "McKinney, TX, United States of America",
+        "address_line1": "McKinney, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865559XM+3R",
+        "plus_code_short": "+3R McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.5495277624366346,
+          "popularity": 3.6006015044594673,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c1ba3b7c632758c059a30804954c994040f00101f90121cc640000000000c002089203084d634b696e6e6579",
+        "bbox": {
+          "lon1": -96.7679041,
+          "lat1": 33.125204,
+          "lon2": -96.5385097,
+          "lat2": 33.3060918
+        }
+      }
+    ],
+    "query": {
+      "text": "Escape 360 Cafe McKinney TX",
+      "parsed": {
+        "house": "escape 360 cafe",
+        "city": "mckinney",
+        "state": "tx",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

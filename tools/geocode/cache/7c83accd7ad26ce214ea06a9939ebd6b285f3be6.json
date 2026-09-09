@@ -1,0 +1,115 @@
+{
+  "queriedName": "WAVA HALAL GRILL",
+  "queriedAt": "2026-09-09T00:39:26.082Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "MADINA HALAL GRILL",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Main Street",
+        "housenumber": "114",
+        "iso3166_2": "US-TX",
+        "lon": -96.7312207,
+        "lat": 32.9487442,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20061.062852760915,
+        "formatted": "MADINA HALAL GRILL, 114 East Main Street, Richardson, TX 75081, United States of America",
+        "address_line1": "MADINA HALAL GRILL",
+        "address_line2": "114 East Main Street, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7X9+FG",
+        "plus_code_short": "X9+FG Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.02598746210701,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51202ae851cc2e58c05985a22f7370794040f00103f9011d18852f03000000c002019203124d4144494e412048414c414c204752494c4ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363832313533353031",
+        "bbox": {
+          "lon1": -96.7312707,
+          "lat1": 32.9486942,
+          "lon2": -96.7311707,
+          "lat2": 32.9487942
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chopped Halal Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "Northside Boulevard",
+        "housenumber": "3000",
+        "iso3166_2": "US-TX",
+        "lon": -96.7502608,
+        "lat": 32.9935031,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24466.48742703149,
+        "formatted": "Chopped Halal Grill, 3000 Northside Boulevard, Richardson, TX 75080, United States of America",
+        "address_line1": "Chopped Halal Grill",
+        "address_line2": "3000 Northside Boulevard, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6VX+CV",
+        "plus_code_short": "X6VX+CV Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.948270628657129,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5122dedf45043058c059c07c0d1c2b7f4040f00103f9011688892b01000000c0020192031343686f707065642048616c616c204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f35303235343030383534",
+        "bbox": {
+          "lon1": -96.7503108,
+          "lat1": 32.9934531,
+          "lon2": -96.7502108,
+          "lat2": 32.9935531
+        }
+      }
+    ],
+    "query": {
+      "text": "WAVA HALAL GRILL"
+    }
+  }
+}

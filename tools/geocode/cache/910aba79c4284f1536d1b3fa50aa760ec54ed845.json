@@ -1,0 +1,266 @@
+{
+  "queriedName": "Jungle Burger",
+  "queriedAt": "2026-09-09T00:40:33.058Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Burger King",
+        "housenumber": "5119",
+        "street": "Ross Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75206-7708",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Belmont",
+        "iso3166_2": "US-TX",
+        "lon": -96.773873,
+        "lat": 32.808719,
+        "result_type": "amenity",
+        "distance": 4136.787019703841,
+        "formatted": "Burger King, 5119 Ross Avenue, Dallas, TX 75206-7708, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "5119 Ross Avenue, Dallas, TX 75206-7708, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R65G+FF",
+        "plus_code_short": "R65G+FF, 75206-7708 Dallas, United States",
+        "rank": {
+          "popularity": 5.796657954475266,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5179909e22873158c059b153ac1a84674040f00103f90149f82aca02000000c0020192030b427572676572204b696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393831373438323937"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Burger King",
+        "ref": "19651",
+        "other_names": {
+          "ref": "19651"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "street": "Ross Avenue",
+        "housenumber": "5119",
+        "iso3166_2": "US-TX",
+        "lon": -96.7738733,
+        "lat": 32.8087188,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4136.75340594296,
+        "formatted": "Burger King, 5119 Ross Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "5119 Ross Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R65G+FF",
+        "plus_code_short": "R65G+FF, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d9afe023873158c05987d4fe1884674040f00103f90149f82aca02000000c0020192030b427572676572204b696e67",
+        "bbox": {
+          "lon1": -96.7739233,
+          "lat1": 32.8086688,
+          "lon2": -96.7738233,
+          "lat2": 32.8087688
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Burger King",
+        "housenumber": "102",
+        "street": "East Jefferson Boulevard",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75203-2628",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Oak Cliff",
+        "iso3166_2": "US-TX",
+        "lon": -96.822197,
+        "lat": 32.743318,
+        "result_type": "amenity",
+        "distance": 4424.755445428471,
+        "formatted": "Burger King, 102 East Jefferson Boulevard, Dallas, TX 75203-2628, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "102 East Jefferson Boulevard, Dallas, TX 75203-2628, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5VH+84",
+        "plus_code_short": "P5VH+84, 75203-2628 Dallas, United States",
+        "rank": {
+          "popularity": 4.879191541033453,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a3772ae09e3458c0599a43520b255f4040f00102f9016dd1bb1b00000000c0020192030b427572676572204b696e67e203216f70656e7374726565746d61703a76656e75653a7761792f343635323933363737",
+        "bbox": {
+          "lon1": -96.822415,
+          "lat1": 32.7432252,
+          "lon2": -96.8221141,
+          "lat2": 32.7435092
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Burger King",
+        "ref": "11862",
+        "other_names": {
+          "ref": "11862"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75203",
+        "street": "East Jefferson Boulevard",
+        "housenumber": "102",
+        "iso3166_2": "US-TX",
+        "lon": -96.822292,
+        "lat": 32.7433976,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4422.01017141807,
+        "formatted": "Burger King, 102 East Jefferson Boulevard, Dallas, TX 75203, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "102 East Jefferson Boulevard, Dallas, TX 75203, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5VH+93",
+        "plus_code_short": "P5VH+93, 75203 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ccf09f6ea03458c05963f60da7275f4040f00102f9016dd1bb1b00000000c0020192030b427572676572204b696e67",
+        "bbox": {
+          "lon1": -96.822415,
+          "lat1": 32.7432252,
+          "lon2": -96.8221141,
+          "lat2": 32.7435092
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Burger King",
+        "housenumber": "2525",
+        "street": "West Davis Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75211-2622",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "El Tivoli Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.85908,
+        "lat": 32.749819,
+        "result_type": "amenity",
+        "distance": 6544.515403735423,
+        "formatted": "Burger King, 2525 West Davis Street, Dallas, TX 75211-2622, United States of America",
+        "address_line1": "Burger King",
+        "address_line2": "2525 West Davis Street, Dallas, TX 75211-2622, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P4XR+W9",
+        "plus_code_short": "P4XR+W9, 75211-2622 Dallas, United States",
+        "rank": {
+          "popularity": 4.483186529491992,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517429ae2afb3658c059b075a911fa5f4040f00102f901aac9ce1b00000000c0020192030b427572676572204b696e67e203216f70656e7374726565746d61703a76656e75653a7761792f343636353336383734",
+        "bbox": {
+          "lon1": -96.8591719,
+          "lat1": 32.7497223,
+          "lon2": -96.8589764,
+          "lat2": 32.7499272
+        }
+      }
+    ],
+    "query": {
+      "text": "Jungle Burger"
+    }
+  }
+}

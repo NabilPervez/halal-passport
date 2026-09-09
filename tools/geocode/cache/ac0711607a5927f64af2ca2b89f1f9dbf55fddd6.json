@@ -1,0 +1,261 @@
+{
+  "queriedName": "JAFFA JOINT PLANO",
+  "queriedAt": "2026-09-09T00:38:41.311Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Joint",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75254",
+        "street": "Preston Road",
+        "housenumber": "14999",
+        "iso3166_2": "US-TX",
+        "lon": -96.8041131,
+        "lat": 32.9520307,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19473.888346243217,
+        "formatted": "Taco Joint, 14999 Preston Road, Dallas, TX 75254, United States of America",
+        "address_line1": "Taco Joint",
+        "address_line2": "14999 Preston Road, Dallas, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X52W+R9",
+        "plus_code_short": "X52W+R9, 75254 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.406093126007769,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5140b2ca96763358c059dda45824dc794040f00103f9018773102101000000c0020192030a5461636f204a6f696e74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f34383439363933353735",
+        "bbox": {
+          "lon1": -96.8041631,
+          "lat1": 32.9519807,
+          "lon2": -96.8040631,
+          "lat2": 32.9520807
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Joint",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "West Plano Parkway",
+        "housenumber": "1300",
+        "iso3166_2": "US-TX",
+        "lon": -96.7175103,
+        "lat": 33.0082577,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 26764.364763684178,
+        "formatted": "Taco Joint, 1300 West Plano Parkway, Plano, TX 75075, United States of America",
+        "address_line1": "Taco Joint",
+        "address_line2": "1300 West Plano Parkway, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655275J+8X",
+        "plus_code_short": "275J+8X, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.914309775181946,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c34252b0eb2d58c05958b89b960e814040f00103f9018c8f256202000000c0020192030a5461636f204a6f696e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323336353633333430",
+        "bbox": {
+          "lon1": -96.7175603,
+          "lat1": 33.0082077,
+          "lon2": -96.7174603,
+          "lat2": 33.0083077
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoke Joint",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Carrollton",
+        "postcode": "75007",
+        "street": "North Josey Lane",
+        "housenumber": "3065",
+        "iso3166_2": "US-TX",
+        "lon": -96.8876012,
+        "lat": 32.9993471,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Far North Dallas",
+        "result_type": "amenity",
+        "distance": 26131.19699061101,
+        "formatted": "Smoke Joint, 3065 North Josey Lane, Carrollton, TX 75007, United States of America",
+        "address_line1": "Smoke Joint",
+        "address_line2": "3065 North Josey Lane, Carrollton, TX 75007, United States of America",
+        "category": "commercial.smoking",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X4X6+PX",
+        "plus_code_short": "X4X6+PX, 75007 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.73147933051409,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fc784375ce3858c0591ded139bea7f4040f00103f9017d80d82203000000c0020192030b536d6f6b65204a6f696e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343639353135393031",
+        "bbox": {
+          "lon1": -96.8876512,
+          "lat1": 32.9992971,
+          "lon2": -96.8875512,
+          "lat2": 32.9993971
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jaffa Joint",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Wylie",
+        "postcode": "75098",
+        "street": "North Ballard Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.5390304,
+        "lat": 33.0156794,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 35839.60058387952,
+        "formatted": "Jaffa Joint, North Ballard Avenue, Wylie, TX 75098, United States of America",
+        "address_line1": "Jaffa Joint",
+        "address_line2": "North Ballard Avenue, Wylie, TX 75098, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552F86+79",
+        "plus_code_short": "+79 Wylie, Collin County, United States",
+        "rank": {
+          "importance": 0.000055952544441855764,
+          "popularity": 3.664714710536359,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "5130e35c797f2258c059471c57c801824040f00103f9018e9ab60a03000000c0020192030b4a61666661204a6f696e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133303634363431313636",
+        "bbox": {
+          "lon1": -96.5390804,
+          "lat1": 33.0156294,
+          "lon2": -96.5389804,
+          "lat2": 33.0157294
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Kennys Burger Joint",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.795212,
+        "lat": 33.05353,
+        "result_type": "amenity",
+        "distance": 30749.228495995245,
+        "postcode": "75093",
+        "formatted": "Kennys Burger Joint, Plano, TX 75093, United States of America",
+        "address_line1": "Kennys Burger Joint",
+        "address_line2": "Plano, TX 75093, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553633+CW",
+        "plus_code_short": "3633+CW, 75093 Plano, United States",
+        "rank": {
+          "popularity": 4.927077672452527,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c158dfc0e43258c0596dad2f12da864040f00103f901ee38c4e801000000c002019203134b656e6e797320427572676572204a6f696e74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38323030313431303338"
+      }
+    ],
+    "query": {
+      "text": "JAFFA JOINT PLANO"
+    }
+  }
+}

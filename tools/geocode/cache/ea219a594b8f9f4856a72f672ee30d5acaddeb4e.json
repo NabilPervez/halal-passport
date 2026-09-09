@@ -1,0 +1,63 @@
+{
+  "queriedName": "Luna Grill Alliance",
+  "queriedAt": "2026-09-09T00:42:07.578Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill Alliance",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76177",
+        "suburb": "Presidio Junction",
+        "street": "Tehama Ridge Parkway",
+        "housenumber": "8825",
+        "iso3166_2": "US-TX",
+        "lon": -97.3227581,
+        "lat": 32.9000128,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 50988.567424788926,
+        "formatted": "Luna Grill Alliance, 8825 Tehama Ridge Parkway, Fort Worth, TX 76177, United States of America",
+        "address_line1": "Luna Grill Alliance",
+        "address_line2": "8825 Tehama Ridge Parkway, Fort Worth, TX 76177, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WM2G+2V",
+        "plus_code_short": "WM2G+2V Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.7200187905745166,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5139019711a85458c0599efd929e33734040f00103f901e0028b2501000000c002019203134c756e61204772696c6c20416c6c69616e6365",
+        "bbox": {
+          "lon1": -97.3228081,
+          "lat1": 32.8999628,
+          "lon2": -97.3227081,
+          "lat2": 32.9000628
+        }
+      }
+    ],
+    "query": {
+      "text": "Luna Grill Alliance"
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "queriedName": "Hello! India",
+  "queriedAt": "2026-09-09T00:45:43.212Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Hello Dumpling",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Casa View",
+        "iso3166_2": "US-TX",
+        "lon": -96.696823,
+        "lat": 32.8396,
+        "result_type": "amenity",
+        "distance": 11666.47320971539,
+        "postcode": "75218",
+        "formatted": "Hello Dumpling, Dallas, TX 75218, United States of America",
+        "address_line1": "Hello Dumpling",
+        "address_line2": "Dallas, TX 75218, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R8Q3+R7",
+        "plus_code_short": "R8Q3+R7, 75218 Dallas, United States",
+        "rank": {
+          "popularity": 4.579528147884661,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5170067fbf982c58c0595ddc4603786b4040f00103f901bf26e18102000000c0020192030e48656c6c6f2044756d706c696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373638393530393735"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hello Dumpling",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Peavy Road",
+        "housenumber": "1154",
+        "iso3166_2": "US-TX",
+        "lon": -96.6968233,
+        "lat": 32.8395998,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 11666.437449176343,
+        "formatted": "Hello Dumpling, 1154 Peavy Road, Dallas, TX 75218, United States of America",
+        "address_line1": "Hello Dumpling",
+        "address_line2": "1154 Peavy Road, Dallas, TX 75218, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R8Q3+R7",
+        "plus_code_short": "R8Q3+R7, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d025c1c0982c58c059345d9901786b4040f00103f901bf26e18102000000c0020192030e48656c6c6f2044756d706c696e67",
+        "bbox": {
+          "lon1": -96.6968733,
+          "lat1": 32.8395498,
+          "lon2": -96.6967733,
+          "lat2": 32.8396498
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hello Dumpling",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "street": "Walnut Hill Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.7683392,
+        "lat": 32.8815453,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 11929.38651401324,
+        "formatted": "Hello Dumpling, Walnut Hill Lane, Dallas, TX 75231, United States of America",
+        "address_line1": "Hello Dumpling",
+        "address_line2": "Walnut Hill Lane, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6JJ+JM",
+        "plus_code_short": "V6JJ+JM, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.334169088565245,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51070f2e782c3158c059a4b8f479d6704040f00103f901edf8b01503000000c0020192030e48656c6c6f2044756d706c696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323438383231343835",
+        "bbox": {
+          "lon1": -96.7683892,
+          "lat1": 32.8814953,
+          "lon2": -96.7682892,
+          "lat2": 32.8815953
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hello Mart",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76040",
+        "street": "North Main Street",
+        "housenumber": "105",
+        "iso3166_2": "US-TX",
+        "lon": -97.083154,
+        "lat": 32.8398038,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27640.13881793979,
+        "formatted": "Hello Mart, 105 North Main Street, Euless, TX 76040, United States of America",
+        "address_line1": "Hello Mart",
+        "address_line2": "105 North Main Street, Euless, TX 76040, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWQ8+WP",
+        "plus_code_short": "Q8+WP Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.3009916876010585,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5105a22765524558c0593c07e0b07e6b4040f00103f90121792ada02000000c0020192030a48656c6c6f204d617274e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323530313531323031",
+        "bbox": {
+          "lon1": -97.083204,
+          "lat1": 32.8397538,
+          "lon2": -97.083104,
+          "lat2": 32.8398538
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Hello Boba",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Allen",
+        "iso3166_2": "US-TX",
+        "lon": -96.680177,
+        "lat": 33.099489,
+        "result_type": "amenity",
+        "distance": 37479.806943345975,
+        "postcode": "75013",
+        "formatted": "Hello Boba, Allen, TX 75013, United States of America",
+        "address_line1": "Hello Boba",
+        "address_line2": "Allen, TX 75013, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865538X9+QW",
+        "plus_code_short": "X9+QW Allen, Collin County, United States",
+        "rank": {
+          "popularity": 5.005605285795478,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51739f1c05882b58c059e7a7380ebc8c4040f00103f901fb74e12402000000c0020192030a48656c6c6f20426f6261e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323038363839393135"
+      }
+    ],
+    "query": {
+      "text": "Hello! India"
+    }
+  }
+}

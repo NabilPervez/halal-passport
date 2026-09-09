@@ -1,0 +1,62 @@
+{
+  "queriedName": "Ricky's Hot Chicken",
+  "queriedAt": "2026-09-09T00:37:05.229Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ricky's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "100",
+        "iso3166_2": "US-TX",
+        "lon": -96.7383057,
+        "lat": 32.9490655,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19902.728497218654,
+        "formatted": "Ricky's Hot Chicken, 100 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Ricky's Hot Chicken",
+        "address_line2": "100 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7X6+JM",
+        "plus_code_short": "X6+JM Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.00634375263483,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d3fc8c66402f58c059862172fa7a794040f00103f9018e49142602000000c002019203135269636b79277320486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.7383557,
+          "lat1": 32.9490155,
+          "lon2": -96.7382557,
+          "lat2": 32.9491155
+        }
+      }
+    ],
+    "query": {
+      "text": "Ricky's Hot Chicken"
+    }
+  }
+}

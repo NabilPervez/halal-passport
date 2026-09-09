@@ -1,0 +1,270 @@
+{
+  "queriedName": "Cris and John",
+  "queriedAt": "2026-09-09T00:36:25.990Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cris & John",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75248",
+        "street": "Campbell Road",
+        "housenumber": "6090",
+        "iso3166_2": "US-TX",
+        "lon": -96.8020623,
+        "lat": 32.9823888,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 22843.11615188303,
+        "formatted": "Cris & John, 6090 Campbell Road, Dallas, TX 75248, United States of America",
+        "address_line1": "Cris & John",
+        "address_line2": "6090 Campbell Road, Dallas, TX 75248, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5JX+X5",
+        "plus_code_short": "X5JX+X5, 75248 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.962875729889522,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b1f61cfd543358c05975fa8beabe7d4040f00103f901545a741c03000000c0020192030b437269732026204a6f686ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333632323839323336",
+        "bbox": {
+          "lon1": -96.8021123,
+          "lat1": 32.9823388,
+          "lon2": -96.8020123,
+          "lat2": 32.9824388
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "John & Judy Gay Library",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Eldorado Parkway",
+        "housenumber": "6861",
+        "iso3166_2": "US-TX",
+        "lon": -96.7061153,
+        "lat": 33.1736628,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 44914.336399956475,
+        "formatted": "John & Judy Gay Library, 6861 Eldorado Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "John & Judy Gay Library",
+        "address_line2": "6861 Eldorado Parkway, McKinney, TX 75070, United States of America",
+        "category": "education.library",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865557FV+FH",
+        "plus_code_short": "57FV+FH McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.8395363926567136,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51222d3afe302d58c059124427953a964040f00102f9011ae4a92000000000c002019203174a6f686e2026204a75647920476179204c696272617279e203216f70656e7374726565746d61703a76656e75653a7761792f353438303034383930",
+        "bbox": {
+          "lon1": -96.706523,
+          "lat1": 33.1733992,
+          "lon2": -96.7057179,
+          "lat2": 33.1739303
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Jane and John Justin Tower",
+        "housenumber": "800",
+        "street": "West Terrell Avenue",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "76104",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Hospital District",
+        "iso3166_2": "US-TX",
+        "lon": -97.337996,
+        "lat": 32.735873,
+        "result_type": "amenity",
+        "distance": 50796.183135965824,
+        "formatted": "Jane and John Justin Tower, 800 West Terrell Avenue, Fort Worth, TX 76104, United States of America",
+        "address_line1": "Jane and John Justin Tower",
+        "address_line2": "800 West Terrell Avenue, Fort Worth, TX 76104, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PMP6+8R",
+        "plus_code_short": "PMP6+8R Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.642993043550154,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51728bf9b9a15558c05934812216315e4040f00102f901a7520c1100000000c0020192031a4a616e6520616e64204a6f686e204a757374696e20546f776572e203216f70656e7374726565746d61703a76656e75653a7761792f323836303230323633",
+        "bbox": {
+          "lon1": -97.3386751,
+          "lat1": 32.7356398,
+          "lon2": -97.3375839,
+          "lat2": 32.7361734
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "John S. and Rachel W. Heard House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75069",
+        "street": "North College Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.62102,
+        "lat": 33.20027,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 49845.35258326333,
+        "formatted": "John S. and Rachel W. Heard House, North College Street, McKinney, TX 75069, United States of America",
+        "address_line1": "John S. and Rachel W. Heard House",
+        "address_line2": "North College Street, McKinney, TX 75069, United States of America",
+        "category": "tourism.sights.memorial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655692H+4H",
+        "plus_code_short": "2H+4H McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.535122099220403,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515d8aabcabe2758c0595a2f8672a2994040f00103f901572b46e302000000c002019203214a6f686e20532e20616e642052616368656c20572e20486561726420486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343032393631323339",
+        "bbox": {
+          "lon1": -96.62107,
+          "lat1": 33.20022,
+          "lon2": -96.62097,
+          "lat2": 33.20032
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jane & John Justin Foundation Omni Theater",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76107",
+        "street": "Gendy Street",
+        "housenumber": "1600",
+        "iso3166_2": "US-TX",
+        "lon": -97.3695999,
+        "lat": 32.7448993,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Cultural District",
+        "result_type": "amenity",
+        "distance": 53661.39640598875,
+        "formatted": "Jane & John Justin Foundation Omni Theater, 1600 Gendy Street, Fort Worth, TX 76107, United States of America",
+        "address_line1": "Jane & John Justin Foundation Omni Theater",
+        "address_line2": "1600 Gendy Street, Fort Worth, TX 76107, United States of America",
+        "category": "entertainment.cinema",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PJVJ+X5",
+        "plus_code_short": "PJVJ+X5 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 4.267788611239355,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b6c65686a75758c0591a283adc585f4040f00102f901e751b52e00000000c0020192032a4a616e652026204a6f686e204a757374696e20466f756e646174696f6e204f6d6e692054686561746572e203216f70656e7374726565746d61703a76656e75653a7761792f373833363334393139",
+        "bbox": {
+          "lon1": -97.3697519,
+          "lat1": 32.7447766,
+          "lon2": -97.3694489,
+          "lat2": 32.7450316
+        }
+      }
+    ],
+    "query": {
+      "text": "Cris and John"
+    }
+  }
+}

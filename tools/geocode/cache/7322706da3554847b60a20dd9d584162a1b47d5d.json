@@ -1,0 +1,62 @@
+{
+  "queriedName": "Silver Spoon Restaurant",
+  "queriedAt": "2026-09-09T00:36:56.407Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Silver Spoon Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "West McDermott Drive",
+        "housenumber": "1223",
+        "iso3166_2": "US-TX",
+        "lon": -96.6977668,
+        "lat": 33.099561,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37043.397391999526,
+        "formatted": "Silver Spoon Restaurant, 1223 West McDermott Drive, Allen, TX 75013, United States of America",
+        "address_line1": "Silver Spoon Restaurant",
+        "address_line2": "1223 West McDermott Drive, Allen, TX 75013, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865538X2+RV",
+        "plus_code_short": "38X2+RV Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.861571673578318,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51038f1436a82c58c059817a336abe8c4040f00103f901e9ff7aa202000000c0020192031753696c7665722053706f6f6e2052657374617572616e74",
+        "bbox": {
+          "lon1": -96.6978168,
+          "lat1": 33.099511,
+          "lon2": -96.6977168,
+          "lat2": 33.099611
+        }
+      }
+    ],
+    "query": {
+      "text": "Silver Spoon Restaurant"
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "queriedName": "Shaahi Biryani",
+  "queriedAt": "2026-09-09T00:31:42.170Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hyderabadi Biryani & BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "street": "Greenville Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.7660815,
+        "lat": 32.870641,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Vickery Meadows",
+        "result_type": "amenity",
+        "distance": 10805.796755043122,
+        "formatted": "Hyderabadi Biryani & BBQ, Greenville Avenue, Dallas, TX 75231, United States of America",
+        "address_line1": "Hyderabadi Biryani & BBQ",
+        "address_line2": "Greenville Avenue, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6CM+7H",
+        "plus_code_short": "V6CM+7H, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.750779993264112,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518524b37a073158c05943c70e2a716f4040f00102f901c674a65600000000c00201920318487964657261626164692042697279616e69202620424251e203226f70656e7374726565746d61703a76656e75653a7761792f31343533373439343436",
+        "bbox": {
+          "lon1": -96.7661076,
+          "lat1": 32.8706048,
+          "lon2": -96.7659911,
+          "lat2": 32.8707385
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hyderabadi Biryani and BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75229",
+        "district": "Asian Trade District",
+        "street": "Harry Hines Boulevard",
+        "housenumber": "11276",
+        "iso3166_2": "US-TX",
+        "lon": -96.8894884,
+        "lat": 32.892463,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Koreatown",
+        "result_type": "amenity",
+        "distance": 15476.061251322017,
+        "formatted": "Hyderabadi Biryani and BBQ, 11276 Harry Hines Boulevard, Dallas, TX 75229, United States of America",
+        "address_line1": "Hyderabadi Biryani and BBQ",
+        "address_line2": "11276 Harry Hines Boulevard, Dallas, TX 75229, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V4R6+X6",
+        "plus_code_short": "V4R6+X6, 75229 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.730391234929563,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f80ac160ed3858c059edf1423a3c724040f00103f901fa98da4a02000000c0020192031a487964657261626164692042697279616e6920616e6420424251e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39383435373734353836",
+        "bbox": {
+          "lon1": -96.8895384,
+          "lat1": 32.892413,
+          "lon2": -96.8894384,
+          "lat2": 32.892513
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Imperial Biryani & Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "North Greenville Avenue",
+        "housenumber": "400",
+        "iso3166_2": "US-TX",
+        "lon": -96.7275115,
+        "lat": 32.9543106,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20756.78761106056,
+        "formatted": "Imperial Biryani & Cafe, 400 North Greenville Avenue, Richardson, TX 75081, United States of America",
+        "address_line1": "Imperial Biryani & Cafe",
+        "address_line2": "400 North Greenville Avenue, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X73C+PX",
+        "plus_code_short": "3C+PX Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.075015176256518,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b1fd648c8f2e58c059f29c88d9267a4040f00103f90144cdeb1903000000c00201920317496d70657269616c2042697279616e6920262043616665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333139373835373936",
+        "bbox": {
+          "lon1": -96.7275615,
+          "lat1": 32.9542606,
+          "lon2": -96.7274615,
+          "lat2": 32.9543606
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "What The Biryani",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.995939,
+        "lat": 32.921067,
+        "result_type": "amenity",
+        "distance": 24535.44727382459,
+        "postcode": "75063",
+        "formatted": "What The Biryani, Irving, TX 75063, United States of America",
+        "address_line1": "What The Biryani",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C3+CJ",
+        "plus_code_short": "W2C3+CJ Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.663248678633068,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e773ee76bd3f58c05961360186e5754040f00103f9012490a98e02000000c0020192031057686174205468652042697279616e69e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130393833343131373438"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "What The Biryani",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3601",
+        "iso3166_2": "US-TX",
+        "lon": -96.9959386,
+        "lat": 32.921067,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24535.418971578703,
+        "formatted": "What The Biryani, 3601 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "What The Biryani",
+        "address_line2": "3601 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C3+CJ",
+        "plus_code_short": "W2C3+CJ Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bdf44075bd3f58c05961360186e5754040f00103f9012490a98e02000000c0020192031057686174205468652042697279616e69",
+        "bbox": {
+          "lon1": -96.9959886,
+          "lat1": 32.921017,
+          "lon2": -96.9958886,
+          "lat2": 32.921117
+        }
+      }
+    ],
+    "query": {
+      "text": "Shaahi Biryani"
+    }
+  }
+}

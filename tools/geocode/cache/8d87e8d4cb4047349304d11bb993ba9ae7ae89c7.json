@@ -1,0 +1,256 @@
+{
+  "queriedName": "Royal Chopstix Irving",
+  "queriedAt": "2026-09-09T00:38:14.485Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Royal Oaks Drive",
+        "street": "Royal Oaks Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.973167,
+        "lat": 32.804007,
+        "result_type": "street",
+        "distance": 16739.11519604371,
+        "postcode": "75060",
+        "formatted": "Royal Oaks Drive, Irving, TX 75060, United States of America",
+        "address_line1": "Royal Oaks Drive",
+        "address_line2": "Irving, TX 75060, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R23G+JP",
+        "plus_code_short": "R23G+JP Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.143314921144097,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f9a23d5e483e58c059a6608db3e9664040c00204920310526f79616c204f616b73204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353335353834",
+        "bbox": {
+          "lon1": -96.975497,
+          "lat1": 32.803995,
+          "lon2": -96.970838,
+          "lat2": 32.804015
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "East Royal Lane",
+        "street": "East Royal Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.935773,
+        "lat": 32.895652,
+        "result_type": "street",
+        "distance": 18497.83080090374,
+        "postcode": "75039",
+        "formatted": "East Royal Lane, Irving, TX 75039, United States of America",
+        "address_line1": "East Royal Lane",
+        "address_line2": "Irving, TX 75039, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W7+7M",
+        "plus_code_short": "V3W7+7M Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.671976603882992,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b5de6fb4e33b58c0596a4c88b9a4724040c0020492030f4561737420526f79616c204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383639363230",
+        "bbox": {
+          "lon1": -96.945406,
+          "lat1": 32.895499,
+          "lon2": -96.926141,
+          "lat2": 32.895681
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "West Royal Lane",
+        "street": "West Royal Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.98177,
+        "lat": 32.903506,
+        "result_type": "street",
+        "distance": 22267.782946227355,
+        "postcode": "75063",
+        "formatted": "West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "West Royal Lane",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W239+C7",
+        "plus_code_short": "W239+C7 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.594809726070818,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51698cd651d53e58c059b1dea815a6734040c0020492030f5765737420526f79616c204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383639353935",
+        "bbox": {
+          "lon1": -97.005981,
+          "lat1": 32.895653,
+          "lon2": -96.945406,
+          "lat2": 32.920724
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Royal Ridge Parkway",
+        "street": "Royal Ridge Parkway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.995333,
+        "lat": 32.91625,
+        "result_type": "street",
+        "distance": 24146.05323552457,
+        "postcode": "75063",
+        "formatted": "Royal Ridge Parkway, Irving, TX 75063, United States of America",
+        "address_line1": "Royal Ridge Parkway",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W283+FV",
+        "plus_code_short": "W283+FV Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.605445187303571,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514be82e89b33f58c059e17a14ae47754040c00204920313526f79616c205269646765205061726b776179e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353332333132",
+        "bbox": {
+          "lon1": -96.995669,
+          "lat1": 32.911732,
+          "lon2": -96.995156,
+          "lat2": 32.920672
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Royal Crossing",
+        "street": "Royal Crossing",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.998639,
+        "lat": 32.920546,
+        "result_type": "street",
+        "distance": 24689.585608152996,
+        "postcode": "75063",
+        "formatted": "Royal Crossing, Irving, TX 75063, United States of America",
+        "address_line1": "Royal Crossing",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C2+6G",
+        "plus_code_short": "W2C2+6G Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.6338345396801515,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a6608db3e93f58c059583b8a73d4754040c0020492030e526f79616c2043726f7373696e67e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383639393732",
+        "bbox": {
+          "lon1": -96.999533,
+          "lat1": 32.919785,
+          "lon2": -96.997718,
+          "lat2": 32.921283
+        }
+      }
+    ],
+    "query": {
+      "text": "Royal Chopstix Irving"
+    }
+  }
+}

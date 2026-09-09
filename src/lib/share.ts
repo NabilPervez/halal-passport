@@ -10,7 +10,7 @@ export function formatShareText(restaurant: Restaurant, review: Review): string 
   const lines = [
     `🍽️ ${restaurant.name} — ${gems} (${review.rating}/5 ${ratingLabel})`,
     `📍 ${restaurant.address}`,
-    `🏙️ ${restaurant.neighborhood} · 💰 ${review.pricePoint}`,
+    `🏙️ ${restaurant.city} · 💰 ${review.pricePoint}`,
   ];
   if (review.whatToGet.trim()) lines.push(`✅ Get: ${review.whatToGet.trim()}`);
   if (review.whatToAvoid.trim()) lines.push(`🛑 Avoid: ${review.whatToAvoid.trim()}`);

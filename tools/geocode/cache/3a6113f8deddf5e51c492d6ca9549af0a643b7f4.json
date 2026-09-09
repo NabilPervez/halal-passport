@@ -1,0 +1,274 @@
+{
+  "queriedName": "King Kong Boba Tea & Smoothie",
+  "queriedAt": "2026-09-09T00:35:31.582Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoothie King",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75209",
+        "street": "West Lovers Lane",
+        "housenumber": "5235",
+        "iso3166_2": "US-TX",
+        "lon": -96.8216649,
+        "lat": 32.8514028,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Devonshire",
+        "result_type": "amenity",
+        "distance": 8588.317687425593,
+        "formatted": "Smoothie King, 5235 West Lovers Lane, Dallas, TX 75209, United States of America",
+        "address_line1": "Smoothie King",
+        "address_line2": "5235 West Lovers Lane, Dallas, TX 75209, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V52H+H8",
+        "plus_code_short": "V52H+H8, 75209 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.985995958104295,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515a716028963458c05986dc56c4fa6c4040f00102f901843ecd1b00000000c0020192030d536d6f6f74686965204b696e67e203216f70656e7374726565746d61703a76656e75653a7761792f343636343335373136",
+        "bbox": {
+          "lon1": -96.8217412,
+          "lat1": 32.8513626,
+          "lon2": -96.8215887,
+          "lat2": 32.8515054
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoothie King",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Forest Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.8023253,
+        "lat": 32.9099377,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 14790.387561859887,
+        "formatted": "Smoothie King, Forest Lane, Dallas, TX 75230, United States of America",
+        "address_line1": "Smoothie King",
+        "address_line2": "Forest Lane, Dallas, TX 75230, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W55X+X3",
+        "plus_code_short": "W55X+X3, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.792797659567811,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513810374c593358c059e072abd678744040f00103f901ed63b31603000000c0020192030d536d6f6f74686965204b696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323635373537313635",
+        "bbox": {
+          "lon1": -96.8023753,
+          "lat1": 32.9098877,
+          "lon2": -96.8022753,
+          "lat2": 32.9099877
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoothie King",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75251",
+        "street": "Forest Lane",
+        "housenumber": "7718",
+        "iso3166_2": "US-TX",
+        "lon": -96.7738173,
+        "lat": 32.9093583,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Bouchard",
+        "result_type": "amenity",
+        "distance": 14876.089068631694,
+        "formatted": "Smoothie King, 7718 Forest Lane, Dallas, TX 75251, United States of America",
+        "address_line1": "Smoothie King",
+        "address_line2": "7718 Forest Lane, Dallas, TX 75251, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W65G+PF",
+        "plus_code_short": "W65G+PF, 75251 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.970879970080758,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510f25ff38863158c0594f6c4fda65744040f00103f9010569423201000000c0020192030d536d6f6f74686965204b696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35313338313830333537",
+        "bbox": {
+          "lon1": -96.7738673,
+          "lat1": 32.9093083,
+          "lon2": -96.7737673,
+          "lat2": 32.9094083
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoothie King",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Campbell Road",
+        "housenumber": "342",
+        "iso3166_2": "US-TX",
+        "lon": -96.7229087,
+        "lat": 32.9760462,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23189.262230292607,
+        "formatted": "Smoothie King, 342 West Campbell Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Smoothie King",
+        "address_line2": "342 West Campbell Road, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7GG+CR",
+        "plus_code_short": "X7GG+CR Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.561243935045762,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519c1fda22442e58c0594a31f614ef7c4040f00103f90135b3625e00000000c0020192030d536d6f6f74686965204b696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f31353833353236373039",
+        "bbox": {
+          "lon1": -96.7229587,
+          "lat1": 32.9759962,
+          "lon2": -96.7228587,
+          "lat2": 32.9760962
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoothie King",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Dallas",
+        "postcode": "75287",
+        "street": "Frankford Road",
+        "housenumber": "3560",
+        "iso3166_2": "US-TX",
+        "lon": -96.8566573,
+        "lat": 32.9965419,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Timberglen",
+        "result_type": "amenity",
+        "distance": 25039.4783399151,
+        "formatted": "Smoothie King, 3560 Frankford Road, Dallas, TX 75287, United States of America",
+        "address_line1": "Smoothie King",
+        "address_line2": "3560 Frankford Road, Dallas, TX 75287, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X4WV+J8",
+        "plus_code_short": "X4WV+J8, 75287 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.898116885165887,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514cd82379d33658c059fecb5aaf8e7f4040f00102f901da50133c00000000c0020192030d536d6f6f74686965204b696e67e203226f70656e7374726565746d61703a76656e75653a7761792f31303037383938383432",
+        "bbox": {
+          "lon1": -96.8566839,
+          "lat1": 32.9964946,
+          "lon2": -96.8566307,
+          "lat2": 32.9965893
+        }
+      }
+    ],
+    "query": {
+      "text": "King Kong Boba Tea & Smoothie"
+    }
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "queriedName": "Lime N Dime",
+  "queriedAt": "2026-09-09T00:38:35.047Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Lime",
+        "street": "Lime",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Chimney Hill",
+        "iso3166_2": "US-TX",
+        "lon": -96.729396,
+        "lat": 32.912136,
+        "result_type": "street",
+        "distance": 16299.716797149265,
+        "postcode": "75243",
+        "formatted": "Lime, Dallas, TX 75243, United States of America",
+        "address_line1": "Lime",
+        "address_line2": "Dallas, TX 75243, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W76C+V6",
+        "plus_code_short": "W76C+V6, 75243 Dallas, United States",
+        "rank": {
+          "popularity": 4.894993731418164,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5153758f6cae2e58c0598bc058dfc0744040c002049203044c696d65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353332303439",
+        "bbox": {
+          "lon1": -96.729447,
+          "lat1": 32.911916,
+          "lon2": -96.729345,
+          "lat2": 32.912356
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Lime Leaf Lane",
+        "street": "Lime Leaf Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Duncanville",
+        "iso3166_2": "US-TX",
+        "lon": -96.896271,
+        "lat": 32.63128,
+        "result_type": "street",
+        "distance": 18676.866497112613,
+        "postcode": "75137",
+        "formatted": "Lime Leaf Lane, Duncanville, TX 75137, United States of America",
+        "address_line1": "Lime Leaf Lane",
+        "address_line2": "Duncanville, TX 75137, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J4J3+GF",
+        "plus_code_short": "J4J3+GF Duncanville, Dallas County, United States",
+        "rank": {
+          "popularity": 3.5926022077312654,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519b560a815c3958c059374f75c8cd504040c0020492030e4c696d65204c656166204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363839363835",
+        "bbox": {
+          "lon1": -96.896645,
+          "lat1": 32.629676,
+          "lon2": -96.896218,
+          "lat2": 32.632958
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Gipsy Lime",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.991205,
+        "lat": 32.924948,
+        "result_type": "amenity",
+        "distance": 24489.698063940363,
+        "postcode": "75063",
+        "formatted": "Gipsy Lime, Irving, TX 75063, United States of America",
+        "address_line1": "Gipsy Lime",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2F5+XG",
+        "plus_code_short": "W2F5+XG Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.667668539541077,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516da818e76f3f58c059144031b264764040f00103f901e57a968202000000c0020192030a4769707379204c696d65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373830383334353333"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gipsy Lime",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Cypress Waters Boulevard",
+        "housenumber": "8701",
+        "iso3166_2": "US-TX",
+        "lon": -96.991205,
+        "lat": 32.9249483,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24489.720449973272,
+        "formatted": "Gipsy Lime, 8701 Cypress Waters Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Gipsy Lime",
+        "address_line2": "8701 Cypress Waters Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2F5+XG",
+        "plus_code_short": "W2F5+XG Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516da818e76f3f58c059d27eb5b464764040f00103f901e57a968202000000c0020192030a4769707379204c696d65",
+        "bbox": {
+          "lon1": -96.991255,
+          "lat1": 32.9248983,
+          "lon2": -96.991155,
+          "lat2": 32.9249983
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Lime Cove",
+        "street": "Lime Cove",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Lucas",
+        "iso3166_2": "US-TX",
+        "lon": -96.608426,
+        "lat": 33.106099,
+        "result_type": "street",
+        "distance": 40605.39239249632,
+        "postcode": "75002",
+        "formatted": "Lime Cove, Lucas, TX 75002, United States of America",
+        "address_line1": "Lime Cove",
+        "address_line2": "Lucas, TX 75002, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655494R+CJ",
+        "plus_code_short": "494R+CJ Lucas, Collin County, United States",
+        "rank": {
+          "popularity": 3.9668216725813634,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514f029b73f02658c059b491eba6948d4040c002049203094c696d6520436f7665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230333934333634",
+        "bbox": {
+          "lon1": -96.608436,
+          "lat1": 33.105663,
+          "lon2": -96.608415,
+          "lat2": 33.106535
+        }
+      }
+    ],
+    "query": {
+      "text": "Lime N Dime"
+    }
+  }
+}

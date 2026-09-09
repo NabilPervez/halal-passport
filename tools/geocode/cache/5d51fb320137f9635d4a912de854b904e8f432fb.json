@@ -1,0 +1,62 @@
+{
+  "queriedName": "Port Coffee Co Irving",
+  "queriedAt": "2026-09-09T00:32:08.990Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Port Coffee Co",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "East Royal Lane",
+        "housenumber": "411",
+        "iso3166_2": "US-TX",
+        "lon": -96.9399848,
+        "lat": 32.8962162,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 18819.846607853247,
+        "formatted": "Port Coffee Co, 411 East Royal Lane, Irving, TX 75039, United States of America",
+        "address_line1": "Port Coffee Co",
+        "address_line2": "411 East Royal Lane, Irving, TX 75039, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W6+F2",
+        "plus_code_short": "V3W6+F2 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.656202247492728,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "512daf01b6283c58c0599c926236b7724040f00103f9014b19801a03000000c0020192030e506f727420436f6666656520436f",
+        "bbox": {
+          "lon1": -96.9400348,
+          "lat1": 32.8961662,
+          "lon2": -96.9399348,
+          "lat2": 32.8962662
+        }
+      }
+    ],
+    "query": {
+      "text": "Port Coffee Co Irving"
+    }
+  }
+}

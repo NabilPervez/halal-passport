@@ -1,0 +1,116 @@
+{
+  "queriedName": "Hello! India ( Cafe, Banquet & Halal Meat)",
+  "queriedAt": "2026-09-09T00:39:19.459Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Golden Star Halal Market - Afghan Market, Bakery, & Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Terrace Drive",
+        "housenumber": "300 #309",
+        "iso3166_2": "US-TX",
+        "lon": -96.7278383,
+        "lat": 32.951711,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20472.796628105243,
+        "formatted": "Golden Star Halal Market - Afghan Market, Bakery, & Cafe, 300 #309 Terrace Drive, Richardson, TX 75081, United States of America",
+        "address_line1": "Golden Star Halal Market - Afghan Market, Bakery, & Cafe",
+        "address_line2": "300 #309 Terrace Drive, Richardson, TX 75081, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X72C+MV",
+        "plus_code_short": "2C+MV Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.051308431546644,
+          "confidence": 0,
+          "confidence_city_level": 0.16666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "51aed117e7942e58c0592a1f82aad1794040f00103f90169c2ef4103000000c00201920338476f6c64656e20537461722048616c616c204d61726b6574202d2041666768616e204d61726b65742c2042616b6572792c20262043616665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393931313333383031",
+        "bbox": {
+          "lon1": -96.7278883,
+          "lat1": 32.951661,
+          "lon2": -96.7277883,
+          "lat2": 32.951761
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pearl Banquet & Event",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Mountain Pass Drive",
+        "housenumber": "820",
+        "iso3166_2": "US-TX",
+        "lon": -96.7086035,
+        "lat": 33.0552013,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32016.163577458534,
+        "formatted": "Pearl Banquet & Event, 820 Mountain Pass Drive, Plano, TX 75023, United States of America",
+        "address_line1": "Pearl Banquet & Event",
+        "address_line2": "820 Mountain Pass Drive, Plano, TX 75023, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655374R+3H",
+        "plus_code_short": "374R+3H, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.7830961644674925,
+          "confidence": 0.048768750000000013,
+          "confidence_city_level": 0.08333333333333333,
+          "match_type": "full_match"
+        },
+        "place_id": "5131957ec2592d58c0592d1911d610874040f00103f901af5b248502000000c00201920315506561726c2042616e717565742026204576656e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383233363837303837",
+        "bbox": {
+          "lon1": -96.7086535,
+          "lat1": 33.0551513,
+          "lon2": -96.7085535,
+          "lat2": 33.0552513
+        }
+      }
+    ],
+    "query": {
+      "text": "Hello! India ( Cafe, Banquet & Halal Meat)"
+    }
+  }
+}

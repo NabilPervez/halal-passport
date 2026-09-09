@@ -1,0 +1,221 @@
+{
+  "queriedName": "Spice 'N Rice Indian Cuisine",
+  "queriedAt": "2026-09-09T00:31:06.466Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro Rice & Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75251",
+        "street": "Forest Lane",
+        "housenumber": "7722",
+        "iso3166_2": "US-TX",
+        "lon": -96.7737552,
+        "lat": 32.9093394,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Bouchard",
+        "result_type": "amenity",
+        "distance": 14874.85575194178,
+        "formatted": "Gyro Rice & Spice, 7722 Forest Lane, Dallas, TX 75251, United States of America",
+        "address_line1": "Gyro Rice & Spice",
+        "address_line2": "7722 Forest Lane, Dallas, TX 75251, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W65G+PF",
+        "plus_code_short": "W65G+PF, 75251 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.970879970080758,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5109c78734853158c0596dfbc33b65744040f00103f9014365272303000000c002019203114779726f20526963652026205370696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343734363836323735",
+        "bbox": {
+          "lon1": -96.7738052,
+          "lat1": 32.9092894,
+          "lon2": -96.7737052,
+          "lat2": 32.9093894
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Original Chicken-N-Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "North Belt Line Road",
+        "housenumber": "3613",
+        "iso3166_2": "US-TX",
+        "lon": -96.9928876,
+        "lat": 32.8562381,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20315.65133779928,
+        "formatted": "The Original Chicken-N-Rice, 3613 North Belt Line Road, Irving, TX 75062, United States of America",
+        "address_line1": "The Original Chicken-N-Rice",
+        "address_line2": "3613 North Belt Line Road, Irving, TX 75062, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V244+FR",
+        "plus_code_short": "V244+FR Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.612159771038316,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a7a66e788b3f58c0596a8bc635996d4040f00103f9012572d8ae01000000c0020192031b546865204f726967696e616c20436869636b656e2d4e2d52696365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37323238333837383737",
+        "bbox": {
+          "lon1": -96.9929376,
+          "lat1": 32.8561881,
+          "lon2": -96.9928376,
+          "lat2": 32.8562881
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spice 'N' Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Terrace Drive",
+        "housenumber": "300",
+        "iso3166_2": "US-TX",
+        "lon": -96.7276938,
+        "lat": 32.9518269,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20489.284693587382,
+        "formatted": "Spice 'N' Rice, 300 Terrace Drive, Richardson, TX 75081, United States of America",
+        "address_line1": "Spice 'N' Rice",
+        "address_line2": "300 Terrace Drive, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X72C+PW",
+        "plus_code_short": "2C+PW Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.051308431546644,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5120200489922e58c059fe79bf76d5794040f00103f901c60e82a700000000c0020192030e537069636520274e272052696365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32383130333138353334",
+        "bbox": {
+          "lon1": -96.7277438,
+          "lat1": 32.9517769,
+          "lon2": -96.7276438,
+          "lat2": 32.9518769
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sugar N Spice Total Body Wellness Spa",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Keller",
+        "postcode": "76248",
+        "suburb": "Old Town Keller",
+        "street": "North Main Street",
+        "housenumber": "310",
+        "iso3166_2": "US-TX",
+        "lon": -97.2531482,
+        "lat": 32.9377744,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 46205.70243660356,
+        "formatted": "Sugar N Spice Total Body Wellness Spa, 310 North Main Street, Keller, TX 76248, United States of America",
+        "address_line1": "Sugar N Spice Total Body Wellness Spa",
+        "address_line2": "310 North Main Street, Keller, TX 76248, United States of America",
+        "category": "commercial;service.beauty.massage",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WPQW+4P",
+        "plus_code_short": "QW+4P Keller, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.699121501051125,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a4028294335058c0595583d5fd08784040f00103f901d69900fb00000000c002019203255375676172204e20537069636520546f74616c20426f64792057656c6c6e65737320537061e203236f70656e7374726565746d61703a76656e75653a6e6f64652f34323131313230353938",
+        "bbox": {
+          "lon1": -97.2531982,
+          "lat1": 32.9377244,
+          "lon2": -97.2530982,
+          "lat2": 32.9378244
+        }
+      }
+    ],
+    "query": {
+      "text": "Spice 'N Rice Indian Cuisine"
+    }
+  }
+}

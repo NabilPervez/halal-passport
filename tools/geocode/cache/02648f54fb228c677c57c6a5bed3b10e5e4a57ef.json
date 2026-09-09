@@ -1,0 +1,256 @@
+{
+  "queriedName": "Punjabi junction",
+  "queriedAt": "2026-09-09T00:39:48.566Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Junction Street",
+        "street": "Junction Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.739716,
+        "lat": 32.769433,
+        "result_type": "street",
+        "distance": 5421.460406294143,
+        "postcode": "75210",
+        "formatted": "Junction Street, Dallas, TX 75210, United States of America",
+        "address_line1": "Junction Street",
+        "address_line2": "Dallas, TX 75210, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q796+Q4",
+        "plus_code_short": "Q796+Q4, 75210 Dallas, United States",
+        "rank": {
+          "popularity": 4.679544903891601,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fd14c781572f58c05949bbd1c77c624040c0020492030f4a756e6374696f6e20537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353234373137",
+        "bbox": {
+          "lon1": -96.740997,
+          "lat1": 32.768407,
+          "lon2": -96.738462,
+          "lat2": 32.770439
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Junction Run",
+        "street": "Junction Run",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Mesquite",
+        "iso3166_2": "US-TX",
+        "lon": -96.584479,
+        "lat": 32.725585,
+        "result_type": "street",
+        "distance": 20680.489530323557,
+        "postcode": "75181",
+        "formatted": "Junction Run, Mesquite, TX 75181, United States of America",
+        "address_line1": "Junction Run",
+        "address_line2": "Mesquite, TX 75181, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645PCG8+66",
+        "plus_code_short": "PCG8+66, 75181 Mesquite, United States",
+        "rank": {
+          "popularity": 3.391897538486057,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b98c9b1a682558c059edbb22f8df5c4040c0020492030c4a756e6374696f6e2052756ee203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363838303339",
+        "bbox": {
+          "lon1": -96.587872,
+          "lat1": 32.72336,
+          "lon2": -96.584464,
+          "lat2": 32.725978
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Junction Drive",
+        "street": "Junction Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.780881,
+        "lat": 33.016999,
+        "result_type": "street",
+        "distance": 26729.10854999149,
+        "postcode": "75093",
+        "formatted": "Junction Drive, Plano, TX 75093, United States of America",
+        "address_line1": "Junction Drive",
+        "address_line2": "Plano, TX 75093, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552689+QJ",
+        "plus_code_short": "2689+QJ, 75093 Plano, United States",
+        "rank": {
+          "popularity": 4.961785463462792,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5156444df4f93158c0594888f2052d824040c0020492030e4a756e6374696f6e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343038333438",
+        "bbox": {
+          "lon1": -96.782743,
+          "lat1": 33.016979,
+          "lon2": -96.779026,
+          "lat2": 33.01706
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Junction Drive",
+        "street": "Junction Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Allen",
+        "iso3166_2": "US-TX",
+        "lon": -96.678799,
+        "lat": 33.110993,
+        "result_type": "street",
+        "distance": 38741.684732592,
+        "postcode": "75013",
+        "formatted": "Junction Drive, Allen, TX 75013, United States of America",
+        "address_line1": "Junction Drive",
+        "address_line2": "Allen, TX 75013, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655486C+9F",
+        "plus_code_short": "6C+9F Allen, Collin County, United States",
+        "rank": {
+          "popularity": 4.770254109617025,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ae635c71712b58c059df8ac404358e4040c0020492030e4a756e6374696f6e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383033373331",
+        "bbox": {
+          "lon1": -96.683359,
+          "lat1": 33.104284,
+          "lon2": -96.677748,
+          "lat2": 33.111076
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Justin's Junction",
+        "street": "Justin's Junction",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "The Colony",
+        "iso3166_2": "US-TX",
+        "lon": -96.95133,
+        "lat": 33.126189,
+        "result_type": "street",
+        "distance": 41412.34761246845,
+        "postcode": "75036",
+        "formatted": "Justin's Junction, The Colony, TX 75036, United States of America",
+        "address_line1": "Justin's Junction",
+        "address_line2": "The Colony, TX 75036, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865542GX+FF",
+        "plus_code_short": "42GX+FF The Colony, Denton County, United States",
+        "rank": {
+          "popularity": 3.4468673228956406,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51096d3997e23c58c059b60e0ef626904040c002049203114a757374696e2773204a756e6374696f6ee203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343135333531",
+        "bbox": {
+          "lon1": -96.951387,
+          "lat1": 33.125028,
+          "lon2": -96.950448,
+          "lat2": 33.127049
+        }
+      }
+    ],
+    "query": {
+      "text": "Punjabi junction"
+    }
+  }
+}

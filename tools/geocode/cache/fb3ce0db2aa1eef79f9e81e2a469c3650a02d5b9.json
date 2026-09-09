@@ -1,0 +1,60 @@
+{
+  "queriedName": "INVASION",
+  "queriedAt": "2026-09-09T00:37:33.742Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "A Green Invasion",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75609",
+        "street": "Hoot Owl Trail",
+        "iso3166_2": "US-TX",
+        "lon": -96.6145928,
+        "lat": 33.157916,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 45646.46757687258,
+        "formatted": "A Green Invasion, Hoot Owl Trail, McKinney, TX 75609, United States of America",
+        "address_line1": "A Green Invasion",
+        "address_line2": "Hoot Owl Trail, McKinney, TX 75609, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655595P+55",
+        "plus_code_short": "595P+55 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.333156966873117,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51da160a7d552758c059f0c16b9736944040f00103f901261828f700000000c002019203104120477265656e20496e766173696f6e",
+        "bbox": {
+          "lon1": -96.6146428,
+          "lat1": 33.157866,
+          "lon2": -96.6145428,
+          "lat2": 33.157966
+        }
+      }
+    ],
+    "query": {
+      "text": "INVASION"
+    }
+  }
+}

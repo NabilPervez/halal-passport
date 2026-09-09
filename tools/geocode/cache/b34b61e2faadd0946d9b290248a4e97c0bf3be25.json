@@ -1,0 +1,273 @@
+{
+  "queriedName": "Williams Chicken McKinney",
+  "queriedAt": "2026-09-09T00:36:52.031Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "William's Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75224",
+        "street": "West Kiest Boulevard",
+        "housenumber": "1212",
+        "iso3166_2": "US-TX",
+        "lon": -96.8421092,
+        "lat": 32.7054857,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Five Mile Creek",
+        "result_type": "amenity",
+        "distance": 9001.936975370083,
+        "formatted": "William's Chicken, 1212 West Kiest Boulevard, Dallas, TX 75224, United States of America",
+        "address_line1": "William's Chicken",
+        "address_line2": "1212 West Kiest Boulevard, Dallas, TX 75224, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P545+55",
+        "plus_code_short": "P545+55, 75224 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.175623103095395,
+          "confidence": 0.63,
+          "match_type": "full_match"
+        },
+        "place_id": "51496afc1de53558c059d8a5fc5a4d5a4040f00102f9010e89d11b00000000c0020192031157696c6c69616d277320436869636b656ee203216f70656e7374726565746d61703a76656e75653a7761792f343636373136393432",
+        "bbox": {
+          "lon1": -96.842196,
+          "lat1": 32.7054075,
+          "lon2": -96.8420224,
+          "lat2": 32.7055639
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Williams Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75228",
+        "street": "North Buckner Boulevard",
+        "housenumber": "2844",
+        "iso3166_2": "US-TX",
+        "lon": -96.6846982,
+        "lat": 32.8111826,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Reinhardt",
+        "result_type": "amenity",
+        "distance": 11164.148648748931,
+        "formatted": "Williams Chicken, 2844 North Buckner Boulevard, Dallas, TX 75228, United States of America",
+        "address_line1": "Williams Chicken",
+        "address_line2": "2844 North Buckner Boulevard, Dallas, TX 75228, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R868+F4",
+        "plus_code_short": "R868+F4, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.487021222243731,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "5153286618d22b58c059c90ad9d4d4674040f00102f9010c8acd1b00000000c0020192031057696c6c69616d7320436869636b656ee203216f70656e7374726565746d61703a76656e75653a7761792f343636343535303532",
+        "bbox": {
+          "lon1": -96.6847915,
+          "lat1": 32.8111311,
+          "lon2": -96.6846048,
+          "lat2": 32.8112338
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "William's Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75217",
+        "street": "South Great Trinity Forest Way",
+        "housenumber": "7900",
+        "iso3166_2": "US-TX",
+        "lon": -96.6859407,
+        "lat": 32.7127555,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 12606.250748450557,
+        "formatted": "William's Chicken, 7900 South Great Trinity Forest Way, Dallas, TX 75217, United States of America",
+        "address_line1": "William's Chicken",
+        "address_line2": "7900 South Great Trinity Forest Way, Dallas, TX 75217, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P877+4J",
+        "plus_code_short": "P877+4J, 75217 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 3.89656231582512,
+          "confidence": 0.63,
+          "match_type": "full_match"
+        },
+        "place_id": "51b45fd273e62b58c059a6457d923b5b4040f00102f901cc9fc11b00000000c0020192031157696c6c69616d277320436869636b656ee203216f70656e7374726565746d61703a76656e75653a7761792f343635363734313838",
+        "bbox": {
+          "lon1": -96.6859826,
+          "lat1": 32.7126493,
+          "lon2": -96.6858988,
+          "lat2": 32.712834
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Williams Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Cedar Hill",
+        "postcode": "75104",
+        "street": "South Highway 67",
+        "housenumber": "126",
+        "iso3166_2": "US-TX",
+        "lon": -96.9464342,
+        "lat": 32.5885275,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 25195.230379062814,
+        "formatted": "Williams Chicken, 126 South Highway 67, Cedar Hill, TX 75104, United States of America",
+        "address_line1": "Williams Chicken",
+        "address_line2": "126 South Highway 67, Cedar Hill, TX 75104, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H3Q3+CC",
+        "plus_code_short": "Q3+CC, 75104 Cedar Hill, United States",
+        "rank": {
+          "importance": 0.000056138704508995463,
+          "popularity": 3.4331792828136827,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "513834c060923c58c059f8a57ede544b4040f00102f9011f7cca2700000000c0020192031057696c6c69616d7320436869636b656ee203216f70656e7374726565746d61703a76656e75653a7761792f363637353831343731",
+        "bbox": {
+          "lon1": -96.9465346,
+          "lat1": 32.588443,
+          "lon2": -96.9463339,
+          "lat2": 32.5886121
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Williams Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75074",
+        "street": "East Plano Parkway",
+        "housenumber": "2405",
+        "iso3166_2": "US-TX",
+        "lon": -96.6830943,
+        "lat": 33.0076643,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27766.305136429517,
+        "formatted": "Williams Chicken, 2405 East Plano Parkway, Plano, TX 75074, United States of America",
+        "address_line1": "Williams Chicken",
+        "address_line2": "2405 East Plano Parkway, Plano, TX 75074, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552858+3Q",
+        "plus_code_short": "2858+3Q, 75074 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.933149331479577,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "5160a527d1b72b58c05962ecce24fb804040f00103f901c8218e8c02000000c0020192031057696c6c69616d7320436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130393438303539353932",
+        "bbox": {
+          "lon1": -96.6831443,
+          "lat1": 33.0076143,
+          "lon2": -96.6830443,
+          "lat2": 33.0077143
+        }
+      }
+    ],
+    "query": {
+      "text": "Williams Chicken McKinney"
+    }
+  }
+}

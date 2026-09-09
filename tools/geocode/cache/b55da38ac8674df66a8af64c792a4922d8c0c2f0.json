@@ -1,0 +1,278 @@
+{
+  "queriedName": "Turkish Cafe & Lounge",
+  "queriedAt": "2026-09-09T00:42:31.616Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Twilite Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Elm Street",
+        "housenumber": "2640",
+        "iso3166_2": "US-TX",
+        "lon": -96.7849352,
+        "lat": 32.7842328,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1385.2762796602492,
+        "formatted": "Twilite Lounge, 2640 Elm Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Twilite Lounge",
+        "address_line2": "2640 Elm Street, Dallas, TX 75226, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M8+M2",
+        "plus_code_short": "Q6M8+M2, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.389048234071144,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ac5ed9603c3258c059aa398abd61644040f00102f9015bb15e4200000000c0020192030e5477696c697465204c6f756e6765e203226f70656e7374726565746d61703a76656e75653a7761792f31313133353032303433",
+        "bbox": {
+          "lon1": -96.7850004,
+          "lat1": 32.7841361,
+          "lon2": -96.7848694,
+          "lat2": 32.7843292
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Astra Kitchen + Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "Leonard Street",
+        "housenumber": "1717",
+        "iso3166_2": "US-TX",
+        "lon": -96.7969184,
+        "lat": 32.7896348,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1404.9483093253086,
+        "formatted": "Astra Kitchen + Lounge, 1717 Leonard Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Astra Kitchen + Lounge",
+        "address_line2": "1717 Leonard Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6Q3+V6",
+        "plus_code_short": "Q3+V6, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.894673883737748,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51296508b6003358c0594ae4ccc012654040f00102f90132e1353f00000000c002019203164173747261204b69746368656e202b204c6f756e6765e203226f70656e7374726565746d61703a76656e75653a7761792f31303630343935363636",
+        "bbox": {
+          "lon1": -96.7974339,
+          "lat1": 32.7892477,
+          "lon2": -96.796466,
+          "lat2": 32.7900776
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cheat Code Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "district": "Oak Lawn",
+        "street": "Cedar Springs Road",
+        "housenumber": "3911",
+        "iso3166_2": "US-TX",
+        "lon": -96.8109699,
+        "lat": 32.8106328,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Turtle Creek",
+        "result_type": "amenity",
+        "distance": 3961.220441013808,
+        "formatted": "Cheat Code Lounge, 3911 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "Cheat Code Lounge",
+        "address_line2": "3911 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+7J",
+        "plus_code_short": "R56Q+7J, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.115755277856817,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5196a24beee63358c0594f88cad0c2674040f00103f9010e38bbd702000000c00201920311436865617420436f6465204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323039333035363134",
+        "bbox": {
+          "lon1": -96.8110199,
+          "lat1": 32.8105828,
+          "lon2": -96.8109199,
+          "lat2": 32.8106828
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cosmo's Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "Swiss Avenue Historic District",
+        "street": "Skillman Street",
+        "housenumber": "1212",
+        "iso3166_2": "US-TX",
+        "lon": -96.7614732,
+        "lat": 32.8116064,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Belmont",
+        "result_type": "amenity",
+        "distance": 5082.837064774157,
+        "formatted": "Cosmo's Lounge, 1212 Skillman Street, Dallas, TX 75206, United States of America",
+        "address_line1": "Cosmo's Lounge",
+        "address_line2": "1212 Skillman Street, Dallas, TX 75206, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R66Q+JC",
+        "plus_code_short": "R66Q+JC, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.402906138348441,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f3b116fabb3058c059b69cf0b7e2674040f00103f90153600b1703000000c0020192030e436f736d6f2773204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323731353233343131",
+        "bbox": {
+          "lon1": -96.7615232,
+          "lat1": 32.8115564,
+          "lon2": -96.7614232,
+          "lat2": 32.8116564
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "VYB Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76201",
+        "street": "West McKinney Street",
+        "housenumber": "104",
+        "iso3166_2": "US-TX",
+        "lon": -97.1327943,
+        "lat": 33.2167438,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 58065.72137499602,
+        "formatted": "VYB Lounge, 104 West McKinney Street, Denton, TX 76201, United States of America",
+        "address_line1": "VYB Lounge",
+        "address_line2": "104 West McKinney Street, Denton, TX 76201, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546V88+MV",
+        "plus_code_short": "88+MV, 76201 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 3.1104234884705066,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5118e6a9b37f4858c0592e4ec642be9b4040f00103f901511db87c02000000c0020192030a565942204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363832333735353035",
+        "bbox": {
+          "lon1": -97.1328443,
+          "lat1": 33.2166938,
+          "lon2": -97.1327443,
+          "lat2": 33.2167938
+        }
+      }
+    ],
+    "query": {
+      "text": "Turkish Cafe & Lounge"
+    }
+  }
+}

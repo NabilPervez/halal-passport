@@ -1,0 +1,64 @@
+{
+  "queriedName": "Trolley Stop Cafe",
+  "queriedAt": "2026-09-09T00:41:36.733Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Trolley Stop Café",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "North Saint Paul Street",
+        "housenumber": "400",
+        "iso3166_2": "US-TX",
+        "lon": -96.7978323,
+        "lat": 32.7843166,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 817.2822789091634,
+        "formatted": "Trolley Stop Café, 400 North Saint Paul Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Trolley Stop Café",
+        "address_line2": "400 North Saint Paul Street, Dallas, TX 75201, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M2+PV",
+        "plus_code_short": "M2+PV, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.534983618807104,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51510c35af0f3358c059de5a817c64644040f00103f901a69566e802000000c0020192031254726f6c6c65792053746f7020436166c3a9",
+        "bbox": {
+          "lon1": -96.7978823,
+          "lat1": 32.7842666,
+          "lon2": -96.7977823,
+          "lat2": 32.7843666
+        }
+      }
+    ],
+    "query": {
+      "text": "Trolley Stop Cafe"
+    }
+  }
+}

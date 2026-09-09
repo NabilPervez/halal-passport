@@ -1,0 +1,253 @@
+{
+  "queriedName": "Texas King Plano",
+  "queriedAt": "2026-09-09T00:37:43.557Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bank of Texas",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "hamlet": "Cowley",
+        "postcode": "75252",
+        "street": "Mapleshade Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.7670906,
+        "lat": 33.0032203,
+        "state_code": "TX",
+        "county_code": "CI",
+        "suburb": "Renner",
+        "result_type": "amenity",
+        "distance": 25309.134194283517,
+        "formatted": "Bank of Texas, Mapleshade Lane, Plano, TX 75252, United States of America",
+        "address_line1": "Bank of Texas",
+        "address_line2": "Mapleshade Lane, Plano, TX 75252, United States of America",
+        "category": "service.financial.bank",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655263M+75",
+        "plus_code_short": "263M+75, 75252 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.859294107989523,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516b042c03183158c0597797d58569804040f00102f901a55b3d2500000000c0020192030d42616e6b206f66205465786173e203216f70656e7374726565746d61703a76656e75653a7761792f363234373738313439",
+        "bbox": {
+          "lon1": -96.7672175,
+          "lat1": 33.0030927,
+          "lon2": -96.7669635,
+          "lat2": 33.0033878
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Texas Collision Centers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Preston Road",
+        "housenumber": "1001",
+        "iso3166_2": "US-TX",
+        "lon": -96.7958424,
+        "lat": 33.0138506,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 26336.843241573122,
+        "formatted": "Texas Collision Centers, 1001 Preston Road, Plano, TX 75093, United States of America",
+        "address_line1": "Texas Collision Centers",
+        "address_line2": "1001 Preston Road, Plano, TX 75093, United States of America",
+        "category": "commercial;service.vehicle.repair.car",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552673+GM",
+        "plus_code_short": "2673+GM, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.166636016501414,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514a31f614ef3258c059d60341dbc5814040f00103f901302ad3dd02000000c00201920317546578617320436f6c6c6973696f6e2043656e74657273e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333131353338323234",
+        "bbox": {
+          "lon1": -96.7958924,
+          "lat1": 33.0138006,
+          "lon2": -96.7957924,
+          "lat2": 33.0139006
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Texas Stroke Institute",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.767175,
+        "lat": 33.020602,
+        "result_type": "amenity",
+        "distance": 27230.09142609631,
+        "postcode": "75075",
+        "formatted": "Texas Stroke Institute, Plano, TX 75075, United States of America",
+        "address_line1": "Texas Stroke Institute",
+        "address_line2": "Plano, TX 75075, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526CM+64",
+        "plus_code_short": "26CM+64, 75075 Plano, United States",
+        "rank": {
+          "popularity": 4.9012270536992295,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c3d32b65193158c059b81d1a16a3824040f00103f901db38692f01000000c002019203165465786173205374726f6b6520496e73746974757465e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35303930333932323833"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Texas Stroke Institute",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "West 15th Street",
+        "housenumber": "3901",
+        "iso3166_2": "US-TX",
+        "lon": -96.7671747,
+        "lat": 33.0206018,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27230.072168176936,
+        "formatted": "Texas Stroke Institute, 3901 West 15th Street, Plano, TX 75075, United States of America",
+        "address_line1": "Texas Stroke Institute",
+        "address_line2": "3901 West 15th Street, Plano, TX 75075, United States of America",
+        "category": "healthcare.clinic_or_praxis",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526CM+64",
+        "plus_code_short": "26CM+64, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5164b4e963193158c0598f9e6c14a3824040f00103f901db38692f01000000c002019203165465786173205374726f6b6520496e73746974757465",
+        "bbox": {
+          "lon1": -96.7672247,
+          "lat1": 33.0205518,
+          "lon2": -96.7671247,
+          "lat2": 33.0206518
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Texas Surgical Hospital",
+        "housenumber": "2301",
+        "street": "Marsh Lane",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75093-8497",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "suburb": "Timberglen",
+        "iso3166_2": "US-TX",
+        "lon": -96.854075,
+        "lat": 33.031635,
+        "result_type": "amenity",
+        "distance": 28811.15857738998,
+        "formatted": "Texas Surgical Hospital, 2301 Marsh Lane, Plano, TX 75093-8497, United States of America",
+        "address_line1": "Texas Surgical Hospital",
+        "address_line2": "2301 Marsh Lane, Plano, TX 75093-8497, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865524JW+M9",
+        "plus_code_short": "24JW+M9, 75093-8497 Plano, United States",
+        "rank": {
+          "popularity": 5.257863114284398,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513255302aa93658c05959349d9d0c844040f00103f9017c33b48a02000000c00201920317546578617320537572676963616c20486f73706974616ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130393137303030303630"
+      }
+    ],
+    "query": {
+      "text": "Texas King Plano"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "queriedName": "No.1 Plus Chicken - Dallas",
+  "queriedAt": "2026-09-09T00:31:50.303Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "No. 1 Plus Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Gribble",
+        "postcode": "75234",
+        "street": "Royal Lane",
+        "housenumber": "2240",
+        "iso3166_2": "US-TX",
+        "lon": -96.9028652,
+        "lat": 32.8949938,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "No. 1 Plus Chicken, 2240 Royal Lane, Dallas, TX 75234, United States of America",
+        "address_line1": "No. 1 Plus Chicken",
+        "address_line2": "2240 Royal Lane, Dallas, TX 75234, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3VW+XV",
+        "plus_code_short": "V3VW+XV, 75234 Dallas, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.628804800876884,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5193ac1e8bc83958c059b78f26288f724040f00103f9013958709902000000c002019203124e6f2e203120506c757320436869636b656e",
+        "bbox": {
+          "lon1": -96.9029152,
+          "lat1": 32.8949438,
+          "lon2": -96.9028152,
+          "lat2": 32.8950438
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "No.1 Plus Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75007",
+        "district": "New Koreatown",
+        "street": "Old Denton Road",
+        "housenumber": "2625",
+        "iso3166_2": "US-TX",
+        "lon": -96.9104686,
+        "lat": 32.9843532,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "No.1 Plus Chicken, 2625 Old Denton Road, Carrollton, TX 75007, United States of America",
+        "address_line1": "No.1 Plus Chicken",
+        "address_line2": "2625 Old Denton Road, Carrollton, TX 75007, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X3MQ+PR",
+        "plus_code_short": "X3MQ+PR, 75007 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.695777325113182,
+          "confidence": 0.5,
+          "confidence_city_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "513c42171e453a58c05942db2049ff7d4040f00103f9016b1a737e02000000c002019203114e6f2e3120506c757320436869636b656e",
+        "bbox": {
+          "lon1": -96.9105186,
+          "lat1": 32.9843032,
+          "lon2": -96.9104186,
+          "lat2": 32.9844032
+        }
+      }
+    ],
+    "query": {
+      "text": "No.1 Plus Chicken - Dallas",
+      "parsed": {
+        "house": "no. 1 plus chicken",
+        "city": "dallas",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

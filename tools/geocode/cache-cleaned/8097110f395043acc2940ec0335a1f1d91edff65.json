@@ -1,0 +1,274 @@
+{
+  "queriedName": "ZaTaR Mediterranean",
+  "queriedAt": "2026-09-09T00:45:46.050Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zatar Lebanese Tapas & Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Commerce Street",
+        "housenumber": "2825",
+        "iso3166_2": "US-TX",
+        "lon": -96.7821949,
+        "lat": 32.7835688,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1564.9998928435969,
+        "formatted": "Zatar Lebanese Tapas & Bar, 2825 Commerce Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Zatar Lebanese Tapas & Bar",
+        "address_line2": "2825 Commerce Street, Dallas, TX 75226, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M9+C4",
+        "plus_code_short": "Q6M9+C4, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.138062697940471,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5145a6327b0f3258c0593e1581fb4b644040f00103f90121f8726002000000c0020192031a5a61746172204c6562616e657365205461706173202620426172e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323038303831393533",
+        "bbox": {
+          "lon1": -96.7822449,
+          "lat1": 32.7835188,
+          "lon2": -96.7821449,
+          "lat2": 32.7836188
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roti Mediterranean",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Uptown PID",
+        "street": "Olive Street",
+        "housenumber": "2355",
+        "iso3166_2": "US-TX",
+        "lon": -96.80429,
+        "lat": 32.7914012,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1740.3255168326948,
+        "formatted": "Roti Mediterranean, 2355 Olive Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Roti Mediterranean",
+        "address_line2": "2355 Olive Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5RW+H7",
+        "plus_code_short": "RW+H7, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.305054383763407,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fd9fc37c793358c059f10170a24c654040f00103f901b92f9d9f02000000c00201920312526f7469204d65646974657272616e65616ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131323637383133333035",
+        "bbox": {
+          "lon1": -96.80434,
+          "lat1": 32.7913512,
+          "lon2": -96.80424,
+          "lat2": 32.7914512
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "North Central Expressway",
+        "housenumber": "1601",
+        "iso3166_2": "US-TX",
+        "lon": -96.7209829,
+        "lat": 32.9696008,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 22562.247704423426,
+        "formatted": "Andalous Mediterranean Buffet, 1601 North Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Andalous Mediterranean Buffet",
+        "address_line2": "1601 North Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X79H+RJ",
+        "plus_code_short": "X79H+RJ Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.984185995863385,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516a1e7695242e58c059751607e11b7c4040f00102f9016c1ca72300000000c0020192031d416e64616c6f7573204d65646974657272616e65616e20427566666574e203216f70656e7374726565746d61703a76656e75653a7761792f353938313534333438",
+        "bbox": {
+          "lon1": -96.7211639,
+          "lat1": 32.9694166,
+          "lon2": -96.7207421,
+          "lat2": 32.9697846
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dimassi's Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Campbell Road",
+        "housenumber": "180",
+        "iso3166_2": "US-TX",
+        "lon": -96.7196728,
+        "lat": 32.9759534,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23271.405958532203,
+        "formatted": "Dimassi's Mediterranean Buffet, 180 West Campbell Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Dimassi's Mediterranean Buffet",
+        "address_line2": "180 West Campbell Road, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7GJ+94",
+        "plus_code_short": "X7GJ+94 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.562505246774528,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5187f4801e0f2e58c059c3b57f0aec7c4040f00102f901fa775d1700000000c0020192031e44696d617373692773204d65646974657272616e65616e20427566666574e203216f70656e7374726565746d61703a76656e75653a7761792f333932303031353330",
+        "bbox": {
+          "lon1": -96.7198193,
+          "lat1": 32.9758209,
+          "lon2": -96.7195264,
+          "lat2": 32.9760859
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "GREEN ZATAR",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76201",
+        "street": "Sunset Street",
+        "housenumber": "609",
+        "iso3166_2": "US-TX",
+        "lon": -97.1383766,
+        "lat": 33.2293917,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 59530.44403419257,
+        "formatted": "GREEN ZATAR, 609 Sunset Street, Denton, TX 76201, United States of America",
+        "address_line1": "GREEN ZATAR",
+        "address_line2": "609 Sunset Street, Denton, TX 76201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546VH6+QJ",
+        "plus_code_short": "H6+QJ, 76201 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 3.0359331595418975,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5107e28629db4858c059a7bc0cb55c9d4040f00103f901225f0e3102000000c0020192030b475245454e205a41544152e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39343132393630303334",
+        "bbox": {
+          "lon1": -97.1384266,
+          "lat1": 33.2293417,
+          "lon2": -97.1383266,
+          "lat2": 33.2294417
+        }
+      }
+    ],
+    "query": {
+      "text": "ZaTaR Mediterranean"
+    }
+  }
+}

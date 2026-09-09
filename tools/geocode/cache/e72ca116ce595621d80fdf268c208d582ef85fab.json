@@ -1,0 +1,260 @@
+{
+  "queriedName": "Boba Latte",
+  "queriedAt": "2026-09-09T00:42:38.419Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Craft Boba Tea",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75212",
+        "street": "Singleton Boulevard",
+        "housenumber": "320",
+        "iso3166_2": "US-TX",
+        "lon": -96.8291337,
+        "lat": 32.7784503,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "La L'aceate",
+        "result_type": "amenity",
+        "distance": 3008.513955507691,
+        "formatted": "Craft Boba Tea, 320 Singleton Boulevard, Dallas, TX 75212, United States of America",
+        "address_line1": "Craft Boba Tea",
+        "address_line2": "320 Singleton Boulevard, Dallas, TX 75212, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5HC+98",
+        "plus_code_short": "Q5HC+98, 75212 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.095115394668118,
+          "confidence": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "51bc60cb86103558c059dc076a42a4634040f00103f901b76d995b02000000c0020192030e437261667420426f626120546561e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130313236373136333433",
+        "bbox": {
+          "lon1": -96.8291837,
+          "lat1": 32.7784003,
+          "lon2": -96.8290837,
+          "lat2": 32.7785003
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Craft Boba Tea",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "street": "Greenville Avenue",
+        "housenumber": "6105",
+        "iso3166_2": "US-TX",
+        "lon": -96.7685087,
+        "lat": 32.85977,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Lovers Lane East",
+        "result_type": "amenity",
+        "distance": 9580.97885137678,
+        "formatted": "Craft Boba Tea, 6105 Greenville Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Craft Boba Tea",
+        "address_line2": "6105 Greenville Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V65J+WH",
+        "plus_code_short": "V65J+WH, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.5616452415174695,
+          "confidence": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "51414c1d3f2f3158c0597c0a80f10c6e4040f00103f901dab5b70b02000000c0020192030e437261667420426f626120546561e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38373836353233363130",
+        "bbox": {
+          "lon1": -96.7685587,
+          "lat1": 32.85972,
+          "lon2": -96.7684587,
+          "lat2": 32.85982
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Boba Heaven",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Mesquite",
+        "iso3166_2": "US-TX",
+        "lon": -96.613808,
+        "lat": 32.810418,
+        "result_type": "amenity",
+        "distance": 17522.14134337113,
+        "postcode": "75150",
+        "formatted": "Boba Heaven, Mesquite, TX 75150, United States of America",
+        "address_line1": "Boba Heaven",
+        "address_line2": "Mesquite, TX 75150, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R96P+5F",
+        "plus_code_short": "R96P+5F, 75150 Mesquite, United States",
+        "rank": {
+          "popularity": 4.28544747548632,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517c8159a1482758c0597c0bebc6bb674040f00103f9019e0bf3db02000000c0020192030b426f62612048656176656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323830303733313138"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Boba Heaven",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75150",
+        "street": "North Town East Boulevard",
+        "housenumber": "1220",
+        "iso3166_2": "US-TX",
+        "lon": -96.6138077,
+        "lat": 32.8104176,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 17522.15935284672,
+        "formatted": "Boba Heaven, 1220 North Town East Boulevard, Mesquite, TX 75150, United States of America",
+        "address_line1": "Boba Heaven",
+        "address_line2": "1220 North Town East Boulevard, Mesquite, TX 75150, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R96P+5F",
+        "plus_code_short": "R96P+5F, 75150 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511c6217a0482758c059290d90c3bb674040f00103f9019e0bf3db02000000c0020192030b426f62612048656176656e",
+        "bbox": {
+          "lon1": -96.6138577,
+          "lat1": 32.8103676,
+          "lon2": -96.6137577,
+          "lat2": 32.8104676
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Boba World",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75019",
+        "street": "East Round Grove Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.9864325,
+        "lat": 33.0045861,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 30874.996162957006,
+        "formatted": "Boba World, East Round Grove Road, Lewisville, TX 75019, United States of America",
+        "address_line1": "Boba World",
+        "address_line2": "East Round Grove Road, Lewisville, TX 75019, United States of America",
+        "category": "commercial.food_and_drink.coffee_and_tea",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552237+RC",
+        "plus_code_short": "2237+RC, 75019 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.12749363230908,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518acdc7b5213f58c05912c2fe4696804040f00103f901c7055a7802000000c0020192030a426f626120576f726c64e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363039313030323331",
+        "bbox": {
+          "lon1": -96.9864825,
+          "lat1": 33.0045361,
+          "lon2": -96.9863825,
+          "lat2": 33.0046361
+        }
+      }
+    ],
+    "query": {
+      "text": "Boba Latte"
+    }
+  }
+}

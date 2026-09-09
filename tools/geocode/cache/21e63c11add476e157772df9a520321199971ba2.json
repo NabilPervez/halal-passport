@@ -1,0 +1,62 @@
+{
+  "queriedName": "Darna Mediterranean Eatery",
+  "queriedAt": "2026-09-09T00:35:00.054Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Darna Mediterranean Eatery + Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "79093",
+        "suburb": "Legacy West",
+        "street": "Windrose Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.8258869,
+        "lat": 33.0819145,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34012.01317395797,
+        "formatted": "Darna Mediterranean Eatery + Bar, Windrose Avenue, Plano, TX 79093, United States of America",
+        "address_line1": "Darna Mediterranean Eatery + Bar",
+        "address_line2": "Windrose Avenue, Plano, TX 79093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535JF+QJ",
+        "plus_code_short": "35JF+QJ, 79093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.938006156000488,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51786cba54db3458c059bb48a12c7c8a4040f00103f901a75ac82602000000c002019203204461726e61204d65646974657272616e65616e20456174657279202b20426172",
+        "bbox": {
+          "lon1": -96.8259369,
+          "lat1": 33.0818645,
+          "lon2": -96.8258369,
+          "lat2": 33.0819645
+        }
+      }
+    ],
+    "query": {
+      "text": "Darna Mediterranean Eatery"
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "queriedName": "Shatila Lebanese Grill & Hookah Lounge",
+  "queriedAt": "2026-09-09T00:41:51.622Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jasmine Cafe & Hookah Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Main Street",
+        "housenumber": "107",
+        "iso3166_2": "US-TX",
+        "lon": -96.7312188,
+        "lat": 32.9491904,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20108.349271160943,
+        "formatted": "Jasmine Cafe & Hookah Lounge, 107 East Main Street, Richardson, TX 75081, United States of America",
+        "address_line1": "Jasmine Cafe & Hookah Lounge",
+        "address_line2": "107 East Main Street, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7X9+MG",
+        "plus_code_short": "X9+MG Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.076287158509391,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511a0ef049cc2e58c059add62e127f794040f00103f901d7d8336201000000c0020192031c4a61736d696e652043616665202620486f6f6b6168204c6f756e6765e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35393432353332333131",
+        "bbox": {
+          "lon1": -96.7312688,
+          "lat1": 32.9491404,
+          "lon2": -96.7311688,
+          "lat2": 32.9492404
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Casanova Hookah Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "North Collins Boulevard",
+        "housenumber": "2050",
+        "iso3166_2": "US-TX",
+        "lon": -96.7221508,
+        "lat": 32.976674,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23277.04832957908,
+        "formatted": "Casanova Hookah Lounge, 2050 North Collins Boulevard, Richardson, TX 75080, United States of America",
+        "address_line1": "Casanova Hookah Lounge",
+        "address_line2": "2050 North Collins Boulevard, Richardson, TX 75080, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7GH+M4",
+        "plus_code_short": "X7GH+M4 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.557474399601547,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ef31fdb7372e58c059406d54a7037d4040f00103f9014b889deb00000000c00201920316436173616e6f766120486f6f6b6168204c6f756e6765e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33393532393639383033",
+        "bbox": {
+          "lon1": -96.7222008,
+          "lat1": 32.976624,
+          "lon2": -96.7221008,
+          "lat2": 32.976724
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mirage Hookah Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75035",
+        "street": "Rolater Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.7853127,
+        "lat": 33.1383662,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 40196.936468352615,
+        "formatted": "Mirage Hookah Lounge, Rolater Road, Frisco, TX 75035, United States of America",
+        "address_line1": "Mirage Hookah Lounge",
+        "address_line2": "Rolater Road, Frisco, TX 75035, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865546Q7+8V",
+        "plus_code_short": "46Q7+8V, 75035 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.7383982493100696,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518be83290423258c05997efcffbb5914040f00103f901663db5d002000000c002019203144d697261676520486f6f6b6168204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303931343733323534",
+        "bbox": {
+          "lon1": -96.7853627,
+          "lat1": 33.1383162,
+          "lon2": -96.7852627,
+          "lat2": 33.1384162
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ignited Hookah Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75033",
+        "street": "Main Street",
+        "housenumber": "5566",
+        "iso3166_2": "US-TX",
+        "lon": -96.8386461,
+        "lat": 33.1531175,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 42002.49735631873,
+        "formatted": "Ignited Hookah Lounge, 5566 Main Street, Frisco, TX 75033, United States of America",
+        "address_line1": "Ignited Hookah Lounge",
+        "address_line2": "5566 Main Street, Frisco, TX 75033, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555536+6G",
+        "plus_code_short": "5536+6G, 75033 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.051141734766603,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c01ab160ac3558c059ff78af5a99934040f00103f901c8dc3e3003000000c0020192031549676e6974656420486f6f6b6168204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363934333238303038",
+        "bbox": {
+          "lon1": -96.8386961,
+          "lat1": 33.1530675,
+          "lon2": -96.8385961,
+          "lat2": 33.1531675
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fogg Hookah Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Collin McKinney Parkway",
+        "housenumber": "5121",
+        "iso3166_2": "US-TX",
+        "lon": -96.6825567,
+        "lat": 33.1496817,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 42793.70254272962,
+        "formatted": "Fogg Hookah Lounge, 5121 Collin McKinney Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "Fogg Hookah Lounge",
+        "address_line2": "5121 Collin McKinney Parkway, McKinney, TX 75070, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548X8+VX",
+        "plus_code_short": "48X8+VX McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.9393761590635856,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519b0a4c02af2b58c059a4271bc528934040f00103f901f8c0272c03000000c00201920312466f676720486f6f6b6168204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363235373034363936",
+        "bbox": {
+          "lon1": -96.6826067,
+          "lat1": 33.1496317,
+          "lon2": -96.6825067,
+          "lat2": 33.1497317
+        }
+      }
+    ],
+    "query": {
+      "text": "Shatila Lebanese Grill & Hookah Lounge"
+    }
+  }
+}

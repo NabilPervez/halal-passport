@@ -1,0 +1,264 @@
+{
+  "queriedName": "Sheesh Eatery & Lounge",
+  "queriedAt": "2026-09-09T00:34:51.439Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Draft Sports Bar & Lounge",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "City Center District",
+        "iso3166_2": "US-TX",
+        "lon": -96.794454,
+        "lat": 32.784721,
+        "result_type": "amenity",
+        "distance": 890.9201168112611,
+        "postcode": "75201",
+        "formatted": "Draft Sports Bar & Lounge, Dallas, TX 75201, United States of America",
+        "address_line1": "Draft Sports Bar & Lounge",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M4+V6",
+        "plus_code_short": "M4+V6, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 7.284425892002369,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514a0b9755d83258c05901bedbbc71644040f00103f9010cc0e71003000000c0020192031944726166742053706f727473204261722026204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313638353235333234"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Draft Sports Bar & Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "North Olive Street",
+        "housenumber": "400",
+        "iso3166_2": "US-TX",
+        "lon": -96.7944537,
+        "lat": 32.7847211,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 890.9383252237596,
+        "formatted": "Draft Sports Bar & Lounge, 400 North Olive Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Draft Sports Bar & Lounge",
+        "address_line2": "400 North Olive Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M4+V6",
+        "plus_code_short": "M4+V6, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ebeb5454d83258c059967db2bd71644040f00103f9010cc0e71003000000c0020192031944726166742053706f727473204261722026204c6f756e6765",
+        "bbox": {
+          "lon1": -96.7945037,
+          "lat1": 32.7846711,
+          "lon2": -96.7944037,
+          "lat2": 32.7847711
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Nail Spa & Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Preston Road",
+        "housenumber": "11811",
+        "iso3166_2": "US-TX",
+        "lon": -96.804293,
+        "lat": 32.9106751,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 14879.619941375962,
+        "formatted": "Nail Spa & Lounge, 11811 Preston Road, Dallas, TX 75230, United States of America",
+        "address_line1": "Nail Spa & Lounge",
+        "address_line2": "11811 Preston Road, Dallas, TX 75230, United States of America",
+        "category": "commercial.health_and_beauty;service.beauty.spa",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W56W+77",
+        "plus_code_short": "W56W+77, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.794470520233827,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b6d95889793358c05909e46d0091744040f00103f901b243b41603000000c002019203114e61696c205370612026204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323635383134343530",
+        "bbox": {
+          "lon1": -96.804343,
+          "lat1": 32.9106251,
+          "lon2": -96.804243,
+          "lat2": 32.9107251
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gigi's Bar & Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "suburb": "Shops at Legacy North",
+        "street": "Lone Star Drive",
+        "housenumber": "7300",
+        "iso3166_2": "US-TX",
+        "lon": -96.8228194,
+        "lat": 33.0797437,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 33749.74948075836,
+        "formatted": "Gigi's Bar & Lounge, 7300 Lone Star Drive, Plano, TX 75024, United States of America",
+        "address_line1": "Gigi's Bar & Lounge",
+        "address_line2": "7300 Lone Star Drive, Plano, TX 75024, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535HG+VV",
+        "plus_code_short": "35HG+VV, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.969317355097761,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51eb60b312a93458c059f1c7a30a358a4040f00103f90131bf5b1a03000000c00201920313476967692773204261722026204c6f756e6765e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333237313232323235",
+        "bbox": {
+          "lon1": -96.8228694,
+          "lat1": 33.0796937,
+          "lon2": -96.8227694,
+          "lat2": 33.0797937
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Moviehouse and Eatery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75022",
+        "street": "Long Prairie Road",
+        "housenumber": "951",
+        "iso3166_2": "US-TX",
+        "lon": -97.0657637,
+        "lat": 32.9958083,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 34953.95300703077,
+        "formatted": "Moviehouse and Eatery, 951 Long Prairie Road, Flower Mound, TX 75022, United States of America",
+        "address_line1": "Moviehouse and Eatery",
+        "address_line2": "951 Long Prairie Road, Flower Mound, TX 75022, United States of America",
+        "category": "entertainment.cinema",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XWWM+8M",
+        "plus_code_short": "XWWM+8M Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.632935578672164,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e530f378354458c059edca78a5767f4040f00102f90126ffd52b00000000c002019203154d6f766965686f75736520616e6420456174657279e203216f70656e7374726565746d61703a76656e75653a7761792f373335343434373734",
+        "bbox": {
+          "lon1": -97.0662363,
+          "lat1": 32.995552,
+          "lon2": -97.0653515,
+          "lat2": 32.9960346
+        }
+      }
+    ],
+    "query": {
+      "text": "Sheesh Eatery & Lounge"
+    }
+  }
+}

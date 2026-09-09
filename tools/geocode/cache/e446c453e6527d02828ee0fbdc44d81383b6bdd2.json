@@ -1,0 +1,275 @@
+{
+  "queriedName": "SauceBros Pizza",
+  "queriedAt": "2026-09-09T00:36:20.740Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Serious Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Elm Street",
+        "housenumber": "2807",
+        "iso3166_2": "US-TX",
+        "lon": -96.7833572,
+        "lat": 32.7849172,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1549.7503303808644,
+        "formatted": "Serious Pizza, 2807 Elm Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Serious Pizza",
+        "address_line2": "2807 Elm Street, Dallas, TX 75226, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M8+XM",
+        "plus_code_short": "Q6M8+XM, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.14410181800787,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5183c53c86223258c059b108b42a78644040f00102f90150017f4200000000c0020192030d536572696f75732050697a7a61e203226f70656e7374726565746d61703a76656e75653a7761792f31313135363139363634",
+        "bbox": {
+          "lon1": -96.7834864,
+          "lat1": 32.7848143,
+          "lon2": -96.7832538,
+          "lat2": 32.7851106
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cici’s Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "Dallas Fort Worth Turnpike",
+        "iso3166_2": "US-TX",
+        "lon": -96.8986477,
+        "lat": 32.7630648,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Turnpike Distribution Center",
+        "result_type": "amenity",
+        "distance": 9629.382894685774,
+        "formatted": "Cici’s Pizza, Dallas Fort Worth Turnpike, Dallas, TX 75211, United States of America",
+        "address_line1": "Cici’s Pizza",
+        "address_line2": "Dallas Fort Worth Turnpike, Dallas, TX 75211, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q472+6G",
+        "plus_code_short": "Q472+6G, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.372063723219283,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510a88a471833958c059495d7c1bac614040f00103f901c119e21803000000c0020192030e43696369e28099732050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333032333732383031",
+        "bbox": {
+          "lon1": -96.8986977,
+          "lat1": 32.7630148,
+          "lon2": -96.8985977,
+          "lat2": 32.7631148
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Hut",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75228",
+        "street": "East R L Thornton Freeway",
+        "housenumber": "9310",
+        "iso3166_2": "US-TX",
+        "lon": -96.6863506,
+        "lat": 32.7961286,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 10560.044119208911,
+        "formatted": "Pizza Hut, 9310 East R L Thornton Freeway, Dallas, TX 75228, United States of America",
+        "address_line1": "Pizza Hut",
+        "address_line2": "9310 East R L Thornton Freeway, Dallas, TX 75228, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q8W7+FF",
+        "plus_code_short": "Q8W7+FF, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.446637725476537,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c225112bed2b58c0598434be8ae7654040f00103f9016e8e43be02000000c0020192030950697a7a6120487574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131373832303333303036",
+        "bbox": {
+          "lon1": -96.6864006,
+          "lat1": 32.7960786,
+          "lon2": -96.6863006,
+          "lat2": 32.7961786
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Hut",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "district": "Vickery Meadows PID",
+        "street": "Park Lane",
+        "housenumber": "8224",
+        "iso3166_2": "US-TX",
+        "lon": -96.7633,
+        "lat": 32.8709766,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Vickery Meadows",
+        "result_type": "amenity",
+        "distance": 10913.893208297335,
+        "formatted": "Pizza Hut, 8224 Park Lane, Dallas, TX 75231, United States of America",
+        "address_line1": "Pizza Hut",
+        "address_line2": "8224 Park Lane, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6CP+9M",
+        "plus_code_short": "V6CP+9M, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.332834153486881,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515b423ee8d93058c059674a46297c6f4040f00103f90109beac1a03000000c0020192030950697a7a6120487574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333332343330333435",
+        "bbox": {
+          "lon1": -96.76335,
+          "lat1": 32.8709266,
+          "lon2": -96.76325,
+          "lat2": 32.8710266
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Hut",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Forest Lane",
+        "housenumber": "6039",
+        "iso3166_2": "US-TX",
+        "lon": -96.8028073,
+        "lat": 32.9099414,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 14792.381778863155,
+        "formatted": "Pizza Hut, 6039 Forest Lane, Dallas, TX 75230, United States of America",
+        "address_line1": "Pizza Hut",
+        "address_line2": "6039 Forest Lane, Dallas, TX 75230, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W55W+XV",
+        "plus_code_short": "W55W+XV, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.792797659567811,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515d9fde31613358c0596323b5f578744040f00103f901242bb16202000000c0020192030950697a7a6120487574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435373132363736",
+        "bbox": {
+          "lon1": -96.8028573,
+          "lat1": 32.9098914,
+          "lon2": -96.8027573,
+          "lat2": 32.9099914
+        }
+      }
+    ],
+    "query": {
+      "text": "SauceBros Pizza"
+    }
+  }
+}

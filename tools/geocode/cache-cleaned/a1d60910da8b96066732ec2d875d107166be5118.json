@@ -1,0 +1,63 @@
+{
+  "queriedName": "Moudi s",
+  "queriedAt": "2026-09-09T00:44:58.300Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Moudi’s",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "Pacific Avenue",
+        "housenumber": "1700",
+        "iso3166_2": "US-TX",
+        "lon": -96.7967831,
+        "lat": 32.78221,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 579.681138466409,
+        "formatted": "Moudi’s, 1700 Pacific Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Moudi’s",
+        "address_line2": "1700 Pacific Avenue, Dallas, TX 75201, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J3+V7",
+        "plus_code_short": "J3+V7, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515a208b7efe3258c059554d10751f644040f00103f9013c68db1803000000c002019203094d6f756469e2809973",
+        "bbox": {
+          "lon1": -96.7968331,
+          "lat1": 32.78216,
+          "lon2": -96.7967331,
+          "lat2": 32.78226
+        }
+      }
+    ],
+    "query": {
+      "text": "Moudi s"
+    }
+  }
+}

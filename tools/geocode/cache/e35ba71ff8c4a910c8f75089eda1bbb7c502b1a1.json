@@ -1,0 +1,263 @@
+{
+  "queriedName": "Sona Restaurant And Grocery",
+  "queriedAt": "2026-09-09T00:41:26.333Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "McNab Grocery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75204",
+        "suburb": "Uptown PID",
+        "street": "Boll Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.8015,
+        "lat": 32.79775,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 2345.331327184719,
+        "formatted": "McNab Grocery, Boll Street, Dallas, TX 75204, United States of America",
+        "address_line1": "McNab Grocery",
+        "address_line2": "Boll Street, Dallas, TX 75204, United States of America",
+        "category": "tourism.sights.memorial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5XX+49",
+        "plus_code_short": "XX+49, 75204 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.459783840518425,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519eefa7c64b3358c059273108ac1c664040f00103f90151a54fe302000000c0020192030d4d634e61622047726f63657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343033353832323839",
+        "bbox": {
+          "lon1": -96.80155,
+          "lat1": 32.7977,
+          "lon2": -96.80145,
+          "lat2": 32.7978
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dees Way Grocery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "North Collett Avenue",
+        "housenumber": "112",
+        "iso3166_2": "US-TX",
+        "lon": -96.7621324,
+        "lat": 32.7970158,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 3946.836086525284,
+        "formatted": "Dees Way Grocery, 112 North Collett Avenue, Dallas, TX 75214, United States of America",
+        "address_line1": "Dees Way Grocery",
+        "address_line2": "112 North Collett Avenue, Dallas, TX 75214, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6WQ+R4",
+        "plus_code_short": "Q6WQ+R4, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.479297342768614,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51354ef9c6c63058c05998b21d9d04664040f00103f901543037cd02000000c0020192031044656573205761792047726f63657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303332383830373234",
+        "bbox": {
+          "lon1": -96.7621824,
+          "lat1": 32.7969658,
+          "lon2": -96.7620824,
+          "lat2": 32.7970658
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Asmara Grocery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75223",
+        "street": "Lindsley Avenue",
+        "housenumber": "5336-5338",
+        "iso3166_2": "US-TX",
+        "lon": -96.7527279,
+        "lat": 32.7944567,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Hollywood Heights",
+        "result_type": "amenity",
+        "distance": 4571.235755851495,
+        "formatted": "Asmara Grocery, 5336-5338 Lindsley Avenue, Dallas, TX 75223, United States of America",
+        "address_line1": "Asmara Grocery",
+        "address_line2": "5336-5338 Lindsley Avenue, Dallas, TX 75223, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6VW+QW",
+        "plus_code_short": "Q6VW+QW, 75223 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.190072691691593,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515a52a4b12c3058c059464bd4c1b0654040f00102f901e841c21b00000000c0020192030e41736d6172612047726f63657279e203216f70656e7374726565746d61703a76656e75653a7761792f343635373135363838",
+        "bbox": {
+          "lon1": -96.7528462,
+          "lat1": 32.7943566,
+          "lon2": -96.7526097,
+          "lat2": 32.7945568
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Grocery Services North",
+        "housenumber": "1050",
+        "street": "North Westmoreland Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75211-2404",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "El Tivoli Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.872332,
+        "lat": 32.755963,
+        "result_type": "amenity",
+        "distance": 7421.968027788391,
+        "formatted": "Grocery Services North, 1050 North Westmoreland Road, Dallas, TX 75211-2404, United States of America",
+        "address_line1": "Grocery Services North",
+        "address_line2": "1050 North Westmoreland Road, Dallas, TX 75211-2404, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q44H+93",
+        "plus_code_short": "Q44H+93, 75211-2404 Dallas, United States",
+        "rank": {
+          "popularity": 4.524885490212996,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5146d09849d43758c05937fe4465c3604040f00103f901b0cb862803000000c0020192031647726f63657279205365727669636573204e6f727468e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353634383234343936"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Grocery Services North",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "North Westmoreland Road",
+        "housenumber": "1050",
+        "iso3166_2": "US-TX",
+        "lon": -96.8723322,
+        "lat": 32.7559633,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7421.975250215087,
+        "formatted": "Grocery Services North, 1050 North Westmoreland Road, Dallas, TX 75211, United States of America",
+        "address_line1": "Grocery Services North",
+        "address_line2": "1050 North Westmoreland Road, Dallas, TX 75211, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q44H+93",
+        "plus_code_short": "Q44H+93, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51db8f6f4ad43758c059f53cc967c3604040f00103f901b0cb862803000000c0020192031647726f63657279205365727669636573204e6f727468",
+        "bbox": {
+          "lon1": -96.8723822,
+          "lat1": 32.7559133,
+          "lon2": -96.8722822,
+          "lat2": 32.7560133
+        }
+      }
+    ],
+    "query": {
+      "text": "Sona Restaurant And Grocery"
+    }
+  }
+}

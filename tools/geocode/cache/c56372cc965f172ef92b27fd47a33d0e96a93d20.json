@@ -1,0 +1,113 @@
+{
+  "queriedName": "Arwa Yemeni Coffee",
+  "queriedAt": "2026-09-09T00:32:06.923Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Arwa Yemeni Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "MacArthur Park",
+        "street": "Macarthur Park",
+        "iso3166_2": "US-TX",
+        "lon": -96.9619859,
+        "lat": 32.9121101,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 21523.653483520095,
+        "formatted": "Arwa Yemeni Coffee, Macarthur Park, Irving, TX 75063, United States of America",
+        "address_line1": "Arwa Yemeni Coffee",
+        "address_line2": "Macarthur Park, Irving, TX 75063, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W26Q+R6",
+        "plus_code_short": "W26Q+R6 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.58939580430949,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a4ed4e2d913d58c059f7ec1406c0744040f00103f9014a19801a03000000c00201920312417277612059656d656e6920436f66666565",
+        "bbox": {
+          "lon1": -96.9620359,
+          "lat1": 32.9120601,
+          "lon2": -96.9619359,
+          "lat2": 32.9121601
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Arwa Yemeni Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Preston Road",
+        "housenumber": "3211",
+        "iso3166_2": "US-TX",
+        "lon": -96.8084819,
+        "lat": 33.1058841,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 36585.98677979875,
+        "formatted": "Arwa Yemeni Coffee, 3211 Preston Road, Frisco, TX 75034, United States of America",
+        "address_line1": "Arwa Yemeni Coffee",
+        "address_line2": "3211 Preston Road, Frisco, TX 75034, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655454R+9J",
+        "plus_code_short": "454R+9J, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.953202426715974,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511cfadd2abe3358c0594c55359c8d8d4040f00103f90190a61a3803000000c00201920312417277612059656d656e6920436f66666565",
+        "bbox": {
+          "lon1": -96.8085319,
+          "lat1": 33.1058341,
+          "lon2": -96.8084319,
+          "lat2": 33.1059341
+        }
+      }
+    ],
+    "query": {
+      "text": "Arwa Yemeni Coffee"
+    }
+  }
+}

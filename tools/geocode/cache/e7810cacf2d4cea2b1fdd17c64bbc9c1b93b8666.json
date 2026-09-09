@@ -1,0 +1,261 @@
+{
+  "queriedName": "Sultani Grill & Burgers",
+  "queriedAt": "2026-09-09T00:40:39.789Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wayback Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "Riverside Drive",
+        "housenumber": "6421",
+        "iso3166_2": "US-TX",
+        "lon": -96.9393321,
+        "lat": 32.8966855,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 18813.463177607264,
+        "formatted": "Wayback Burgers, 6421 Riverside Drive, Irving, TX 75039, United States of America",
+        "address_line1": "Wayback Burgers",
+        "address_line2": "6421 Riverside Drive, Irving, TX 75039, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W6+M7",
+        "plus_code_short": "V3W6+M7 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.656202247492728,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51506562041e3c58c05911a62897c6724040f00103f901fe801df901000000c0020192030f5761796261636b2042757267657273e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38343734343237363436",
+        "bbox": {
+          "lon1": -96.9393821,
+          "lat1": 32.8966355,
+          "lon2": -96.9392821,
+          "lat2": 32.8967355
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chapps Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Cedar Hill",
+        "postcode": "75104",
+        "street": "West FM 1382",
+        "housenumber": "140",
+        "iso3166_2": "US-TX",
+        "lon": -96.9442958,
+        "lat": 32.5996029,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Mountain Creek",
+        "result_type": "amenity",
+        "distance": 24064.829898262917,
+        "formatted": "Chapps Burgers, 140 West FM 1382, Cedar Hill, TX 75104, United States of America",
+        "address_line1": "Chapps Burgers",
+        "address_line2": "140 West FM 1382, Cedar Hill, TX 75104, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H3X4+R7",
+        "plus_code_short": "X4+R7, 75104 Cedar Hill, United States",
+        "rank": {
+          "importance": 0.000056138704508995463,
+          "popularity": 3.4163716180855346,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5103b0a6576f3c58c0591b0bafc9bf4c4040f00103f901e4c7d92003000000c0020192030e4368617070732042757267657273e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343336303435323834",
+        "bbox": {
+          "lon1": -96.9443458,
+          "lat1": 32.5995529,
+          "lon2": -96.9442458,
+          "lat2": 32.5996529
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Simply Burgers",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Tarrant",
+        "iso3166_2": "US-TX",
+        "lon": -97.059316,
+        "lat": 32.823593,
+        "result_type": "amenity",
+        "distance": 25059.184138299628,
+        "postcode": "76155",
+        "formatted": "Simply Burgers, Fort Worth, TX 76155, United States of America",
+        "address_line1": "Simply Burgers",
+        "address_line2": "Fort Worth, TX 76155, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWFR+C7",
+        "plus_code_short": "RWFR+C7 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.249747545352096,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514a0856d5cb4358c059761bd47e6b694040f00103f9016faa3a7a01000000c0020192030e53696d706c792042757267657273e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36333435363332333637"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Simply Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76155",
+        "street": "State Highway 360",
+        "housenumber": "4120",
+        "iso3166_2": "US-TX",
+        "lon": -97.0593155,
+        "lat": 32.8235933,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 25059.14527107763,
+        "formatted": "Simply Burgers, 4120 State Highway 360, Fort Worth, TX 76155, United States of America",
+        "address_line1": "Simply Burgers",
+        "address_line2": "4120 State Highway 360, Fort Worth, TX 76155, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWFR+C7",
+        "plus_code_short": "RWFR+C7 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5156293dd3cb4358c059345a58816b694040f00103f9016faa3a7a01000000c0020192030e53696d706c792042757267657273",
+        "bbox": {
+          "lon1": -97.0593655,
+          "lat1": 32.8235433,
+          "lon2": -97.0592655,
+          "lat2": 32.8236433
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Boot's Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Rockwall County",
+        "city": "Rockwall",
+        "postcode": "75087",
+        "street": "Austin Street",
+        "housenumber": "701",
+        "iso3166_2": "US-TX",
+        "lon": -96.456649,
+        "lat": 32.9348721,
+        "state_code": "TX",
+        "county_code": "RC",
+        "result_type": "amenity",
+        "distance": 36316.13977633182,
+        "formatted": "Boot's Burgers, 701 Austin Street, Rockwall, TX 75087, United States of America",
+        "address_line1": "Boot's Burgers",
+        "address_line2": "701 Austin Street, Rockwall, TX 75087, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WGMV+W8",
+        "plus_code_short": "MV+W8 Rockwall, Rockwall County, United States",
+        "rank": {
+          "importance": 0.0000578355077439081,
+          "popularity": 3.4282252507715545,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511230babc391d58c059afb893e3a9774040f00103f9015cc2d24302000000c0020192030e426f6f7427732042757267657273e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39373237383230333830",
+        "bbox": {
+          "lon1": -96.456699,
+          "lat1": 32.9348221,
+          "lon2": -96.456599,
+          "lat2": 32.9349221
+        }
+      }
+    ],
+    "query": {
+      "text": "Sultani Grill & Burgers"
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "queriedName": "Spice Wok Dallas",
+  "queriedAt": "2026-09-09T00:37:24.478Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dallas",
+        "other_names": {
+          "name:zh": "达拉斯;達拉斯",
+          "name:chr": "ᏕᎳᏏ",
+          "name:zh-Hans": "达拉斯",
+          "name:zh-Hant": "達拉斯",
+          "name:am": "ዳላስ",
+          "name:ar": "دالاس",
+          "name:be": "Далас",
+          "name:bg": "Далас",
+          "name:bn": "ডালাস",
+          "name:ce": "Даллас",
+          "name:el": "Ντάλας",
+          "name:fa": "دالاس",
+          "name:gu": "ડલ્લાસ",
+          "name:he": "דאלאס",
+          "name:hi": "डैलस",
+          "name:ht": "Dalas",
+          "name:hy": "Դալաս",
+          "name:ja": "ダラス",
+          "name:ka": "დალასი",
+          "name:kk": "Даллас",
+          "name:kn": "ಡಲ್ಲಾಸ್",
+          "name:ko": "댈러스",
+          "name:ky": "Даллас",
+          "name:la": "Dallasium",
+          "name:lt": "Dalasas",
+          "name:lv": "Dalasa",
+          "name:mi": "Tarihi",
+          "name:mk": "Далас",
+          "name:ml": "ഡാളസ്",
+          "name:mn": "Даллас",
+          "name:mr": "डॅलस",
+          "name:my": "ဒါးလတ်စ်မြို့",
+          "name:os": "Даллас",
+          "name:pa": "ਡਾਲਸ",
+          "name:ru": "Даллас",
+          "name:sd": "ڊلاس",
+          "name:sr": "Далас",
+          "name:ta": "டாலஸ்",
+          "name:te": "డల్లాస్",
+          "name:tg": "Даллас",
+          "name:th": "แดลลัส",
+          "name:tt": "Дәлас",
+          "name:uk": "Даллас",
+          "name:ur": "ڈیلاس",
+          "alt_name:el": "Ντάλλας",
+          "name:ru:word_stress": "Да́ллас"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.7968559,
+        "lat": 32.7762719,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 82.07437920121018,
+        "formatted": "Dallas, TX, United States of America",
+        "address_line1": "Dallas, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6G3+G7",
+        "plus_code_short": "G3+G7 Dallas, Dallas County, United States",
+        "rank": {
+          "importance": 0.7208730637207591,
+          "popularity": 8.00260672129835,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51fa87e3afff3258c059e2a6abe05c634040f00101f9016d46640000000000c0020892030644616c6c6173",
+        "bbox": {
+          "lon1": -97.000482,
+          "lat1": 32.613216,
+          "lon2": -96.4636317,
+          "lat2": 33.0239366
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro Rice & Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75251",
+        "street": "Forest Lane",
+        "housenumber": "7722",
+        "iso3166_2": "US-TX",
+        "lon": -96.7737552,
+        "lat": 32.9093394,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Bouchard",
+        "result_type": "amenity",
+        "formatted": "Gyro Rice & Spice, 7722 Forest Lane, Dallas, TX 75251, United States of America",
+        "address_line1": "Gyro Rice & Spice",
+        "address_line2": "7722 Forest Lane, Dallas, TX 75251, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W65G+PF",
+        "plus_code_short": "W65G+PF, 75251 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.970879970080758,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5109c78734853158c0596dfbc33b65744040f00103f9014365272303000000c002019203114779726f20526963652026205370696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343734363836323735",
+        "bbox": {
+          "lon1": -96.7738052,
+          "lat1": 32.9092894,
+          "lon2": -96.7737052,
+          "lat2": 32.9093894
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Spice Lane",
+        "street": "Spice Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Rylie",
+        "iso3166_2": "US-TX",
+        "lon": -96.647093,
+        "lat": 32.67258,
+        "result_type": "street",
+        "postcode": "75217",
+        "formatted": "Spice Lane, Dallas, TX 75217, United States of America",
+        "address_line1": "Spice Lane",
+        "address_line2": "Dallas, TX 75217, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M9F3+25",
+        "plus_code_short": "M9F3+25, 75217 Dallas, United States",
+        "rank": {
+          "popularity": 3.18794073163587,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "match_by_street"
+        },
+        "place_id": "511d1ec2f8692958c059cbf8f71917564040c0020492030a5370696365204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363838343634",
+        "bbox": {
+          "lon1": -96.6488,
+          "lat1": 32.672219,
+          "lon2": -96.645389,
+          "lat2": 32.672909
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Southern Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "West Royal Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.961094,
+        "lat": 32.8963421,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "formatted": "Southern Spice, West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Southern Spice",
+        "address_line2": "West Royal Lane, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WQ+GH",
+        "plus_code_short": "V2WQ+GH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.605744352143677,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5170986890823d58c05994c38256bb724040f00103f901bb6ab06202000000c0020192030e536f75746865726e205370696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435363633343139",
+        "bbox": {
+          "lon1": -96.961144,
+          "lat1": 32.8962921,
+          "lon2": -96.961044,
+          "lat2": 32.8963921
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spice 'N' Rice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Terrace Drive",
+        "housenumber": "300",
+        "iso3166_2": "US-TX",
+        "lon": -96.7276938,
+        "lat": 32.9518269,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "formatted": "Spice 'N' Rice, 300 Terrace Drive, Richardson, TX 75081, United States of America",
+        "address_line1": "Spice 'N' Rice",
+        "address_line2": "300 Terrace Drive, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X72C+PW",
+        "plus_code_short": "2C+PW Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.051308431546644,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5120200489922e58c059fe79bf76d5794040f00103f901c60e82a700000000c0020192030e537069636520274e272052696365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32383130333138353334",
+        "bbox": {
+          "lon1": -96.7277438,
+          "lat1": 32.9517769,
+          "lon2": -96.7276438,
+          "lat2": 32.9518769
+        }
+      }
+    ],
+    "query": {
+      "text": "Spice Wok Dallas",
+      "parsed": {
+        "house": "spice wok",
+        "city": "dallas",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

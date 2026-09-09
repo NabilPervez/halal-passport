@@ -1,0 +1,263 @@
+{
+  "queriedName": "Royal Zabhia Halal Meats & Bakery",
+  "queriedAt": "2026-09-09T00:39:02.454Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Greek Cafe & Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "district": "Bishop Arts District",
+        "street": "West Davis Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.8280482,
+        "lat": 32.7493407,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Bishop Arts District",
+        "result_type": "amenity",
+        "distance": 4229.377290672892,
+        "formatted": "Greek Cafe & Bakery, West Davis Street, Dallas, TX 75211, United States of America",
+        "address_line1": "Greek Cafe & Bakery",
+        "address_line2": "West Davis Street, Dallas, TX 75211, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5XC+PQ",
+        "plus_code_short": "P5XC+PQ, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.949165562540467,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bfa0e0bdfe3458c059e7076465ea5f4040f00103f9015e79107e02000000c00201920313477265656b204361666520262042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373034393433343534",
+        "bbox": {
+          "lon1": -96.8280982,
+          "lat1": 32.7492907,
+          "lon2": -96.8279982,
+          "lat2": 32.7493907
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sugar & Sage Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "University Park",
+        "postcode": "75225",
+        "street": "Lovers Lane",
+        "housenumber": "4314",
+        "iso3166_2": "US-TX",
+        "lon": -96.8092685,
+        "lat": 32.8513867,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Devonshire",
+        "result_type": "amenity",
+        "distance": 8350.517043736078,
+        "formatted": "Sugar & Sage Bakery, 4314 Lovers Lane, University Park, TX 75225, United States of America",
+        "address_line1": "Sugar & Sage Bakery",
+        "address_line2": "4314 Lovers Lane, University Park, TX 75225, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V52R+H7",
+        "plus_code_short": "2R+H7, 75225 University Park, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.090391909192422,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b64b1b0ecb3358c059eb5f483dfa6c4040f00103f901c315be0503000000c002019203135375676172202620536167652042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132393831323435333739",
+        "bbox": {
+          "lon1": -96.8093185,
+          "lat1": 32.8513367,
+          "lon2": -96.8092185,
+          "lat2": 32.8514367
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gilgamesh Restaurant & Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Terrace Drive",
+        "housenumber": "300 #301",
+        "iso3166_2": "US-TX",
+        "lon": -96.7278551,
+        "lat": 32.9515513,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20455.45304604538,
+        "formatted": "Gilgamesh Restaurant & Bakery, 300 #301 Terrace Drive, Richardson, TX 75081, United States of America",
+        "address_line1": "Gilgamesh Restaurant & Bakery",
+        "address_line2": "300 #301 Terrace Drive, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X72C+JV",
+        "plus_code_short": "2C+JV Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.051308431546644,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5184ae8e2d952e58c059affbd86ecc794040f00103f9016609ee4103000000c0020192031d47696c67616d6573682052657374617572616e7420262042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393931303230393032",
+        "bbox": {
+          "lon1": -96.7279051,
+          "lat1": 32.9515013,
+          "lon2": -96.7278051,
+          "lat2": 32.9516013
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Woofgang Bakery & Grooming",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Davenport Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.7940496,
+        "lat": 32.9985747,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 24639.55671034247,
+        "formatted": "Woofgang Bakery & Grooming, Davenport Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Woofgang Bakery & Grooming",
+        "address_line2": "Davenport Road, Dallas, TX 75252, United States of America",
+        "category": "commercial;pet.service",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6X4+C9",
+        "plus_code_short": "X6X4+C9, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.149364267668317,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b8d969b5d13258c059778eb74bd17f4040f00103f901ae8be17e01000000c0020192031a576f6f6667616e672042616b65727920262047726f6f6d696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36343233363737383730",
+        "bbox": {
+          "lon1": -96.7940996,
+          "lat1": 32.9985247,
+          "lon2": -96.7939996,
+          "lat2": 32.9986247
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "EatZi's Market and Bakery",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.827956,
+        "lat": 33.045805,
+        "result_type": "amenity",
+        "distance": 30029.156829323598,
+        "postcode": "79093",
+        "formatted": "EatZi's Market and Bakery, Plano, TX 79093, United States of America",
+        "address_line1": "EatZi's Market and Bakery",
+        "address_line2": "Plano, TX 79093, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865525WC+8R",
+        "plus_code_short": "25WC+8R, 79093 Plano, United States",
+        "rank": {
+          "popularity": 5.236091758218119,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51baa1293bfd3458c059247f30f0dc854040f00103f9010ae451af00000000c002019203194561745a692773204d61726b657420616e642042616b657279e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32393431333739353934"
+      }
+    ],
+    "query": {
+      "text": "Royal Zabhia Halal Meats & Bakery"
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "queriedName": "Luna Grill Colleyville",
+  "queriedAt": "2026-09-09T00:38:12.750Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "street": "Walnut Hill Lane",
+        "housenumber": "8165",
+        "iso3166_2": "US-TX",
+        "lon": -96.7657983,
+        "lat": 32.8823578,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 12072.563781633558,
+        "formatted": "Luna Grill, 8165 Walnut Hill Lane, Dallas, TX 75231, United States of America",
+        "address_line1": "Luna Grill",
+        "address_line2": "8165 Walnut Hill Lane, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6JM+WM",
+        "plus_code_short": "V6JM+WM, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.145081508282445,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "514675dfd6023158c0596d2fb319f1704040f00102f9014629da2900000000c0020192030a4c756e61204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f373032313633323730",
+        "bbox": {
+          "lon1": -96.765929,
+          "lat1": 32.8822504,
+          "lon2": -96.7656676,
+          "lat2": 32.8824651
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75074",
+        "street": "East Renner Road",
+        "housenumber": "1419",
+        "iso3166_2": "US-TX",
+        "lon": -96.6976678,
+        "lat": 32.9977531,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 26240.54736551375,
+        "formatted": "Luna Grill, 1419 East Renner Road, Richardson, TX 75074, United States of America",
+        "address_line1": "Luna Grill",
+        "address_line2": "1419 East Renner Road, Richardson, TX 75074, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8X2+4W",
+        "plus_code_short": "X8X2+4W Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.880145892001304,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "513a1ed896a62c58c059c6fda25fb67f4040f00103f9011a69afe202000000c0020192030a4c756e61204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333933303831313134",
+        "bbox": {
+          "lon1": -96.6977178,
+          "lat1": 32.9977031,
+          "lon2": -96.6976178,
+          "lat2": 32.9978031
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Southlake",
+        "postcode": "76092",
+        "street": "South Carroll Avenue",
+        "housenumber": "1141",
+        "iso3166_2": "US-TX",
+        "lon": -97.1341665,
+        "lat": 32.9400705,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 36340.164953850406,
+        "formatted": "Luna Grill, 1141 South Carroll Avenue, Southlake, TX 76092, United States of America",
+        "address_line1": "Luna Grill",
+        "address_line2": "1141 South Carroll Avenue, Southlake, TX 76092, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WVR8+28",
+        "plus_code_short": "R8+28 Southlake, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005686503395127821,
+          "popularity": 4.059944474480097,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51016e162f964858c05999b7ea3a54784040f00103f9017eb9bed002000000c0020192030a4c756e61204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303932303934383436",
+        "bbox": {
+          "lon1": -97.1342165,
+          "lat1": 32.9400205,
+          "lon2": -97.1341165,
+          "lat2": 32.9401205
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75028",
+        "street": "Cross Timbers Road",
+        "iso3166_2": "US-TX",
+        "lon": -97.0670895,
+        "lat": 33.0358903,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 38268.275603669164,
+        "formatted": "Luna Grill, Cross Timbers Road, Flower Mound, TX 75028, United States of America",
+        "address_line1": "Luna Grill",
+        "address_line2": "Cross Timbers Road, Flower Mound, TX 75028, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542WPM+95",
+        "plus_code_short": "2WPM+95 Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.6479241235147266,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51eb19c2314b4458c0592f5fa80d98844040f00103f901d6d730c902000000c0020192030a4c756e61204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393635333535393930",
+        "bbox": {
+          "lon1": -97.0671395,
+          "lat1": 33.0358403,
+          "lon2": -97.0670395,
+          "lat2": 33.0359403
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Luna Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76109",
+        "suburb": "The Shops at Clearfork",
+        "street": "Marathon Avenue",
+        "housenumber": "5239",
+        "iso3166_2": "US-TX",
+        "lon": -97.4000475,
+        "lat": 32.7089478,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 56906.36099463059,
+        "formatted": "Luna Grill, 5239 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "address_line1": "Luna Grill",
+        "address_line2": "5239 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PH5X+HX",
+        "plus_code_short": "PH5X+HX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.5933518615405906,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "512e56d4609a5958c0591bc92fcdbe5a4040f00103f901e843a5aa01000000c0020192030a4c756e61204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f37313537393234383430",
+        "bbox": {
+          "lon1": -97.4000975,
+          "lat1": 32.7088978,
+          "lon2": -97.3999975,
+          "lat2": 32.7089978
+        }
+      }
+    ],
+    "query": {
+      "text": "Luna Grill Colleyville"
+    }
+  }
+}

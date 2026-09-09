@@ -1,0 +1,268 @@
+{
+  "queriedName": "Shawarma World",
+  "queriedAt": "2026-09-09T00:39:11.943Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Press",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "Ross Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.798571,
+        "lat": 32.7872417,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1148.2577066803956,
+        "formatted": "Shawarma Press, Ross Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Shawarma Press",
+        "address_line2": "Ross Avenue, Dallas, TX 75201, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6P2+VH",
+        "plus_code_short": "P2+VH, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.457239649322524,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512d228ac91b3358c05913c60556c4644040f00103f901f103ab1c03000000c0020192030e5368617761726d61205072657373e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333635383731363031",
+        "bbox": {
+          "lon1": -96.798621,
+          "lat1": 32.7871917,
+          "lon2": -96.798521,
+          "lat2": 32.7872917
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "New World",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Garland",
+        "suburb": "New World",
+        "iso3166_2": "US-TX",
+        "lon": -96.628949,
+        "lat": 32.855149,
+        "result_type": "suburb",
+        "distance": 17948.23542898929,
+        "formatted": "New World, Garland, TX, United States of America",
+        "address_line1": "New World",
+        "address_line2": "Garland, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V94C+3C",
+        "plus_code_short": "V94C+3C Garland, Dallas County, United States",
+        "rank": {
+          "popularity": 4.368255643607982,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5186764eb3402858c059821abe85756d4040c002059203094e657720576f726c64e2032377686f736f6e66697273743a6e65696768626f7572686f6f643a343230353432383335",
+        "bbox": {
+          "lon1": -96.633949,
+          "lat1": 32.850149,
+          "lon2": -96.623949,
+          "lat2": 32.860149
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Press",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "East Royal Lane",
+        "housenumber": "411",
+        "iso3166_2": "US-TX",
+        "lon": -96.9402473,
+        "lat": 32.896224,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 18837.87292726446,
+        "formatted": "Shawarma Press, 411 East Royal Lane, Irving, TX 75039, United States of America",
+        "address_line1": "Shawarma Press",
+        "address_line2": "411 East Royal Lane, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W5+FW",
+        "plus_code_short": "V3W5+FW Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.656202247492728,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bfe902032d3c58c059f5f1d077b7724040f00103f9010acc1cf901000000c0020192030e5368617761726d61205072657373e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38343734333831333232",
+        "bbox": {
+          "lon1": -96.9402973,
+          "lat1": 32.896174,
+          "lon2": -96.9401973,
+          "lat2": 32.896274
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Factory",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Audelia Road",
+        "housenumber": "904",
+        "iso3166_2": "US-TX",
+        "lon": -96.7193919,
+        "lat": 32.9372143,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19233.445575087615,
+        "formatted": "Shawarma Factory, 904 Audelia Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Shawarma Factory",
+        "address_line2": "904 Audelia Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7PJ+V6",
+        "plus_code_short": "PJ+V6 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.821427662981708,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5178e052840a2e58c059f9eb5fa3f6774040f00103f9016b2c14e102000000c002019203105368617761726d6120466163746f7279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333636313330323833",
+        "bbox": {
+          "lon1": -96.7194419,
+          "lat1": 32.9371643,
+          "lon2": -96.7193419,
+          "lat2": 32.9372643
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Way",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Valley Ranch",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "10045",
+        "iso3166_2": "US-TX",
+        "lon": -96.9527749,
+        "lat": 32.9428419,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23489.668518668976,
+        "formatted": "Shawarma Way, 10045 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Shawarma Way",
+        "address_line2": "10045 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2VW+4V",
+        "plus_code_short": "W2VW+4V Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.448199862249806,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c7fc9243fa3c58c05935e61a0baf784040f00103f9014736b63003000000c0020192030c5368617761726d6120576179e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373032313439373033",
+        "bbox": {
+          "lon1": -96.9528249,
+          "lat1": 32.9427919,
+          "lon2": -96.9527249,
+          "lat2": 32.9428919
+        }
+      }
+    ],
+    "query": {
+      "text": "Shawarma World"
+    }
+  }
+}

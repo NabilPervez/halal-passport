@@ -1,0 +1,115 @@
+{
+  "queriedName": "K KORNER FOOD STORE-HALAL GRILL",
+  "queriedAt": "2026-09-09T00:31:17.029Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "K P Food Store",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75149",
+        "street": "North Galloway Avenue",
+        "housenumber": "1816",
+        "iso3166_2": "US-TX",
+        "lon": -96.6080437,
+        "lat": 32.7890291,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17715.094061925032,
+        "formatted": "K P Food Store, 1816 North Galloway Avenue, Mesquite, TX 75149, United States of America",
+        "address_line1": "K P Food Store",
+        "address_line2": "1816 North Galloway Avenue, Mesquite, TX 75149, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q9QR+JQ",
+        "plus_code_short": "Q9QR+JQ, 75149 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "popularity": 4.211591632617495,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517c821f30ea2658c059d10bd2e7fe644040f00102f901e6d1e65600000000c0020192030e4b205020466f6f642053746f7265e203226f70656e7374726565746d61703a76656e75653a7761792f31343537393637353930",
+        "bbox": {
+          "lon1": -96.6081226,
+          "lat1": 32.7889188,
+          "lon2": -96.6079336,
+          "lat2": 32.7891281
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Korner Food Store",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "North Main Street",
+        "housenumber": "2501",
+        "iso3166_2": "US-TX",
+        "lon": -97.0834659,
+        "lat": 32.8724159,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 28793.618816953756,
+        "formatted": "Korner Food Store, 2501 North Main Street, Euless, TX 76039, United States of America",
+        "address_line1": "Korner Food Store",
+        "address_line2": "2501 North Main Street, Euless, TX 76039, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VWC8+XJ",
+        "plus_code_short": "VWC8+XJ Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.318058279085704,
+          "confidence": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "5132b55b81574558c0595581ff52ab6f4040f00103f901b62bde3203000000c002019203114b6f726e657220466f6f642053746f7265e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373338333232383730",
+        "bbox": {
+          "lon1": -97.0835159,
+          "lat1": 32.8723659,
+          "lon2": -97.0834159,
+          "lat2": 32.8724659
+        }
+      }
+    ],
+    "query": {
+      "text": "K KORNER FOOD STORE-HALAL GRILL"
+    }
+  }
+}

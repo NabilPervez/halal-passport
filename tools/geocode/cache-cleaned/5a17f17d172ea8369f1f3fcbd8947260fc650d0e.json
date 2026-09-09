@@ -1,0 +1,63 @@
+{
+  "queriedName": "Lahori Kabab Halal",
+  "queriedAt": "2026-09-09T00:45:29.856Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lahori Kabab",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Coit Road",
+        "housenumber": "6832",
+        "iso3166_2": "US-TX",
+        "lon": -96.770653,
+        "lat": 33.0703155,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32707.81649613717,
+        "formatted": "Lahori Kabab, 6832 Coit Road, Plano, TX 75024, United States of America",
+        "address_line1": "Lahori Kabab",
+        "address_line2": "6832 Coit Road, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865536CH+4P",
+        "plus_code_short": "36CH+4P, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.789282693434228,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "511de4f560523158c05971732a1900894040f00103f901a2b2b42602000000c0020192030c4c61686f7269204b61626162e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323339333131303130",
+        "bbox": {
+          "lon1": -96.770703,
+          "lat1": 33.0702655,
+          "lon2": -96.770603,
+          "lat2": 33.0703655
+        }
+      }
+    ],
+    "query": {
+      "text": "Lahori Kabab Halal"
+    }
+  }
+}

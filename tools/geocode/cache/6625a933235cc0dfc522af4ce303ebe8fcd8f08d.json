@@ -1,0 +1,62 @@
+{
+  "queriedName": "Food From Galilee",
+  "queriedAt": "2026-09-09T00:33:02.981Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Food From Galilee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "University Park",
+        "postcode": "75205",
+        "street": "Snider Plaza",
+        "housenumber": "6710",
+        "iso3166_2": "US-TX",
+        "lon": -96.7876197,
+        "lat": 32.8479694,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7939.988867886081,
+        "formatted": "Food From Galilee, 6710 Snider Plaza, University Park, TX 75205, United States of America",
+        "address_line1": "Food From Galilee",
+        "address_line2": "6710 Snider Plaza, University Park, TX 75205, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6X6+5X",
+        "plus_code_short": "X6+5X, 75205 University Park, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.325583808699892,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51dc4b755c683258c0591e81e4428a6c4040f00103f90141aeda2f03000000c00201920311466f6f642046726f6d2047616c696c6565",
+        "bbox": {
+          "lon1": -96.7876697,
+          "lat1": 32.8479194,
+          "lon2": -96.7875697,
+          "lat2": 32.8480194
+        }
+      }
+    ],
+    "query": {
+      "text": "Food From Galilee"
+    }
+  }
+}

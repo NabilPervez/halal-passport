@@ -1,0 +1,62 @@
+{
+  "queriedName": "Swamp Cafe",
+  "queriedAt": "2026-09-09T00:38:47.259Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Swamp Café",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75287",
+        "street": "Trinity Mills Road",
+        "housenumber": "104",
+        "iso3166_2": "US-TX",
+        "lon": -96.8314692,
+        "lat": 32.990573,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23965.393978418066,
+        "formatted": "Swamp Café, 104 Trinity Mills Road, Dallas, TX 75287, United States of America",
+        "address_line1": "Swamp Café",
+        "address_line2": "104 Trinity Mills Road, Dallas, TX 75287, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5R9+6C",
+        "plus_code_short": "X5R9+6C, 75287 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.260911926577418,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51676897ca363558c0597aa69718cb7e4040f00103f9014a7a958502000000c0020192030b5377616d7020436166c3a9",
+        "bbox": {
+          "lon1": -96.8315192,
+          "lat1": 32.990523,
+          "lon2": -96.8314192,
+          "lat2": 32.990623
+        }
+      }
+    ],
+    "query": {
+      "text": "Swamp Cafe"
+    }
+  }
+}

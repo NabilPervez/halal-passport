@@ -1,0 +1,113 @@
+{
+  "queriedName": "KEBABS TO-GO!",
+  "queriedAt": "2026-09-09T00:40:38.442Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KEBABS TO-GO!",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "10025",
+        "iso3166_2": "US-TX",
+        "lon": -96.9528519,
+        "lat": 32.94217,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23435.561868165387,
+        "formatted": "KEBABS TO-GO!, 10025 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "KEBABS TO-GO!",
+        "address_line2": "10025 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2RW+VV",
+        "plus_code_short": "W2RW+VV Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.448199862249806,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519d1b8986fb3c58c059dba2cc0699784040f00102f901db42ea4400000000c0020192030d4b454241425320544f2d474f21",
+        "bbox": {
+          "lon1": -96.9529138,
+          "lat1": 32.9421345,
+          "lon2": -96.95279,
+          "lat2": 32.9421819
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kebabs to-go",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Coit Road",
+        "housenumber": "17509",
+        "iso3166_2": "US-TX",
+        "lon": -96.7687627,
+        "lat": 32.9894009,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23764.668035560248,
+        "formatted": "Kebabs to-go, 17509 Coit Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Kebabs to-go",
+        "address_line2": "17509 Coit Road, Dallas, TX 75252, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6QJ+QF",
+        "plus_code_short": "X6QJ+QF, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.933162180240405,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519eb87768333158c05905114eb0a47e4040f00103f9016499261a03000000c0020192030c4b656261627320746f2d676f",
+        "bbox": {
+          "lon1": -96.7688127,
+          "lat1": 32.9893509,
+          "lon2": -96.7687127,
+          "lat2": 32.9894509
+        }
+      }
+    ],
+    "query": {
+      "text": "KEBABS TO-GO!"
+    }
+  }
+}

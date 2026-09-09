@@ -1,0 +1,274 @@
+{
+  "queriedName": "K - Banquets and Event Center",
+  "queriedAt": "2026-09-09T00:37:58.562Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Sterling Hotel Convention, Meeting and Event Center",
+        "housenumber": "1055",
+        "street": "Regal Row",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75247",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Stemmons Corridor",
+        "iso3166_2": "US-TX",
+        "lon": -96.887784,
+        "lat": 32.827402,
+        "result_type": "amenity",
+        "distance": 10168.90283092249,
+        "formatted": "Sterling Hotel Convention, Meeting and Event Center, 1055 Regal Row, Dallas, TX 75247, United States of America",
+        "address_line1": "Sterling Hotel Convention, Meeting and Event Center",
+        "address_line2": "1055 Regal Row, Dallas, TX 75247, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R4G6+XV",
+        "plus_code_short": "R4G6+XV, 75247 Dallas, United States",
+        "rank": {
+          "popularity": 4.631362058801598,
+          "confidence": 0.15836896551724142,
+          "confidence_city_level": 0.03125,
+          "match_type": "full_match"
+        },
+        "place_id": "515f7afb73d13858c0598f52094fe8694040f00102f9012ed5b71b00000000c00201920333537465726c696e6720486f74656c20436f6e76656e74696f6e2c204d656574696e6720616e64204576656e742043656e746572e203216f70656e7374726565746d61703a76656e75653a7761792f343635303332343934",
+        "bbox": {
+          "lon1": -96.8883291,
+          "lat1": 32.8269596,
+          "lon2": -96.8872755,
+          "lat2": 32.8278424
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Alexis Hotel & Banquets Dallas Park Central Galleria",
+        "housenumber": "7815",
+        "street": "Lyndon B Johnson Freeway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75251",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Northwood Hills",
+        "iso3166_2": "US-TX",
+        "lon": -96.771255,
+        "lat": 32.925258,
+        "result_type": "amenity",
+        "distance": 16660.05183553982,
+        "formatted": "Alexis Hotel & Banquets Dallas Park Central Galleria, 7815 Lyndon B Johnson Freeway, Dallas, TX 75251, United States of America",
+        "address_line1": "Alexis Hotel & Banquets Dallas Park Central Galleria",
+        "address_line2": "7815 Lyndon B Johnson Freeway, Dallas, TX 75251, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W6GH+4F",
+        "plus_code_short": "W6GH+4F, 75251 Dallas, United States",
+        "rank": {
+          "popularity": 4.900236127891179,
+          "confidence": 0.007145506905698345,
+          "confidence_city_level": 0.03125,
+          "confidence_street_level": 0.007211538461538462,
+          "match_type": "full_match"
+        },
+        "place_id": "511878ee3d5c3158c059622ea9da6e764040f00101f9011dcd690000000000c00201920334416c6578697320486f74656c20262042616e71756574732044616c6c6173205061726b2043656e7472616c2047616c6c65726961e203246f70656e7374726565746d61703a76656e75653a72656c6174696f6e2f36393333373839",
+        "bbox": {
+          "lon1": -96.7717548,
+          "lat1": 32.9249815,
+          "lon2": -96.7708214,
+          "lat2": 32.9256102
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Alexis Hotel & Banquets Dallas Park Central Galleria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75251",
+        "street": "Lyndon B. Johnson Freeway",
+        "housenumber": "7815",
+        "iso3166_2": "US-TX",
+        "lon": -96.7713071,
+        "lat": 32.9253878,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 16673.632426906897,
+        "formatted": "Alexis Hotel & Banquets Dallas Park Central Galleria, 7815 Lyndon B. Johnson Freeway, Dallas, TX 75251, United States of America",
+        "address_line1": "Alexis Hotel & Banquets Dallas Park Central Galleria",
+        "address_line2": "7815 Lyndon B. Johnson Freeway, Dallas, TX 75251, United States of America",
+        "category": "accommodation.hotel",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W6GH+5F",
+        "plus_code_short": "W6GH+5F, 75251 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0.007145506905698345,
+          "confidence_city_level": 0.03125,
+          "confidence_street_level": 0.007211538461538462,
+          "match_type": "full_match"
+        },
+        "place_id": "510c6b74185d3158c059078f801b73764040f00101f9011dcd690000000000c00201920334416c6578697320486f74656c20262042616e71756574732044616c6c6173205061726b2043656e7472616c2047616c6c65726961",
+        "bbox": {
+          "lon1": -96.7717548,
+          "lat1": 32.9249815,
+          "lon2": -96.7708214,
+          "lat2": 32.9256102
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Carrollton Parks & Recreation Event Office",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "South Broadway Street",
+        "housenumber": "1414",
+        "iso3166_2": "US-TX",
+        "lon": -96.9069138,
+        "lat": 32.950464,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21850.155189765825,
+        "formatted": "Carrollton Parks & Recreation Event Office, 1414 South Broadway Street, Carrollton, TX 75006, United States of America",
+        "address_line1": "Carrollton Parks & Recreation Event Office",
+        "address_line2": "1414 South Broadway Street, Carrollton, TX 75006, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X32V+56",
+        "plus_code_short": "X32V+56, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.670823117909356,
+          "confidence": 0.009216826618740516,
+          "confidence_city_level": 0.03125,
+          "confidence_street_level": 0.002680191281249999,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1d22de00a3a58c0593e03eacda8794040f00103f901f5042f1603000000c0020192032a436172726f6c6c746f6e205061726b7320262052656372656174696f6e204576656e74204f6666696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323537303832313031",
+        "bbox": {
+          "lon1": -96.9069638,
+          "lat1": 32.950414,
+          "lon2": -96.9068638,
+          "lat2": 32.950514
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pearl Banquet & Event",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Mountain Pass Drive",
+        "housenumber": "820",
+        "iso3166_2": "US-TX",
+        "lon": -96.7086035,
+        "lat": 33.0552013,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32016.163577458534,
+        "formatted": "Pearl Banquet & Event, 820 Mountain Pass Drive, Plano, TX 75023, United States of America",
+        "address_line1": "Pearl Banquet & Event",
+        "address_line2": "820 Mountain Pass Drive, Plano, TX 75023, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655374R+3H",
+        "plus_code_short": "374R+3H, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.7830961644674925,
+          "confidence": 0.0016252972651605228,
+          "confidence_city_level": 0.125,
+          "confidence_street_level": 0.020833333333333332,
+          "match_type": "full_match"
+        },
+        "place_id": "5131957ec2592d58c0592d1911d610874040f00103f901af5b248502000000c00201920315506561726c2042616e717565742026204576656e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383233363837303837",
+        "bbox": {
+          "lon1": -96.7086535,
+          "lat1": 33.0551513,
+          "lon2": -96.7085535,
+          "lat2": 33.0552513
+        }
+      }
+    ],
+    "query": {
+      "text": "K - Banquets and Event Center"
+    }
+  }
+}

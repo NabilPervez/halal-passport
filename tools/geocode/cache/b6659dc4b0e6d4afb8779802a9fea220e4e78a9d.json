@@ -1,0 +1,113 @@
+{
+  "queriedName": "Dog Haus Biergarten",
+  "queriedAt": "2026-09-09T00:38:11.484Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dog Haus Biergarten",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76018",
+        "suburb": "Arlington Highlands",
+        "street": "Partners Way",
+        "iso3166_2": "US-TX",
+        "lon": -97.1062653,
+        "lat": 32.6795287,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30892.98049787265,
+        "formatted": "Dog Haus Biergarten, Partners Way, Arlington, TX 76018, United States of America",
+        "address_line1": "Dog Haus Biergarten",
+        "address_line2": "Partners Way, Arlington, TX 76018, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MVHV+RF",
+        "plus_code_short": "MVHV+RF, 76018 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.379745556743338,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c70cf90ccd4658c059c198e3cbfa564040f00103f9010509d31402000000c00201920313446f672048617573204269657267617274656e",
+        "bbox": {
+          "lon1": -97.1063153,
+          "lat1": 32.6794787,
+          "lon2": -97.1062153,
+          "lat2": 32.6795787
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dog Haus Biergarten",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Dallas Parkway",
+        "housenumber": "9169",
+        "iso3166_2": "US-TX",
+        "lon": -96.8412986,
+        "lat": 33.15353,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 42071.75477652324,
+        "formatted": "Dog Haus Biergarten, 9169 Dallas Parkway, Frisco, TX 75034, United States of America",
+        "address_line1": "Dog Haus Biergarten",
+        "address_line2": "9169 Dallas Parkway, Frisco, TX 75034, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555535+CF",
+        "plus_code_short": "5535+CF, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.8997051032822045,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51eb4a15d6d73558c0593a7afcdea6934040f00103f901ba55f21903000000c00201920313446f672048617573204269657267617274656e",
+        "bbox": {
+          "lon1": -96.8413486,
+          "lat1": 33.15348,
+          "lon2": -96.8412486,
+          "lat2": 33.15358
+        }
+      }
+    ],
+    "query": {
+      "text": "Dog Haus Biergarten"
+    }
+  }
+}

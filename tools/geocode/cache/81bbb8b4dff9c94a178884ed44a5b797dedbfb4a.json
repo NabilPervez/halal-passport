@@ -1,0 +1,62 @@
+{
+  "queriedName": "Hyderabad House",
+  "queriedAt": "2026-09-09T00:35:14.315Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hyderabad House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75068",
+        "street": "West University Drive",
+        "housenumber": "4740",
+        "iso3166_2": "US-TX",
+        "lon": -96.8796528,
+        "lat": 33.220826,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 49949.571713797086,
+        "formatted": "Hyderabad House, 4740 West University Drive, Frisco, TX 75068, United States of America",
+        "address_line1": "Hyderabad House",
+        "address_line2": "4740 West University Drive, Frisco, TX 75068, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865564CC+84",
+        "plus_code_short": "64CC+84, 75068 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 2.983722581194233,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516ef5413b4c3858c059a20dc006449c4040f00103f901ee14301903000000c0020192030f48796465726162616420486f757365",
+        "bbox": {
+          "lon1": -96.8797028,
+          "lat1": 33.220776,
+          "lon2": -96.8796028,
+          "lat2": 33.220876
+        }
+      }
+    ],
+    "query": {
+      "text": "Hyderabad House"
+    }
+  }
+}

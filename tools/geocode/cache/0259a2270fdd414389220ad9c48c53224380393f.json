@@ -1,0 +1,63 @@
+{
+  "queriedName": "Lezzet Cafe",
+  "queriedAt": "2026-09-09T00:37:45.693Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lezzet Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "hamlet": "Renner",
+        "postcode": "75252",
+        "street": "Frankford Road",
+        "housenumber": "6869",
+        "iso3166_2": "US-TX",
+        "lon": -96.7850093,
+        "lat": 32.9981182,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24612.734931130726,
+        "formatted": "Lezzet Cafe, 6869 Frankford Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Lezzet Cafe",
+        "address_line2": "6869 Frankford Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6X7+6X",
+        "plus_code_short": "X6X7+6X, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.945864539006631,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5193a3a5973d3258c0596d455156c27f4040f00103f9018791ea8801000000c0020192030b4c657a7a65742043616665",
+        "bbox": {
+          "lon1": -96.7850593,
+          "lat1": 32.9980682,
+          "lon2": -96.7849593,
+          "lat2": 32.9981682
+        }
+      }
+    ],
+    "query": {
+      "text": "Lezzet Cafe"
+    }
+  }
+}

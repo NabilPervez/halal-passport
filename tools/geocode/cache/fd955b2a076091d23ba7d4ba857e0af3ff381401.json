@@ -1,0 +1,273 @@
+{
+  "queriedName": "Blue Olive Grill",
+  "queriedAt": "2026-09-09T00:40:36.592Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Blue Sushi Sake Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Walnut Hill Lane",
+        "housenumber": "7859",
+        "iso3166_2": "US-TX",
+        "lon": -96.7729239,
+        "lat": 32.881279,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 11811.513940259827,
+        "formatted": "Blue Sushi Sake Grill, 7859 Walnut Hill Lane, Dallas, TX 75230, United States of America",
+        "address_line1": "Blue Sushi Sake Grill",
+        "address_line2": "7859 Walnut Hill Lane, Dallas, TX 75230, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6JG+GR",
+        "plus_code_short": "V6JG+GR, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.332465401794129,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fe32ce95773158c05967d311c0cd704040f00103f901cd7ed8d801000000c00201920315426c75652053757368692053616b65204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f37393333303334313839",
+        "bbox": {
+          "lon1": -96.7729739,
+          "lat1": 32.881229,
+          "lon2": -96.7728739,
+          "lat2": 32.881329
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Blue Mesa Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75254",
+        "street": "Montfort Drive",
+        "housenumber": "14866",
+        "iso3166_2": "US-TX",
+        "lon": -96.8179911,
+        "lat": 32.9513014,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19480.366824099405,
+        "formatted": "Blue Mesa Grill, 14866 Montfort Drive, Addison, TX 75254, United States of America",
+        "address_line1": "Blue Mesa Grill",
+        "address_line2": "14866 Montfort Drive, Addison, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X52J+GR",
+        "plus_code_short": "2J+GR, 75254 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.768106412033138,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d2ba57f7593458c059cbd1883ec4794040f00102f9010595c11a00000000c0020192030f426c7565204d657361204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343438383934323133",
+        "bbox": {
+          "lon1": -96.818176,
+          "lat1": 32.9511743,
+          "lon2": -96.817806,
+          "lat2": 32.9514642
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Blue Mesa Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76011",
+        "suburb": "Lincoln Square",
+        "street": "Lincoln Square",
+        "iso3166_2": "US-TX",
+        "lon": -97.0978054,
+        "lat": 32.756497,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 28218.088745139146,
+        "formatted": "Blue Mesa Grill, Lincoln Square, Arlington, TX 76011, United States of America",
+        "address_line1": "Blue Mesa Grill",
+        "address_line2": "Lincoln Square, Arlington, TX 76011, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QW42+HV",
+        "plus_code_short": "QW42+HV, 76011 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 5.470961636101627,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d2979471424658c059d542c9e4d4604040f00103f9017ec7855c01000000c0020192030f426c7565204d657361204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f35383437323338353236",
+        "bbox": {
+          "lon1": -97.0978554,
+          "lat1": 32.756447,
+          "lon2": -97.0977554,
+          "lat2": 32.756547
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Blue Mesa Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Dallas Parkway",
+        "housenumber": "8200",
+        "iso3166_2": "US-TX",
+        "lon": -96.8215088,
+        "lat": 33.0895709,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 34831.52901688334,
+        "formatted": "Blue Mesa Grill, 8200 Dallas Parkway, Plano, TX 75024, United States of America",
+        "address_line1": "Blue Mesa Grill",
+        "address_line2": "8200 Dallas Parkway, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535QH+R9",
+        "plus_code_short": "35QH+R9, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.13366970118391,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511458a599933458c0592e162b0f778b4040f00102f9017120770f00000000c0020192030f426c7565204d657361204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f323539343635333239",
+        "bbox": {
+          "lon1": -96.8217181,
+          "lat1": 33.0894398,
+          "lon2": -96.8213152,
+          "lat2": 33.0897402
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Blue Sushi Sake Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76107",
+        "street": "West 7th Street",
+        "housenumber": "3131",
+        "iso3166_2": "US-TX",
+        "lon": -97.362566,
+        "lat": 32.7511229,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Cultural District",
+        "result_type": "amenity",
+        "distance": 52961.201601035806,
+        "formatted": "Blue Sushi Sake Grill, 3131 West 7th Street, Fort Worth, TX 76107, United States of America",
+        "address_line1": "Blue Sushi Sake Grill",
+        "address_line2": "3131 West 7th Street, Fort Worth, TX 76107, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QJ2P+CX",
+        "plus_code_short": "QJ2P+CX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 4.284335606995006,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510f290648345758c0596a6391cb24604040f00103f901c4b9fb2601000000c00201920315426c75652053757368692053616b65204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f34393438393938353936",
+        "bbox": {
+          "lon1": -97.362616,
+          "lat1": 32.7510729,
+          "lon2": -97.362516,
+          "lat2": 32.7511729
+        }
+      }
+    ],
+    "query": {
+      "text": "Blue Olive Grill"
+    }
+  }
+}

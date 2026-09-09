@@ -1,0 +1,265 @@
+{
+  "queriedName": "Zalat Pizza",
+  "queriedAt": "2026-09-09T00:42:40.443Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zalat Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75204",
+        "suburb": "Old East Dallas",
+        "street": "North Fitzhugh Avenue",
+        "housenumber": "2519",
+        "iso3166_2": "US-TX",
+        "lon": -96.7839202,
+        "lat": 32.8124089,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4122.747658453396,
+        "formatted": "Zalat Pizza, 2519 North Fitzhugh Avenue, Dallas, TX 75204, United States of America",
+        "address_line1": "Zalat Pizza",
+        "address_line2": "2519 North Fitzhugh Avenue, Dallas, TX 75204, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R668+XC",
+        "plus_code_short": "R668+XC, 75204 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.846162042853166,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511f6ba1bf2b3258c0595b3dcc03fd674040f00103f9016025de5e02000000c0020192030b5a616c61742050697a7a61",
+        "bbox": {
+          "lon1": -96.7839702,
+          "lat1": 32.8123589,
+          "lon2": -96.7838702,
+          "lat2": 32.8124589
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zalat Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75254",
+        "street": "Belt Line Road",
+        "housenumber": "4980",
+        "iso3166_2": "US-TX",
+        "lon": -96.826571,
+        "lat": 32.9537365,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19845.353498295884,
+        "formatted": "Zalat Pizza, 4980 Belt Line Road, Addison, TX 75254, United States of America",
+        "address_line1": "Zalat Pizza",
+        "address_line2": "4980 Belt Line Road, Addison, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X53F+F9",
+        "plus_code_short": "3F+F9, 75254 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 6.7557390043569985,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519c340d8ae63458c0593140a209147a4040f00103f90116ef92bf02000000c0020192030b5a616c61742050697a7a61",
+        "bbox": {
+          "lon1": -96.826621,
+          "lat1": 32.9536865,
+          "lon2": -96.826521,
+          "lat2": 32.9537865
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zalat Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75074",
+        "street": "Renner Trail",
+        "iso3166_2": "US-TX",
+        "lon": -96.6966612,
+        "lat": 32.9981127,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26311.271193926732,
+        "formatted": "Zalat Pizza, Renner Trail, Richardson, TX 75074, United States of America",
+        "address_line1": "Zalat Pizza",
+        "address_line2": "Renner Trail, Richardson, TX 75074, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8X3+68",
+        "plus_code_short": "X8X3+68 Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.880145892001304,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511899db18962c58c059731c2e28c27f4040f00103f901987a825a01000000c0020192030b5a616c61742050697a7a61",
+        "bbox": {
+          "lon1": -96.6967112,
+          "lat1": 32.9980627,
+          "lon2": -96.6966112,
+          "lat2": 32.9981627
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zalat Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76011",
+        "street": "North Collins Street",
+        "iso3166_2": "US-TX",
+        "lon": -97.0965533,
+        "lat": 32.7629694,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 28051.167657683807,
+        "formatted": "Zalat Pizza, North Collins Street, Arlington, TX 76011, United States of America",
+        "address_line1": "Zalat Pizza",
+        "address_line2": "North Collins Street, Arlington, TX 76011, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QW73+59",
+        "plus_code_short": "QW73+59, 76011 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.778355683024322,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518974e4ed2d4658c059a46c36fba8614040f00103f901061ae63c02000000c0020192030b5a616c61742050697a7a61",
+        "bbox": {
+          "lon1": -97.0966033,
+          "lat1": 32.7629194,
+          "lon2": -97.0965033,
+          "lat2": 32.7630194
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zalat Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "West Parker Road",
+        "housenumber": "3909",
+        "iso3166_2": "US-TX",
+        "lon": -96.7691177,
+        "lat": 33.0418074,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 29560.09760982674,
+        "formatted": "Zalat Pizza, 3909 West Parker Road, Plano, TX 75075, United States of America",
+        "address_line1": "Zalat Pizza",
+        "address_line2": "3909 West Parker Road, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526RJ+P9",
+        "plus_code_short": "26RJ+P9, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.907989164284448,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5195117239393158c0598bdde3f159854040f00103f901919a0eed01000000c0020192030b5a616c61742050697a7a61",
+        "bbox": {
+          "lon1": -96.7691677,
+          "lat1": 33.0417574,
+          "lon2": -96.7690677,
+          "lat2": 33.0418574
+        }
+      }
+    ],
+    "query": {
+      "text": "Zalat Pizza"
+    }
+  }
+}

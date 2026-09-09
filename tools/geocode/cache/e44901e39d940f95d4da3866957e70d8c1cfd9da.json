@@ -1,0 +1,255 @@
+{
+  "queriedName": "Breezeway Cafe",
+  "queriedAt": "2026-09-09T00:40:55.377Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Breezeway Court",
+        "street": "Breezeway Court",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Cedar Hill",
+        "iso3166_2": "US-TX",
+        "lon": -97.001985,
+        "lat": 32.579608,
+        "result_type": "street",
+        "distance": 29152.041208494473,
+        "postcode": "75104",
+        "formatted": "Breezeway Court, Cedar Hill, TX 75104, United States of America",
+        "address_line1": "Breezeway Court",
+        "address_line2": "Cedar Hill, TX 75104, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HXHX+R6",
+        "plus_code_short": "HXHX+R6, 75104 Cedar Hill, United States",
+        "rank": {
+          "popularity": 3.3051615383752746,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514985b185204058c059ff3f4e98304a4040c0020492030f427265657a6577617920436f757274e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373034303639",
+        "bbox": {
+          "lon1": -97.002531,
+          "lat1": 32.578183,
+          "lon2": -97.000762,
+          "lat2": 32.581125
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "TCC | SE07 / Breezeway",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76002",
+        "district": "Webb",
+        "street": "TCC SE Track",
+        "iso3166_2": "US-TX",
+        "lon": -97.0716019,
+        "lat": 32.6380085,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 29983.05742120716,
+        "formatted": "TCC | SE07 / Breezeway, TCC SE Track, Arlington, TX 76002, United States of America",
+        "address_line1": "TCC | SE07 / Breezeway",
+        "address_line2": "TCC SE Track, Arlington, TX 76002, United States of America",
+        "category": "building.school",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644JWQH+69",
+        "plus_code_short": "JWQH+69, 76002 Arlington, United States",
+        "rank": {
+          "importance": 0.00005970473792625342,
+          "popularity": 3.7176525484206833,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5137b52220954458c059f6083543aa514040f00102f90194443c5100000000c00201920316544343207c2053453037202f20427265657a65776179e203226f70656e7374726565746d61703a76656e75653a7761792f31333632393034323132",
+        "bbox": {
+          "lon1": -97.0719425,
+          "lat1": 32.6377536,
+          "lon2": -97.0712294,
+          "lat2": 32.6382345
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Breezeway Boulevard",
+        "street": "Breezeway Boulevard",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.832183,
+        "lat": 33.215061,
+        "result_type": "street",
+        "distance": 48820.61353358551,
+        "postcode": "75033",
+        "formatted": "Breezeway Boulevard, Frisco, TX 75033, United States of America",
+        "address_line1": "Breezeway Boulevard",
+        "address_line2": "Frisco, TX 75033, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86556589+24",
+        "plus_code_short": "6589+24, 75033 Frisco, United States",
+        "rank": {
+          "popularity": 3.063956835260357,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5161527c7c423558c05991d26c1e879b4040c00204920313427265657a6577617920426f756c6576617264e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383032393631",
+        "bbox": {
+          "lon1": -96.832193,
+          "lat1": 33.214992,
+          "lon2": -96.820411,
+          "lat2": 33.215244
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Breezeway Drive",
+        "street": "Breezeway Drive",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "iso3166_2": "US-TX",
+        "lon": -96.968723,
+        "lat": 33.257183,
+        "result_type": "street",
+        "distance": 55742.890742645235,
+        "postcode": "76227",
+        "formatted": "Breezeway Drive, Denton County, TX 76227, United States of America",
+        "address_line1": "Breezeway Drive",
+        "address_line2": "Denton County, TX 76227, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655724J+VG",
+        "rank": {
+          "popularity": 2.7363068856616004,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5183f8c08eff3d58c059280b5f5feba04040c0020492030f427265657a65776179204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230323632393038",
+        "bbox": {
+          "lon1": -96.971425,
+          "lat1": 33.256281,
+          "lon2": -96.965755,
+          "lat2": 33.257184
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Breezeway Drive",
+        "street": "Breezeway Drive",
+        "country": "United States",
+        "county": "Johnson County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "JO",
+        "iso3166_2": "US-TX",
+        "lon": -97.503611,
+        "lat": 32.494433,
+        "result_type": "street",
+        "distance": 73247.44595079844,
+        "postcode": "76044",
+        "formatted": "Breezeway Drive, Johnson County, TX 76044, United States of America",
+        "address_line1": "Breezeway Drive",
+        "address_line2": "Johnson County, TX 76044, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644FFVW+QH",
+        "rank": {
+          "popularity": 2.1867046800525074,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fab9a1293b6058c05916889e94493f4040c0020492030f427265657a65776179204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230383430383038",
+        "bbox": {
+          "lon1": -97.504594,
+          "lat1": 32.494365,
+          "lon2": -97.502644,
+          "lat2": 32.494464
+        }
+      }
+    ],
+    "query": {
+      "text": "Breezeway Cafe"
+    }
+  }
+}

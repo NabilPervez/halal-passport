@@ -1,0 +1,269 @@
+{
+  "queriedName": "Dickey's Barbecue Pit",
+  "queriedAt": "2026-09-09T00:36:20.038Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dickey's Barbecue Pit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "district": "West End Historic District",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1201",
+        "iso3166_2": "US-TX",
+        "lon": -96.8017262,
+        "lat": 32.7806121,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 597.1188522790786,
+        "formatted": "Dickey's Barbecue Pit, 1201 Main Street, Dallas, TX 75202, United States of America",
+        "address_line1": "Dickey's Barbecue Pit",
+        "address_line2": "1201 Main Street, Dallas, TX 75202, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5JX+68",
+        "plus_code_short": "JX+68, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512b56687b4f3358c059522ee818eb634040f00103f90115bc53a102000000c002019203154469636b6579277320426172626563756520506974",
+        "bbox": {
+          "lon1": -96.8017762,
+          "lat1": 32.7805621,
+          "lon2": -96.8016762,
+          "lat2": 32.7806621
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dickey's Barbecue Pit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Wycliff Avenue",
+        "housenumber": "2525",
+        "iso3166_2": "US-TX",
+        "lon": -96.8190225,
+        "lat": 32.8110351,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4308.153242275383,
+        "formatted": "Dickey's Barbecue Pit, 2525 Wycliff Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Dickey's Barbecue Pit",
+        "address_line2": "2525 Wycliff Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56J+C9",
+        "plus_code_short": "R56J+C9, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.933170900852284,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "510b0c59dd6a3458c0593c3487ffcf674040f00103f9011ea66d4f02000000c002019203154469636b6579277320426172626563756520506974",
+        "bbox": {
+          "lon1": -96.8190725,
+          "lat1": 32.8109851,
+          "lon2": -96.8189725,
+          "lat2": 32.8110851
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dickey's Barbecue Pit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "Knox",
+        "street": "North Central Expressway",
+        "housenumber": "4610",
+        "iso3166_2": "US-TX",
+        "lon": -96.7852644,
+        "lat": 32.8221002,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 5133.47888715205,
+        "formatted": "Dickey's Barbecue Pit, 4610 North Central Expressway, Dallas, TX 75206, United States of America",
+        "address_line1": "Dickey's Barbecue Pit",
+        "address_line2": "4610 North Central Expressway, Dallas, TX 75206, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6C7+RV",
+        "plus_code_short": "R6C7+RV, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.932075289370914,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a32d9dc5413258c0597d8450943a694040f00102f90156adc21b00000000c002019203154469636b6579277320426172626563756520506974",
+        "bbox": {
+          "lon1": -96.785352,
+          "lat1": 32.8219634,
+          "lon2": -96.7851834,
+          "lat2": 32.8221787
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dickey's Barbecue Pit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75235",
+        "street": "Medical District Drive",
+        "housenumber": "2222",
+        "iso3166_2": "US-TX",
+        "lon": -96.8304952,
+        "lat": 32.8133026,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 5108.522935437079,
+        "formatted": "Dickey's Barbecue Pit, 2222 Medical District Drive, Dallas, TX 75235, United States of America",
+        "address_line1": "Dickey's Barbecue Pit",
+        "address_line2": "2222 Medical District Drive, Dallas, TX 75235, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R579+8R",
+        "plus_code_short": "R579+8R, 75235 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.8467028666003715,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "510adf56d5263558c0593a60b24c1a684040f00103f901328ab15101000000c002019203154469636b6579277320426172626563756520506974",
+        "bbox": {
+          "lon1": -96.8305452,
+          "lat1": 32.8132526,
+          "lon2": -96.8304452,
+          "lat2": 32.8133526
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dickey’s Barbecue Pit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75235",
+        "street": "Herb Kelleher Way",
+        "housenumber": "8008",
+        "iso3166_2": "US-TX",
+        "lon": -96.8494788,
+        "lat": 32.8459127,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 9097.850860104374,
+        "formatted": "Dickey’s Barbecue Pit, 8008 Herb Kelleher Way, Dallas, TX 75235, United States of America",
+        "address_line1": "Dickey’s Barbecue Pit",
+        "address_line2": "8008 Herb Kelleher Way, Dallas, TX 75235, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R5W2+96",
+        "plus_code_short": "R5W2+96, 75235 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.0129123573736685,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "514d2954dc5d3658c059b2e20ade466c4040f00103f9010448f9c300000000c002019203174469636b6579e280997320426172626563756520506974",
+        "bbox": {
+          "lon1": -96.8495288,
+          "lat1": 32.8458627,
+          "lon2": -96.8494288,
+          "lat2": 32.8459627
+        }
+      }
+    ],
+    "query": {
+      "text": "Dickey's Barbecue Pit"
+    }
+  }
+}

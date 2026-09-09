@@ -1,0 +1,14 @@
+{
+  "queriedName": "Cavalli",
+  "queriedAt": "2026-09-09T00:34:26.573Z",
+  "raw": {
+    "results": [],
+    "query": {
+      "text": "Cavalli",
+      "parsed": {
+        "suburb": "cavalli",
+        "expected_type": "unknown"
+      }
+    }
+  }
+}

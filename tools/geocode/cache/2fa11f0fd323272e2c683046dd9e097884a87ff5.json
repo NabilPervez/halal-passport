@@ -1,0 +1,259 @@
+{
+  "queriedName": "Naya AL Hashem Mediterranean Restaurant",
+  "queriedAt": "2026-09-09T00:32:46.309Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Boren Alley",
+        "street": "Boren Alley",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "The Cedars",
+        "iso3166_2": "US-TX",
+        "lon": -96.786241,
+        "lat": 32.768429,
+        "result_type": "street",
+        "distance": 1385.70641168674,
+        "postcode": "75215",
+        "formatted": "Boren Alley, Dallas, TX 75215, United States of America",
+        "address_line1": "Boren Alley",
+        "address_line2": "Dallas, TX 75215, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q697+9G",
+        "plus_code_short": "Q697+9G, 75215 Dallas, United States",
+        "rank": {
+          "popularity": 5.847993767493994,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518f71c5c5513258c0592426a8e15b624040c0020492030b426f72656e20416c6c6579e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353336303832",
+        "bbox": {
+          "lon1": -96.786726,
+          "lat1": 32.768001,
+          "lon2": -96.785831,
+          "lat2": 32.768805
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Salina Alley",
+        "street": "Salina Alley",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Arts District",
+        "iso3166_2": "US-TX",
+        "lon": -96.795319,
+        "lat": 32.789424,
+        "result_type": "street",
+        "distance": 1390.3968961634637,
+        "postcode": "75201",
+        "formatted": "Salina Alley, Dallas, TX 75201, United States of America",
+        "address_line1": "Salina Alley",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6Q3+QV",
+        "plus_code_short": "Q3+QV, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 7.049946865070246,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ccb8a981e63258c059b8567bd80b654040c0020492030c53616c696e6120416c6c6579e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353337373631",
+        "bbox": {
+          "lon1": -96.795797,
+          "lat1": 32.789018,
+          "lon2": -96.794844,
+          "lat2": 32.789832
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Union Alley",
+        "street": "Union Alley",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "City Center District",
+        "iso3166_2": "US-TX",
+        "lon": -96.788416,
+        "lat": 32.788518,
+        "result_type": "street",
+        "distance": 1511.3814821878104,
+        "postcode": "75204",
+        "formatted": "Union Alley, Dallas, TX 75204, United States of America",
+        "address_line1": "Union Alley",
+        "address_line2": "Dallas, TX 75204, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6Q6+CJ",
+        "plus_code_short": "Q6Q6+CJ, 75204 Dallas, United States",
+        "rank": {
+          "popularity": 6.768993379642733,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5129e96168753258c05957276728ee644040c0020492030b556e696f6e20416c6c6579e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353337313034",
+        "bbox": {
+          "lon1": -96.788865,
+          "lat1": 32.788151,
+          "lon2": -96.787966,
+          "lat2": 32.788884
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Alley",
+        "street": "Alley",
+        "country": "United States",
+        "county": "Ellis County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "EL",
+        "city": "Red Oak",
+        "iso3166_2": "US-TX",
+        "lon": -96.831928,
+        "lat": 32.542227,
+        "result_type": "street",
+        "distance": 26309.57538138003,
+        "postcode": "75154",
+        "formatted": "Alley, Red Oak, TX 75154, United States of America",
+        "address_line1": "Alley",
+        "address_line2": "Red Oak, TX 75154, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645G5R9+V6",
+        "plus_code_short": "G5R9+V6, 75154 Red Oak, United States",
+        "rank": {
+          "popularity": 2.5785756093469536,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511c28f04e3e3558c0590c01c0b167454040c00204920305416c6c6579e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363935383232",
+        "bbox": {
+          "lon1": -96.83193,
+          "lat1": 32.541601,
+          "lon2": -96.831925,
+          "lat2": 32.542852
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Alley",
+        "street": "Alley",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "iso3166_2": "US-TX",
+        "lon": -97.419178,
+        "lat": 32.708551,
+        "result_type": "street",
+        "distance": 58685.9950372699,
+        "postcode": "76116",
+        "formatted": "Alley, Fort Worth, TX 76116, United States of America",
+        "address_line1": "Alley",
+        "address_line2": "Fort Worth, TX 76116, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PH5J+C8",
+        "plus_code_short": "PH5J+C8 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.5273837194028124,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f94cf6cfd35a58c059284696ccb15a4040c00204920305416c6c6579e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373130393239",
+        "bbox": {
+          "lon1": -97.419359,
+          "lat1": 32.707982,
+          "lon2": -97.418881,
+          "lat2": 32.709139
+        }
+      }
+    ],
+    "query": {
+      "text": "Naya AL Hashem Mediterranean Restaurant"
+    }
+  }
+}

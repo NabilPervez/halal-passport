@@ -1,0 +1,63 @@
+{
+  "queriedName": "The Yellow Chilli",
+  "queriedAt": "2026-09-09T00:36:36.040Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Yellow Chili",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Legacy Drive",
+        "housenumber": "5700",
+        "iso3166_2": "US-TX",
+        "lon": -96.8193641,
+        "lat": 33.077497,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 33478.91951423185,
+        "formatted": "The Yellow Chili, 5700 Legacy Drive, Plano, TX 75024, United States of America",
+        "address_line1": "The Yellow Chili",
+        "address_line2": "5700 Legacy Drive, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535GJ+X7",
+        "plus_code_short": "35GJ+X7, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.034970244488383,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "510e411f76703458c059e144f46beb894040f00103f901c58159e302000000c002019203105468652059656c6c6f77204368696c69e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343034323238353439",
+        "bbox": {
+          "lon1": -96.8194141,
+          "lat1": 33.077447,
+          "lon2": -96.8193141,
+          "lat2": 33.077547
+        }
+      }
+    ],
+    "query": {
+      "text": "The Yellow Chilli"
+    }
+  }
+}

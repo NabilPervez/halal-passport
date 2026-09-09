@@ -1,0 +1,114 @@
+{
+  "queriedName": "Shawarma Press",
+  "queriedAt": "2026-09-09T00:39:10.944Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Press",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "Ross Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.798571,
+        "lat": 32.7872417,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 1148.2577066803956,
+        "formatted": "Shawarma Press, Ross Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Shawarma Press",
+        "address_line2": "Ross Avenue, Dallas, TX 75201, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6P2+VH",
+        "plus_code_short": "P2+VH, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.457239649322524,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512d228ac91b3358c05913c60556c4644040f00103f901f103ab1c03000000c0020192030e5368617761726d61205072657373",
+        "bbox": {
+          "lon1": -96.798621,
+          "lat1": 32.7871917,
+          "lon2": -96.798521,
+          "lat2": 32.7872917
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shawarma Press",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "East Royal Lane",
+        "housenumber": "411",
+        "iso3166_2": "US-TX",
+        "lon": -96.9402473,
+        "lat": 32.896224,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 18837.87292726446,
+        "formatted": "Shawarma Press, 411 East Royal Lane, Irving, TX 75039, United States of America",
+        "address_line1": "Shawarma Press",
+        "address_line2": "411 East Royal Lane, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W5+FW",
+        "plus_code_short": "V3W5+FW Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.656202247492728,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bfe902032d3c58c059f5f1d077b7724040f00103f9010acc1cf901000000c0020192030e5368617761726d61205072657373",
+        "bbox": {
+          "lon1": -96.9402973,
+          "lat1": 32.896174,
+          "lon2": -96.9401973,
+          "lat2": 32.896274
+        }
+      }
+    ],
+    "query": {
+      "text": "Shawarma Press"
+    }
+  }
+}

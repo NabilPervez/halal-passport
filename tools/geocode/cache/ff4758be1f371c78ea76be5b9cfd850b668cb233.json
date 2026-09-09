@@ -1,0 +1,274 @@
+{
+  "queriedName": "Pizza Loves Sauce",
+  "queriedAt": "2026-09-09T00:33:11.173Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Love's Travel Stop",
+        "ref": "294",
+        "other_names": {
+          "ref": "294",
+          "brand": "Love's"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75232",
+        "street": "Beckleymeade Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.8387309,
+        "lat": 32.6408254,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 15637.238015269684,
+        "formatted": "Love's Travel Stop, Beckleymeade Avenue, Dallas, TX 75232, United States of America",
+        "address_line1": "Love's Travel Stop",
+        "address_line2": "Beckleymeade Avenue, Dallas, TX 75232, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J5R6+8G",
+        "plus_code_short": "J5R6+8G, 75232 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 3.6046623852777975,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5142695ec4ad3558c0591ab9139106524040f00102f901cf3b740d00000000c002019203124c6f766527732054726176656c2053746f70e203216f70656e7374726565746d61703a76656e75653a7761792f323235373231323935",
+        "bbox": {
+          "lon1": -96.8398348,
+          "lat1": 32.6404519,
+          "lon2": -96.8376349,
+          "lat2": 32.6411975
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Love's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75232",
+        "street": "South Polk Street",
+        "housenumber": "8800",
+        "iso3166_2": "US-TX",
+        "lon": -96.8393067,
+        "lat": 32.6408207,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 15651.282169106655,
+        "formatted": "Love's, 8800 South Polk Street, Dallas, TX 75232, United States of America",
+        "address_line1": "Love's",
+        "address_line2": "8800 South Polk Street, Dallas, TX 75232, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J5R6+87",
+        "plus_code_short": "J5R6+87, 75232 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 3.603038652155638,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5113f47233b73558c059c78ca66906524040f00102f901d03b740d00000000c002019203064c6f76652773e203216f70656e7374726565746d61703a76656e75653a7761792f323235373231323936",
+        "bbox": {
+          "lon1": -96.8394166,
+          "lat1": 32.6406626,
+          "lon2": -96.8391994,
+          "lat2": 32.6409879
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Love's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Ellis County",
+        "city": "Midlothian",
+        "postcode": "76065",
+        "street": "West Main Street",
+        "housenumber": "1501",
+        "iso3166_2": "US-TX",
+        "lon": -97.0111374,
+        "lat": 32.4829429,
+        "state_code": "TX",
+        "county_code": "EL",
+        "result_type": "amenity",
+        "distance": 38356.98303367072,
+        "formatted": "Love's, 1501 West Main Street, Midlothian, TX 76065, United States of America",
+        "address_line1": "Love's",
+        "address_line2": "1501 West Main Street, Midlothian, TX 76065, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644FXMQ+5G",
+        "plus_code_short": "FXMQ+5G, 76065 Midlothian, United States",
+        "rank": {
+          "importance": 0.00005481727321274155,
+          "popularity": 2.6227931828797173,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51cc30a479b64058c059eeaaac12d13d4040f00102f9019f5a740d00000000c002019203064c6f76652773e203216f70656e7374726565746d61703a76656e75653a7761792f323235373239313833",
+        "bbox": {
+          "lon1": -97.0113234,
+          "lat1": 32.4828524,
+          "lon2": -97.0109506,
+          "lat2": 32.4830786
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Love's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Rockwall County",
+        "city": "Rockwall",
+        "postcode": "75087",
+        "street": "East Interstate 30",
+        "housenumber": "1990",
+        "iso3166_2": "US-TX",
+        "lon": -96.419335,
+        "lat": 32.9182052,
+        "state_code": "TX",
+        "county_code": "RC",
+        "result_type": "amenity",
+        "distance": 38616.38384070634,
+        "formatted": "Love's, 1990 East Interstate 30, Rockwall, TX 75087, United States of America",
+        "address_line1": "Love's",
+        "address_line2": "1990 East Interstate 30, Rockwall, TX 75087, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WH9J+77",
+        "plus_code_short": "WH9J+77 Rockwall, Rockwall County, United States",
+        "rank": {
+          "importance": 0.0000578355077439081,
+          "popularity": 3.2489093732110015,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515dc47762d61a58c05932827cbf87754040f00102f901275e740d00000000c002019203064c6f76652773e203216f70656e7374726565746d61703a76656e75653a7761792f323235373330303837",
+        "bbox": {
+          "lon1": -96.4195359,
+          "lat1": 32.9180751,
+          "lon2": -96.4191342,
+          "lat2": 32.9183256
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Love's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76207",
+        "street": "North Interstate 35",
+        "housenumber": "6421",
+        "iso3166_2": "US-TX",
+        "lon": -97.1793632,
+        "lat": 33.2632197,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 64760.494465367345,
+        "formatted": "Love's, 6421 North Interstate 35, Denton, TX 76207, United States of America",
+        "address_line1": "Love's",
+        "address_line2": "6421 North Interstate 35, Denton, TX 76207, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86547R7C+77",
+        "plus_code_short": "7R7C+77, 76207 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 2.538498890714791,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c786c9af7a4b58c059db94e12eb1a14040f00102f9015b668a3300000000c002019203064c6f76652773e203216f70656e7374726565746d61703a76656e75653a7761792f383634373038313837",
+        "bbox": {
+          "lon1": -97.179539,
+          "lat1": 33.262949,
+          "lon2": -97.1791873,
+          "lat2": 33.2634372
+        }
+      }
+    ],
+    "query": {
+      "text": "Pizza Loves Sauce"
+    }
+  }
+}

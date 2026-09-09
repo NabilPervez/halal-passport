@@ -1,0 +1,263 @@
+{
+  "queriedName": "Swadeshi Plaza",
+  "queriedAt": "2026-09-09T00:40:50.311Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Arts Plaza",
+        "street": "Arts Plaza",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Arts District",
+        "iso3166_2": "US-TX",
+        "lon": -96.793618,
+        "lat": 32.791453,
+        "result_type": "street",
+        "distance": 1637.9060482272537,
+        "postcode": "75201",
+        "formatted": "Arts Plaza, Dallas, TX 75201, United States of America",
+        "address_line1": "Arts Plaza",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6R4+HH",
+        "plus_code_short": "R4+HH, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 6.699099991405249,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5115e126a3ca3258c05919a9f7544e654040c0020492030a4172747320506c617a61e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383730353632",
+        "bbox": {
+          "lon1": -96.793777,
+          "lat1": 32.79145,
+          "lon2": -96.793431,
+          "lat2": 32.791524
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Monterrey Plaza",
+        "street": "Monterrey Plaza",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "International Center",
+        "iso3166_2": "US-TX",
+        "lon": -96.81104,
+        "lat": 32.794319,
+        "result_type": "street",
+        "distance": 2330.5103800834454,
+        "postcode": "75201",
+        "formatted": "Monterrey Plaza, Dallas, TX 75201, United States of America",
+        "address_line1": "Monterrey Plaza",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5VQ+PH",
+        "plus_code_short": "VQ+PH, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 6.561033994733492,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ddef5014e83358c059b4cbb73eac654040c0020492030f4d6f6e74657272657920506c617a61e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353339333738",
+        "bbox": {
+          "lon1": -96.81126,
+          "lat1": 32.794126,
+          "lon2": -96.810821,
+          "lat2": 32.794511
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Chapultepec Plaza",
+        "street": "Chapultepec Plaza",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "International Center",
+        "iso3166_2": "US-TX",
+        "lon": -96.811093,
+        "lat": 32.794649,
+        "result_type": "street",
+        "distance": 2363.6793157873453,
+        "postcode": "75201",
+        "formatted": "Chapultepec Plaza, Dallas, TX 75201, United States of America",
+        "address_line1": "Chapultepec Plaza",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5VQ+VH",
+        "plus_code_short": "VQ+VH, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 6.561033994733492,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ee409df2e83358c0594966f50eb7654040c0020492031143686170756c746570656320506c617a61e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353339333739",
+        "bbox": {
+          "lon1": -96.81126,
+          "lat1": 32.794511,
+          "lon2": -96.810938,
+          "lat2": 32.794794
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Avilla Plaza",
+        "street": "Avilla Plaza",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "International Center",
+        "iso3166_2": "US-TX",
+        "lon": -96.81096,
+        "lat": 32.795065,
+        "result_type": "street",
+        "distance": 2395.4256991746447,
+        "postcode": "75201",
+        "formatted": "Avilla Plaza, Dallas, TX 75201, United States of America",
+        "address_line1": "Avilla Plaza",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5WQ+2J",
+        "plus_code_short": "WQ+2J, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 6.561033994733492,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514e97c5c4e63358c059dd989eb0c4654040c0020492030c4176696c6c6120506c617a61e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353336323431",
+        "bbox": {
+          "lon1": -96.811101,
+          "lat1": 32.794974,
+          "lon2": -96.810797,
+          "lat2": 32.795126
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Walnut Plaza Veterinary Hospital",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "Walnut Plaza",
+        "housenumber": "1910",
+        "iso3166_2": "US-TX",
+        "lon": -96.8891363,
+        "lat": 32.9557511,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21659.07043296793,
+        "formatted": "Walnut Plaza Veterinary Hospital, 1910 Walnut Plaza, Carrollton, TX 75006, United States of America",
+        "address_line1": "Walnut Plaza Veterinary Hospital",
+        "address_line2": "1910 Walnut Plaza, Carrollton, TX 75006, United States of America",
+        "category": "pet.veterinary",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X446+88",
+        "plus_code_short": "46+88, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.895602333406501,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ef8bf09be73858c059dace520d567a4040f00103f901329334f401000000c0020192032057616c6e757420506c617a61205665746572696e61727920486f73706974616ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333932303533353534",
+        "bbox": {
+          "lon1": -96.8891863,
+          "lat1": 32.9557011,
+          "lon2": -96.8890863,
+          "lat2": 32.9558011
+        }
+      }
+    ],
+    "query": {
+      "text": "Swadeshi Plaza"
+    }
+  }
+}

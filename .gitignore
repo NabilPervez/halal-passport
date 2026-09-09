@@ -12,6 +12,18 @@ dist
 dist-ssr
 *.local
 
+# Local secrets — .env.example documents the required keys.
+.env
+
+# Node scripts under tools/ write intermediate pipeline output here.
+# input.json is committed (it's the only remaining record of the original
+# scrape join, now that scratch/ and mockRestaurants.ts are gone — see
+# docs/data-pipeline-plan.md); resolved/scored.json are fully reproducible
+# from input.json + the committed cache/, so they aren't.
+tools/geocode/resolved.json
+tools/geocode/scored.json
+tools/geocode/mosque-verification.json
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

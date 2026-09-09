@@ -1,0 +1,265 @@
+{
+  "queriedName": "Hot & Spicy",
+  "queriedAt": "2026-09-09T00:37:37.366Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Primo Tacos & Hot Dogs",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "North Akard Street",
+        "housenumber": "300",
+        "iso3166_2": "US-TX",
+        "lon": -96.7997129,
+        "lat": 32.7822768,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 639.2228028556324,
+        "formatted": "Primo Tacos & Hot Dogs, 300 North Akard Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Primo Tacos & Hot Dogs",
+        "address_line2": "300 North Akard Street, Dallas, TX 75201, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J2+W4",
+        "plus_code_short": "J2+W4, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511eec037f2e3358c059b3356ca521644040f00103f9014599b5f702000000c002019203165072696d6f205461636f73202620486f7420446f6773e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132373435383038313937",
+        "bbox": {
+          "lon1": -96.7997629,
+          "lat1": 32.7822268,
+          "lon2": -96.7996629,
+          "lat2": 32.7823268
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "MCM Elegante Hotel and Suites",
+        "housenumber": "2320",
+        "street": "West NW Highway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Koreatown",
+        "iso3166_2": "US-TX",
+        "lon": -96.890758,
+        "lat": 32.860647,
+        "result_type": "amenity",
+        "distance": 12777.847911194121,
+        "postcode": "75220",
+        "formatted": "MCM Elegante Hotel and Suites, 2320 West NW Highway, Dallas, TX 75220, United States of America",
+        "address_line1": "MCM Elegante Hotel and Suites",
+        "address_line2": "2320 West NW Highway, Dallas, TX 75220, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V465+7M",
+        "plus_code_short": "V465+7M, 75220 Dallas, United States",
+        "rank": {
+          "popularity": 5.127598377878178,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a0a9d72d023958c05944334fae296e4040f00102f9018e30b81b00000000c0020192031d4d434d20456c6567616e746520486f74656c20616e6420537569746573e203216f70656e7374726565746d61703a76656e75653a7761792f343635303535383836",
+        "bbox": {
+          "lon1": -96.8910915,
+          "lat1": 32.8602585,
+          "lon2": -96.8901368,
+          "lat2": 32.8608716
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "MCM Elegante Hotel and Suites",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75220",
+        "street": "West Northwest Highway",
+        "housenumber": "2320",
+        "iso3166_2": "US-TX",
+        "lon": -96.890416,
+        "lat": 32.860562,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 12749.068601917177,
+        "formatted": "MCM Elegante Hotel and Suites, 2320 West Northwest Highway, Dallas, TX 75220, United States of America",
+        "address_line1": "MCM Elegante Hotel and Suites",
+        "address_line2": "2320 West Northwest Highway, Dallas, TX 75220, United States of America",
+        "category": "accommodation.hotel",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V465+6R",
+        "plus_code_short": "V465+6R, 75220 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5173f56393fc3858c059161747e5266e4040f00102f9018e30b81b00000000c0020192031d4d434d20456c6567616e746520486f74656c20616e6420537569746573",
+        "bbox": {
+          "lon1": -96.8910915,
+          "lat1": 32.8602585,
+          "lon2": -96.8901368,
+          "lat2": 32.8608716
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Atrium Hotel & Suites",
+        "housenumber": "4600",
+        "street": "West Airport Freeway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75062",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -97.019026,
+        "lat": 32.8351,
+        "result_type": "amenity",
+        "distance": 21733.08518174581,
+        "formatted": "Atrium Hotel & Suites, 4600 West Airport Freeway, Irving, TX 75062, United States of America",
+        "address_line1": "Atrium Hotel & Suites",
+        "address_line2": "4600 West Airport Freeway, Irving, TX 75062, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RXPJ+29",
+        "plus_code_short": "RXPJ+29 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.355621485771445,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5184f1d3b8374158c059de718a8ee46a4040f00102f9014270ad0300000000c0020192031541747269756d20486f74656c202620537569746573e203206f70656e7374726565746d61703a76656e75653a7761792f3631363938313134",
+        "bbox": {
+          "lon1": -97.0194226,
+          "lat1": 32.8346016,
+          "lon2": -97.0186295,
+          "lat2": 32.8352943
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Lux Hotel & Spa",
+        "housenumber": "117",
+        "street": "South Watson Road",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "76010",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.059971,
+        "lat": 32.740167,
+        "result_type": "amenity",
+        "distance": 24929.253134946885,
+        "formatted": "Lux Hotel & Spa, 117 South Watson Road, Arlington, TX 76010, United States of America",
+        "address_line1": "Lux Hotel & Spa",
+        "address_line2": "117 South Watson Road, Arlington, TX 76010, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PWRR+32",
+        "plus_code_short": "PWRR+32, 76010 Arlington, United States",
+        "rank": {
+          "popularity": 4.466815064534983,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5157ed9a90d64358c0590a4ad1cabd5e4040f00102f9010a834f2600000000c0020192030f4c757820486f74656c202620537061e203216f70656e7374726565746d61703a76656e75653a7761792f363432373435303938",
+        "bbox": {
+          "lon1": -97.0607751,
+          "lat1": 32.7399782,
+          "lon2": -97.0592606,
+          "lat2": 32.7405333
+        }
+      }
+    ],
+    "query": {
+      "text": "Hot & Spicy"
+    }
+  }
+}

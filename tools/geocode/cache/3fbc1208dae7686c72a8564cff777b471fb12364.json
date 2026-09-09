@@ -1,0 +1,62 @@
+{
+  "queriedName": "Tokyo Harbor",
+  "queriedAt": "2026-09-09T00:38:38.906Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tokyo Harbor",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Kaufman County",
+        "city": "Forney",
+        "postcode": "75126",
+        "street": "East US Highway 80",
+        "housenumber": "724",
+        "iso3166_2": "US-TX",
+        "lon": -96.4506754,
+        "lat": 32.744547,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 32584.572172586755,
+        "formatted": "Tokyo Harbor, 724 East US Highway 80, Forney, TX 75126, United States of America",
+        "address_line1": "Tokyo Harbor",
+        "address_line2": "724 East US Highway 80, Forney, TX 75126, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645PGVX+RP",
+        "plus_code_short": "PGVX+RP Forney, Kaufman County, United States",
+        "rank": {
+          "importance": 0.000055151445792279204,
+          "popularity": 3.226700946068661,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512607a2ddd71c58c059deaaeb504d5f4040f00103f901f1e876cd01000000c0020192030c546f6b796f20486172626f72",
+        "bbox": {
+          "lon1": -96.4507254,
+          "lat1": 32.744497,
+          "lon2": -96.4506254,
+          "lat2": 32.744597
+        }
+      }
+    ],
+    "query": {
+      "text": "Tokyo Harbor"
+    }
+  }
+}

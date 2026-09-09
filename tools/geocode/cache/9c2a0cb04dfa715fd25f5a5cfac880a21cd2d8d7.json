@@ -1,0 +1,63 @@
+{
+  "queriedName": "The Port of Peri Peri",
+  "queriedAt": "2026-09-09T00:38:48.466Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Port of Peri Peri",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Valley Ranch",
+        "street": "Market Place Boulevard",
+        "housenumber": "1800",
+        "iso3166_2": "US-TX",
+        "lon": -96.9713485,
+        "lat": 32.919969,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 22759.441160325754,
+        "formatted": "The Port of Peri Peri, 1800 Market Place Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "The Port of Peri Peri",
+        "address_line2": "1800 Market Place Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W29H+XF",
+        "plus_code_short": "W29H+XF Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.613980935146193,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513221e6922a3e58c059bb2a508bc1754040f00103f901d9dd9ca702000000c0020192031554686520506f7274206f6620506572692050657269",
+        "bbox": {
+          "lon1": -96.9713985,
+          "lat1": 32.919919,
+          "lon2": -96.9712985,
+          "lat2": 32.920019
+        }
+      }
+    ],
+    "query": {
+      "text": "The Port of Peri Peri"
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "queriedName": "Bilad Restaurant and Bakery",
+  "queriedAt": "2026-09-09T00:40:19.914Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Corner Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75225",
+        "street": "North Central Expressway",
+        "housenumber": "8687",
+        "iso3166_2": "US-TX",
+        "lon": -96.7727872,
+        "lat": 32.8671885,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Vickery Meadows",
+        "result_type": "amenity",
+        "distance": 10280.574502890122,
+        "formatted": "Corner Bakery, 8687 North Central Expressway, Dallas, TX 75225, United States of America",
+        "address_line1": "Corner Bakery",
+        "address_line2": "8687 North Central Expressway, Dallas, TX 75225, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V68G+VV",
+        "plus_code_short": "V68G+VV, 75225 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.592384787415683,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511db17158753158c059d07b6308006f4040f00103f901cbed2f1e03000000c0020192030d436f726e65722042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333931333539343335",
+        "bbox": {
+          "lon1": -96.7728372,
+          "lat1": 32.8671385,
+          "lon2": -96.7727372,
+          "lat2": 32.8672385
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ramallah Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Sherman Street",
+        "housenumber": "705",
+        "iso3166_2": "US-TX",
+        "lon": -96.7370198,
+        "lat": 32.9439213,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19387.89678165319,
+        "formatted": "Ramallah Bakery, 705 Sherman Street, Richardson, TX 75081, United States of America",
+        "address_line1": "Ramallah Bakery",
+        "address_line2": "705 Sherman Street, Richardson, TX 75081, United States of America",
+        "category": "commercial.food_and_drink.bakery",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7V7+H5",
+        "plus_code_short": "V7+H5 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.9057876662321656,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51496018552b2f58c059b8bfc469d2784040f00103f9018be023c502000000c0020192030f52616d616c6c61682042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131383937333937333837",
+        "bbox": {
+          "lon1": -96.7370698,
+          "lat1": 32.9438713,
+          "lon2": -96.7369698,
+          "lat2": 32.9439713
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Corner Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75248",
+        "street": "Campbell Road",
+        "housenumber": "7615",
+        "iso3166_2": "US-TX",
+        "lon": -96.7687484,
+        "lat": 32.9799111,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 22716.43751606874,
+        "formatted": "Corner Bakery, 7615 Campbell Road, Dallas, TX 75248, United States of America",
+        "address_line1": "Corner Bakery",
+        "address_line2": "7615 Campbell Road, Dallas, TX 75248, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6HJ+XG",
+        "plus_code_short": "X6HJ+XG, 75248 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.889202595807809,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518d367d2c333158c05963be17ba6d7d4040f00103f901b5336d5e00000000c0020192030d436f726e65722042616b657279e203236f70656e7374726565746d61703a76656e75653a6e6f64652f31353834323134393635",
+        "bbox": {
+          "lon1": -96.7687984,
+          "lat1": 32.9798611,
+          "lon2": -96.7686984,
+          "lat2": 32.9799611
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Latham Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Kaufman County",
+        "city": "Forney",
+        "postcode": "75126",
+        "street": "East Main Street",
+        "housenumber": "106",
+        "iso3166_2": "US-TX",
+        "lon": -96.4718172,
+        "lat": 32.7476225,
+        "state_code": "TX",
+        "county_code": "KU",
+        "result_type": "amenity",
+        "distance": 30581.650173354697,
+        "formatted": "Latham Bakery, 106 East Main Street, Forney, TX 75126, United States of America",
+        "address_line1": "Latham Bakery",
+        "address_line2": "106 East Main Street, Forney, TX 75126, United States of America",
+        "category": "commercial.food_and_drink.bakery",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645PGXH+27",
+        "plus_code_short": "+27 Forney, Kaufman County, United States",
+        "rank": {
+          "importance": 0.000055151445792279204,
+          "popularity": 3.121471887213062,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512eecc440321e58c0597ba01518b25f4040f00103f901a034f67b01000000c0020192030d4c617468616d2042616b657279e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36333734373030313932",
+        "bbox": {
+          "lon1": -96.4718672,
+          "lat1": 32.7475725,
+          "lon2": -96.4717672,
+          "lat2": 32.7476725
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Corner Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Hurst",
+        "postcode": "76053",
+        "street": "Precinct Line Road",
+        "housenumber": "1410",
+        "iso3166_2": "US-TX",
+        "lon": -97.1858284,
+        "lat": 32.8367783,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 36942.65189221216,
+        "formatted": "Corner Bakery, 1410 Precinct Line Road, Hurst, TX 76053, United States of America",
+        "address_line1": "Corner Bakery",
+        "address_line2": "1410 Precinct Line Road, Hurst, TX 76053, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RRP7+PM",
+        "plus_code_short": "RRP7+PM Hurst, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000056024261844770236,
+          "popularity": 4.088843471938771,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c12acd9ce44b58c0595140248d1b6b4040f00103f901c16a724c01000000c0020192030d436f726e65722042616b657279e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35353737353334313435",
+        "bbox": {
+          "lon1": -97.1858784,
+          "lat1": 32.8367283,
+          "lon2": -97.1857784,
+          "lat2": 32.8368283
+        }
+      }
+    ],
+    "query": {
+      "text": "Bilad Restaurant and Bakery"
+    }
+  }
+}

@@ -37,9 +37,16 @@ export default defineConfig({
         globPatterns: ["**/*.{js,css,html,svg,png,ico}"],
         runtimeCaching: [
           {
-            urlPattern: /^https:\/\/maps\.googleapis\.com\//,
+            // The app renders its map via Geoapify/MapLibre, not Google
+            // Maps — this was stale from an earlier Google Maps JS API
+            // build and meant map tiles were never actually cached, so the
+            // "offline-capable" map silently wasn't.
+            urlPattern: /^https:\/\/maps\.geoapify\.com\//,
             handler: "NetworkFirst",
-            options: { cacheName: "google-maps-cache" },
+            options: {
+              cacheName: "geoapify-map-cache",
+              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 30 },
+            },
           },
         ],
       },
