@@ -1,0 +1,113 @@
+{
+  "queriedName": "Andalous Mediterranean Grill",
+  "queriedAt": "2026-09-09T00:41:03.023Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "6450",
+        "iso3166_2": "US-TX",
+        "lon": -96.9581064,
+        "lat": 32.8971396,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20125.069267668474,
+        "formatted": "Andalous Mediterranean Grill, 6450 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "Andalous Mediterranean Grill",
+        "address_line2": "6450 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WR+VQ",
+        "plus_code_short": "V2WR+VQ Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.60604292812387,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a785819d513d58c05928f96c78d5724040f00103f901af9daebd02000000c0020192031c416e64616c6f7573204d65646974657272616e65616e204772696c6c",
+        "bbox": {
+          "lon1": -96.9581564,
+          "lat1": 32.8970896,
+          "lon2": -96.9580564,
+          "lat2": 32.8971896
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76018",
+        "street": "East Interstate 20",
+        "housenumber": "457",
+        "iso3166_2": "US-TX",
+        "lon": -97.1029908,
+        "lat": 32.6801522,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30581.75895371077,
+        "formatted": "Andalous Mediterranean Grill, 457 East Interstate 20, Arlington, TX 76018, United States of America",
+        "address_line1": "Andalous Mediterranean Grill",
+        "address_line2": "457 East Interstate 20, Arlington, TX 76018, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MVJW+3R",
+        "plus_code_short": "MVJW+3R, 76018 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.325175158615842,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517d72b966974658c059b7a62f3a0f574040f00103f901bb81da2f03000000c0020192031c416e64616c6f7573204d65646974657272616e65616e204772696c6c",
+        "bbox": {
+          "lon1": -97.1030408,
+          "lat1": 32.6801022,
+          "lon2": -97.1029408,
+          "lat2": 32.6802022
+        }
+      }
+    ],
+    "query": {
+      "text": "Andalous Mediterranean Grill"
+    }
+  }
+}

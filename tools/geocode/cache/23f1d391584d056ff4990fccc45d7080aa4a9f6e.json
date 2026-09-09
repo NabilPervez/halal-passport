@@ -1,0 +1,254 @@
+{
+  "queriedName": "Istanbul Grill & Bar",
+  "queriedAt": "2026-09-09T00:41:23.307Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Baron Drive",
+        "street": "Baron Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Balch Springs",
+        "iso3166_2": "US-TX",
+        "lon": -96.616387,
+        "lat": 32.712278,
+        "result_type": "street",
+        "distance": 18361.030879393245,
+        "postcode": "75180",
+        "formatted": "Baron Drive, Balch Springs, TX 75180, United States of America",
+        "address_line1": "Baron Drive",
+        "address_line2": "Balch Springs, TX 75180, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P96M+WC",
+        "plus_code_short": "P96M+WC Balch Springs, Dallas County, United States",
+        "rank": {
+          "popularity": 3.7395920763916806,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517eab75e2722758c05984d4edec2b5b4040c0020492030b4261726f6e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363836313939",
+        "bbox": {
+          "lon1": -96.618609,
+          "lat1": 32.712265,
+          "lon2": -96.61415,
+          "lat2": 32.71233
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Baron Place",
+        "street": "Baron Place",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Grand Prairie",
+        "iso3166_2": "US-TX",
+        "lon": -97.006844,
+        "lat": 32.715786,
+        "result_type": "street",
+        "distance": 20772.156870887764,
+        "postcode": "75051",
+        "formatted": "Baron Place, Grand Prairie, TX 75051, United States of America",
+        "address_line1": "Baron Place",
+        "address_line2": "Grand Prairie, TX 75051, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PX8V+87",
+        "plus_code_short": "PX8V+87 Grand Prairie, Dallas County, United States",
+        "rank": {
+          "popularity": 4.055119673353312,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51200bd121704058c059a3772ae09e5b4040c0020492030b4261726f6e20506c616365e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363936333830",
+        "bbox": {
+          "lon1": -97.010078,
+          "lat1": 32.714675,
+          "lon2": -97.002936,
+          "lat2": 32.716054
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Baron Lane",
+        "street": "Baron Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.985027,
+        "lat": 32.908466,
+        "result_type": "street",
+        "distance": 22852.905193222705,
+        "postcode": "75063",
+        "formatted": "Baron Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Baron Lane",
+        "address_line2": "Irving, TX 75063, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W257+9X",
+        "plus_code_short": "W257+9X Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.628726044681046,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5154abafae0a3f58c05993c3279d48744040c0020492030a4261726f6e204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353431353432",
+        "bbox": {
+          "lon1": -96.985775,
+          "lat1": 32.908131,
+          "lon2": -96.984229,
+          "lat2": 32.908716
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Baron Drive",
+        "street": "Baron Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.622954,
+        "lat": 32.945975,
+        "result_type": "street",
+        "distance": 24845.514599484977,
+        "postcode": "75040",
+        "formatted": "Baron Drive, Garland, TX 75040, United States of America",
+        "address_line1": "Baron Drive",
+        "address_line2": "Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W9WG+9R",
+        "plus_code_short": "W9WG+9R, 75040 Garland, United States",
+        "rank": {
+          "popularity": 4.4216864149492245,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51643a747ade2758c059b3ea73b515794040c0020492030b4261726f6e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353233393630",
+        "bbox": {
+          "lon1": -96.62363,
+          "lat1": 32.944332,
+          "lon2": -96.62219,
+          "lat2": 32.947577
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Baron Drive",
+        "street": "Baron Drive",
+        "country": "United States",
+        "county": "Ellis County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "EL",
+        "iso3166_2": "US-TX",
+        "lon": -96.909289,
+        "lat": 32.521962,
+        "result_type": "street",
+        "distance": 30244.911884828547,
+        "postcode": "76065",
+        "formatted": "Baron Drive, Ellis County, TX 76065, United States of America",
+        "address_line1": "Baron Drive",
+        "address_line2": "Ellis County, TX 76065, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645G3CR+Q7",
+        "rank": {
+          "popularity": 2.6103192590590627,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5134677dca313a58c0599ce09ba6cf424040c0020492030b4261726f6e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363935323936",
+        "bbox": {
+          "lon1": -96.9093,
+          "lat1": 32.519799,
+          "lon2": -96.9092,
+          "lat2": 32.524121
+        }
+      }
+    ],
+    "query": {
+      "text": "Istanbul Grill & Bar"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "queriedName": "GREEN ZATAR",
+  "queriedAt": "2026-09-09T00:35:35.442Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "GREEN ZATAR",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76201",
+        "street": "Sunset Street",
+        "housenumber": "609",
+        "iso3166_2": "US-TX",
+        "lon": -97.1383766,
+        "lat": 33.2293917,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 59530.44403419257,
+        "formatted": "GREEN ZATAR, 609 Sunset Street, Denton, TX 76201, United States of America",
+        "address_line1": "GREEN ZATAR",
+        "address_line2": "609 Sunset Street, Denton, TX 76201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546VH6+QJ",
+        "plus_code_short": "H6+QJ, 76201 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 3.0359331595418975,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5107e28629db4858c059a7bc0cb55c9d4040f00103f901225f0e3102000000c0020192030b475245454e205a41544152",
+        "bbox": {
+          "lon1": -97.1384266,
+          "lat1": 33.2293417,
+          "lon2": -97.1383266,
+          "lat2": 33.2294417
+        }
+      }
+    ],
+    "query": {
+      "text": "GREEN ZATAR"
+    }
+  }
+}

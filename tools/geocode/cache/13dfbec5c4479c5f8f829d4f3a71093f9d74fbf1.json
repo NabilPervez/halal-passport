@@ -1,0 +1,271 @@
+{
+  "queriedName": "Kebab Uncle",
+  "queriedAt": "2026-09-09T00:33:50.573Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Uncle Julio's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Lemmon Avenue",
+        "housenumber": "4125",
+        "iso3166_2": "US-TX",
+        "lon": -96.8101791,
+        "lat": 32.8152963,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Turtle Creek",
+        "result_type": "amenity",
+        "distance": 4432.957987988874,
+        "formatted": "Uncle Julio's, 4125 Lemmon Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Uncle Julio's",
+        "address_line2": "4125 Lemmon Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R58Q+4W",
+        "plus_code_short": "R58Q+4W, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.8182570422111946,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c69970f9d93358c059608610a15b684040f00102f9010eeb470d00000000c0020192030d556e636c65204a756c696f2773e203216f70656e7374726565746d61703a76656e75653a7761792f323232383137303338",
+        "bbox": {
+          "lon1": -96.8103652,
+          "lat1": 32.8151396,
+          "lon2": -96.809993,
+          "lat2": 32.8154652
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kebab N Kurry",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "North Central Expressway",
+        "housenumber": "401",
+        "iso3166_2": "US-TX",
+        "lon": -96.7332472,
+        "lat": 32.9540163,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20564.25343234939,
+        "formatted": "Kebab N Kurry, 401 North Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Kebab N Kurry",
+        "address_line2": "401 North Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X738+JP",
+        "plus_code_short": "38+JP Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.091447401899073,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518cf8a985ed2e58c059eb2cc4341d7a4040f00103f901e9ec5c5301000000c0020192030d4b65626162204e204b75727279e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35363933353636313835",
+        "bbox": {
+          "lon1": -96.7332972,
+          "lat1": 32.9539663,
+          "lon2": -96.7331972,
+          "lat2": 32.9540663
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Uncle Julio's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75248",
+        "street": "Dallas Parkway",
+        "housenumber": "16150",
+        "iso3166_2": "US-TX",
+        "lon": -96.8204677,
+        "lat": 32.9698609,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21556.881871271016,
+        "formatted": "Uncle Julio's, 16150 Dallas Parkway, Dallas, TX 75248, United States of America",
+        "address_line1": "Uncle Julio's",
+        "address_line2": "16150 Dallas Parkway, Dallas, TX 75248, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X59H+WR",
+        "plus_code_short": "X59H+WR, 75248 Dallas, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.527691715980308,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5128bbf48a823458c059a695e766247c4040f00102f901c44ac11a00000000c0020192030d556e636c65204a756c696f2773e203216f70656e7374726565746d61703a76656e75653a7761792f343438383735323034",
+        "bbox": {
+          "lon1": -96.8206751,
+          "lat1": 32.9697414,
+          "lon2": -96.8202265,
+          "lat2": 32.9700075
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Uncle Julio's",
+        "housenumber": "190",
+        "street": "East Stacy Road",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75002",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Allen",
+        "iso3166_2": "US-TX",
+        "lon": -96.659732,
+        "lat": 33.127833,
+        "result_type": "amenity",
+        "distance": 41059.633539461276,
+        "formatted": "Uncle Julio's, 190 East Stacy Road, Allen, TX 75002, United States of America",
+        "address_line1": "Uncle Julio's",
+        "address_line2": "190 East Stacy Road, Allen, TX 75002, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548HR+44",
+        "plus_code_short": "48HR+44 Allen, Collin County, United States",
+        "rank": {
+          "popularity": 4.691202022364501,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb07910c392a58c059bf2cedd45c904040f00102f901d6a0091100000000c0020192030d556e636c65204a756c696f2773e203216f70656e7374726565746d61703a76656e75653a7761792f323835383433363730",
+        "bbox": {
+          "lon1": -96.660006,
+          "lat1": 33.1277699,
+          "lon2": -96.6594932,
+          "lat2": 33.1281897
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Uncle Julio’s",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76107",
+        "street": "Camp Bowie Boulevard",
+        "housenumber": "5301",
+        "iso3166_2": "US-TX",
+        "lon": -97.4009062,
+        "lat": 32.7344009,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "West Byers",
+        "result_type": "amenity",
+        "distance": 56671.55850853273,
+        "formatted": "Uncle Julio’s, 5301 Camp Bowie Boulevard, Fort Worth, TX 76107, United States of America",
+        "address_line1": "Uncle Julio’s",
+        "address_line2": "5301 Camp Bowie Boulevard, Fort Worth, TX 76107, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PHMX+QJ",
+        "plus_code_short": "PHMX+QJ Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.6334606215520617,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51df707a72a85958c05994d343d9005e4040f00102f901d754d11d00000000c0020192030f556e636c65204a756c696fe2809973e203216f70656e7374726565746d61703a76656e75653a7761792f353030323538303037",
+        "bbox": {
+          "lon1": -97.4011211,
+          "lat1": 32.7342129,
+          "lon2": -97.4007141,
+          "lat2": 32.7345866
+        }
+      }
+    ],
+    "query": {
+      "text": "Kebab Uncle"
+    }
+  }
+}

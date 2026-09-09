@@ -1,0 +1,63 @@
+{
+  "queriedName": "Samosa Express & Grill by Halal Bites",
+  "queriedAt": "2026-09-09T00:31:52.041Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pho Express Noodles & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "East Belt Line Road",
+        "housenumber": "2012",
+        "iso3166_2": "US-TX",
+        "lon": -96.8850726,
+        "lat": 32.9533151,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21261.10973441846,
+        "formatted": "Pho Express Noodles & Grill, 2012 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "address_line1": "Pho Express Noodles & Grill",
+        "address_line2": "2012 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X437+8X",
+        "plus_code_short": "37+8X, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.871833923669992,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517ce58b07a53858c05938a4ac3a067a4040f00103f901176079cc01000000c0020192031b50686f2045787072657373204e6f6f646c65732026204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f37373235343733383135",
+        "bbox": {
+          "lon1": -96.8851226,
+          "lat1": 32.9532651,
+          "lon2": -96.8850226,
+          "lat2": 32.9533651
+        }
+      }
+    ],
+    "query": {
+      "text": "Samosa Express & Grill by Halal Bites"
+    }
+  }
+}

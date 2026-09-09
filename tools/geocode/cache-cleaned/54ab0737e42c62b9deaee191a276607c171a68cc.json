@@ -1,0 +1,63 @@
+{
+  "queriedName": "Amor Lounge Cafe & Hookah",
+  "queriedAt": "2026-09-09T00:45:15.526Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jasmine Cafe & Hookah Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Main Street",
+        "housenumber": "107",
+        "iso3166_2": "US-TX",
+        "lon": -96.7312188,
+        "lat": 32.9491904,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20108.349271160943,
+        "formatted": "Jasmine Cafe & Hookah Lounge, 107 East Main Street, Richardson, TX 75081, United States of America",
+        "address_line1": "Jasmine Cafe & Hookah Lounge",
+        "address_line2": "107 East Main Street, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7X9+MG",
+        "plus_code_short": "X9+MG Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.076287158509391,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511a0ef049cc2e58c059add62e127f794040f00103f901d7d8336201000000c0020192031c4a61736d696e652043616665202620486f6f6b6168204c6f756e6765e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35393432353332333131",
+        "bbox": {
+          "lon1": -96.7312688,
+          "lat1": 32.9491404,
+          "lon2": -96.7311688,
+          "lat2": 32.9492404
+        }
+      }
+    ],
+    "query": {
+      "text": "Amor Lounge Cafe & Hookah"
+    }
+  }
+}

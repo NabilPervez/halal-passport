@@ -1,0 +1,273 @@
+{
+  "queriedName": "Pizza Twist Irving",
+  "queriedAt": "2026-09-09T00:45:48.174Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "West Royal Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.961003,
+        "lat": 32.8963528,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "county_code": "DS",
+        "distance": 20270.930550902136,
+        "formatted": "Pizza Twist, West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "West Royal Lane, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WQ+GH",
+        "plus_code_short": "V2WQ+GH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.605744352143677,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51e816ba12813d58c059cad644b0bb724040f00103f901bc6ab06202000000c0020192030b50697a7a61205477697374e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435363633343230",
+        "bbox": {
+          "lon1": -96.961053,
+          "lat1": 32.8963028,
+          "lon2": -96.960953,
+          "lat2": 32.8964028
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Hut",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75060",
+        "street": "West Shady Grove Road",
+        "housenumber": "2335",
+        "iso3166_2": "US-TX",
+        "lon": -96.9767667,
+        "lat": 32.8006071,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17008.13273536048,
+        "formatted": "Pizza Hut, 2335 West Shady Grove Road, Irving, TX 75060, United States of America",
+        "address_line1": "Pizza Hut",
+        "address_line2": "2335 West Shady Grove Road, Irving, TX 75060, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R22F+67",
+        "plus_code_short": "R22F+67 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.114247073250889,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5199147a58833e58c05903b91f4b7a664040f00103f9012ecead6202000000c0020192030950697a7a6120487574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435343932323730",
+        "bbox": {
+          "lon1": -96.9768167,
+          "lat1": 32.8005571,
+          "lon2": -96.9767167,
+          "lat2": 32.8006571
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Marco's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "La Villita Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.9417315,
+        "lat": 32.9022394,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19410.467511485855,
+        "formatted": "Marco's Pizza, La Villita Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Marco's Pizza",
+        "address_line2": "La Villita Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W325+V8",
+        "plus_code_short": "W325+V8 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.669759275840488,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513c873254453c58c059d214a6947c734040f00103f90177eb508301000000c0020192030d4d6172636f27732050697a7a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36343938303835373531",
+        "bbox": {
+          "lon1": -96.9417815,
+          "lat1": 32.9021894,
+          "lon2": -96.9416815,
+          "lat2": 32.9022894
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "other_names": {
+          "brand": "Sprint"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Murphy",
+        "postcode": "75094",
+        "street": "East FM 544",
+        "iso3166_2": "US-TX",
+        "lon": -96.6034223,
+        "lat": 33.0118252,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 31756.40082179765,
+        "formatted": "Pizza Twist, East FM 544, Murphy, TX 75094, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "East FM 544, Murphy, TX 75094, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655296W+PJ",
+        "plus_code_short": "6W+PJ, 75094 Murphy, United States",
+        "rank": {
+          "importance": 0.00005413519493395922,
+          "popularity": 4.035640485426883,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51560b91789e2658c05963a2f77c83814040f00103f901b72bede601000000c0020192030b50697a7a61205477697374e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38313639323730313939",
+        "bbox": {
+          "lon1": -96.6034723,
+          "lat1": 33.0117752,
+          "lon2": -96.6033723,
+          "lat2": 33.0118752
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "North Alma Road",
+        "housenumber": "6720",
+        "iso3166_2": "US-TX",
+        "lon": -96.7074719,
+        "lat": 33.1364835,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 40836.24229398224,
+        "formatted": "Pizza Twist, 6720 North Alma Road, McKinney, TX 75070, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "6720 North Alma Road, McKinney, TX 75070, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865547PV+H2",
+        "plus_code_short": "47PV+H2 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 4.551447382318234,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2553838472d58c059c878944a78914040f00103f90144f8ee6002000000c0020192030b50697a7a61205477697374e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323136323038343532",
+        "bbox": {
+          "lon1": -96.7075219,
+          "lat1": 33.1364335,
+          "lon2": -96.7074219,
+          "lat2": 33.1365335
+        }
+      }
+    ],
+    "query": {
+      "text": "Pizza Twist Irving"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "queriedName": "Rokhat Grill",
+  "queriedAt": "2026-09-09T00:35:11.194Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rokhat Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "Central Expressway",
+        "housenumber": "2205",
+        "iso3166_2": "US-TX",
+        "lon": -96.7096809,
+        "lat": 33.0298251,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 29270.964776967445,
+        "formatted": "Rokhat Grill, 2205 Central Expressway, Plano, TX 75075, United States of America",
+        "address_line1": "Rokhat Grill",
+        "address_line2": "2205 Central Expressway, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865527HR+W4",
+        "plus_code_short": "HR+W4, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.0489786699850026,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51220670696b2d58c059ca8c124fd1834040f00103f90159b881a700000000c0020192030c526f6b686174204772696c6c",
+        "bbox": {
+          "lon1": -96.7097309,
+          "lat1": 33.0297751,
+          "lon2": -96.7096309,
+          "lat2": 33.0298751
+        }
+      }
+    ],
+    "query": {
+      "text": "Rokhat Grill"
+    }
+  }
+}

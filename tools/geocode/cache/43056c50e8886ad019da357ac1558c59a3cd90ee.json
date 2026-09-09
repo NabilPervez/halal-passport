@@ -1,0 +1,263 @@
+{
+  "queriedName": "BBQ KING EXPRESS PLANO",
+  "queriedAt": "2026-09-09T00:35:55.961Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dickey's Barbecue Pit",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "Coit Road",
+        "housenumber": "1441",
+        "iso3166_2": "US-TX",
+        "lon": -96.7673921,
+        "lat": 33.0181393,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 26955.619229247346,
+        "formatted": "Dickey's Barbecue Pit, 1441 Coit Road, Plano, TX 75075, United States of America",
+        "address_line1": "Dickey's Barbecue Pit",
+        "address_line2": "1441 Coit Road, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655269M+72",
+        "plus_code_short": "269M+72, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.898182909342551,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515c2dc1f31c3158c059dc227a6352824040f00103f901a0d2892b01000000c002019203154469636b6579277320426172626563756520506974e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35303235343139393336",
+        "bbox": {
+          "lon1": -96.7674421,
+          "lat1": 33.0180893,
+          "lon2": -96.7673421,
+          "lat2": 33.0181893
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kauboi Japanese BBQ & Izakaya",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Preston Road",
+        "housenumber": "1900",
+        "iso3166_2": "US-TX",
+        "lon": -96.790011,
+        "lat": 33.0265352,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27754.757379433486,
+        "formatted": "Kauboi Japanese BBQ & Izakaya, 1900 Preston Road, Plano, TX 75093, United States of America",
+        "address_line1": "Kauboi Japanese BBQ & Izakaya",
+        "address_line2": "1900 Preston Road, Plano, TX 75093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526G5+JX",
+        "plus_code_short": "26G5+JX, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.228459146114567,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bd1e4c8a8f3258c059ae18648165834040f00103f90169a6361e03000000c0020192031d4b6175626f69204a6170616e65736520424251202620497a616b617961e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333931373939393133",
+        "bbox": {
+          "lon1": -96.790061,
+          "lat1": 33.0264852,
+          "lon2": -96.789961,
+          "lat2": 33.0265852
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fatni BBQ",
+        "other_names": {
+          "name:zh-Hans": "胖妮烧烤"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Coit Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.770934,
+        "lat": 33.0298597,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 28221.864597840202,
+        "formatted": "Fatni BBQ, Coit Road, Plano, TX 75023, United States of America",
+        "address_line1": "Fatni BBQ",
+        "address_line2": "Coit Road, Plano, TX 75023, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526HH+WJ",
+        "plus_code_short": "26HH+WJ, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.9497394006025095,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f7578ffb563158c059f47b5171d2834040f00103f901df53724f02000000c002019203094661746e6920424251e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393232383237323331",
+        "bbox": {
+          "lon1": -96.770984,
+          "lat1": 33.0298097,
+          "lon2": -96.770884,
+          "lat2": 33.0299097
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "True Texas BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Preston Road",
+        "housenumber": "6001",
+        "iso3166_2": "US-TX",
+        "lon": -96.7965622,
+        "lat": 33.0544114,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 30846.809950930845,
+        "formatted": "True Texas BBQ, 6001 Preston Road, Plano, TX 75093, United States of America",
+        "address_line1": "True Texas BBQ",
+        "address_line2": "6001 Preston Road, Plano, TX 75093, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553633+Q9",
+        "plus_code_short": "3633+Q9, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.927077672452527,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b58e05e0fa3258c059c9c3e7f3f6864040f00103f90157fa31ee02000000c0020192030e5472756520546578617320424251e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353836313837333531",
+        "bbox": {
+          "lon1": -96.7966122,
+          "lat1": 33.0543614,
+          "lon2": -96.7965122,
+          "lat2": 33.0544614
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "BBQ Chicken",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.804825,
+        "lat": 33.090277,
+        "result_type": "amenity",
+        "distance": 34842.515017136255,
+        "postcode": "75024",
+        "formatted": "BBQ Chicken, Plano, TX 75024, United States of America",
+        "address_line1": "BBQ Chicken",
+        "address_line2": "Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+43",
+        "plus_code_short": "35RW+43, 75024 Plano, United States",
+        "rank": {
+          "popularity": 5.003808477739811,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513480b740823358c0595e4a5d328e8b4040f00103f9018147253403000000c0020192030b42425120436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373539373630323537"
+      }
+    ],
+    "query": {
+      "text": "BBQ KING EXPRESS PLANO"
+    }
+  }
+}

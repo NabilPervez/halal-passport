@@ -1,0 +1,62 @@
+{
+  "queriedName": "Simply Thai Bistro",
+  "queriedAt": "2026-09-09T00:45:36.539Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Simply Thai Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Main Street",
+        "housenumber": "6842",
+        "iso3166_2": "US-TX",
+        "lon": -96.8257282,
+        "lat": 33.1512463,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 41700.56526794759,
+        "formatted": "Simply Thai Bistro, 6842 Main Street, Frisco, TX 75034, United States of America",
+        "address_line1": "Simply Thai Bistro",
+        "address_line2": "6842 Main Street, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655552F+FP",
+        "plus_code_short": "2F+FP, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.171854300066861,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a39817bbd83458c0590c12ec095c934040f00103f901cea63ca600000000c0020192031253696d706c7920546861692042697374726f",
+        "bbox": {
+          "lon1": -96.8257782,
+          "lat1": 33.1511963,
+          "lon2": -96.8256782,
+          "lat2": 33.1512963
+        }
+      }
+    ],
+    "query": {
+      "text": "Simply Thai Bistro"
+    }
+  }
+}

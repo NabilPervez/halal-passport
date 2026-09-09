@@ -1,0 +1,262 @@
+{
+  "queriedName": "Tucker's Grill & Taqueria",
+  "queriedAt": "2026-09-09T00:41:39.041Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taqueria Taxco",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75228",
+        "street": "Ferguson Road",
+        "housenumber": "8092",
+        "iso3166_2": "US-TX",
+        "lon": -96.7117747,
+        "lat": 32.8030271,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "East Dallas",
+        "result_type": "amenity",
+        "distance": 8476.026548069578,
+        "formatted": "Taqueria Taxco, 8092 Ferguson Road, Dallas, TX 75228, United States of America",
+        "address_line1": "Taqueria Taxco",
+        "address_line2": "8092 Ferguson Road, Dallas, TX 75228, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R73Q+67",
+        "plus_code_short": "R73Q+67, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.513876051508157,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2a778b78d2d58c0599f268e97c9664040f00103f9011579c13003000000c0020192030e546171756572696120546178636fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373032383837373031",
+        "bbox": {
+          "lon1": -96.7118247,
+          "lat1": 32.8029771,
+          "lon2": -96.7117247,
+          "lat2": 32.8030771
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mijas Taqueria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "suburb": "Lake Highlands",
+        "street": "Royal Lane",
+        "housenumber": "9901",
+        "iso3166_2": "US-TX",
+        "lon": -96.7231246,
+        "lat": 32.8950718,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 14832.724097498185,
+        "formatted": "Mijas Taqueria, 9901 Royal Lane, Dallas, TX 75231, United States of America",
+        "address_line1": "Mijas Taqueria",
+        "address_line2": "9901 Royal Lane, Dallas, TX 75231, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V7WG+2Q",
+        "plus_code_short": "V7WG+2Q, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.68604028572404,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b8fb66ac472e58c059324976b691724040f00103f9015a23b10703000000c0020192030e4d696a6173205461717565726961e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133303133393531333232",
+        "bbox": {
+          "lon1": -96.7231746,
+          "lat1": 32.8950218,
+          "lon2": -96.7230746,
+          "lat2": 32.8951218
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Taqueria Monterrey",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Lewisville",
+        "iso3166_2": "US-TX",
+        "lon": -96.99144,
+        "lat": 33.033564,
+        "result_type": "amenity",
+        "distance": 33813.95001925188,
+        "postcode": "75067",
+        "formatted": "Taqueria Monterrey, Lewisville, TX 75067, United States of America",
+        "address_line1": "Taqueria Monterrey",
+        "address_line2": "Lewisville, TX 75067, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865522M5+CC",
+        "plus_code_short": "M5+CC, 75067 Lewisville, United States",
+        "rank": {
+          "popularity": 3.8496868606277252,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518ffcc1c0733f58c05956293dd34b844040f00103f9019b4f9d2603000000c002019203125461717565726961204d6f6e746572726579e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353332373435363237"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taqueria Monterrey",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75067",
+        "street": "East State Highway 121",
+        "housenumber": "380",
+        "iso3166_2": "US-TX",
+        "lon": -96.9914402,
+        "lat": 33.0335643,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33813.98817022783,
+        "formatted": "Taqueria Monterrey, 380 East State Highway 121, Lewisville, TX 75067, United States of America",
+        "address_line1": "Taqueria Monterrey",
+        "address_line2": "380 East State Highway 121, Lewisville, TX 75067, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865522M5+CC",
+        "plus_code_short": "M5+CC, 75067 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5124bc98c1733f58c0591568c1d54b844040f00103f9019b4f9d2603000000c002019203125461717565726961204d6f6e746572726579",
+        "bbox": {
+          "lon1": -96.9914902,
+          "lat1": 33.0335143,
+          "lon2": -96.9913902,
+          "lat2": 33.0336143
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Venus Taqueria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Johnson County",
+        "city": "Venus",
+        "postcode": "76084",
+        "street": "West 2nd Street",
+        "housenumber": "100",
+        "iso3166_2": "US-TX",
+        "lon": -97.1033595,
+        "lat": 32.4337204,
+        "state_code": "TX",
+        "county_code": "JO",
+        "suburb": "Rendon",
+        "result_type": "amenity",
+        "distance": 47754.962871366864,
+        "formatted": "Venus Taqueria, 100 West 2nd Street, Venus, TX 76084, United States of America",
+        "address_line1": "Venus Taqueria",
+        "address_line2": "100 West 2nd Street, Venus, TX 76084, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644CVMW+FM",
+        "plus_code_short": "MW+FM Venus, Johnson County, United States",
+        "rank": {
+          "importance": 0.00005438849469744438,
+          "popularity": 2.4026547020962807,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c70e2a719d4658c059d4cd6a2684374040f00103f901f45b4cd102000000c0020192030e56656e7573205461717565726961e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132313031333737303132",
+        "bbox": {
+          "lon1": -97.1034095,
+          "lat1": 32.4336704,
+          "lon2": -97.1033095,
+          "lat2": 32.4337704
+        }
+      }
+    ],
+    "query": {
+      "text": "Tucker's Grill & Taqueria"
+    }
+  }
+}

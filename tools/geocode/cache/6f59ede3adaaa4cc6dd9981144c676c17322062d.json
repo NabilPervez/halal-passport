@@ -1,0 +1,195 @@
+{
+  "queriedName": "Bigdash Irving",
+  "queriedAt": "2026-09-09T00:34:00.830Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Bigdash",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.616187,
+        "lat": 32.956583,
+        "result_type": "amenity",
+        "distance": 26152.088196912613,
+        "postcode": "75040",
+        "formatted": "Bigdash, Garland, TX 75040, United States of America",
+        "address_line1": "Bigdash",
+        "address_line2": "Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X94M+JG",
+        "plus_code_short": "X94M+JG, 75040 Garland, United States",
+        "rank": {
+          "popularity": 4.317356413886109,
+          "confidence": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "511a4e999b6f2758c0596d74ce4f717a4040f00103f9016415cc2103000000c0020192030742696764617368e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343531393234383336"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bigdash",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75040",
+        "street": "Lavon Drive",
+        "housenumber": "245",
+        "iso3166_2": "US-TX",
+        "lon": -96.6161867,
+        "lat": 32.9565831,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26152.11477398321,
+        "formatted": "Bigdash, 245 Lavon Drive, Garland, TX 75040, United States of America",
+        "address_line1": "Bigdash",
+        "address_line2": "245 Lavon Drive, Garland, TX 75040, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X94M+JG",
+        "plus_code_short": "X94M+JG, 75040 Garland, United States",
+        "rank": {
+          "importance": 0.00006185778591587729,
+          "confidence": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "51bb2e579a6f2758c0590234a550717a4040f00103f9016415cc2103000000c0020192030742696764617368",
+        "bbox": {
+          "lon1": -96.6162367,
+          "lat1": 32.9565331,
+          "lon2": -96.6161367,
+          "lat2": 32.9566331
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Bigdash Frisco",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.806899,
+        "lat": 33.101625,
+        "result_type": "amenity",
+        "distance": 36108.52141424294,
+        "postcode": "75024",
+        "formatted": "Bigdash Frisco, Frisco, TX 75024, United States of America",
+        "address_line1": "Bigdash Frisco",
+        "address_line2": "Frisco, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655452V+J6",
+        "plus_code_short": "452V+J6, 75024 Frisco, United States",
+        "rank": {
+          "popularity": 4.948303933346839,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51350bb43ba43358c0595eba490c028d4040f00103f901599844ea02000000c0020192030e426967646173682046726973636fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353230323938353835"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bigdash Frisco",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "housenumber": "2693",
+        "iso3166_2": "US-TX",
+        "lon": -96.806899,
+        "lat": 33.1016253,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 36108.55476180878,
+        "formatted": "Bigdash Frisco, 2693 Preston Road, Frisco, TX 75024, United States of America",
+        "address_line1": "Bigdash Frisco",
+        "address_line2": "2693 Preston Road, Frisco, TX 75024, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655452V+M6",
+        "plus_code_short": "452V+M6, 75024 Frisco, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51350bb43ba43358c0591df9cd0e028d4040f00103f901599844ea02000000c0020192030e426967646173682046726973636f",
+        "bbox": {
+          "lon1": -96.806949,
+          "lat1": 33.1015753,
+          "lon2": -96.806849,
+          "lat2": 33.1016753
+        }
+      }
+    ],
+    "query": {
+      "text": "Bigdash Irving"
+    }
+  }
+}

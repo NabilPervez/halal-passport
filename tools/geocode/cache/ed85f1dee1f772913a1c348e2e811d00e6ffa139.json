@@ -1,0 +1,273 @@
+{
+  "queriedName": "Cheesy Sensation - Halal Pizza, Pasta, Wings and Sandwiches",
+  "queriedAt": "2026-09-09T00:36:03.224Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Juju's Wings And Daiquiri",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Mill Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.776239,
+        "lat": 32.795064,
+        "result_type": "amenity",
+        "distance": 2793.058587839501,
+        "postcode": "75246",
+        "formatted": "Juju's Wings And Daiquiri, Dallas, TX 75246, United States of America",
+        "address_line1": "Juju's Wings And Daiquiri",
+        "address_line2": "Dallas, TX 75246, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6WF+2G",
+        "plus_code_short": "Q6WF+2G, 75246 Dallas, United States",
+        "rank": {
+          "popularity": 5.998992248434506,
+          "confidence": 0.0780813223140496,
+          "confidence_city_level": 0.24300000000000002,
+          "match_type": "full_match"
+        },
+        "place_id": "514eb857e6ad3158c0590d1d3ba8c4654040f00103f901d359d61b03000000c002019203194a756a7527732057696e677320416e64204461697175697269e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333531393334343139"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Juju's Wings And Daiquiri",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75246",
+        "suburb": "Old East Dallas",
+        "street": "Gaston Avenue",
+        "housenumber": "4111",
+        "iso3166_2": "US-TX",
+        "lon": -96.7762388,
+        "lat": 32.7950639,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 2793.0635833075344,
+        "formatted": "Juju's Wings And Daiquiri, 4111 Gaston Avenue, Dallas, TX 75246, United States of America",
+        "address_line1": "Juju's Wings And Daiquiri",
+        "address_line2": "4111 Gaston Avenue, Dallas, TX 75246, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6WF+2G",
+        "plus_code_short": "Q6WF+2G, 75246 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0.1067727272727273,
+          "confidence_city_level": 0.05555555555555555,
+          "confidence_street_level": 0.027777777777777776,
+          "match_type": "full_match"
+        },
+        "place_id": "51b9f880e5ad3158c059785d64a7c4654040f00103f901d359d61b03000000c002019203194a756a7527732057696e677320416e64204461697175697269",
+        "bbox": {
+          "lon1": -96.7762888,
+          "lat1": 32.7950139,
+          "lon2": -96.7761888,
+          "lat2": 32.7951139
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sclafani's New York Bagels & Sandwiches",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75225",
+        "suburb": "Preston Center",
+        "street": "Luther Lane",
+        "housenumber": "6135",
+        "iso3166_2": "US-TX",
+        "lon": -96.8046481,
+        "lat": 32.8638044,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 9678.644582559355,
+        "formatted": "Sclafani's New York Bagels & Sandwiches, 6135 Luther Lane, Dallas, TX 75225, United States of America",
+        "address_line1": "Sclafani's New York Bagels & Sandwiches",
+        "address_line2": "6135 Luther Lane, Dallas, TX 75225, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V57W+G4",
+        "plus_code_short": "V57W+G4, 75225 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.467764133743506,
+          "confidence": 0.06759818181818182,
+          "confidence_city_level": 0.05555555555555555,
+          "confidence_street_level": 0.018518518518518517,
+          "match_type": "full_match"
+        },
+        "place_id": "517792be5a7f3358c05909128024916e4040f00103f9011a475ed602000000c0020192032753636c6166616e692773204e657720596f726b20426167656c7320262053616e64776963686573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132313836343337343032",
+        "bbox": {
+          "lon1": -96.8046981,
+          "lat1": 32.8637544,
+          "lon2": -96.8045981,
+          "lat2": 32.8638544
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Reggae Wings & Tings",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75150",
+        "street": "North Town East Boulevard",
+        "housenumber": "3315",
+        "iso3166_2": "US-TX",
+        "lon": -96.6466505,
+        "lat": 32.802013,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 14326.919737360526,
+        "formatted": "Reggae Wings & Tings, 3315 North Town East Boulevard, Mesquite, TX 75150, United States of America",
+        "address_line1": "Reggae Wings & Tings",
+        "address_line2": "3315 North Town East Boulevard, Mesquite, TX 75150, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R923+R8",
+        "plus_code_short": "R923+R8, 75150 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "popularity": 4.291192165099412,
+          "confidence": 0.03050649350649351,
+          "confidence_city_level": 0.05555555555555555,
+          "confidence_street_level": 0.007936507936507936,
+          "match_type": "full_match"
+        },
+        "place_id": "514b5cc7b8622958c059c2fbaa5ca8664040f00102f901aa472e2600000000c002019203145265676761652057696e677320262054696e6773e203216f70656e7374726565746d61703a76656e75653a7761792f363430353637323130",
+        "bbox": {
+          "lon1": -96.646792,
+          "lat1": 32.801895,
+          "lon2": -96.646509,
+          "lat2": 32.802131
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cajun Seafood & Wings",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Bouchard",
+        "postcode": "75243",
+        "street": "Forest Lane",
+        "housenumber": "8131",
+        "iso3166_2": "US-TX",
+        "lon": -96.7644413,
+        "lat": 32.9095736,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Bouchard",
+        "result_type": "amenity",
+        "distance": 15052.061639637654,
+        "formatted": "Cajun Seafood & Wings, 8131 Forest Lane, Dallas, TX 75243, United States of America",
+        "address_line1": "Cajun Seafood & Wings",
+        "address_line2": "8131 Forest Lane, Dallas, TX 75243, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W65P+R6",
+        "plus_code_short": "W65P+R6, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.955475750915051,
+          "confidence": 0.042709090909090926,
+          "confidence_city_level": 0.05555555555555555,
+          "confidence_street_level": 0.011111111111111112,
+          "match_type": "full_match"
+        },
+        "place_id": "518dcd339bec3058c0590aa760e86c744040f00102f901d2741b1b00000000c0020192031543616a756e20536561666f6f6420262057696e6773e203216f70656e7374726565746d61703a76656e75653a7761792f343534373834323130",
+        "bbox": {
+          "lon1": -96.7644988,
+          "lat1": 32.9095375,
+          "lon2": -96.7643838,
+          "lat2": 32.9096745
+        }
+      }
+    ],
+    "query": {
+      "text": "Cheesy Sensation - Halal Pizza, Pasta, Wings and Sandwiches"
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "queriedName": "INDIA IMPORTS",
+  "queriedAt": "2026-09-09T00:37:59.459Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "India Palace",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Preston Road",
+        "housenumber": "12817",
+        "iso3166_2": "US-TX",
+        "lon": -96.8044194,
+        "lat": 32.9232816,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 16280.553347945606,
+        "formatted": "India Palace, 12817 Preston Road, Dallas, TX 75230, United States of America",
+        "address_line1": "India Palace",
+        "address_line2": "12817 Preston Road, Dallas, TX 75230, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5FW+86",
+        "plus_code_short": "W5FW+86, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.0079884233085945,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5126d1819b7b3358c059d17f6a172e764040f00103f9010eca8ffa01000000c0020192030c496e6469612050616c616365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38343938363934363730",
+        "bbox": {
+          "lon1": -96.8044694,
+          "lat1": 32.9232316,
+          "lon2": -96.8043694,
+          "lat2": 32.9233316
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "India Bazaar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "8600",
+        "iso3166_2": "US-TX",
+        "lon": -96.9537716,
+        "lat": 32.9231751,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21878.244968172054,
+        "formatted": "India Bazaar, 8600 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "India Bazaar",
+        "address_line2": "8600 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2FW+7F",
+        "plus_code_short": "W2FW+7F Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.572238937412166,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a17609980a3d58c059a37d079a2a764040f00103f9016e92b82d02000000c0020192030c496e6469612042617a616172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39333537303035343232",
+        "bbox": {
+          "lon1": -96.9538216,
+          "lat1": 32.9231251,
+          "lon2": -96.9537216,
+          "lat2": 32.9232251
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "India 101",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3311",
+        "iso3166_2": "US-TX",
+        "lon": -96.989849,
+        "lat": 32.9211572,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24114.06629923714,
+        "formatted": "India 101, 3311 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "India 101",
+        "address_line2": "3311 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C6+F3",
+        "plus_code_short": "W2C6+F3 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.666895423513983,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519dbe9eaf593f58c059cb3ca87ae8754040f00103f90180e4de6102000000c00201920309496e64696120313031e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323331393332303332",
+        "bbox": {
+          "lon1": -96.989899,
+          "lat1": 32.9211072,
+          "lon2": -96.989799,
+          "lat2": 32.9212072
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "India",
+        "country": "United States",
+        "county": "Ellis County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "India",
+        "iso3166_2": "US-TX",
+        "lon": -96.6161,
+        "lat": 32.52514,
+        "result_type": "city",
+        "distance": 32728.497870554897,
+        "county_code": "EL",
+        "formatted": "India, TX, United States of America",
+        "address_line1": "India, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645G9GM+3H",
+        "rank": {
+          "popularity": 2.256318367845943,
+          "confidence": 0.5,
+          "confidence_city_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "5133c4b12e6e2758c05925e99ac937434040c00208920305496e646961e2031f77686f736f6e66697273743a6c6f63616c6974793a31313235383737393435",
+        "bbox": {
+          "lon1": -96.6361,
+          "lat1": 32.50514,
+          "lon2": -96.5961,
+          "lat2": 32.54514
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "India Bazaar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "housenumber": "832",
+        "iso3166_2": "US-TX",
+        "lon": -96.7091247,
+        "lat": 33.0554903,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32034.719119636185,
+        "formatted": "India Bazaar, 832 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "India Bazaar",
+        "address_line2": "832 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655374R+59",
+        "plus_code_short": "374R+59, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.7830961644674925,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514bd2904c622d58c05964df5f4e1a874040f00103f9010be451af00000000c0020192030c496e6469612042617a616172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32393431333739353935",
+        "bbox": {
+          "lon1": -96.7091747,
+          "lat1": 33.0554403,
+          "lon2": -96.7090747,
+          "lat2": 33.0555403
+        }
+      }
+    ],
+    "query": {
+      "text": "INDIA IMPORTS"
+    }
+  }
+}

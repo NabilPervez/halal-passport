@@ -1,0 +1,63 @@
+{
+  "queriedName": "Sahara Mediterranean Restaurant",
+  "queriedAt": "2026-09-09T00:38:02.460Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sahara Mediterranean Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Inwood",
+        "postcode": "75240",
+        "street": "Alpha Road",
+        "housenumber": "112",
+        "iso3166_2": "US-TX",
+        "lon": -96.8138688,
+        "lat": 32.9331415,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 17433.520757943654,
+        "formatted": "Sahara Mediterranean Restaurant, 112 Alpha Road, Dallas, TX 75240, United States of America",
+        "address_line1": "Sahara Mediterranean Restaurant",
+        "address_line2": "112 Alpha Road, Dallas, TX 75240, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5MP+7F",
+        "plus_code_short": "W5MP+7F, 75240 Dallas, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.260621605470084,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5106cf296d163458c0592b85402e71774040f00103f9011a41e01803000000c0020192031f536168617261204d65646974657272616e65616e2052657374617572616e74",
+        "bbox": {
+          "lon1": -96.8139188,
+          "lat1": 32.9330915,
+          "lon2": -96.8138188,
+          "lat2": 32.9331915
+        }
+      }
+    ],
+    "query": {
+      "text": "Sahara Mediterranean Restaurant"
+    }
+  }
+}

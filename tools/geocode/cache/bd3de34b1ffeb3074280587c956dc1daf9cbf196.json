@@ -1,0 +1,107 @@
+{
+  "queriedName": "Lima Taverna",
+  "queriedAt": "2026-09-09T00:36:08.670Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Lima Street",
+        "street": "Lima Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "iso3166_2": "US-TX",
+        "lon": -96.841812,
+        "lat": 32.62889,
+        "result_type": "street",
+        "distance": 16994.488020018773,
+        "postcode": "75232",
+        "formatted": "Lima Street, Dallas County, TX 75232, United States of America",
+        "address_line1": "Lima Street",
+        "address_line2": "Dallas County, TX 75232, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J5H5+H7",
+        "rank": {
+          "popularity": 3.5576525154856915,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515858703fe03558c0590664af777f504040c0020492030b4c696d6120537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363931393036",
+        "bbox": {
+          "lon1": -96.843699,
+          "lat1": 32.628716,
+          "lon2": -96.839909,
+          "lat2": 32.628912
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Lima Lane",
+        "street": "Lima Lane",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "iso3166_2": "US-TX",
+        "lon": -97.396354,
+        "lat": 33.003959,
+        "result_type": "street",
+        "distance": 61389.69048771811,
+        "postcode": "76052",
+        "formatted": "Lima Lane, Fort Worth, TX 76052, United States of America",
+        "address_line1": "Lima Lane",
+        "address_line2": "Fort Worth, TX 76052, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542J33+HF",
+        "plus_code_short": "2J33+HF Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 2.5790652323909775,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e2e82add5d5958c0592fc37fba81804040c002049203094c696d61204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343234353435",
+        "bbox": {
+          "lon1": -97.396368,
+          "lat1": 33.002268,
+          "lon2": -97.396341,
+          "lat2": 33.00565
+        }
+      }
+    ],
+    "query": {
+      "text": "Lima Taverna"
+    }
+  }
+}

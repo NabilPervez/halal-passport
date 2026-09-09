@@ -1,0 +1,62 @@
+{
+  "queriedName": "Shelby's Pizza",
+  "queriedAt": "2026-09-09T00:36:55.063Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shelby's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75071",
+        "street": "North Coit Road",
+        "housenumber": "210",
+        "iso3166_2": "US-TX",
+        "lon": -96.7671181,
+        "lat": 33.2048535,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 47656.76334571724,
+        "formatted": "Shelby's Pizza, 210 North Coit Road, McKinney, TX 75071, United States of America",
+        "address_line1": "Shelby's Pizza",
+        "address_line2": "210 North Coit Road, McKinney, TX 75071, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655663M+W5",
+        "plus_code_short": "663M+W5 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.4731768810001964,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51dcea8376183158c0594e7cb5a3389a4040f00103f9019fe865ee02000000c0020192030e5368656c627927732050697a7a61",
+        "bbox": {
+          "lon1": -96.7671681,
+          "lat1": 33.2048035,
+          "lon2": -96.7670681,
+          "lat2": 33.2049035
+        }
+      }
+    ],
+    "query": {
+      "text": "Shelby's Pizza"
+    }
+  }
+}

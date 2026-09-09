@@ -1,0 +1,62 @@
+{
+  "queriedName": "Arash Persian Grill",
+  "queriedAt": "2026-09-09T00:30:39.858Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Arash Persian Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "President George Bush Highway",
+        "housenumber": "401",
+        "iso3166_2": "US-TX",
+        "lon": -96.7230419,
+        "lat": 33.0028979,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26050.68976305438,
+        "formatted": "Arash Persian Grill, 401 President George Bush Highway, Richardson, TX 75080, United States of America",
+        "address_line1": "Arash Persian Grill",
+        "address_line2": "401 President George Bush Highway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655273G+5Q",
+        "plus_code_short": "273G+5Q Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.867211356756783,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d0888851462e58c05911dd58f55e804040f00103f90172c8da2f03000000c002019203134172617368205065727369616e204772696c6c",
+        "bbox": {
+          "lon1": -96.7230919,
+          "lat1": 33.0028479,
+          "lon2": -96.7229919,
+          "lat2": 33.0029479
+        }
+      }
+    ],
+    "query": {
+      "text": "Arash Persian Grill"
+    }
+  }
+}

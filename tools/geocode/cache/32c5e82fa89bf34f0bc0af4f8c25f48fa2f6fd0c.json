@@ -1,0 +1,62 @@
+{
+  "queriedName": "Fadi's Mediterranean Grill",
+  "queriedAt": "2026-09-09T00:39:22.520Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fadi's Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "housenumber": "2787",
+        "iso3166_2": "US-TX",
+        "lon": -96.8071924,
+        "lat": 33.1018897,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 36138.65535400185,
+        "formatted": "Fadi's Mediterranean Grill, 2787 Preston Road, Frisco, TX 75024, United States of America",
+        "address_line1": "Fadi's Mediterranean Grill",
+        "address_line2": "2787 Preston Road, Frisco, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655452V+Q4",
+        "plus_code_short": "452V+Q4, 75024 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.948303933346839,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511be54f0aa93358c0594ea6c0b80a8d4040f00103f9014e9844ea02000000c0020192031a466164692773204d65646974657272616e65616e204772696c6c",
+        "bbox": {
+          "lon1": -96.8072424,
+          "lat1": 33.1018397,
+          "lon2": -96.8071424,
+          "lat2": 33.1019397
+        }
+      }
+    ],
+    "query": {
+      "text": "Fadi's Mediterranean Grill"
+    }
+  }
+}

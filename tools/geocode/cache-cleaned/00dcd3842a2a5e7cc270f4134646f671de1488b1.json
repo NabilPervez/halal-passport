@@ -1,0 +1,63 @@
+{
+  "queriedName": "Dona Mary",
+  "queriedAt": "2026-09-09T00:45:27.599Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dona Lencha",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75061",
+        "street": "North Story Road",
+        "housenumber": "1900",
+        "iso3166_2": "US-TX",
+        "lon": -96.9759557,
+        "lat": 32.8351323,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17930.944354957148,
+        "formatted": "Dona Lencha, 1900 North Story Road, Irving, TX 75061, United States of America",
+        "address_line1": "Dona Lencha",
+        "address_line2": "1900 North Story Road, Irving, TX 75061, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R2PF+3J",
+        "plus_code_short": "R2PF+3J Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.473135323749106,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511176e50e763e58c059a82a7e9de56a4040f00103f901069d632a03000000c0020192030b446f6e61204c656e636861e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353936303733323232",
+        "bbox": {
+          "lon1": -96.9760057,
+          "lat1": 32.8350823,
+          "lon2": -96.9759057,
+          "lat2": 32.8351823
+        }
+      }
+    ],
+    "query": {
+      "text": "Dona Mary"
+    }
+  }
+}

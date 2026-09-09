@@ -1,0 +1,279 @@
+{
+  "queriedName": "Desi District - McKinney, TX",
+  "queriedAt": "2026-09-09T00:42:34.633Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Desi District",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75035",
+        "street": "Eldorado Parkway",
+        "housenumber": "12990",
+        "iso3166_2": "US-TX",
+        "lon": -96.7651192,
+        "lat": 33.1753318,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "formatted": "Desi District, 12990 Eldorado Parkway, Frisco, TX 75035, United States of America",
+        "address_line1": "Desi District",
+        "address_line2": "12990 Eldorado Parkway, Frisco, TX 75035, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865556GM+4X",
+        "plus_code_short": "56GM+4X, 75035 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.57353351586917,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ab6285b6f73058c0597379bd4571964040f00103f90126b0733603000000c0020192030d44657369204469737472696374e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373938343533323836",
+        "bbox": {
+          "lon1": -96.7651692,
+          "lat1": 33.1752818,
+          "lon2": -96.7650692,
+          "lat2": 33.1753818
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Premier Desi District",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "Riverside Drive",
+        "housenumber": "6421",
+        "iso3166_2": "US-TX",
+        "lon": -96.9394692,
+        "lat": 32.897049,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "formatted": "Premier Desi District, 6421 Riverside Drive, Irving, TX 75039, United States of America",
+        "address_line1": "Premier Desi District",
+        "address_line2": "6421 Riverside Drive, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3W6+R6",
+        "plus_code_short": "V3W6+R6 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.656202247492728,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515b666c43203c58c0596bf46a80d2724040f00103f90142191df901000000c002019203155072656d6965722044657369204469737472696374e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38343734343031303930",
+        "bbox": {
+          "lon1": -96.9395192,
+          "lat1": 32.896999,
+          "lon2": -96.9394192,
+          "lat2": 32.897099
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Desi Bites",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Valley Ranch",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "9405",
+        "iso3166_2": "US-TX",
+        "lon": -96.9528233,
+        "lat": 32.9337514,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "formatted": "Desi Bites, 9405 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Desi Bites",
+        "address_line2": "9405 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2MW+GV",
+        "plus_code_short": "W2MW+GV Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.533606284303472,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517a17940efb3c58c0590fcc762a85774040f00103f90111d9f1b502000000c0020192030a44657369204269746573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131363432343630343333",
+        "bbox": {
+          "lon1": -96.9528733,
+          "lat1": 32.9337014,
+          "lon2": -96.9527733,
+          "lat2": 32.9338014
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Desi District",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75068",
+        "street": "West University Drive",
+        "housenumber": "2275",
+        "iso3166_2": "US-TX",
+        "lon": -96.8696311,
+        "lat": 33.2175753,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "formatted": "Desi District, 2275 West University Drive, Frisco, TX 75068, United States of America",
+        "address_line1": "Desi District",
+        "address_line2": "2275 West University Drive, Frisco, TX 75068, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655649J+24",
+        "plus_code_short": "649J+24, 75068 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 2.976644535964311,
+          "confidence": 0.125,
+          "confidence_city_level": 0.125,
+          "match_type": "full_match"
+        },
+        "place_id": "5169853309a83758c0596df5e681d99b4040f00103f9019f6dd21903000000c0020192030d44657369204469737472696374e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333138313232393131",
+        "bbox": {
+          "lon1": -96.8696811,
+          "lat1": 33.2175253,
+          "lon2": -96.8695811,
+          "lat2": 33.2176253
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "McKinney",
+        "other_names": {
+          "name:ko": "매키니",
+          "name:sr": "Макинли"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "iso3166_2": "US-TX",
+        "lon": -96.6154471,
+        "lat": 33.1976496,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 49744.92446944583,
+        "formatted": "McKinney, TX, United States of America",
+        "address_line1": "McKinney, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865559XM+3R",
+        "plus_code_short": "+3R McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.5495277624366346,
+          "popularity": 3.6006015044594673,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51c1ba3b7c632758c059a30804954c994040f00101f90121cc640000000000c002089203084d634b696e6e6579",
+        "bbox": {
+          "lon1": -96.7679041,
+          "lat1": 33.125204,
+          "lon2": -96.5385097,
+          "lat2": 33.3060918
+        }
+      }
+    ],
+    "query": {
+      "text": "Desi District - McKinney, TX",
+      "parsed": {
+        "house": "desi district",
+        "city": "mckinney",
+        "state": "tx",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

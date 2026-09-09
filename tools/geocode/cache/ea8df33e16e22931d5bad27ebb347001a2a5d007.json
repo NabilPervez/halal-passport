@@ -1,0 +1,62 @@
+{
+  "queriedName": "King and Cardinal",
+  "queriedAt": "2026-09-09T00:35:59.574Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "King and Cardinal",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "8350",
+        "iso3166_2": "US-TX",
+        "lon": -96.9563612,
+        "lat": 32.9215629,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 21909.12794355988,
+        "formatted": "King and Cardinal, 8350 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "King and Cardinal",
+        "address_line2": "8350 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2CV+JF",
+        "plus_code_short": "W2CV+JF Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.59058247081006,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51744a9b05353d58c0597c5aeac5f5754040f00103f901cde0b82d02000000c002019203114b696e6720616e642043617264696e616c",
+        "bbox": {
+          "lon1": -96.9564112,
+          "lat1": 32.9215129,
+          "lon2": -96.9563112,
+          "lat2": 32.9216129
+        }
+      }
+    ],
+    "query": {
+      "text": "King and Cardinal"
+    }
+  }
+}

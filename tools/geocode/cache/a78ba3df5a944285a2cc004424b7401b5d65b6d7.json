@@ -1,0 +1,268 @@
+{
+  "queriedName": "101 | Paratha",
+  "queriedAt": "2026-09-09T00:35:10.579Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Level 101 Hair Studio",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Main Street",
+        "housenumber": "2928",
+        "iso3166_2": "US-TX",
+        "lon": -96.7811258,
+        "lat": 32.7842639,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1689.6020404244368,
+        "formatted": "Level 101 Hair Studio, 2928 Main Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Level 101 Hair Studio",
+        "address_line2": "2928 Main Street, Dallas, TX 75226, United States of America",
+        "category": "commercial;service.beauty.hairdresser",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M9+PG",
+        "plus_code_short": "Q6M9+PG, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.114963357538692,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f54311f7fd3158c0597af76cc262644040f00103f90114f8726002000000c002019203154c6576656c2031303120486169722053747564696fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323038303831393430",
+        "bbox": {
+          "lon1": -96.7811758,
+          "lat1": 32.7842139,
+          "lon2": -96.7810758,
+          "lat2": 32.7843139
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "101 Parantha",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3311",
+        "iso3166_2": "US-TX",
+        "lon": -96.9895772,
+        "lat": 32.9211381,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24093.692390552817,
+        "formatted": "101 Parantha, 3311 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "101 Parantha",
+        "address_line2": "3311 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C6+F5",
+        "plus_code_short": "W2C6+F5 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.666895423513983,
+          "confidence": 0.63,
+          "match_type": "full_match"
+        },
+        "place_id": "5181b79b3b553f58c059bf4c6fdae7754040f00103f9012af3ecd602000000c0020192030c31303120506172616e746861e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132313935373837353632",
+        "bbox": {
+          "lon1": -96.9896272,
+          "lat1": 32.9210881,
+          "lon2": -96.9895272,
+          "lat2": 32.9211881
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "India 101",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3311",
+        "iso3166_2": "US-TX",
+        "lon": -96.989849,
+        "lat": 32.9211572,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24114.06629923714,
+        "formatted": "India 101, 3311 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "India 101",
+        "address_line2": "3311 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C6+F3",
+        "plus_code_short": "W2C6+F3 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.666895423513983,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519dbe9eaf593f58c059cb3ca87ae8754040f00103f90180e4de6102000000c00201920309496e64696120313031e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323331393332303332",
+        "bbox": {
+          "lon1": -96.989899,
+          "lat1": 32.9211072,
+          "lon2": -96.989799,
+          "lat2": 32.9212072
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "101 Center",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76010",
+        "housenumber": "101",
+        "iso3166_2": "US-TX",
+        "lon": -97.1064459,
+        "lat": 32.7363331,
+        "state_code": "TX",
+        "street": "S Center Street",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 29288.207346090214,
+        "formatted": "101 Center, 101 S Center Street, Arlington, TX 76010, United States of America",
+        "address_line1": "101 Center",
+        "address_line2": "101 S Center Street, Arlington, TX 76010, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVPV+GC",
+        "plus_code_short": "PV+GC, 76010 Arlington, United States",
+        "rank": {
+          "importance": 0.08006849088273439,
+          "popularity": 5.842465296032787,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c5d27602d04658c0592dbbbb29405e4040f00102f901de57162c00000000c0020192030a3130312043656e746572e203216f70656e7374726565746d61703a76656e75653a7761792f373339363631373930",
+        "bbox": {
+          "lon1": -97.1070439,
+          "lat1": 32.7356066,
+          "lon2": -97.1058449,
+          "lat2": 32.7370821
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "101",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "street": "Deer Ridge Circle",
+        "iso3166_2": "US-TX",
+        "lon": -97.0258794,
+        "lat": 33.3756856,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 69903.27751823024,
+        "postcode": "76258",
+        "formatted": "101, Deer Ridge Circle, Denton County, TX 76258, United States of America",
+        "address_line1": "101",
+        "address_line2": "Deer Ridge Circle, Denton County, TX 76258, United States of America",
+        "category": "camping.camp_site",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86549XGF+7J",
+        "rank": {
+          "importance": 0.00003500190737769158,
+          "popularity": 2.2953905582608036,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f7281202a84158c05900ca3a7716b04040f00103f901d715975b02000000c00201920303313031e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130313236353632373735",
+        "bbox": {
+          "lon1": -97.0259294,
+          "lat1": 33.3756356,
+          "lon2": -97.0258294,
+          "lat2": 33.3757356
+        }
+      }
+    ],
+    "query": {
+      "text": "101 | Paratha"
+    }
+  }
+}

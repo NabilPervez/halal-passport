@@ -1,0 +1,270 @@
+{
+  "queriedName": "Hot Breads Plano",
+  "queriedAt": "2026-09-09T00:39:46.650Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hot Breads",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75038",
+        "suburb": "Las Colinas",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "5330",
+        "iso3166_2": "US-TX",
+        "lon": -96.9626215,
+        "lat": 32.8818461,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19375.06060443804,
+        "formatted": "Hot Breads, 5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",
+        "address_line1": "Hot Breads",
+        "address_line2": "5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2JP+PX",
+        "plus_code_short": "V2JP+PX Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.611802375001198,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "514b3b35979b3d58c05975cd3f55e0704040f00103f90171a9d0d000000000c0020192030a486f7420427265616473e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33353033333335373933",
+        "bbox": {
+          "lon1": -96.9626715,
+          "lat1": 32.8817961,
+          "lon2": -96.9625715,
+          "lat2": 32.8818961
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dave's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Preston Road",
+        "housenumber": "1709",
+        "iso3166_2": "US-TX",
+        "lon": -96.7957598,
+        "lat": 33.0236892,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27430.869756514126,
+        "formatted": "Dave's Hot Chicken, 1709 Preston Road, Plano, TX 75093, United States of America",
+        "address_line1": "Dave's Hot Chicken",
+        "address_line2": "1709 Preston Road, Plano, TX 75093, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526F3+FM",
+        "plus_code_short": "26F3+FM, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.213136013181094,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512d1e83baed3258c0595ba2693f08834040f00103f9014c0527a802000000c0020192031244617665277320486f7420436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131343131303634313430",
+        "bbox": {
+          "lon1": -96.7958098,
+          "lat1": 33.0236392,
+          "lon2": -96.7957098,
+          "lat2": 33.0237392
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Squares Hot Pot",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "housenumber": "4152",
+        "iso3166_2": "US-TX",
+        "lon": -96.7734341,
+        "lat": 33.0555526,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 31051.692901461476,
+        "formatted": "Squares Hot Pot, 4152 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Squares Hot Pot",
+        "address_line2": "4152 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655364G+6J",
+        "plus_code_short": "364G+6J, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.88490416294347,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511e47bdf17f3158c059981afc581c874040f00103f90169ed033403000000c0020192030f5371756172657320486f7420506f74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373537353734353035",
+        "bbox": {
+          "lon1": -96.7734841,
+          "lat1": 33.0555026,
+          "lon2": -96.7733841,
+          "lat2": 33.0556026
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fiery Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "housenumber": "151",
+        "iso3166_2": "US-TX",
+        "lon": -96.6955996,
+        "lat": 33.0587254,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32725.12706751332,
+        "formatted": "Fiery Hot Chicken, 151 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Fiery Hot Chicken",
+        "address_line2": "151 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553853+FQ",
+        "plus_code_short": "3853+FQ, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.7707090649346995,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5115472fb4842c58c059e6385c5084874040f00103f901ad01da1803000000c00201920311466965727920486f7420436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333031383432333439",
+        "bbox": {
+          "lon1": -96.6956496,
+          "lat1": 33.0586754,
+          "lon2": -96.6955496,
+          "lat2": 33.0587754
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Cambria Hotel Plano Frisco",
+        "housenumber": "7500",
+        "street": "Parkwood Boulevard",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.817722,
+        "lat": 33.08108,
+        "result_type": "amenity",
+        "distance": 33867.46553831455,
+        "postcode": "75024",
+        "formatted": "Cambria Hotel Plano Frisco, 7500 Parkwood Boulevard, Plano, TX 75024, United States of America",
+        "address_line1": "Cambria Hotel Plano Frisco",
+        "address_line2": "7500 Parkwood Boulevard, Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535JJ+CW",
+        "plus_code_short": "35JJ+CW, 75024 Plano, United States",
+        "rank": {
+          "popularity": 4.96114363823813,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5110cea78e553458c0590a2e56d4608a4040f00102f90128b0e01e00000000c0020192031a43616d6272696120486f74656c20506c616e6f2046726973636fe203216f70656e7374726565746d61703a76656e75653a7761792f353138303431363430",
+        "bbox": {
+          "lon1": -96.8180152,
+          "lat1": 33.0809405,
+          "lon2": -96.8171496,
+          "lat2": 33.0813209
+        }
+      }
+    ],
+    "query": {
+      "text": "Hot Breads Plano"
+    }
+  }
+}

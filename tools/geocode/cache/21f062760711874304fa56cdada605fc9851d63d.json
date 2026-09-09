@@ -1,0 +1,63 @@
+{
+  "queriedName": "Eddies EuroMart",
+  "queriedAt": "2026-09-09T00:41:38.050Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Eddies Euromart",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Zacha Junction",
+        "postcode": "75228",
+        "street": "East Northwest Highway",
+        "housenumber": "300",
+        "iso3166_2": "US-TX",
+        "lon": -96.668419,
+        "lat": 32.864523,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 15462.23149131321,
+        "formatted": "Eddies Euromart, 300 East Northwest Highway, Dallas, TX 75228, United States of America",
+        "address_line1": "Eddies Euromart",
+        "address_line2": "300 East Northwest Highway, Dallas, TX 75228, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V87J+RJ",
+        "plus_code_short": "V87J+RJ, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.6061762617268975,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519a417c60c72a58c059e5d18db0a86e4040f00103f90116d9dd1803000000c0020192030f456464696573204575726f6d617274",
+        "bbox": {
+          "lon1": -96.668469,
+          "lat1": 32.864473,
+          "lon2": -96.668369,
+          "lat2": 32.864573
+        }
+      }
+    ],
+    "query": {
+      "text": "Eddies EuroMart"
+    }
+  }
+}

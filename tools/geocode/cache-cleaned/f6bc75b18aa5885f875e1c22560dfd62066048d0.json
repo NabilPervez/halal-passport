@@ -1,0 +1,202 @@
+{
+  "queriedName": "Aladdin Mediterranean Caf",
+  "queriedAt": "2026-09-09T00:45:37.322Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Aladdin Drive",
+        "street": "Aladdin Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Northwest Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.843692,
+        "lat": 32.897245,
+        "result_type": "street",
+        "distance": 14064.29061162047,
+        "postcode": "75229",
+        "formatted": "Aladdin Drive, Dallas, TX 75229, United States of America",
+        "address_line1": "Aladdin Drive",
+        "address_line2": "Dallas, TX 75229, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V5W4+VG",
+        "plus_code_short": "V5W4+VG, 75229 Dallas, United States",
+        "rank": {
+          "popularity": 4.6385324722604775,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5166f9ba0cff3558c059f0bf95ecd8724040c0020492030d416c616464696e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353334343133",
+        "bbox": {
+          "lon1": -96.84407,
+          "lat1": 32.89497,
+          "lon2": -96.843691,
+          "lat2": 32.899589
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Aladdin Restaurant",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.114257,
+        "lat": 32.717154,
+        "result_type": "amenity",
+        "distance": 30407.738399954615,
+        "postcode": "76010",
+        "formatted": "Aladdin Restaurant, Arlington, TX 76010, United States of America",
+        "address_line1": "Aladdin Restaurant",
+        "address_line2": "Arlington, TX 76010, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PV8P+V7",
+        "plus_code_short": "PV8P+V7, 76010 Arlington, United States",
+        "rank": {
+          "popularity": 4.706685868058003,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b39597fc4f4758c0590919c8b3cb5b4040f00103f90105298b2802000000c00201920312416c616464696e2052657374617572616e74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323730313433323337"
+      },
+      {
+        "country_code": "us",
+        "name": "Aladdin Drive",
+        "street": "Aladdin Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.779473,
+        "lat": 33.052012,
+        "result_type": "street",
+        "distance": 30623.716480526793,
+        "postcode": "75093",
+        "formatted": "Aladdin Drive, Plano, TX 75093, United States of America",
+        "address_line1": "Aladdin Drive",
+        "address_line2": "Plano, TX 75093, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655362C+R6",
+        "plus_code_short": "362C+R6, 75093 Plano, United States",
+        "rank": {
+          "popularity": 4.857930701260119,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515cc7b8e2e23158c059f17f4754a8864040c0020492030d416c616464696e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343037343832",
+        "bbox": {
+          "lon1": -96.779615,
+          "lat1": 33.05079,
+          "lon2": -96.779374,
+          "lat2": 33.053228
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Aladdin Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76010",
+        "street": "South Cooper Street",
+        "housenumber": "1729",
+        "iso3166_2": "US-TX",
+        "lon": -97.1142574,
+        "lat": 32.7171535,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30407.787150564385,
+        "formatted": "Aladdin Restaurant, 1729 South Cooper Street, Arlington, TX 76010, United States of America",
+        "address_line1": "Aladdin Restaurant",
+        "address_line2": "1729 South Cooper Street, Arlington, TX 76010, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PV8P+V7",
+        "plus_code_short": "PV8P+V7, 76010 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51dd1445fe4f4758c059215b96afcb5b4040f00103f90105298b2802000000c00201920312416c616464696e2052657374617572616e74",
+        "bbox": {
+          "lon1": -97.1143074,
+          "lat1": 32.7171035,
+          "lon2": -97.1142074,
+          "lat2": 32.7172035
+        }
+      }
+    ],
+    "query": {
+      "text": "Aladdin Mediterranean Caf"
+    }
+  }
+}

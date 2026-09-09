@@ -1,0 +1,262 @@
+{
+  "queriedName": "Tandoori Pizza & Grill",
+  "queriedAt": "2026-09-09T00:38:01.777Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "JR's Bar & Grill",
+        "housenumber": "3923",
+        "street": "Cedar Springs Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75219",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Turtle Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.811193,
+        "lat": 32.810847,
+        "result_type": "amenity",
+        "distance": 3990.598583884739,
+        "formatted": "JR's Bar & Grill, 3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "JR's Bar & Grill",
+        "address_line2": "3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+8G",
+        "plus_code_short": "R56Q+8G, 75219 Dallas, United States",
+        "rank": {
+          "popularity": 6.115755277856817,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a06f0b96ea3358c059a587a1d5c9674040f00102f9017fc2a24e00000000c002019203104a522773204261722026204772696c6ce203226f70656e7374726565746d61703a76656e75653a7761792f31333139323839343731",
+        "bbox": {
+          "lon1": -96.8114653,
+          "lat1": 32.8106073,
+          "lon2": -96.8111206,
+          "lat2": 32.8108988
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Jadewaters Grill & Bar",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Dallas Market Center",
+        "iso3166_2": "US-TX",
+        "lon": -96.83246,
+        "lat": 32.79957,
+        "result_type": "amenity",
+        "distance": 4157.6640913262045,
+        "postcode": "75207",
+        "formatted": "Jadewaters Grill & Bar, Dallas, TX 75207, United States of America",
+        "address_line1": "Jadewaters Grill & Bar",
+        "address_line2": "Dallas, TX 75207, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5X9+R2",
+        "plus_code_short": "Q5X9+R2, 75207 Dallas, United States",
+        "rank": {
+          "popularity": 5.650884735717494,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519ace4e06473558c0596e6e4c4f58664040f00102f901a9b6f24d00000000c00201e203226f70656e7374726565746d61703a76656e75653a7761792f31333037373532313035",
+        "bbox": {
+          "lon1": -96.8327497,
+          "lat1": 32.7994588,
+          "lon2": -96.8322082,
+          "lat2": 32.799801
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jadewaters Grill & Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75207",
+        "street": "Wycliff Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.8326268,
+        "lat": 32.799633,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4174.324738711059,
+        "formatted": "Jadewaters Grill & Bar, Wycliff Avenue, Dallas, TX 75207, United States of America",
+        "address_line1": "Jadewaters Grill & Bar",
+        "address_line2": "Wycliff Avenue, Dallas, TX 75207, United States of America",
+        "category": "building.accommodation",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5X8+VW",
+        "plus_code_short": "Q5X8+VW, 75207 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517bf1eac1493558c059b4e6c75f5a664040f00102f901a9b6f24d00000000c002019203164a616465776174657273204772696c6c202620426172",
+        "bbox": {
+          "lon1": -96.8327497,
+          "lat1": 32.7994588,
+          "lon2": -96.8322082,
+          "lat2": 32.799801
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lovers Pizza Pasta & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Garland Road",
+        "housenumber": "10302",
+        "iso3166_2": "US-TX",
+        "lon": -96.6923017,
+        "lat": 32.841318,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Casa View",
+        "result_type": "amenity",
+        "distance": 12119.878241648648,
+        "formatted": "Lovers Pizza Pasta & Grill, 10302 Garland Road, Dallas, TX 75218, United States of America",
+        "address_line1": "Lovers Pizza Pasta & Grill",
+        "address_line2": "10302 Garland Road, Dallas, TX 75218, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R8R5+G3",
+        "plus_code_short": "R8R5+G3, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.6365144554618585,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c61dcaab4e2c58c059a0c4e74eb06b4040f00102f9016c7fe61b00000000c0020192031a4c6f766572732050697a7a612050617374612026204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343638303930373332",
+        "bbox": {
+          "lon1": -96.6924457,
+          "lat1": 32.8412058,
+          "lon2": -96.6921578,
+          "lat2": 32.8414766
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Vitto's Pizza & Grill",
+        "street": "2210 W Buckingham Rd",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75042",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.660808,
+        "lat": 32.929775,
+        "result_type": "amenity",
+        "distance": 21223.33692929587,
+        "formatted": "Vitto's Pizza & Grill, 2210 W Buckingham Rd, Garland, TX 75042, United States of America",
+        "address_line1": "Vitto's Pizza & Grill",
+        "address_line2": "2210 W Buckingham Rd, Garland, TX 75042, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W8HQ+WM",
+        "plus_code_short": "W8HQ+WM, 75042 Garland, United States",
+        "rank": {
+          "popularity": 4.843309815717235,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51da3ba3ad4a2a58c059b7d100de02774040f00102f9019d5fd62600000000c00201920315566974746f27732050697a7a612026204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f363531353833333839",
+        "bbox": {
+          "lon1": -96.660999,
+          "lat1": 32.9296456,
+          "lon2": -96.6606539,
+          "lat2": 32.9300854
+        }
+      }
+    ],
+    "query": {
+      "text": "Tandoori Pizza & Grill"
+    }
+  }
+}

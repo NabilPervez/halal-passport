@@ -1,0 +1,267 @@
+{
+  "queriedName": "TX NY Famous Halal Gyro",
+  "queriedAt": "2026-09-09T00:32:39.373Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "TX 310",
+        "street": "TX 310",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "The Cedars",
+        "iso3166_2": "US-TX",
+        "lon": -96.77714,
+        "lat": 32.766497,
+        "result_type": "street",
+        "distance": 2193.5836502325014,
+        "postcode": "75215",
+        "formatted": "TX 310, Dallas, TX 75215, United States of America",
+        "address_line1": "TX 310",
+        "address_line2": "Dallas, TX 75215, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q68F+H4",
+        "plus_code_short": "Q68F+H4, 75215 Dallas, United States",
+        "rank": {
+          "popularity": 5.409207885015293,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51761a69a9bc3158c059b6bddd921c624040c00204920306545820333130e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383639363333",
+        "bbox": {
+          "lon1": -96.777933,
+          "lat1": 32.763035,
+          "lon2": -96.775655,
+          "lat2": 32.770106
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Locksmith Irving TX",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75060",
+        "street": "East Irving Boulevard",
+        "housenumber": "136",
+        "iso3166_2": "US-TX",
+        "lon": -96.9443839,
+        "lat": 32.8133099,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 14355.717669959588,
+        "formatted": "Locksmith Irving TX, 136 East Irving Boulevard, Irving, TX 75060, United States of America",
+        "address_line1": "Locksmith Irving TX",
+        "address_line2": "136 East Irving Boulevard, Irving, TX 75060, United States of America",
+        "category": "commercial;service.locksmith",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R374+86",
+        "plus_code_short": "74+86 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.431176931453761,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519d572bc9703c58c059ab01ef891a684040f00103f9017745b34201000000c002019203134c6f636b736d69746820497276696e67205458e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35343134303132323739",
+        "bbox": {
+          "lon1": -96.9444339,
+          "lat1": 32.8132599,
+          "lon2": -96.9443339,
+          "lat2": 32.8133599
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Plano, TX Supercharger",
+        "other_names": {
+          "brand": "Tesla Supercharger"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Bishop Road",
+        "housenumber": "7161",
+        "iso3166_2": "US-TX",
+        "lon": -96.81969,
+        "lat": 33.07866,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 33609.89072843634,
+        "formatted": "Plano, TX Supercharger, 7161 Bishop Road, Plano, TX 75024, United States of America",
+        "address_line1": "Plano, TX Supercharger",
+        "address_line2": "7161 Bishop Road, Plano, TX 75024, United States of America",
+        "category": "service.vehicle.charging_station",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535HJ+F4",
+        "plus_code_short": "35HJ+F4, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.9814379339493255,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51edb60bcd753458c0596ec0e787118a4040f00103f90192de8a8002000000c00201920316506c616e6f2c20545820537570657263686172676572e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373436353139313836",
+        "bbox": {
+          "lon1": -96.81974,
+          "lat1": 33.07861,
+          "lon2": -96.81964,
+          "lat2": 33.07871
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Lot TX",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Hurst",
+        "postcode": "76054",
+        "street": "Grapevine Highway",
+        "housenumber": "678",
+        "iso3166_2": "US-TX",
+        "lon": -97.1803511,
+        "lat": 32.8618527,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 37044.485015323546,
+        "formatted": "The Lot TX, 678 Grapevine Highway, Hurst, TX 76054, United States of America",
+        "address_line1": "The Lot TX",
+        "address_line2": "678 Grapevine Highway, Hurst, TX 76054, United States of America",
+        "category": "sport.sports_centre",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VR69+PV",
+        "plus_code_short": "VR69+PV Hurst, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000056024261844770236,
+          "popularity": 3.9820700228466515,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510c1357df8a4b58c059123c7430516e4040f00103f9018172963203000000c0020192030a546865204c6f74205458e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373333363232343031",
+        "bbox": {
+          "lon1": -97.1804011,
+          "lat1": 32.8618027,
+          "lon2": -97.1803011,
+          "lat2": 32.8619027
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Farmersville (TX)",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "suburb": "Farmersville (TX)",
+        "iso3166_2": "US-TX",
+        "lon": -96.4082594,
+        "lat": 33.1611952,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 56037.451786436126,
+        "formatted": "Farmersville (TX), Collin County, TX, United States of America",
+        "address_line1": "Farmersville (TX)",
+        "address_line2": "Collin County, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555H6R+FM",
+        "rank": {
+          "importance": 0.08002600061036085,
+          "popularity": 2.332682344968969,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5137d208ec201a58c059d722580ba2944040f00101f901537d2e0100000000c002019203114661726d65727376696c6c652028545829e203256f70656e7374726565746d61703a76656e75653a72656c6174696f6e2f3139383233393535",
+        "bbox": {
+          "lon1": -96.4084313,
+          "lat1": 33.1610578,
+          "lon2": -96.4080897,
+          "lat2": 33.1613332
+        }
+      }
+    ],
+    "query": {
+      "text": "TX NY Famous Halal Gyro"
+    }
+  }
+}

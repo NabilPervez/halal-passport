@@ -1,0 +1,15 @@
+{
+  "queriedName": "Ayat Dallas",
+  "queriedAt": "2026-09-09T00:31:12.350Z",
+  "raw": {
+    "results": [],
+    "query": {
+      "text": "Ayat Dallas",
+      "parsed": {
+        "suburb": "ayat",
+        "city": "dallas",
+        "expected_type": "suburb"
+      }
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "queriedName": "KFC",
+  "queriedAt": "2026-09-09T00:36:17.681Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KFC",
+        "other_names": {
+          "alt_name": "Kentucky Fried Chicken"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Lemmon Avenue",
+        "housenumber": "4303",
+        "iso3166_2": "US-TX",
+        "lon": -96.8118986,
+        "lat": 32.8167117,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4630.1267917670075,
+        "formatted": "KFC, 4303 Lemmon Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "KFC",
+        "address_line2": "4303 Lemmon Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R58Q+M6",
+        "plus_code_short": "R58Q+M6, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.6934581949420835,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c4aa8b25f63358c0595ae14c028a684040f00102f90112eb470d00000000c002019203034b4643",
+        "bbox": {
+          "lon1": -96.8120179,
+          "lat1": 32.8166118,
+          "lon2": -96.8117746,
+          "lat2": 32.8168156
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KFC",
+        "other_names": {
+          "alt_name": "Kentucky Fried Chicken"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75212",
+        "street": "North Hampton Road",
+        "housenumber": "3001",
+        "iso3166_2": "US-TX",
+        "lon": -96.8569648,
+        "lat": 32.779033,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 5610.663540552199,
+        "formatted": "KFC, 3001 North Hampton Road, Dallas, TX 75212, United States of America",
+        "address_line1": "KFC",
+        "address_line2": "3001 North Hampton Road, Dallas, TX 75212, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q4HV+J6",
+        "plus_code_short": "Q4HV+J6, 75212 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.6898203816383495,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51af74e382d83658c0599cc0745ab7634040f00102f901429cbf1b00000000c002019203034b4643",
+        "bbox": {
+          "lon1": -96.857079,
+          "lat1": 32.7789618,
+          "lon2": -96.8568391,
+          "lat2": 32.7790996
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KFC",
+        "other_names": {
+          "alt_name": "Kentucky Fried Chicken"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "West Davis Street",
+        "housenumber": "2407",
+        "iso3166_2": "US-TX",
+        "lon": -96.857353,
+        "lat": 32.7497937,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 6403.047484098184,
+        "formatted": "KFC, 2407 West Davis Street, Dallas, TX 75211, United States of America",
+        "address_line1": "KFC",
+        "address_line2": "2407 West Davis Street, Dallas, TX 75211, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P4XV+W3",
+        "plus_code_short": "P4XV+W3, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.484491162787712,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5129081edfde3658c059981f6e3df95f4040f00102f901a9c9ce1b00000000c002019203034b4643",
+        "bbox": {
+          "lon1": -96.8574179,
+          "lat1": 32.7497272,
+          "lon2": -96.8572875,
+          "lat2": 32.7499154
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KFC",
+        "other_names": {
+          "alt_name": "Kentucky Fried Chicken"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75224",
+        "street": "West Illinois Avenue",
+        "housenumber": "106",
+        "iso3166_2": "US-TX",
+        "lon": -96.8233051,
+        "lat": 32.7200939,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 6789.071556458848,
+        "formatted": "KFC, 106 West Illinois Avenue, Dallas, TX 75224, United States of America",
+        "address_line1": "KFC",
+        "address_line2": "106 West Illinois Avenue, Dallas, TX 75224, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5CG+2M",
+        "plus_code_short": "P5CG+2M, 75224 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.255691511035636,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5152c8df07b13458c059494673092c5c4040f00102f901d6c3d11b00000000c002019203034b4643",
+        "bbox": {
+          "lon1": -96.8234368,
+          "lat1": 32.7200426,
+          "lon2": -96.8231552,
+          "lat2": 32.7201505
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "KFC",
+        "other_names": {
+          "alt_name": "Kentucky Fried Chicken"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6130",
+        "iso3166_2": "US-TX",
+        "lon": -96.7600482,
+        "lat": 32.8361114,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 7424.939905050085,
+        "formatted": "KFC, 6130 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "KFC",
+        "address_line2": "6130 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PQ+CX",
+        "plus_code_short": "R6PQ+CX, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.054909771288179,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518e9834a1a43058c0590968c7b2056b4040f00102f901d7adc21b00000000c002019203034b4643",
+        "bbox": {
+          "lon1": -96.7601158,
+          "lat1": 32.8359658,
+          "lon2": -96.7599807,
+          "lat2": 32.8362146
+        }
+      }
+    ],
+    "query": {
+      "text": "KFC"
+    }
+  }
+}

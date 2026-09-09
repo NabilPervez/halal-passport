@@ -1,0 +1,15 @@
+{
+  "queriedName": "Subz N Stuff Gourmet Deli 2",
+  "queriedAt": "2026-09-09T00:39:16.383Z",
+  "raw": {
+    "results": [],
+    "query": {
+      "text": "Subz N Stuff Gourmet Deli 2",
+      "parsed": {
+        "housenumber": "2",
+        "street": "subz stuff gourmet deli",
+        "expected_type": "building"
+      }
+    }
+  }
+}

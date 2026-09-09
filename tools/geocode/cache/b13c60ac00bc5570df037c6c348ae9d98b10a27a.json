@@ -1,0 +1,62 @@
+{
+  "queriedName": "Shiraz Mediterranean Grill",
+  "queriedAt": "2026-09-09T00:39:34.855Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shiraz Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "18101",
+        "iso3166_2": "US-TX",
+        "lon": -96.7986234,
+        "lat": 32.9991856,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24706.410634416032,
+        "formatted": "Shiraz Mediterranean Grill, 18101 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Shiraz Mediterranean Grill",
+        "address_line2": "18101 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6X2+MH",
+        "plus_code_short": "X6X2+MH, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.215221833037157,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51803452a51c3358c0592b515150e57f4040f00103f9017ba2da2f03000000c0020192031a53686972617a204d65646974657272616e65616e204772696c6c",
+        "bbox": {
+          "lon1": -96.7986734,
+          "lat1": 32.9991356,
+          "lon2": -96.7985734,
+          "lat2": 32.9992356
+        }
+      }
+    ],
+    "query": {
+      "text": "Shiraz Mediterranean Grill"
+    }
+  }
+}

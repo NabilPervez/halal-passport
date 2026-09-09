@@ -1,0 +1,274 @@
+{
+  "queriedName": "Giovanni's Mediterranean Grill",
+  "queriedAt": "2026-09-09T00:39:34.277Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "6450",
+        "iso3166_2": "US-TX",
+        "lon": -96.9581064,
+        "lat": 32.8971396,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20125.069267668474,
+        "formatted": "Andalous Mediterranean Grill, 6450 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "Andalous Mediterranean Grill",
+        "address_line2": "6450 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WR+VQ",
+        "plus_code_short": "V2WR+VQ Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.60604292812387,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a785819d513d58c05928f96c78d5724040f00103f901af9daebd02000000c0020192031c416e64616c6f7573204d65646974657272616e65616e204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131373732323732303437",
+        "bbox": {
+          "lon1": -96.9581564,
+          "lat1": 32.8970896,
+          "lon2": -96.9580564,
+          "lat2": 32.8971896
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ardy's Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "district": "Addison Circle",
+        "street": "Quorum Drive",
+        "housenumber": "15615",
+        "iso3166_2": "US-TX",
+        "lon": -96.8261066,
+        "lat": 32.9618042,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20728.338662731494,
+        "formatted": "Ardy's Mediterranean Grill, 15615 Quorum Drive, Addison, TX 75001, United States of America",
+        "address_line1": "Ardy's Mediterranean Grill",
+        "address_line2": "15615 Quorum Drive, Addison, TX 75001, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X56F+PH",
+        "plus_code_short": "6F+PH, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.9457243191475015,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a08037eede3458c059e61368661c7b4040f00103f901b62d006b00000000c0020192031a417264792773204d65646974657272616e65616e204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f31373935313733383134",
+        "bbox": {
+          "lon1": -96.8261566,
+          "lat1": 32.9617542,
+          "lon2": -96.8260566,
+          "lat2": 32.9618542
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shiraz Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "18101",
+        "iso3166_2": "US-TX",
+        "lon": -96.7986234,
+        "lat": 32.9991856,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 24706.410634416032,
+        "formatted": "Shiraz Mediterranean Grill, 18101 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Shiraz Mediterranean Grill",
+        "address_line2": "18101 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6X2+MH",
+        "plus_code_short": "X6X2+MH, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.215221833037157,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51803452a51c3358c0592b515150e57f4040f00103f9017ba2da2f03000000c0020192031a53686972617a204d65646974657272616e65616e204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363837373539343833",
+        "bbox": {
+          "lon1": -96.7986734,
+          "lat1": 32.9991356,
+          "lon2": -96.7985734,
+          "lat2": 32.9992356
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Giovanni's Mediterranean & Italian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "18484",
+        "iso3166_2": "US-TX",
+        "lon": -96.7951596,
+        "lat": 33.0017966,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 24996.86665458092,
+        "formatted": "Giovanni's Mediterranean & Italian Cuisine, 18484 Preston Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Giovanni's Mediterranean & Italian Cuisine",
+        "address_line2": "18484 Preston Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552623+PW",
+        "plus_code_short": "2623+PW, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.16624991808756,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516e4617e5e33258c0593b1ff9de3a804040f00103f9016a3caf4b02000000c0020192032a47696f76616e6e692773204d65646974657272616e65616e2026204974616c69616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39383539373130303538",
+        "bbox": {
+          "lon1": -96.7952096,
+          "lat1": 33.0017466,
+          "lon2": -96.7951096,
+          "lat2": 33.0018466
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76018",
+        "street": "East Interstate 20",
+        "housenumber": "457",
+        "iso3166_2": "US-TX",
+        "lon": -97.1029908,
+        "lat": 32.6801522,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30581.75895371077,
+        "formatted": "Andalous Mediterranean Grill, 457 East Interstate 20, Arlington, TX 76018, United States of America",
+        "address_line1": "Andalous Mediterranean Grill",
+        "address_line2": "457 East Interstate 20, Arlington, TX 76018, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MVJW+3R",
+        "plus_code_short": "MVJW+3R, 76018 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.325175158615842,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517d72b966974658c059b7a62f3a0f574040f00103f901bb81da2f03000000c0020192031c416e64616c6f7573204d65646974657272616e65616e204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363837373531303939",
+        "bbox": {
+          "lon1": -97.1030408,
+          "lat1": 32.6801022,
+          "lon2": -97.1029408,
+          "lat2": 32.6802022
+        }
+      }
+    ],
+    "query": {
+      "text": "Giovanni's Mediterranean Grill"
+    }
+  }
+}

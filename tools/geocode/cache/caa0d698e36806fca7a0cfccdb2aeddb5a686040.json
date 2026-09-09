@@ -1,0 +1,62 @@
+{
+  "queriedName": "Ariana Cuisine",
+  "queriedAt": "2026-09-09T00:31:46.774Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ariana Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "Lower Greenville",
+        "street": "Greenville Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.7703182,
+        "lat": 32.8312535,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 6527.826524634193,
+        "formatted": "Ariana Cuisine, Greenville Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Ariana Cuisine",
+        "address_line2": "Greenville Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6JH+GV",
+        "plus_code_short": "R6JH+GV, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.446159610270971,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51df20b5e44c3158c059c097c283666a4040f00103f9018d06d34103000000c0020192030e417269616e612043756973696e65",
+        "bbox": {
+          "lon1": -96.7703682,
+          "lat1": 32.8312035,
+          "lon2": -96.7702682,
+          "lat2": 32.8313035
+        }
+      }
+    ],
+    "query": {
+      "text": "Ariana Cuisine"
+    }
+  }
+}

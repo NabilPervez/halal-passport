@@ -1,0 +1,266 @@
+{
+  "queriedName": "Layne’s Chicken Fingers",
+  "queriedAt": "2026-09-09T00:34:24.043Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "The Colony",
+        "postcode": "75056",
+        "street": "State Highway 121",
+        "housenumber": "4650",
+        "iso3166_2": "US-TX",
+        "lon": -96.8888944,
+        "lat": 33.0645572,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33105.415156743424,
+        "formatted": "Layne's Chicken Fingers, 4650 State Highway 121, The Colony, TX 75056, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "4650 State Highway 121, The Colony, TX 75056, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553476+RC",
+        "plus_code_short": "3476+RC The Colony, Denton County, United States",
+        "rank": {
+          "importance": 0.00003750133516437045,
+          "popularity": 4.455673898548911,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513e6656a5e33858c059555c0b6943884040f00102f901fbcf521d00000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -96.8890178,
+          "lat1": 33.0644317,
+          "lon2": -96.888771,
+          "lat2": 33.0646745
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Rockwall County",
+        "city": "Rockwall",
+        "postcode": "75087",
+        "street": "South Goliad Street",
+        "housenumber": "1801",
+        "iso3166_2": "US-TX",
+        "lon": -96.452777,
+        "lat": 32.9139456,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 35580.212672372254,
+        "formatted": "Layne's Chicken Fingers, 1801 South Goliad Street, Rockwall, TX 75087, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "1801 South Goliad Street, Rockwall, TX 75087, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WG7W+HV",
+        "plus_code_short": "WG7W+HV Rockwall, Rockwall County, United States",
+        "rank": {
+          "importance": 0.0000578355077439081,
+          "popularity": 3.3634742517199445,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5162d8614cfa1c58c0595b295f2bfc744040f00102f901ac021d3b00000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -96.452914,
+          "lat1": 32.9138323,
+          "lon2": -96.4526274,
+          "lat2": 32.9140487
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "Central Expressway South",
+        "housenumber": "102",
+        "iso3166_2": "US-TX",
+        "lon": -96.6795738,
+        "lat": 33.1012826,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37686.96439231359,
+        "formatted": "Layne's Chicken Fingers, 102 Central Expressway South, Allen, TX 75013, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "102 Central Expressway South, Allen, TX 75013, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655482C+G5",
+        "plus_code_short": "2C+G5 Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.868372787653019,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb8d1b237e2b58c059b15307d4f68c4040f00102f901453ba02200000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -96.6797227,
+          "lat1": 33.1012322,
+          "lon2": -96.6794453,
+          "lat2": 33.1013616
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Roanoke",
+        "postcode": "76262",
+        "street": "North US Highway 377",
+        "housenumber": "1500",
+        "iso3166_2": "US-TX",
+        "lon": -97.2167277,
+        "lat": 33.0177008,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 47455.39058890341,
+        "formatted": "Layne's Chicken Fingers, 1500 North US Highway 377, Roanoke, TX 76262, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "1500 North US Highway 377, Roanoke, TX 76262, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542Q9M+38",
+        "plus_code_short": "9M+38, 76262 Roanoke, United States",
+        "rank": {
+          "importance": 0.000055679407949904895,
+          "popularity": 4.016755854592279,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51cae8dbddde4d58c059788e120544824040f00102f9019fb6f92300000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -97.2168788,
+          "lat1": 33.0175854,
+          "lon2": -97.2165738,
+          "lat2": 33.0177969
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Layne's Chicken Fingers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76201",
+        "street": "West Oak Street",
+        "housenumber": "1221",
+        "iso3166_2": "US-TX",
+        "lon": -97.1453046,
+        "lat": 33.2147614,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 58519.879112510025,
+        "formatted": "Layne's Chicken Fingers, 1221 West Oak Street, Denton, TX 76201, United States of America",
+        "address_line1": "Layne's Chicken Fingers",
+        "address_line2": "1221 West Oak Street, Denton, TX 76201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546V73+WV",
+        "plus_code_short": "73+WV, 76201 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 3.0586893451739003,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51563daaab4c4958c059bab8324d7d9b4040f00103f901bb99cd3301000000c002019203174c61796e65277320436869636b656e2046696e67657273",
+        "bbox": {
+          "lon1": -97.1453546,
+          "lat1": 33.2147114,
+          "lon2": -97.1452546,
+          "lat2": 33.2148114
+        }
+      }
+    ],
+    "query": {
+      "text": "Layne’s Chicken Fingers"
+    }
+  }
+}

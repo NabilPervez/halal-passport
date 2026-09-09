@@ -1,0 +1,62 @@
+{
+  "queriedName": "Southern Spice",
+  "queriedAt": "2026-09-09T00:40:47.907Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Southern Spice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "West Royal Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.961094,
+        "lat": 32.8963421,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20276.579842617604,
+        "formatted": "Southern Spice, West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Southern Spice",
+        "address_line2": "West Royal Lane, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WQ+GH",
+        "plus_code_short": "V2WQ+GH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.605744352143677,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5170986890823d58c05994c38256bb724040f00103f901bb6ab06202000000c0020192030e536f75746865726e205370696365",
+        "bbox": {
+          "lon1": -96.961144,
+          "lat1": 32.8962921,
+          "lon2": -96.961044,
+          "lat2": 32.8963921
+        }
+      }
+    ],
+    "query": {
+      "text": "Southern Spice"
+    }
+  }
+}

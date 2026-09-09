@@ -1,0 +1,62 @@
+{
+  "queriedName": "Hot Chicks Nashville Hot Chicken",
+  "queriedAt": "2026-09-09T00:36:24.423Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hot Chicks Nashville Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Dallas Parkway",
+        "housenumber": "1885",
+        "iso3166_2": "US-TX",
+        "lon": -96.8307455,
+        "lat": 33.0261959,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27887.882597032352,
+        "formatted": "Hot Chicks Nashville Hot Chicken, 1885 Dallas Parkway, Plano, TX 75093, United States of America",
+        "address_line1": "Hot Chicks Nashville Hot Chicken",
+        "address_line2": "1885 Dallas Parkway, Plano, TX 75093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865525G9+FP",
+        "plus_code_short": "25G9+FP, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 6.668979637418233,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5126732cef2a3558c05907e522635a834040f00103f901bc7c274e02000000c00201920320486f7420436869636b73204e61736876696c6c6520486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.8307955,
+          "lat1": 33.0261459,
+          "lon2": -96.8306955,
+          "lat2": 33.0262459
+        }
+      }
+    ],
+    "query": {
+      "text": "Hot Chicks Nashville Hot Chicken"
+    }
+  }
+}

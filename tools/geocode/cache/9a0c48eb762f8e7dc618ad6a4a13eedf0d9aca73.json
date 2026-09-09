@@ -1,0 +1,265 @@
+{
+  "queriedName": "Shipley Do-Nuts",
+  "queriedAt": "2026-09-09T00:36:30.640Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shipley Do-Nuts",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75228",
+        "street": "Ferguson Road",
+        "housenumber": "10332",
+        "iso3166_2": "US-TX",
+        "lon": -96.6718394,
+        "lat": 32.8356757,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 13394.055915129751,
+        "formatted": "Shipley Do-Nuts, 10332 Ferguson Road, Dallas, TX 75228, United States of America",
+        "address_line1": "Shipley Do-Nuts",
+        "address_line2": "10332 Ferguson Road, Dallas, TX 75228, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R8PH+77",
+        "plus_code_short": "R8PH+77, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.3496808503234226,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5183caae6aff2a58c059edc7dc6bf76a4040f00103f90173e8f84103000000c0020192030f536869706c657920446f2d4e757473",
+        "bbox": {
+          "lon1": -96.6718894,
+          "lat1": 32.8356257,
+          "lon2": -96.6717894,
+          "lat2": 32.8357257
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shipley Do-Nuts",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75149",
+        "street": "West Main Street",
+        "housenumber": "405",
+        "iso3166_2": "US-TX",
+        "lon": -96.602673,
+        "lat": 32.767379,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 18200.282200357055,
+        "formatted": "Shipley Do-Nuts, 405 West Main Street, Mesquite, TX 75149, United States of America",
+        "address_line1": "Shipley Do-Nuts",
+        "address_line2": "405 West Main Street, Mesquite, TX 75149, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q98W+XW",
+        "plus_code_short": "8W+XW, 75149 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "popularity": 4.279078236167639,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a94bc631922658c0598f519e7939624040f00102f90144732b2800000000c0020192030f536869706c657920446f2d4e757473",
+        "bbox": {
+          "lon1": -96.6027703,
+          "lat1": 32.7673191,
+          "lon2": -96.6025767,
+          "lat2": 32.767442
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shipley Do-nuts",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75044",
+        "street": "North Jupiter Road",
+        "housenumber": "4750",
+        "iso3166_2": "US-TX",
+        "lon": -96.6820344,
+        "lat": 32.9592117,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 22930.284126479037,
+        "formatted": "Shipley Do-nuts, 4750 North Jupiter Road, Garland, TX 75044, United States of America",
+        "address_line1": "Shipley Do-nuts",
+        "address_line2": "4750 North Jupiter Road, Garland, TX 75044, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X859+M5",
+        "plus_code_short": "X859+M5, 75044 Garland, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.815190784254312,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51cfaf9c73a62b58c05964b8f072c77a4040f00103f9015e265a4d01000000c0020192030f536869706c657920446f2d6e757473",
+        "bbox": {
+          "lon1": -96.6820844,
+          "lat1": 32.9591617,
+          "lon2": -96.6819844,
+          "lat2": 32.9592617
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shipley Do-Nuts",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75282",
+        "street": "Preston Road",
+        "housenumber": "17848",
+        "iso3166_2": "US-TX",
+        "lon": -96.7986621,
+        "lat": 32.9950769,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24249.575049944684,
+        "formatted": "Shipley Do-Nuts, 17848 Preston Road, Dallas, TX 75282, United States of America",
+        "address_line1": "Shipley Do-Nuts",
+        "address_line2": "17848 Preston Road, Dallas, TX 75282, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6W2+2G",
+        "plus_code_short": "X6W2+2G, 75282 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.214352077506677,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518003a4471d3358c059a6400bae5e7f4040f00102f9018936fd1b00000000c0020192030f536869706c657920446f2d4e757473",
+        "bbox": {
+          "lon1": -96.7987958,
+          "lat1": 32.9949879,
+          "lon2": -96.7985281,
+          "lat2": 32.995157
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shipley Do-Nuts",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Carrollton",
+        "postcode": "75007",
+        "street": "West Hebron Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.9307122,
+        "lat": 33.0212279,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 29888.825550751604,
+        "formatted": "Shipley Do-Nuts, West Hebron Parkway, Carrollton, TX 75007, United States of America",
+        "address_line1": "Shipley Do-Nuts",
+        "address_line2": "West Hebron Parkway, Carrollton, TX 75007, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865523C9+FP",
+        "plus_code_short": "23C9+FP, 75007 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.339216527600393,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513f3fe7c9903b58c059a2218898b7824040f00103f9018e9d19a702000000c0020192030f536869706c657920446f2d4e757473",
+        "bbox": {
+          "lon1": -96.9307622,
+          "lat1": 33.0211779,
+          "lon2": -96.9306622,
+          "lat2": 33.0212779
+        }
+      }
+    ],
+    "query": {
+      "text": "Shipley Do-Nuts"
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "queriedName": "Smokin' Grill",
+  "queriedAt": "2026-09-09T00:35:25.355Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pressbox Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1623",
+        "iso3166_2": "US-TX",
+        "lon": -96.7974139,
+        "lat": 32.7816508,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 518.5917131128838,
+        "formatted": "Pressbox Grill, 1623 Main Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Pressbox Grill",
+        "address_line2": "1623 Main Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J3+M2",
+        "plus_code_short": "J3+M2, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510d784fd4083358c059357227220d644040f00103f901851e5b8300000000c0020192030e5072657373626f78204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f32323033373836383835",
+        "bbox": {
+          "lon1": -96.7974639,
+          "lat1": 32.7816008,
+          "lon2": -96.7973639,
+          "lat2": 32.7817008
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Record Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "district": "West End Historic District",
+        "suburb": "Downtown PID",
+        "street": "Elm Street",
+        "housenumber": "605",
+        "iso3166_2": "US-TX",
+        "lon": -96.8069224,
+        "lat": 32.7799935,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 985.5522589021996,
+        "formatted": "Record Grill, 605 Elm Street, Dallas, TX 75202, United States of America",
+        "address_line1": "Record Grill",
+        "address_line2": "605 Elm Street, Dallas, TX 75202, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5HV+X6",
+        "plus_code_short": "HV+X6, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.968469239092068,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513b9ad99da43358c059dacbb6d3d6634040f00102f90175db601600000000c0020192030c5265636f7264204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f333735343436333839",
+        "bbox": {
+          "lon1": -96.8069726,
+          "lat1": 32.7799374,
+          "lon2": -96.8068721,
+          "lat2": 32.7800495
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smokin' & Rollin' BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75099",
+        "street": "South Riverfront Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.7947065,
+        "lat": 32.7597969,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Cedars",
+        "result_type": "amenity",
+        "distance": 1924.8824094844467,
+        "formatted": "Smokin' & Rollin' BBQ, South Riverfront Boulevard, Dallas, TX 75099, United States of America",
+        "address_line1": "Smokin' & Rollin' BBQ",
+        "address_line2": "South Riverfront Boulevard, Dallas, TX 75099, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q654+W4",
+        "plus_code_short": "Q654+W4, 75099 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.775073840335733,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51cbdaa678dc3258c059148d5a0641614040f00102f901f499625000000000c00201920315536d6f6b696e27202620526f6c6c696e2720424251e203226f70656e7374726565746d61703a76656e75653a7761792f31333438363339323230",
+        "bbox": {
+          "lon1": -96.7948499,
+          "lat1": 32.7596862,
+          "lon2": -96.7945607,
+          "lat2": 32.7598975
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Serengetti Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "hamlet": "Oak Cliff",
+        "postcode": "75203",
+        "district": "Giants of the Savana",
+        "street": "Marsalis Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.8149662,
+        "lat": 32.7382034,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Cliff",
+        "result_type": "amenity",
+        "distance": 4629.586292218387,
+        "formatted": "Serengetti Grill, Marsalis Parkway, Dallas, TX 75203, United States of America",
+        "address_line1": "Serengetti Grill",
+        "address_line2": "Marsalis Parkway, Dallas, TX 75203, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5QP+72",
+        "plus_code_short": "P5QP+72, 75203 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.692777286752636,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b16fe67283458c059e465f2727d5e4040f00102f90152a7202800000000c00201920310536572656e6765747469204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f363733323238363236",
+        "bbox": {
+          "lon1": -96.815128,
+          "lat1": 32.7381184,
+          "lon2": -96.8148044,
+          "lat2": 32.7382791
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Smokin Glassworks",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.805119,
+        "lat": 33.108828,
+        "result_type": "amenity",
+        "distance": 36905.4186426983,
+        "postcode": "75024",
+        "formatted": "Smokin Glassworks, Frisco, TX 75024, United States of America",
+        "address_line1": "Smokin Glassworks",
+        "address_line2": "Frisco, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655455V+GX",
+        "plus_code_short": "455V+GX, 75024 Frisco, United States",
+        "rank": {
+          "popularity": 4.885682298267955,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d998d711873358c059ce716e13ee8d4040f00103f901589154f202000000c00201920311536d6f6b696e20476c617373776f726b73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132363535353633303936"
+      }
+    ],
+    "query": {
+      "text": "Smokin' Grill"
+    }
+  }
+}

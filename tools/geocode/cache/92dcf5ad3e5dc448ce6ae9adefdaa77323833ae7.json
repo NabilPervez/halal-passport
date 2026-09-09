@@ -1,0 +1,267 @@
+{
+  "queriedName": "AJ's Hot Chicken",
+  "queriedAt": "2026-09-09T00:35:18.950Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Statler Hotel",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Main Street District",
+        "iso3166_2": "US-TX",
+        "lon": -96.79489,
+        "lat": 32.780453,
+        "result_type": "amenity",
+        "distance": 431.66547772195867,
+        "postcode": "75201",
+        "formatted": "Statler Hotel, Dallas, TX 75201, United States of America",
+        "address_line1": "Statler Hotel",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J4+52",
+        "plus_code_short": "J4+52, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 7.401389489846939,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b77a4e7adf3258c059558847e2e5634040f00102f9017429b70100000000c00201e203206f70656e7374726565746d61703a76656e75653a7761792f3238373830393136",
+        "bbox": {
+          "lon1": -96.795363,
+          "lat1": 32.7800166,
+          "lon2": -96.7939269,
+          "lat2": 32.7808267
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Statler Hotel",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Downtown PID",
+        "street": "Commerce Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.7946529,
+        "lat": 32.7804316,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 440.1703584173034,
+        "formatted": "Statler Hotel, Commerce Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Statler Hotel",
+        "address_line2": "Commerce Street, Dallas, TX 75226, United States of America",
+        "category": "accommodation.hotel",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J4+54",
+        "plus_code_short": "J4+54, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.31298735030903774,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fb4ad697db3258c059ea61c32ee5634040f00102f9017429b70100000000c0020192030d537461746c657220486f74656c",
+        "bbox": {
+          "lon1": -96.795363,
+          "lat1": 32.7800166,
+          "lon2": -96.7939269,
+          "lat2": 32.7808267
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Worth Hotel",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75215",
+        "street": "South Ervay Street",
+        "housenumber": "1304",
+        "iso3166_2": "US-TX",
+        "lon": -96.7878116,
+        "lat": 32.7728936,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Farmers Market District",
+        "result_type": "amenity",
+        "distance": 972.8648239717634,
+        "formatted": "Worth Hotel, 1304 South Ervay Street, Dallas, TX 75215, United States of America",
+        "address_line1": "Worth Hotel",
+        "address_line2": "1304 South Ervay Street, Dallas, TX 75215, United States of America",
+        "category": "building.public_and_civil",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6F6+5V",
+        "plus_code_short": "Q6F6+5V, 75215 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.199184242002951,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51345a58816b3258c059d4a46f2dee624040f00102f90190da211c00000000c0020192030b576f72746820486f74656ce203216f70656e7374726565746d61703a76656e75653a7761792f343731393830363838",
+        "bbox": {
+          "lon1": -96.7878845,
+          "lat1": 32.7728229,
+          "lon2": -96.7877387,
+          "lat2": 32.7729546
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "AJ’s On Main",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76051",
+        "street": "South Main Street",
+        "housenumber": "651",
+        "iso3166_2": "US-TX",
+        "lon": -97.0781957,
+        "lat": 32.934505,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 31569.49909111956,
+        "formatted": "AJ’s On Main, 651 South Main Street, Grapevine, TX 76051, United States of America",
+        "address_line1": "AJ’s On Main",
+        "address_line2": "651 South Main Street, Grapevine, TX 76051, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WWMC+RP",
+        "plus_code_short": "+RP Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005779888609135603,
+          "popularity": 5.506123533871125,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51058c8928014558c05968791edc9d774040f00103f901b334bf4202000000c0020192030e414ae2809973204f6e204d61696ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f39373039373631373135",
+        "bbox": {
+          "lon1": -97.0782457,
+          "lat1": 32.934455,
+          "lon2": -97.0781457,
+          "lat2": 32.934555
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "AJ's Quick Trip",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Wylie",
+        "postcode": "75098",
+        "street": "South Ballard Avenue",
+        "housenumber": "202",
+        "iso3166_2": "US-TX",
+        "lon": -96.539231,
+        "lat": 33.0117255,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 35502.92261168101,
+        "formatted": "AJ's Quick Trip, 202 South Ballard Avenue, Wylie, TX 75098, United States of America",
+        "address_line1": "AJ's Quick Trip",
+        "address_line2": "202 South Ballard Avenue, Wylie, TX 75098, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552F66+M8",
+        "plus_code_short": "66+M8 Wylie, Collin County, United States",
+        "rank": {
+          "importance": 0.000055952544441855764,
+          "popularity": 3.670949551996791,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51527fbdc2822258c059be839f3880814040f00102f901821c432a00000000c0020192030f414a277320517569636b2054726970e203216f70656e7374726565746d61703a76656e75653a7761792f373039303431323832",
+        "bbox": {
+          "lon1": -96.539295,
+          "lat1": 33.011652,
+          "lon2": -96.539167,
+          "lat2": 33.011799
+        }
+      }
+    ],
+    "query": {
+      "text": "AJ's Hot Chicken"
+    }
+  }
+}

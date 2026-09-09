@@ -1,0 +1,249 @@
+{
+  "queriedName": "Terra Mediterranean",
+  "queriedAt": "2026-09-09T00:38:33.759Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Terra Lago",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.50816,
+        "lat": 32.923322,
+        "result_type": "amenity",
+        "distance": 31507.690650561126,
+        "postcode": "75089",
+        "formatted": "Terra Lago, Dallas, TX 75089, United States of America",
+        "address_line1": "Terra Lago",
+        "address_line2": "Dallas, TX 75089, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WFFR+8P",
+        "plus_code_short": "WFFR+8P, 75089 Dallas, United States",
+        "rank": {
+          "popularity": 3.643731684301284,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51aa4885b1852058c059b2d6506a2f764040f00102f90198b7743d00000000c00201e203226f70656e7374726565746d61703a76656e75653a7761792f31303331303539333532",
+        "bbox": {
+          "lon1": -96.5094131,
+          "lat1": 32.9224955,
+          "lon2": -96.5061944,
+          "lat2": 32.9240869
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Terra Lago",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Rockwall County",
+        "city": "Rowlett",
+        "iso3166_2": "US-TX",
+        "lon": -96.5077951,
+        "lat": 32.9233722,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31539.759483321868,
+        "formatted": "Terra Lago, Rowlett, TX, United States of America",
+        "address_line1": "Terra Lago",
+        "address_line2": "Rowlett, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WFFR+8V",
+        "plus_code_short": "WFFR+8V Rowlett, Rockwall County, United States",
+        "rank": {
+          "importance": 0.08005548256656746,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516be404b77f2058c0598e846c0f31764040f00102f90198b7743d00000000c0020192030a5465727261204c61676f",
+        "bbox": {
+          "lon1": -96.5094131,
+          "lat1": 32.9224955,
+          "lon2": -96.5061944,
+          "lat2": 32.9240869
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Terra Circle",
+        "street": "Terra Circle",
+        "country": "United States",
+        "county": "Kaufman County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "KU",
+        "iso3166_2": "US-TX",
+        "lon": -96.430323,
+        "lat": 32.710622,
+        "result_type": "street",
+        "distance": 35079.064060836216,
+        "postcode": "75126",
+        "formatted": "Terra Circle, Kaufman County, TX 75126, United States of America",
+        "address_line1": "Terra Circle",
+        "address_line2": "Kaufman County, TX 75126, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645PH69+6V",
+        "rank": {
+          "popularity": 2.9640440991548167,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51dded7a698a1b58c059b8e864a9f55a4040c0020492030c546572726120436972636c65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363834373833",
+        "bbox": {
+          "lon1": -96.430877,
+          "lat1": 32.710159,
+          "lon2": -96.429769,
+          "lat2": 32.711085
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Terra Drive",
+        "street": "Terra Drive",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.153708,
+        "lat": 32.652718,
+        "result_type": "street",
+        "distance": 36120.443154804154,
+        "postcode": "76017",
+        "formatted": "Terra Drive, Arlington, TX 76017, United States of America",
+        "address_line1": "Terra Drive",
+        "address_line2": "Arlington, TX 76017, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MR3W+3G",
+        "plus_code_short": "MR3W+3G, 76017 Arlington, United States",
+        "rank": {
+          "popularity": 3.851803000713621,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518c48145ad64958c05959c16f438c534040c0020492030b5465727261204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373032383939",
+        "bbox": {
+          "lon1": -97.153881,
+          "lat1": 32.652714,
+          "lon2": -97.153534,
+          "lat2": 32.652721
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Terra Bella",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Westlake",
+        "iso3166_2": "US-TX",
+        "lon": -97.169873,
+        "lat": 32.973825,
+        "result_type": "amenity",
+        "distance": 41128.35078364992,
+        "postcode": "76262",
+        "formatted": "Terra Bella, Westlake, TX 76262, United States of America",
+        "address_line1": "Terra Bella",
+        "address_line2": "Westlake, TX 76262, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XRFJ+G3",
+        "plus_code_short": "XRFJ+G3, 76262 Westlake, United States",
+        "rank": {
+          "popularity": 3.6325033700722575,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514cde0033df4a58c0597b832f4ca67c4040f00102f9013567a12d00000000c00201e203216f70656e7374726565746d61703a76656e75653a7761792f373635353532343337",
+        "bbox": {
+          "lon1": -97.1729446,
+          "lat1": 32.9707362,
+          "lon2": -97.1676366,
+          "lat2": 32.9767917
+        }
+      }
+    ],
+    "query": {
+      "text": "Terra Mediterranean"
+    }
+  }
+}

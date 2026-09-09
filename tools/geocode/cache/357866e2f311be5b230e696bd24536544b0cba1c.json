@@ -1,0 +1,319 @@
+{
+  "queriedName": "Black Tap Craft Burgers & Beer - Dallas",
+  "queriedAt": "2026-09-09T00:32:04.252Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dallas",
+        "other_names": {
+          "name:zh": "达拉斯;達拉斯",
+          "name:chr": "ᏕᎳᏏ",
+          "name:zh-Hans": "达拉斯",
+          "name:zh-Hant": "達拉斯",
+          "name:am": "ዳላስ",
+          "name:ar": "دالاس",
+          "name:be": "Далас",
+          "name:bg": "Далас",
+          "name:bn": "ডালাস",
+          "name:ce": "Даллас",
+          "name:el": "Ντάλας",
+          "name:fa": "دالاس",
+          "name:gu": "ડલ્લાસ",
+          "name:he": "דאלאס",
+          "name:hi": "डैलस",
+          "name:ht": "Dalas",
+          "name:hy": "Դալաս",
+          "name:ja": "ダラス",
+          "name:ka": "დალასი",
+          "name:kk": "Даллас",
+          "name:kn": "ಡಲ್ಲಾಸ್",
+          "name:ko": "댈러스",
+          "name:ky": "Даллас",
+          "name:la": "Dallasium",
+          "name:lt": "Dalasas",
+          "name:lv": "Dalasa",
+          "name:mi": "Tarihi",
+          "name:mk": "Далас",
+          "name:ml": "ഡാളസ്",
+          "name:mn": "Даллас",
+          "name:mr": "डॅलस",
+          "name:my": "ဒါးလတ်စ်မြို့",
+          "name:os": "Даллас",
+          "name:pa": "ਡਾਲਸ",
+          "name:ru": "Даллас",
+          "name:sd": "ڊلاس",
+          "name:sr": "Далас",
+          "name:ta": "டாலஸ்",
+          "name:te": "డల్లాస్",
+          "name:tg": "Даллас",
+          "name:th": "แดลลัส",
+          "name:tt": "Дәлас",
+          "name:uk": "Даллас",
+          "name:ur": "ڈیلاس",
+          "alt_name:el": "Ντάλλας",
+          "name:ru:word_stress": "Да́ллас"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.7968559,
+        "lat": 32.7762719,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 82.07437920121018,
+        "formatted": "Dallas, TX, United States of America",
+        "address_line1": "Dallas, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6G3+G7",
+        "plus_code_short": "G3+G7 Dallas, Dallas County, United States",
+        "rank": {
+          "importance": 0.7208730637207591,
+          "popularity": 8.00260672129835,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "51fa87e3afff3258c059e2a6abe05c634040f00101f9016d46640000000000c0020892030644616c6c6173",
+        "bbox": {
+          "lon1": -97.000482,
+          "lat1": 32.613216,
+          "lon2": -96.4636317,
+          "lat2": 33.0239366
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Haystack Burgers & Barley",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6465",
+        "iso3166_2": "US-TX",
+        "lon": -96.7512379,
+        "lat": 32.8371417,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Caruth Terrace",
+        "result_type": "amenity",
+        "formatted": "Haystack Burgers & Barley, 6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Haystack Burgers & Barley",
+        "address_line2": "6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PX+VG",
+        "plus_code_short": "R6PX+VG, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.936477485103446,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5102012148143058c05915cf8f75276b4040f00103f901420dadcd02000000c00201920319486179737461636b20427572676572732026204261726c6579e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303430363034393934",
+        "bbox": {
+          "lon1": -96.7512879,
+          "lat1": 32.8370917,
+          "lon2": -96.7511879,
+          "lat2": 32.8371917
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shady's Burgers & Brewhaha",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75238",
+        "suburb": "Lake Highlands",
+        "street": "Audelia Road",
+        "housenumber": "9661",
+        "iso3166_2": "US-TX",
+        "lon": -96.7188426,
+        "lat": 32.8782022,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "formatted": "Shady's Burgers & Brewhaha, 9661 Audelia Road, Dallas, TX 75238, United States of America",
+        "address_line1": "Shady's Burgers & Brewhaha",
+        "address_line2": "9661 Audelia Road, Dallas, TX 75238, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V7HJ+7F",
+        "plus_code_short": "V7HJ+7F, 75238 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.617400575213703,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512f7e6484012e58c0593b2300ee68704040f00103f90134d647d701000000c0020192031a5368616479277320427572676572732026204272657768616861e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37393036373736363238",
+        "bbox": {
+          "lon1": -96.7188926,
+          "lat1": 32.8781522,
+          "lon2": -96.7187926,
+          "lat2": 32.8782522
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Jakes Burgers and Beer",
+        "housenumber": "14920",
+        "street": "Midway Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75001",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.838347,
+        "lat": 32.951672,
+        "result_type": "amenity",
+        "formatted": "Jakes Burgers and Beer, 14920 Midway Road, Dallas, TX 75001, United States of America",
+        "address_line1": "Jakes Burgers and Beer",
+        "address_line2": "14920 Midway Road, Dallas, TX 75001, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X526+MM",
+        "plus_code_short": "X526+MM, 75001 Dallas, United States",
+        "rank": {
+          "popularity": 5.517960838074215,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c8ec2c7aa73558c0596c425a63d0794040f00102f9015ea2551900000000c002019203164a616b6573204275726765727320616e642042656572e203216f70656e7374726565746d61703a76656e75653a7761792f343235303432353236",
+        "bbox": {
+          "lon1": -96.8384446,
+          "lat1": 32.9515808,
+          "lon2": -96.8381341,
+          "lat2": 32.9517999
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jakes Burgers and Beer",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Midway Road",
+        "housenumber": "14920",
+        "iso3166_2": "US-TX",
+        "lon": -96.8382398,
+        "lat": 32.9517032,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Jakes Burgers and Beer, 14920 Midway Road, Addison, TX 75001, United States of America",
+        "address_line1": "Jakes Burgers and Beer",
+        "address_line2": "14920 Midway Road, Addison, TX 75001, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X526+MP",
+        "plus_code_short": "26+MP, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0,
+          "confidence_city_level": 0.5,
+          "match_type": "full_match"
+        },
+        "place_id": "5128cd8bb8a53558c059d0bf1369d1794040f00102f9015ea2551900000000c002019203164a616b6573204275726765727320616e642042656572",
+        "bbox": {
+          "lon1": -96.8384446,
+          "lat1": 32.9515808,
+          "lon2": -96.8381341,
+          "lat2": 32.9517999
+        }
+      }
+    ],
+    "query": {
+      "text": "Black Tap Craft Burgers & Beer - Dallas",
+      "parsed": {
+        "house": "black tap craft burgers & beer",
+        "city": "dallas",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

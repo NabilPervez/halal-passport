@@ -1,0 +1,64 @@
+{
+  "queriedName": "Ardy's Mediterranean Fusion",
+  "queriedAt": "2026-09-09T00:31:41.327Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ardy's Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "district": "Addison Circle",
+        "street": "Quorum Drive",
+        "housenumber": "15615",
+        "iso3166_2": "US-TX",
+        "lon": -96.8261066,
+        "lat": 32.9618042,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20728.338662731494,
+        "formatted": "Ardy's Mediterranean Grill, 15615 Quorum Drive, Addison, TX 75001, United States of America",
+        "address_line1": "Ardy's Mediterranean Grill",
+        "address_line2": "15615 Quorum Drive, Addison, TX 75001, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X56F+PH",
+        "plus_code_short": "6F+PH, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.9457243191475015,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a08037eede3458c059e61368661c7b4040f00103f901b62d006b00000000c0020192031a417264792773204d65646974657272616e65616e204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f31373935313733383134",
+        "bbox": {
+          "lon1": -96.8261566,
+          "lat1": 32.9617542,
+          "lon2": -96.8260566,
+          "lat2": 32.9618542
+        }
+      }
+    ],
+    "query": {
+      "text": "Ardy's Mediterranean Fusion"
+    }
+  }
+}

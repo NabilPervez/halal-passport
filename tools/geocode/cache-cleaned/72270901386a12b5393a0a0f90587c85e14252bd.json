@@ -1,0 +1,259 @@
+{
+  "queriedName": "Fiery Nashville Hot Chicken",
+  "queriedAt": "2026-09-09T00:45:29.144Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fiery Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Carrollton",
+        "postcode": "75010",
+        "street": "West Hebron Parkway",
+        "housenumber": "1025",
+        "iso3166_2": "US-TX",
+        "lon": -96.9168898,
+        "lat": 33.0185778,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 29101.07474577876,
+        "formatted": "Fiery Hot Chicken, 1025 West Hebron Parkway, Carrollton, TX 75010, United States of America",
+        "address_line1": "Fiery Hot Chicken",
+        "address_line2": "1025 West Hebron Parkway, Carrollton, TX 75010, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655239M+C6",
+        "plus_code_short": "239M+C6, 75010 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.452267305773539,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "514e428e52ae3a58c05940b7e1c160824040f00103f90168bd101903000000c00201920311466965727920486f7420436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333035343239333532",
+        "bbox": {
+          "lon1": -96.9169398,
+          "lat1": 33.0185278,
+          "lon2": -96.9168398,
+          "lat2": 33.0186278
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fiery Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "housenumber": "151",
+        "iso3166_2": "US-TX",
+        "lon": -96.6955996,
+        "lat": 33.0587254,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32725.12706751332,
+        "formatted": "Fiery Hot Chicken, 151 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Fiery Hot Chicken",
+        "address_line2": "151 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553853+FQ",
+        "plus_code_short": "3853+FQ, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.7707090649346995,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "5115472fb4842c58c059e6385c5084874040f00103f901ad01da1803000000c00201920311466965727920486f7420436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333031383432333439",
+        "bbox": {
+          "lon1": -96.6956496,
+          "lat1": 33.0586754,
+          "lon2": -96.6955496,
+          "lat2": 33.0587754
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hot Chicks Nashville Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Dallas Parkway",
+        "housenumber": "1885",
+        "iso3166_2": "US-TX",
+        "lon": -96.8307455,
+        "lat": 33.0261959,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27887.882597032352,
+        "formatted": "Hot Chicks Nashville Hot Chicken, 1885 Dallas Parkway, Plano, TX 75093, United States of America",
+        "address_line1": "Hot Chicks Nashville Hot Chicken",
+        "address_line2": "1885 Dallas Parkway, Plano, TX 75093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865525G9+FP",
+        "plus_code_short": "25G9+FP, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 6.668979637418233,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5126732cef2a3558c05907e522635a834040f00103f901bc7c274e02000000c00201920320486f7420436869636b73204e61736876696c6c6520486f7420436869636b656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393031313435323736",
+        "bbox": {
+          "lon1": -96.8307955,
+          "lat1": 33.0261459,
+          "lon2": -96.8306955,
+          "lat2": 33.0262459
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Ricky's Nashville Hot Chicken",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.804956,
+        "lat": 33.092165,
+        "result_type": "amenity",
+        "distance": 35052.66215827838,
+        "postcode": "75024",
+        "formatted": "Ricky's Nashville Hot Chicken, Plano, TX 75024, United States of America",
+        "address_line1": "Ricky's Nashville Hot Chicken",
+        "address_line2": "Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+V2",
+        "plus_code_short": "35RW+V2, 75024 Plano, United States",
+        "rank": {
+          "popularity": 4.998335826938353,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5104ae2b66843358c059fd6a0e10cc8b4040f00103f901ad9e2be502000000c0020192031d5269636b792773204e61736876696c6c6520486f7420436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343334373735373235"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ricky's Nashville Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "housenumber": "8400",
+        "iso3166_2": "US-TX",
+        "lon": -96.8049557,
+        "lat": 33.0921653,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 35052.69491625461,
+        "formatted": "Ricky's Nashville Hot Chicken, 8400 Preston Road, Plano, TX 75024, United States of America",
+        "address_line1": "Ricky's Nashville Hot Chicken",
+        "address_line2": "8400 Preston Road, Plano, TX 75024, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+V2",
+        "plus_code_short": "35RW+V2, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a48ee964843358c059bba99212cc8b4040f00103f901ad9e2be502000000c0020192031d5269636b792773204e61736876696c6c6520486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.8050057,
+          "lat1": 33.0921153,
+          "lon2": -96.8049057,
+          "lat2": 33.0922153
+        }
+      }
+    ],
+    "query": {
+      "text": "Fiery Nashville Hot Chicken"
+    }
+  }
+}

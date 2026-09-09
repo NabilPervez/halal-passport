@@ -1,0 +1,113 @@
+{
+  "queriedName": "Osuma Suya",
+  "queriedAt": "2026-09-09T00:35:51.502Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Osuma Suya",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "East Harwood Road",
+        "housenumber": "918",
+        "iso3166_2": "US-TX",
+        "lon": -97.0675142,
+        "lat": 32.8512399,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26593.791493028937,
+        "formatted": "Osuma Suya, 918 East Harwood Road, Euless, TX 76039, United States of America",
+        "address_line1": "Osuma Suya",
+        "address_line2": "918 East Harwood Road, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW2J+FX",
+        "plus_code_short": "2J+FX Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.386428866627969,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5100411427524458c05971c6d56df56c4040f00103f9011806ac6202000000c0020192030a4f73756d612053757961",
+        "bbox": {
+          "lon1": -97.0675642,
+          "lat1": 32.8511899,
+          "lon2": -97.0674642,
+          "lat2": 32.8512899
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Osuma Suya",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Collin McKinney Parkway",
+        "housenumber": "5121",
+        "iso3166_2": "US-TX",
+        "lon": -96.6828299,
+        "lat": 33.1496619,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 42785.21841421599,
+        "formatted": "Osuma Suya, 5121 Collin McKinney Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "Osuma Suya",
+        "address_line2": "5121 Collin McKinney Parkway, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548X8+VV",
+        "plus_code_short": "48X8+VV McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.9393761590635856,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c84e2e7cb32b58c05986fa021f28934040f00103f901f1c0272c03000000c0020192030a4f73756d612053757961",
+        "bbox": {
+          "lon1": -96.6828799,
+          "lat1": 33.1496119,
+          "lon2": -96.6827799,
+          "lat2": 33.1497119
+        }
+      }
+    ],
+    "query": {
+      "text": "Osuma Suya"
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "queriedName": "Texas King",
+  "queriedAt": "2026-09-09T00:35:57.469Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Texas Star",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75210",
+        "district": "Fair Park",
+        "street": "Martin Luther King Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.7592667,
+        "lat": 32.7767789,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "county_code": "DS",
+        "suburb": "Wheatley Place",
+        "distance": 3527.8156190603763,
+        "formatted": "Texas Star, Martin Luther King Boulevard, Dallas, TX 75210, United States of America",
+        "address_line1": "Texas Star",
+        "address_line2": "Martin Luther King Boulevard, Dallas, TX 75210, United States of America",
+        "category": "tourism.attraction",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6GR+P7",
+        "plus_code_short": "Q6GR+P7, 75210 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.282058352187941,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51475c5bd3973058c05986dcb17d6d634040f00103f901c55b473601000000c0020192030a54657861732053746172e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35323035363133353039",
+        "bbox": {
+          "lon1": -96.7593167,
+          "lat1": 32.7767289,
+          "lon2": -96.7592167,
+          "lat2": 32.7768289
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Texas Woofus",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75223",
+        "district": "Fair Park",
+        "street": "Martin Luther King Jr Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.7575261,
+        "lat": 32.7805403,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 3711.319909340509,
+        "formatted": "Texas Woofus, Martin Luther King Jr Boulevard, Dallas, TX 75223, United States of America",
+        "address_line1": "Texas Woofus",
+        "address_line2": "Martin Luther King Jr Boulevard, Dallas, TX 75223, United States of America",
+        "category": "tourism.attraction.artwork",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6JR+6X",
+        "plus_code_short": "Q6JR+6X, 75223 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.382442007040764,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517457c04e7b3058c059e2da9abee8634040f00103f9019224a3d702000000c0020192030c546578617320576f6f667573",
+        "bbox": {
+          "lon1": -96.7575761,
+          "lat1": 32.7804903,
+          "lon2": -96.7574761,
+          "lat2": 32.7805903
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Texas Theatre",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75208",
+        "street": "West Jefferson Boulevard",
+        "housenumber": "231",
+        "iso3166_2": "US-TX",
+        "lon": -96.8258522,
+        "lat": 32.7435025,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Cliff",
+        "result_type": "amenity",
+        "distance": 4599.200074995912,
+        "formatted": "Texas Theatre, 231 West Jefferson Boulevard, Dallas, TX 75208, United States of America",
+        "address_line1": "Texas Theatre",
+        "address_line2": "231 West Jefferson Boulevard, Dallas, TX 75208, United States of America",
+        "category": "entertainment.culture.theatre",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P5VF+CM",
+        "plus_code_short": "P5VF+CM, 75208 Dallas, United States",
+        "rank": {
+          "importance": 0.26244239079806453,
+          "popularity": 4.9330297195616835,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5119952fc3da3458c05943ff04172b5f4040f00102f9019881bb1b00000000c0020192030d54657861732054686561747265e203216f70656e7374726565746d61703a76656e75653a7761792f343635323733323430",
+        "bbox": {
+          "lon1": -96.8260642,
+          "lat1": 32.7432873,
+          "lon2": -96.8256393,
+          "lat2": 32.7436506
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "West Texas",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Dallas",
+        "suburb": "West Texas",
+        "iso3166_2": "US-TX",
+        "lon": -96.859032,
+        "lat": 32.789255,
+        "result_type": "suburb",
+        "distance": 5956.993257178635,
+        "formatted": "West Texas, Dallas, TX, United States of America",
+        "address_line1": "West Texas",
+        "address_line2": "Dallas, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q4QR+P9",
+        "plus_code_short": "Q4QR+P9 Dallas, Dallas County, United States",
+        "rank": {
+          "popularity": 4.703970646643524,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51eb8d5a61fa3658c0592c9ace4e06654040c0020592030a57657374205465786173e2032377686f736f6e66697273743a6e65696768626f7572686f6f643a343230353432373431",
+        "bbox": {
+          "lon1": -96.864032,
+          "lat1": 32.784255,
+          "lon2": -96.854032,
+          "lat2": 32.794255
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Texas Skywalk",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "East Lawther Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.7151716,
+        "lat": 32.8261092,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "East Dallas",
+        "result_type": "amenity",
+        "distance": 9397.491548136619,
+        "formatted": "Texas Skywalk, East Lawther Drive, Dallas, TX 75218, United States of America",
+        "address_line1": "Texas Skywalk",
+        "address_line2": "East Lawther Drive, Dallas, TX 75218, United States of America",
+        "category": "tourism.attraction",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7GM+CW",
+        "plus_code_short": "R7GM+CW, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.590863119982524,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51cb411a5fc52d58c0595d763ef2bd694040f00103f9014b59951003000000c0020192030d546578617320536b7977616c6be203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313633313235303637",
+        "bbox": {
+          "lon1": -96.7152216,
+          "lat1": 32.8260592,
+          "lon2": -96.7151216,
+          "lat2": 32.8261592
+        }
+      }
+    ],
+    "query": {
+      "text": "Texas King"
+    }
+  }
+}

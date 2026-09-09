@@ -1,0 +1,265 @@
+{
+  "queriedName": "Ocha Thai & Asian Fusion",
+  "queriedAt": "2026-09-09T00:35:26.196Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Trammell & Margaret Crow Collection of Asian Art",
+        "other_names": {
+          "alt_name": "Crow Museum of Asian Art"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "Flora Street",
+        "housenumber": "2010",
+        "iso3166_2": "US-TX",
+        "lon": -96.7996563,
+        "lat": 32.7878937,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1236.517544215133,
+        "formatted": "Trammell & Margaret Crow Collection of Asian Art, 2010 Flora Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Trammell & Margaret Crow Collection of Asian Art",
+        "address_line2": "2010 Flora Street, Dallas, TX 75201, United States of America",
+        "category": "entertainment.museum",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6Q2+54",
+        "plus_code_short": "Q2+54, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.32076214465567665,
+          "popularity": 7.251399240590322,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5195229e912d3358c059ba1c65b3d9644040f00102f9012d16e01a00000000c002019203305472616d6d656c6c2026204d617267617265742043726f7720436f6c6c656374696f6e206f6620417369616e20417274e203216f70656e7374726565746d61703a76656e75653a7761792f343530383933333537",
+        "bbox": {
+          "lon1": -96.7999622,
+          "lat1": 32.7876324,
+          "lon2": -96.7993123,
+          "lat2": 32.788188
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Oishi Sushi & Pan-Asian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Wycliff Avenue",
+        "housenumber": "2525",
+        "iso3166_2": "US-TX",
+        "lon": -96.8197822,
+        "lat": 32.8103966,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Lawn",
+        "result_type": "amenity",
+        "distance": 4280.802178486013,
+        "formatted": "Oishi Sushi & Pan-Asian Cuisine, 2525 Wycliff Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Oishi Sushi & Pan-Asian Cuisine",
+        "address_line2": "2525 Wycliff Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56J+53",
+        "plus_code_short": "R56J+53, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.930296706674387,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f3b5c24f773458c05911e56613bb674040f00103f9011ca66d4f02000000c0020192031f4f6973686920537573686920262050616e2d417369616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393232353230363034",
+        "bbox": {
+          "lon1": -96.8198322,
+          "lat1": 32.8103466,
+          "lon2": -96.8197322,
+          "lat2": 32.8104466
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "My Thai and Vegan",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "6550",
+        "iso3166_2": "US-TX",
+        "lon": -96.9579666,
+        "lat": 32.8990259,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20255.087652471113,
+        "formatted": "My Thai and Vegan, 6550 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "My Thai and Vegan",
+        "address_line2": "6550 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2XR+JR",
+        "plus_code_short": "V2XR+JR Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.651139164275723,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51436a24534f3d58c059e460db4713734040f00103f901cf1ce53502000000c002019203114d79205468616920616e6420566567616ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f39343934313432313539",
+        "bbox": {
+          "lon1": -96.9580166,
+          "lat1": 32.8989759,
+          "lon2": -96.9579166,
+          "lat2": 32.8990759
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Asian Gifts & Videos",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.080867,
+        "lat": 32.709286,
+        "result_type": "amenity",
+        "distance": 27596.154209311884,
+        "postcode": "76014",
+        "formatted": "Asian Gifts & Videos, Arlington, TX 76014, United States of America",
+        "address_line1": "Asian Gifts & Videos",
+        "address_line2": "Arlington, TX 76014, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PW59+PM",
+        "plus_code_short": "PW59+PM, 76014 Arlington, United States",
+        "rank": {
+          "popularity": 4.621848091525266,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d714c8ec2c4558c0595dc136e2c95a4040f00103f901d80b10ab01000000c00201920314417369616e204769667473202620566964656f73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37313634393232383430"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Asian Gifts & Videos",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76014",
+        "street": "New York Avenue",
+        "housenumber": "2202",
+        "iso3166_2": "US-TX",
+        "lon": -97.0808671,
+        "lat": 32.7092857,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27596.172351787194,
+        "formatted": "Asian Gifts & Videos, 2202 New York Avenue, Arlington, TX 76014, United States of America",
+        "address_line1": "Asian Gifts & Videos",
+        "address_line2": "2202 New York Avenue, Arlington, TX 76014, United States of America",
+        "category": "commercial.gift_and_souvenir",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PW59+PM",
+        "plus_code_short": "PW59+PM, 76014 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a27433ed2c4558c0599f82b2dfc95a4040f00103f901d80b10ab01000000c00201920314417369616e204769667473202620566964656f73",
+        "bbox": {
+          "lon1": -97.0809171,
+          "lat1": 32.7092357,
+          "lon2": -97.0808171,
+          "lat2": 32.7093357
+        }
+      }
+    ],
+    "query": {
+      "text": "Ocha Thai & Asian Fusion"
+    }
+  }
+}

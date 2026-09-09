@@ -1,0 +1,267 @@
+{
+  "queriedName": "Thai Kitchen",
+  "queriedAt": "2026-09-09T00:39:59.835Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Thai Lotus Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "district": "Oak Lawn",
+        "street": "Cedar Springs Road",
+        "housenumber": "3851",
+        "iso3166_2": "US-TX",
+        "lon": -96.8102403,
+        "lat": 32.810058,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 3878.639817231595,
+        "formatted": "Thai Lotus Kitchen, 3851 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "Thai Lotus Kitchen",
+        "address_line2": "3851 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+2W",
+        "plus_code_short": "R56Q+2W, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.119671838292695,
+          "confidence": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "51ae9921fada3358c0597cee04fbaf674040f00103f901ed4d991e03000000c0020192031254686169204c6f747573204b69746368656e",
+        "bbox": {
+          "lon1": -96.8102903,
+          "lat1": 32.810008,
+          "lon2": -96.8101903,
+          "lat2": 32.810108
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zaap Kitchen Lao & Thai Street Eats",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75204",
+        "suburb": "Old East Dallas",
+        "street": "North Fitzhugh Avenue",
+        "housenumber": "2325",
+        "iso3166_2": "US-TX",
+        "lon": -96.7822169,
+        "lat": 32.8108173,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4006.1735347684994,
+        "formatted": "Zaap Kitchen Lao & Thai Street Eats, 2325 North Fitzhugh Avenue, Dallas, TX 75204, United States of America",
+        "address_line1": "Zaap Kitchen Lao & Thai Street Eats",
+        "address_line2": "2325 North Fitzhugh Avenue, Dallas, TX 75204, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R669+84",
+        "plus_code_short": "R669+84, 75204 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.846162042853166,
+          "confidence": 0.5904900000000001,
+          "match_type": "full_match"
+        },
+        "place_id": "5139f878d70f3258c059f8437ddcc8674040f00103f90103e3cc2a03000000c002019203235a616170204b69746368656e204c616f20262054686169205374726565742045617473",
+        "bbox": {
+          "lon1": -96.7822669,
+          "lat1": 32.8107673,
+          "lon2": -96.7821669,
+          "lat2": 32.8108673
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Oceanic Thai Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75252",
+        "street": "Preston Road",
+        "housenumber": "1501",
+        "iso3166_2": "US-TX",
+        "lon": -96.7960156,
+        "lat": 33.0191327,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 26924.12186900082,
+        "formatted": "Oceanic Thai Kitchen, 1501 Preston Road, Plano, TX 75252, United States of America",
+        "address_line1": "Oceanic Thai Kitchen",
+        "address_line2": "1501 Preston Road, Plano, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552693+MH",
+        "plus_code_short": "2693+MH, 75252 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.181975818833334,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c6466aebf13258c0596064b8f072824040f00103f901c57b432d03000000c002019203144f6365616e69632054686169204b69746368656e",
+        "bbox": {
+          "lon1": -96.7960656,
+          "lat1": 33.0190827,
+          "lon2": -96.7959656,
+          "lat2": 33.0191827
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Thai's Thumbz Urban Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75082",
+        "street": "Shire Boulevard",
+        "housenumber": "3610",
+        "iso3166_2": "US-TX",
+        "lon": -96.684507,
+        "lat": 33.0010597,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27038.014121452125,
+        "formatted": "Thai's Thumbz Urban Kitchen, 3610 Shire Boulevard, Richardson, TX 75082, United States of America",
+        "address_line1": "Thai's Thumbz Urban Kitchen",
+        "address_line2": "3610 Shire Boulevard, Richardson, TX 75082, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552828+C5",
+        "plus_code_short": "2828+C5 Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.9126499172064575,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5184b872f6ce2b58c059fa6b68b922804040f00103f90195d605cc02000000c0020192031b546861692773205468756d627a20557262616e204b69746368656e",
+        "bbox": {
+          "lon1": -96.684557,
+          "lat1": 33.0010097,
+          "lon2": -96.684457,
+          "lat2": 33.0011097
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pandan Thai Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Crowley",
+        "postcode": "76036",
+        "street": "South Crowley Road",
+        "iso3166_2": "US-TX",
+        "lon": -97.3536273,
+        "lat": 32.5774258,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 56627.32345440224,
+        "formatted": "Pandan Thai Kitchen, South Crowley Road, Crowley, TX 76036, United States of America",
+        "address_line1": "Pandan Thai Kitchen",
+        "address_line2": "South Crowley Road, Crowley, TX 76036, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HJGW+XG",
+        "plus_code_short": "GW+XG, 76036 Crowley, United States",
+        "rank": {
+          "importance": 0.000055232318608331696,
+          "popularity": 3.1636364689682677,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51421e66d4a15658c059ee6eaf16e9494040f00102f901c623353600000000c0020192031350616e64616e2054686169204b69746368656e",
+        "bbox": {
+          "lon1": -97.3536681,
+          "lat1": 32.5773257,
+          "lon2": -97.3535864,
+          "lat2": 32.577526
+        }
+      }
+    ],
+    "query": {
+      "text": "Thai Kitchen"
+    }
+  }
+}

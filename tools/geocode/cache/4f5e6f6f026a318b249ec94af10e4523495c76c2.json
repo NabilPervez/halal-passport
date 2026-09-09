@@ -1,0 +1,261 @@
+{
+  "queriedName": "Doner Point",
+  "queriedAt": "2026-09-09T00:30:38.324Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Blanton Point",
+        "street": "Blanton Point",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "University Terrace",
+        "iso3166_2": "US-TX",
+        "lon": -96.732515,
+        "lat": 32.853223,
+        "result_type": "street",
+        "distance": 10399.571580932527,
+        "postcode": "75214",
+        "formatted": "Blanton Point, Dallas, TX 75214, United States of America",
+        "address_line1": "Blanton Point",
+        "address_line2": "Dallas, TX 75214, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V738+7X",
+        "plus_code_short": "V738+7X, 75214 Dallas, United States",
+        "rank": {
+          "popularity": 4.731261062060187,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5116359886e12e58c059f6984869366d4040c0020492030d426c616e746f6e20506f696e74e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353330373831",
+        "bbox": {
+          "lon1": -96.732687,
+          "lat1": 32.852588,
+          "lon2": -96.732059,
+          "lat2": 32.853808
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Center Point",
+        "street": "Center Point",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "University Terrace",
+        "iso3166_2": "US-TX",
+        "lon": -96.731357,
+        "lat": 32.852654,
+        "result_type": "street",
+        "distance": 10411.474473060387,
+        "postcode": "75214",
+        "formatted": "Center Point, Dallas, TX 75214, United States of America",
+        "address_line1": "Center Point",
+        "address_line2": "Dallas, TX 75214, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V739+3F",
+        "plus_code_short": "V739+3F, 75214 Dallas, United States",
+        "rank": {
+          "popularity": 4.730777864543254,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d82c978dce2e58c059dc662ac4236d4040c0020492030c43656e74657220506f696e74e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353330373830",
+        "bbox": {
+          "lon1": -96.732112,
+          "lat1": 32.852487,
+          "lon2": -96.731158,
+          "lat2": 32.853293
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Beacon Point",
+        "street": "Beacon Point",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "University Terrace",
+        "iso3166_2": "US-TX",
+        "lon": -96.730934,
+        "lat": 32.853553,
+        "result_type": "street",
+        "distance": 10515.551688870168,
+        "postcode": "75214",
+        "formatted": "Beacon Point, Dallas, TX 75214, United States of America",
+        "address_line1": "Beacon Point",
+        "address_line2": "Dallas, TX 75214, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V739+CJ",
+        "plus_code_short": "V739+CJ, 75214 Dallas, United States",
+        "rank": {
+          "popularity": 4.730777864543254,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513562669fc72e58c0598b338639416d4040c0020492030c426561636f6e20506f696e74e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353330373738",
+        "bbox": {
+          "lon1": -96.731026,
+          "lat1": 32.853425,
+          "lon2": -96.730783,
+          "lat2": 32.853706
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Lookout Point",
+        "street": "Lookout Point",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Merriman Park North",
+        "iso3166_2": "US-TX",
+        "lon": -96.734079,
+        "lat": 32.877719,
+        "result_type": "street",
+        "distance": 12648.835232252375,
+        "postcode": "75231",
+        "formatted": "Lookout Point, Dallas, TX 75231, United States of America",
+        "address_line1": "Lookout Point",
+        "address_line2": "Dallas, TX 75231, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V7H8+39",
+        "plus_code_short": "V7H8+39, 75231 Dallas, United States",
+        "rank": {
+          "popularity": 4.735722412739272,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518b6b7c26fb2e58c059f609a01859704040c0020492030d4c6f6f6b6f757420506f696e74e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353331313834",
+        "bbox": {
+          "lon1": -96.734839,
+          "lat1": 32.87769,
+          "lon2": -96.73332,
+          "lat2": 32.877754
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Breakers Point",
+        "street": "Breakers Point",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Bouchard",
+        "iso3166_2": "US-TX",
+        "lon": -96.758156,
+        "lat": 32.897633,
+        "result_type": "street",
+        "distance": 13896.053391781405,
+        "postcode": "75243",
+        "formatted": "Breakers Point, Dallas, TX 75243, United States of America",
+        "address_line1": "Breakers Point",
+        "address_line2": "Dallas, TX 75243, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6XR+3P",
+        "plus_code_short": "V6XR+3P, 75243 Dallas, United States",
+        "rank": {
+          "popularity": 5.183762402716991,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510951bea0853058c059ba675da3e5724040c0020492030e427265616b65727320506f696e74e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353333383335",
+        "bbox": {
+          "lon1": -96.758718,
+          "lat1": 32.89642,
+          "lon2": -96.758105,
+          "lat2": 32.899594
+        }
+      }
+    ],
+    "query": {
+      "text": "Doner Point"
+    }
+  }
+}

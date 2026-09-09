@@ -1,0 +1,269 @@
+{
+  "queriedName": "Tuscany Italian Bistro",
+  "queriedAt": "2026-09-09T00:40:21.209Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roma's Italian Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Duncanville",
+        "postcode": "75116",
+        "street": "South Main Street",
+        "housenumber": "100",
+        "iso3166_2": "US-TX",
+        "lon": -96.9081896,
+        "lat": 32.6515831,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17398.180691045774,
+        "formatted": "Roma's Italian Bistro, 100 South Main Street, Duncanville, TX 75116, United States of America",
+        "address_line1": "Roma's Italian Bistro",
+        "address_line2": "100 South Main Street, Duncanville, TX 75116, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M32R+JP",
+        "plus_code_short": "+JP Duncanville, Dallas County, United States",
+        "rank": {
+          "importance": 0.0000558701457236136,
+          "popularity": 3.6426035141867836,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514fa445c71f3a58c0592b90341367534040f00103f901ef6e042d02000000c00201920315526f6d612773204974616c69616e2042697374726fe203236f70656e7374726565746d61703a76656e75653a6e6f64652f39333435313939383535",
+        "bbox": {
+          "lon1": -96.9082396,
+          "lat1": 32.6515331,
+          "lon2": -96.9081396,
+          "lat2": 32.6516331
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roma's Italian Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Grand Prairie",
+        "postcode": "75050",
+        "street": "West Main Street",
+        "housenumber": "101",
+        "iso3166_2": "US-TX",
+        "lon": -97.0037586,
+        "lat": 32.7452846,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19652.52623629266,
+        "formatted": "Roma's Italian Bistro, 101 West Main Street, Grand Prairie, TX 75050, United States of America",
+        "address_line1": "Roma's Italian Bistro",
+        "address_line2": "101 West Main Street, Grand Prairie, TX 75050, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PXWW+4F",
+        "plus_code_short": "WW+4F Grand Prairie, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.154317046571651,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510a05b6943d4058c059319b5b7c655f4040f00103f90190e552de00000000c00201920315526f6d612773204974616c69616e2042697374726fe203236f70656e7374726565746d61703a76656e75653a6e6f64652f33373239393734363732",
+        "bbox": {
+          "lon1": -97.0038086,
+          "lat1": 32.7452346,
+          "lon2": -97.0037086,
+          "lat2": 32.7453346
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cappuccino Italian Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Campbell Road",
+        "housenumber": "1310",
+        "iso3166_2": "US-TX",
+        "lon": -96.765473,
+        "lat": 32.9796319,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 22723.205323718143,
+        "formatted": "Cappuccino Italian Bistro, 1310 West Campbell Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Cappuccino Italian Bistro",
+        "address_line2": "1310 West Campbell Road, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6HM+VR",
+        "plus_code_short": "X6HM+VR Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.89610513250312,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51253e7782fd3058c059264ffe93647d4040f00103f901fef16d0703000000c0020192031943617070756363696e6f204974616c69616e2042697374726fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133303039353437373734",
+        "bbox": {
+          "lon1": -96.765523,
+          "lat1": 32.9795819,
+          "lon2": -96.765423,
+          "lat2": 32.9796819
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Italian Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Roanoke",
+        "postcode": "76262",
+        "street": "East Byron Nelson Boulevard",
+        "housenumber": "501",
+        "iso3166_2": "US-TX",
+        "lon": -97.2217681,
+        "lat": 33.003107,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 46958.98075230108,
+        "formatted": "Italian Bistro, 501 East Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",
+        "address_line1": "Italian Bistro",
+        "address_line2": "501 East Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542Q3H+67",
+        "plus_code_short": "3H+67, 76262 Roanoke, United States",
+        "rank": {
+          "importance": 0.000055679407949904895,
+          "popularity": 3.335310726895077,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51f332d472314e58c059c0b167cf65804040f00102f9016db8fe2300000000c0020192030e4974616c69616e2042697374726fe203216f70656e7374726565746d61703a76656e75653a7761792f363033383935393137",
+        "bbox": {
+          "lon1": -97.2219733,
+          "lat1": 33.0029273,
+          "lon2": -97.2215628,
+          "lat2": 33.0032867
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Niki's Italian Bistro",
+        "housenumber": "5249",
+        "street": "Davis Boulevard",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "76180",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "North Richland Hills",
+        "iso3166_2": "US-TX",
+        "lon": -97.21505,
+        "lat": 32.842958,
+        "result_type": "amenity",
+        "distance": 39751.846056653645,
+        "formatted": "Niki's Italian Bistro, 5249 Davis Boulevard, North Richland Hills, TX 76180, United States of America",
+        "address_line1": "Niki's Italian Bistro",
+        "address_line2": "5249 Davis Boulevard, North Richland Hills, TX 76180, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RQVM+5X",
+        "plus_code_short": "VM+5X North Richland Hills, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.846145644070585,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514f401361c34d58c05967f3380ce66b4040f00102f9010db1fa2700000000c002019203154e696b692773204974616c69616e2042697374726fe203216f70656e7374726565746d61703a76656e75653a7761792f363730373430373439",
+        "bbox": {
+          "lon1": -97.2152926,
+          "lat1": 32.8427814,
+          "lon2": -97.2147723,
+          "lat2": 32.8432619
+        }
+      }
+    ],
+    "query": {
+      "text": "Tuscany Italian Bistro"
+    }
+  }
+}

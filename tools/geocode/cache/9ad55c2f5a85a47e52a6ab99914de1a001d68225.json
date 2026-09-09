@@ -1,0 +1,113 @@
+{
+  "queriedName": "Roma's Italian Restaurant",
+  "queriedAt": "2026-09-09T00:35:53.022Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roma's Italian Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Prosper",
+        "postcode": "75078",
+        "street": "East University Drive",
+        "housenumber": "1361",
+        "iso3166_2": "US-TX",
+        "lon": -96.7852586,
+        "lat": 33.219527,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 49219.00665992422,
+        "formatted": "Roma's Italian Restaurant, 1361 East University Drive, Prosper, TX 75078, United States of America",
+        "address_line1": "Roma's Italian Restaurant",
+        "address_line2": "1361 East University Drive, Prosper, TX 75078, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86556697+RV",
+        "plus_code_short": "6697+RV Prosper, Collin County, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.131137789001251,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c77949ad413258c05964cbf275199c4040f00103f9015e87ab4802000000c00201920319526f6d612773204974616c69616e2052657374617572616e74",
+        "bbox": {
+          "lon1": -96.7853086,
+          "lat1": 33.219477,
+          "lon2": -96.7852086,
+          "lat2": 33.219577
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roma's Italian Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Sanger",
+        "postcode": "76266",
+        "street": "North Stemmons Street",
+        "housenumber": "1108",
+        "iso3166_2": "US-TX",
+        "lon": -97.1772883,
+        "lat": 33.3695293,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 74810.43750671722,
+        "formatted": "Roma's Italian Restaurant, 1108 North Stemmons Street, Sanger, TX 76266, United States of America",
+        "address_line1": "Roma's Italian Restaurant",
+        "address_line2": "1108 North Stemmons Street, Sanger, TX 76266, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86549R9F+R3",
+        "plus_code_short": "9F+R3, 76266 Sanger, United States",
+        "rank": {
+          "importance": 0.00005443884946970348,
+          "popularity": 2.1373218276523698,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a99d06b1584b58c059f73471bc4caf4040f00103f90142979be001000000c00201920319526f6d612773204974616c69616e2052657374617572616e74",
+        "bbox": {
+          "lon1": -97.1773383,
+          "lat1": 33.3694793,
+          "lon2": -97.1772383,
+          "lat2": 33.3695793
+        }
+      }
+    ],
+    "query": {
+      "text": "Roma's Italian Restaurant"
+    }
+  }
+}

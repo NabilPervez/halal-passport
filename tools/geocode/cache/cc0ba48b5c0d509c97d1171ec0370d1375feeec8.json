@@ -1,0 +1,260 @@
+{
+  "queriedName": "West African Way",
+  "queriedAt": "2026-09-09T00:42:25.938Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "West Brune Way",
+        "street": "West Brune Way",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.939786,
+        "lat": 32.871039,
+        "result_type": "street",
+        "distance": 16951.548214036244,
+        "postcode": "75039",
+        "formatted": "West Brune Way, Irving, TX 75039, United States of America",
+        "address_line1": "West Brune Way",
+        "address_line2": "Irving, TX 75039, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3C6+C3",
+        "plus_code_short": "V3C6+C3 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.898579094173322,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5146cf2d74253c58c0593145b9347e6f4040c0020492030e57657374204272756e6520576179e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353335303936",
+        "bbox": {
+          "lon1": -96.941926,
+          "lat1": 32.870665,
+          "lon2": -96.937782,
+          "lat2": 32.871433
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "West Way Avenue",
+        "street": "West Way Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.65936,
+        "lat": 32.898629,
+        "result_type": "street",
+        "distance": 18662.125561646237,
+        "postcode": "75042",
+        "formatted": "West Way Avenue, Garland, TX 75042, United States of America",
+        "address_line1": "West Way Avenue",
+        "address_line2": "Garland, TX 75042, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V8XR+F7",
+        "plus_code_short": "V8XR+F7, 75042 Garland, United States",
+        "rank": {
+          "popularity": 4.824930057911275,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51991249f4322a58c0595c1e6b4606734040c0020492030f5765737420576179204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353236393831",
+        "bbox": {
+          "lon1": -96.66568,
+          "lat1": 32.896251,
+          "lon2": -96.65415,
+          "lat2": 32.898677
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "West Coral Way",
+        "street": "West Coral Way",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Grand Prairie",
+        "iso3166_2": "US-TX",
+        "lon": -97.008587,
+        "lat": 32.717377,
+        "result_type": "street",
+        "distance": 20869.19458797605,
+        "postcode": "75051",
+        "formatted": "West Coral Way, Grand Prairie, TX 75051, United States of America",
+        "address_line1": "West Coral Way",
+        "address_line2": "Grand Prairie, TX 75051, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PX8R+XH",
+        "plus_code_short": "PX8R+XH Grand Prairie, Dallas County, United States",
+        "rank": {
+          "popularity": 4.055119673353312,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ee0a7db08c4058c05988f37002d35b4040c0020492030e5765737420436f72616c20576179e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363936353738",
+        "bbox": {
+          "lon1": -97.009845,
+          "lat1": 32.717357,
+          "lon2": -97.007293,
+          "lat2": 32.717536
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "West Cove Way",
+        "street": "West Cove Way",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Grand Prairie",
+        "iso3166_2": "US-TX",
+        "lon": -97.058592,
+        "lat": 32.644527,
+        "result_type": "street",
+        "distance": 28565.59104432858,
+        "postcode": "75052",
+        "formatted": "West Cove Way, Grand Prairie, TX 75052, United States of America",
+        "address_line1": "West Cove Way",
+        "address_line2": "Grand Prairie, TX 75052, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644JWVR+RH",
+        "plus_code_short": "JWVR+RH Grand Prairie, Dallas County, United States",
+        "rank": {
+          "popularity": 3.7622745979225027,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51aaf3a8f8bf4358c059ca3159dc7f524040c0020492030d5765737420436f766520576179e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373033313037",
+        "bbox": {
+          "lon1": -97.058592,
+          "lat1": 32.641985,
+          "lon2": -97.056894,
+          "lat2": 32.646866
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "West Way",
+        "street": "West Way",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Mckinney",
+        "iso3166_2": "US-TX",
+        "lon": -96.623975,
+        "lat": 33.216759,
+        "result_type": "street",
+        "distance": 51492.61843709152,
+        "postcode": "75069",
+        "formatted": "West Way, Mckinney, TX 75069, United States of America",
+        "address_line1": "West Way",
+        "address_line2": "Mckinney, TX 75069, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655698G+PC",
+        "plus_code_short": "698G+PC Mckinney, Collin County, United States",
+        "rank": {
+          "popularity": 3.107927196208418,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5162a1d634ef2758c0598d0e48c2be9b4040c002049203085765737420576179e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230333937313533",
+        "bbox": {
+          "lon1": -96.624045,
+          "lat1": 33.216008,
+          "lon2": -96.623937,
+          "lat2": 33.217512
+        }
+      }
+    ],
+    "query": {
+      "text": "West African Way",
+      "parsed": {
+        "street": "west african way",
+        "expected_type": "unknown"
+      }
+    }
+  }
+}

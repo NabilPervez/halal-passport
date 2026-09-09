@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
-import type { Restaurant } from "../types";
+import type { RestaurantWithSaveState } from "../types";
 import { RestaurantCard } from "./RestaurantCard";
 import { useIntersectionObserver } from "../hooks/useIntersectionObserver";
 
@@ -36,7 +36,7 @@ const BATCH_SIZE = 3;
 // ─── Types ────────────────────────────────────────────────────────────────────
 
 interface DiscoverFeedProps {
-  restaurants: Restaurant[];
+  restaurants: RestaurantWithSaveState[];
   onOpen: (id: string) => void;
   onToggleSave: (id: string, next: "wishlist" | "eaten" | "none") => void;
   emptyTitle: string;
@@ -45,19 +45,22 @@ interface DiscoverFeedProps {
 
 interface CategorySection {
   name: string;
-  items: Restaurant[];
+  items: RestaurantWithSaveState[];
 }
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
-function buildSections(restaurants: Restaurant[]): CategorySection[] {
-  // Filter out non-actionable entries
+function buildSections(restaurants: RestaurantWithSaveState[]): CategorySection[] {
+  // Filter out non-actionable entries (closed businesses, plus any legacy
+  // cuisine value that still carries a closed-status string).
   const actionable = restaurants.filter(
-    (r) => !EXCLUDED_CUISINES.has(r.cuisine)
+    (r) =>
+      r.businessStatus === "operational" &&
+      !(r.cuisine && EXCLUDED_CUISINES.has(r.cuisine))
   );
 
   // Group by cuisine
-  const map = new Map<string, Restaurant[]>();
+  const map = new Map<string, RestaurantWithSaveState[]>();
   for (const r of actionable) {
     const key = r.cuisine || "Other";
     if (!map.has(key)) map.set(key, []);

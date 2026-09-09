@@ -1,0 +1,273 @@
+{
+  "queriedName": "Everything Halal",
+  "queriedAt": "2026-09-09T00:33:51.331Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Everything Ellum",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Main Street",
+        "housenumber": "2715",
+        "iso3166_2": "US-TX",
+        "lon": -96.7838293,
+        "lat": 32.7840953,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1462.3765453826513,
+        "formatted": "Everything Ellum, 2715 Main Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Everything Ellum",
+        "address_line2": "2715 Main Street, Dallas, TX 75226, United States of America",
+        "category": "commercial.clothing.clothes",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M8+JF",
+        "plus_code_short": "Q6M8+JF, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.166019781943908,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5161495e422a3258c05941391b3c5d644040f00102f90160b15e4200000000c0020192031045766572797468696e6720456c6c756de203226f70656e7374726565746d61703a76656e75653a7761792f31313133353032303438",
+        "bbox": {
+          "lon1": -96.7838957,
+          "lat1": 32.7839712,
+          "lon2": -96.783763,
+          "lat2": 32.7842195
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "746",
+        "iso3166_2": "US-TX",
+        "lon": -96.7436057,
+        "lat": 32.9426643,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19084.228141354684,
+        "formatted": "The Halal Guys, 746 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "746 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7V4+3H",
+        "plus_code_short": "V4+3H Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.891107141109623,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1a75c3c972f58c059a9cd4939a9784040f00103f9012beb142602000000c0020192030e5468652048616c616c2047757973e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323238383339373233",
+        "bbox": {
+          "lon1": -96.7436557,
+          "lat1": 32.9426143,
+          "lon2": -96.7435557,
+          "lat2": 32.9427143
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Everything Madeleine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "South Broadway Street",
+        "housenumber": "1414",
+        "iso3166_2": "US-TX",
+        "lon": -96.9070573,
+        "lat": 32.9504001,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21850.187003306666,
+        "formatted": "Everything Madeleine, 1414 South Broadway Street, Carrollton, TX 75006, United States of America",
+        "address_line1": "Everything Madeleine",
+        "address_line2": "1414 South Broadway Street, Carrollton, TX 75006, United States of America",
+        "category": "commercial.food_and_drink.bakery",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X32V+55",
+        "plus_code_short": "X32V+55, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.670823117909356,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5147c60f3a0d3a58c059bdcee1b5a6794040f00103f901f7042f1603000000c0020192031445766572797468696e67204d6164656c65696e65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323537303832313033",
+        "bbox": {
+          "lon1": -96.9071073,
+          "lat1": 32.9503501,
+          "lon2": -96.9070073,
+          "lat2": 32.9504501
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Everything Bling",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Cedar Hill",
+        "postcode": "75104",
+        "street": "East Belt Line Road",
+        "housenumber": "103",
+        "iso3166_2": "US-TX",
+        "lon": -96.9417337,
+        "lat": 32.5906482,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24755.919101185907,
+        "formatted": "Everything Bling, 103 East Belt Line Road, Cedar Hill, TX 75104, United States of America",
+        "address_line1": "Everything Bling",
+        "address_line2": "103 East Belt Line Road, Cedar Hill, TX 75104, United States of America",
+        "category": "commercial.clothing.accessories",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H3R5+78",
+        "plus_code_short": "R5+78, 75104 Cedar Hill, United States",
+        "rank": {
+          "importance": 0.000056138704508995463,
+          "popularity": 3.391082446113353,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1c26c5d453c58c0597b38375c9a4b4040f00103f9017f701e2303000000c0020192031045766572797468696e6720426c696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343734303939333237",
+        "bbox": {
+          "lon1": -96.9417837,
+          "lat1": 32.5905982,
+          "lon2": -96.9416837,
+          "lat2": 32.5906982
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Everything But Water",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76109",
+        "suburb": "The Shops at Clearfork",
+        "street": "Marathon Avenue",
+        "housenumber": "5221",
+        "iso3166_2": "US-TX",
+        "lon": -97.3996193,
+        "lat": 32.7091421,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 56863.73711802209,
+        "formatted": "Everything But Water, 5221 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "address_line1": "Everything But Water",
+        "address_line2": "5221 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "category": "commercial.clothing.clothes",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PJ52+M5",
+        "plus_code_short": "PJ52+M5 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.5933518615405906,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516d16d45c935958c059bfdb172bc55a4040f00103f901f343a5aa01000000c0020192031445766572797468696e6720427574205761746572e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37313537393234383531",
+        "bbox": {
+          "lon1": -97.3996693,
+          "lat1": 32.7090921,
+          "lon2": -97.3995693,
+          "lat2": 32.7091921
+        }
+      }
+    ],
+    "query": {
+      "text": "Everything Halal"
+    }
+  }
+}

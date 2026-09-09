@@ -1,0 +1,61 @@
+{
+  "queriedName": "The Lahore Bistro",
+  "queriedAt": "2026-09-09T00:31:35.295Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Lahore Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75028",
+        "street": "West Main Street",
+        "housenumber": "1565",
+        "iso3166_2": "US-TX",
+        "lon": -97.0320319,
+        "lat": 33.0443968,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 36951.83908601031,
+        "formatted": "The Lahore Bistro, 1565 West Main Street, Lewisville, TX 75028, United States of America",
+        "address_line1": "The Lahore Bistro",
+        "address_line2": "1565 West Main Street, Lewisville, TX 75028, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542XV9+Q5",
+        "plus_code_short": "2XV9+Q5, 75028 Lewisville, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.6378723006758666,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5171bb86cf0c4258c05906065acbae854040f00103f9019efe470f03000000c00201920311546865204c61686f72652042697374726f",
+        "bbox": {
+          "lon1": -97.0320819,
+          "lat1": 33.0443468,
+          "lon2": -97.0319819,
+          "lat2": 33.0444468
+        }
+      }
+    ],
+    "query": {
+      "text": "The Lahore Bistro"
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "queriedName": "City Eatz Food & Grill",
+  "queriedAt": "2026-09-09T00:31:17.887Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "JR's Bar & Grill",
+        "housenumber": "3923",
+        "street": "Cedar Springs Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75219",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Turtle Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.811193,
+        "lat": 32.810847,
+        "result_type": "amenity",
+        "distance": 3990.598583884739,
+        "formatted": "JR's Bar & Grill, 3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "JR's Bar & Grill",
+        "address_line2": "3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+8G",
+        "plus_code_short": "R56Q+8G, 75219 Dallas, United States",
+        "rank": {
+          "popularity": 6.115755277856817,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a06f0b96ea3358c059a587a1d5c9674040f00102f9017fc2a24e00000000c002019203104a522773204261722026204772696c6ce203226f70656e7374726565746d61703a76656e75653a7761792f31333139323839343731",
+        "bbox": {
+          "lon1": -96.8114653,
+          "lat1": 32.8106073,
+          "lon2": -96.8111206,
+          "lat2": 32.8108988
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Jadewaters Grill & Bar",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Dallas Market Center",
+        "iso3166_2": "US-TX",
+        "lon": -96.83246,
+        "lat": 32.79957,
+        "result_type": "amenity",
+        "distance": 4157.6640913262045,
+        "postcode": "75207",
+        "formatted": "Jadewaters Grill & Bar, Dallas, TX 75207, United States of America",
+        "address_line1": "Jadewaters Grill & Bar",
+        "address_line2": "Dallas, TX 75207, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5X9+R2",
+        "plus_code_short": "Q5X9+R2, 75207 Dallas, United States",
+        "rank": {
+          "popularity": 5.650884735717494,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519ace4e06473558c0596e6e4c4f58664040f00102f901a9b6f24d00000000c00201e203226f70656e7374726565746d61703a76656e75653a7761792f31333037373532313035",
+        "bbox": {
+          "lon1": -96.8327497,
+          "lat1": 32.7994588,
+          "lon2": -96.8322082,
+          "lat2": 32.799801
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jadewaters Grill & Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75207",
+        "street": "Wycliff Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.8326268,
+        "lat": 32.799633,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4174.324738711059,
+        "formatted": "Jadewaters Grill & Bar, Wycliff Avenue, Dallas, TX 75207, United States of America",
+        "address_line1": "Jadewaters Grill & Bar",
+        "address_line2": "Wycliff Avenue, Dallas, TX 75207, United States of America",
+        "category": "building.accommodation",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5X8+VW",
+        "plus_code_short": "Q5X8+VW, 75207 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517bf1eac1493558c059b4e6c75f5a664040f00102f901a9b6f24d00000000c002019203164a616465776174657273204772696c6c202620426172",
+        "bbox": {
+          "lon1": -96.8327497,
+          "lat1": 32.7994588,
+          "lon2": -96.8322082,
+          "lat2": 32.799801
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ly Food oriental food and Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "West Illinois Avenue",
+        "housenumber": "4440",
+        "iso3166_2": "US-TX",
+        "lon": -96.8923755,
+        "lat": 32.7190043,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 11006.716118200682,
+        "formatted": "Ly Food oriental food and Market, 4440 West Illinois Avenue, Dallas, TX 75211, United States of America",
+        "address_line1": "Ly Food oriental food and Market",
+        "address_line2": "4440 West Illinois Avenue, Dallas, TX 75211, United States of America",
+        "category": "commercial.marketplace",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P495+J2",
+        "plus_code_short": "P495+J2, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.2151311399620734,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b1021ae1c3958c05979173955085c4040f00102f9010f29d91b00000000c002019203204c7920466f6f64206f7269656e74616c20666f6f6420616e64204d61726b6574e203216f70656e7374726565746d61703a76656e75653a7761792f343637323136363535",
+        "bbox": {
+          "lon1": -96.8924686,
+          "lat1": 32.7188545,
+          "lon2": -96.8922825,
+          "lat2": 32.7191554
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Skillet & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76012",
+        "street": "West Division Street",
+        "housenumber": "2424",
+        "iso3166_2": "US-TX",
+        "lon": -97.1481513,
+        "lat": 32.7356387,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 33157.62883212622,
+        "formatted": "Skillet & Grill, 2424 West Division Street, Arlington, TX 76012, United States of America",
+        "address_line1": "Skillet & Grill",
+        "address_line2": "2424 West Division Street, Arlington, TX 76012, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVP2+7P",
+        "plus_code_short": "PVP2+7P, 76012 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.5231957038901305,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510817974f7b4958c0590316af68295e4040f00102f90130a9171c00000000c0020192030f536b696c6c65742026204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343731333132363838",
+        "bbox": {
+          "lon1": -97.1482887,
+          "lat1": 32.7355471,
+          "lon2": -97.1480286,
+          "lat2": 32.7357483
+        }
+      }
+    ],
+    "query": {
+      "text": "City Eatz Food & Grill"
+    }
+  }
+}

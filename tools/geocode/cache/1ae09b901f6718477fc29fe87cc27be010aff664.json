@@ -1,0 +1,250 @@
+{
+  "queriedName": "Narah Cafe & Restaurant",
+  "queriedAt": "2026-09-09T00:33:16.846Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Avila's Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Maple Avenue",
+        "housenumber": "4714",
+        "iso3166_2": "US-TX",
+        "lon": -96.8254891,
+        "lat": 32.8142333,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Lawn",
+        "result_type": "amenity",
+        "distance": 4922.606659854609,
+        "formatted": "Avila's Restaurant, 4714 Maple Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Avila's Restaurant",
+        "address_line2": "4714 Maple Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R57F+MR",
+        "plus_code_short": "R57F+MR, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.726367765670531,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5116ed3bd0d43458c0593668f9cb38684040f00102f901b546b81b00000000c002019203124176696c6127732052657374617572616e74e203216f70656e7374726565746d61703a76656e75653a7761792f343635303631353537",
+        "bbox": {
+          "lon1": -96.8255899,
+          "lat1": 32.8141475,
+          "lon2": -96.8253884,
+          "lat2": 32.814319
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Terrace Restaurant",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "East Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.718683,
+        "lat": 32.821125,
+        "result_type": "amenity",
+        "distance": 8812.363702217463,
+        "postcode": "75218",
+        "formatted": "Terrace Restaurant, Dallas, TX 75218, United States of America",
+        "address_line1": "Terrace Restaurant",
+        "address_line2": "Dallas, TX 75218, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7CJ+CG",
+        "plus_code_short": "R7CJ+CG, 75218 Dallas, United States",
+        "rank": {
+          "popularity": 4.576725038000508,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513c4cfbe6fe2d58c059c976be9f1a694040f00103f90131ba941003000000c00201920312546572726163652052657374617572616e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313633303834333337"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Terrace Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Garland Road",
+        "housenumber": "8525",
+        "iso3166_2": "US-TX",
+        "lon": -96.7186828,
+        "lat": 32.821125,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 8812.379230316103,
+        "formatted": "Terrace Restaurant, 8525 Garland Road, Dallas, TX 75218, United States of America",
+        "address_line1": "Terrace Restaurant",
+        "address_line2": "8525 Garland Road, Dallas, TX 75218, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7CJ+CG",
+        "plus_code_short": "R7CJ+CG, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a78c24e6fe2d58c059c976be9f1a694040f00103f90131ba941003000000c00201920312546572726163652052657374617572616e74",
+        "bbox": {
+          "lon1": -96.7187328,
+          "lat1": 32.821075,
+          "lon2": -96.7186328,
+          "lat2": 32.821175
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Restaurant DeGolyer",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "East Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.717119,
+        "lat": 32.823211,
+        "result_type": "amenity",
+        "distance": 9063.549449336124,
+        "postcode": "75218",
+        "formatted": "Restaurant DeGolyer, Dallas, TX 75218, United States of America",
+        "address_line1": "Restaurant DeGolyer",
+        "address_line2": "Dallas, TX 75218, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7FM+75",
+        "plus_code_short": "R7FM+75, 75218 Dallas, United States",
+        "rank": {
+          "popularity": 4.585349456550994,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c6151747e52d58c0598e5a61fa5e694040f00103f9011dba941003000000c0020192031352657374617572616e74204465476f6c796572e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313633303834333137"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Restaurant DeGolyer",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Garland Road",
+        "housenumber": "8525",
+        "iso3166_2": "US-TX",
+        "lon": -96.717119,
+        "lat": 32.8232106,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 9063.524247136645,
+        "formatted": "Restaurant DeGolyer, 8525 Garland Road, Dallas, TX 75218, United States of America",
+        "address_line1": "Restaurant DeGolyer",
+        "address_line2": "8525 Garland Road, Dallas, TX 75218, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7FM+75",
+        "plus_code_short": "R7FM+75, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c6151747e52d58c0593b5c06f75e694040f00103f9011dba941003000000c0020192031352657374617572616e74204465476f6c796572",
+        "bbox": {
+          "lon1": -96.717169,
+          "lat1": 32.8231606,
+          "lon2": -96.717069,
+          "lat2": 32.8232606
+        }
+      }
+    ],
+    "query": {
+      "text": "Narah Cafe & Restaurant"
+    }
+  }
+}

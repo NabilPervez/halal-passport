@@ -1,0 +1,272 @@
+{
+  "queriedName": "Pink Beet Cafe & Juice Bar",
+  "queriedAt": "2026-09-09T00:41:35.351Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Buda Juice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "University Crossing PID",
+        "street": "East Mockingbird Lane",
+        "housenumber": "5307",
+        "iso3166_2": "US-TX",
+        "lon": -96.7769251,
+        "lat": 32.8376082,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Greenville Ave",
+        "result_type": "amenity",
+        "distance": 6995.618883186135,
+        "formatted": "Buda Juice, 5307 East Mockingbird Lane, Dallas, TX 75206, United States of America",
+        "address_line1": "Buda Juice",
+        "address_line2": "5307 East Mockingbird Lane, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6QF+26",
+        "plus_code_short": "R6QF+26, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.670005293202333,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5142fc0d24b93158c05943eed8be366b4040f00103f9010af2fd7a02000000c0020192030a42756461204a75696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363533333937353134",
+        "bbox": {
+          "lon1": -96.7769751,
+          "lat1": 32.8375582,
+          "lon2": -96.7768751,
+          "lat2": 32.8376582
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Juice Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "district": "Vickery Meadows PID",
+        "street": "Park Lane North",
+        "housenumber": "8018",
+        "iso3166_2": "US-TX",
+        "lon": -96.7690774,
+        "lat": 32.8706725,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Vickery Meadows",
+        "result_type": "amenity",
+        "distance": 10737.737735878902,
+        "formatted": "Juice Bar, 8018 Park Lane North, Dallas, TX 75231, United States of America",
+        "address_line1": "Juice Bar",
+        "address_line2": "8018 Park Lane North, Dallas, TX 75231, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6CJ+79",
+        "plus_code_short": "V6CJ+79, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.24596267480135,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ef456a90383158c05966834c32726f4040f00103f901b039325f02000000c002019203094a7569636520426172e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130313837303631363830",
+        "bbox": {
+          "lon1": -96.7691274,
+          "lat1": 32.8706225,
+          "lon2": -96.7690274,
+          "lat2": 32.8707225
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Clean Juice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "street": "North Central Expressway",
+        "housenumber": "9820",
+        "iso3166_2": "US-TX",
+        "lon": -96.7686349,
+        "lat": 32.8816939,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 11939.324923505294,
+        "formatted": "Clean Juice, 9820 North Central Expressway, Dallas, TX 75231, United States of America",
+        "address_line1": "Clean Juice",
+        "address_line2": "9820 North Central Expressway, Dallas, TX 75231, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6JJ+MG",
+        "plus_code_short": "V6JJ+MG, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.334169088565245,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511c846f50313158c05996ca8058db704040f00103f901f335b51503000000c0020192030b436c65616e204a75696365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323439303939323531",
+        "bbox": {
+          "lon1": -96.7686849,
+          "lat1": 32.8816439,
+          "lon2": -96.7685849,
+          "lat2": 32.8817439
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rejuv Juice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Hurst",
+        "postcode": "76053",
+        "street": "Wheelwood Drive",
+        "iso3166_2": "US-TX",
+        "lon": -97.1867912,
+        "lat": 32.8353235,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 37002.7686313068,
+        "formatted": "Rejuv Juice, Wheelwood Drive, Hurst, TX 76053, United States of America",
+        "address_line1": "Rejuv Juice",
+        "address_line2": "Wheelwood Drive, Hurst, TX 76053, United States of America",
+        "category": "commercial.food_and_drink.drinks",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RRP7+47",
+        "plus_code_short": "RRP7+47 Hurst, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000056024261844770236,
+          "popularity": 4.078454725324707,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518fcb1363f44b58c059460a65e1eb6a4040f00103f9017049c11601000000c0020192030b52656a7576204a75696365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f34363736373333323936",
+        "bbox": {
+          "lon1": -97.1868412,
+          "lat1": 32.8352735,
+          "lon2": -97.1867412,
+          "lat2": 32.8353735
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Annie's/Jamba Juice Drivethru",
+        "street": "Annie's/Jamba Juice Drivethru",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Mckinney",
+        "iso3166_2": "US-TX",
+        "lon": -96.694462,
+        "lat": 33.147163,
+        "result_type": "street",
+        "distance": 42257.37641491703,
+        "postcode": "75070",
+        "formatted": "Annie's/Jamba Juice Drivethru, Mckinney, TX 75070, United States of America",
+        "address_line1": "Annie's/Jamba Juice Drivethru",
+        "address_line2": "Mckinney, TX 75070, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548W4+V6",
+        "plus_code_short": "48W4+V6 Mckinney, Collin County, United States",
+        "rank": {
+          "popularity": 3.9128190755730814,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512594be10722c58c0593317b83cd6924040c0020492031d416e6e696527732f4a616d6261204a7569636520447269766574687275e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343033333335",
+        "bbox": {
+          "lon1": -96.694808,
+          "lat1": 33.146927,
+          "lon2": -96.694213,
+          "lat2": 33.147184
+        }
+      }
+    ],
+    "query": {
+      "text": "Pink Beet Cafe & Juice Bar"
+    }
+  }
+}

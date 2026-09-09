@@ -1,0 +1,271 @@
+{
+  "queriedName": "DH Noodles & Grill",
+  "queriedAt": "2026-09-09T00:44:32.334Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "JR's Bar & Grill",
+        "housenumber": "3923",
+        "street": "Cedar Springs Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75219",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Turtle Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.811193,
+        "lat": 32.810847,
+        "result_type": "amenity",
+        "distance": 3990.598583884739,
+        "formatted": "JR's Bar & Grill, 3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "JR's Bar & Grill",
+        "address_line2": "3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+8G",
+        "plus_code_short": "R56Q+8G, 75219 Dallas, United States",
+        "rank": {
+          "popularity": 6.115755277856817,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a06f0b96ea3358c059a587a1d5c9674040f00102f9017fc2a24e00000000c002019203104a522773204261722026204772696c6ce203226f70656e7374726565746d61703a76656e75653a7761792f31333139323839343731",
+        "bbox": {
+          "lon1": -96.8114653,
+          "lat1": 32.8106073,
+          "lon2": -96.8111206,
+          "lat2": 32.8108988
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pho Express Noodles & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "East Belt Line Road",
+        "housenumber": "2012",
+        "iso3166_2": "US-TX",
+        "lon": -96.8850726,
+        "lat": 32.9533151,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21261.10973441846,
+        "formatted": "Pho Express Noodles & Grill, 2012 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "address_line1": "Pho Express Noodles & Grill",
+        "address_line2": "2012 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X437+8X",
+        "plus_code_short": "37+8X, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.871833923669992,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517ce58b07a53858c05938a4ac3a067a4040f00103f901176079cc01000000c0020192031b50686f2045787072657373204e6f6f646c65732026204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f37373235343733383135",
+        "bbox": {
+          "lon1": -96.8851226,
+          "lat1": 32.9532651,
+          "lon2": -96.8850226,
+          "lat2": 32.9533651
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Skillet & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76012",
+        "street": "West Division Street",
+        "housenumber": "2424",
+        "iso3166_2": "US-TX",
+        "lon": -97.1481513,
+        "lat": 32.7356387,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 33157.62883212622,
+        "formatted": "Skillet & Grill, 2424 West Division Street, Arlington, TX 76012, United States of America",
+        "address_line1": "Skillet & Grill",
+        "address_line2": "2424 West Division Street, Arlington, TX 76012, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVP2+7P",
+        "plus_code_short": "PVP2+7P, 76012 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.5231957038901305,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510817974f7b4958c0590316af68295e4040f00102f90130a9171c00000000c0020192030f536b696c6c65742026204772696c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343731333132363838",
+        "bbox": {
+          "lon1": -97.1482887,
+          "lat1": 32.7355471,
+          "lon2": -97.1480286,
+          "lat2": 32.7357483
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pho King Way Noodles And Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76137",
+        "street": "North Beach Street",
+        "housenumber": "6500",
+        "iso3166_2": "US-TX",
+        "lon": -97.2897983,
+        "lat": 32.862766,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Sterling Creek",
+        "result_type": "amenity",
+        "distance": 47027.10442835468,
+        "formatted": "Pho King Way Noodles And Grill, 6500 North Beach Street, Fort Worth, TX 76137, United States of America",
+        "address_line1": "Pho King Way Noodles And Grill",
+        "address_line2": "6500 North Beach Street, Fort Worth, TX 76137, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VP76+43",
+        "plus_code_short": "VP76+43 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.872833744180587,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ee3b2b0e8c5258c059e50cc51d6f6e4040f00103f901cc6cd42300000000c0020192031e50686f204b696e6720576179204e6f6f646c657320416e64204772696c6ce203226f70656e7374726565746d61703a76656e75653a6e6f64652f363031313234303434",
+        "bbox": {
+          "lon1": -97.2898483,
+          "lat1": 32.862716,
+          "lon2": -97.2897483,
+          "lat2": 32.862816
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Phoke Noodles & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75068",
+        "street": "West University Drive",
+        "housenumber": "4580",
+        "iso3166_2": "US-TX",
+        "lon": -96.8755387,
+        "lat": 33.2208025,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 49889.22190928772,
+        "formatted": "Phoke Noodles & Grill, 4580 West University Drive, Frisco, TX 75068, United States of America",
+        "address_line1": "Phoke Noodles & Grill",
+        "address_line2": "4580 West University Drive, Frisco, TX 75068, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865564CF+8Q",
+        "plus_code_short": "64CF+8Q, 75068 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 2.978169588400422,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5179b878d3083858c05901309e41439c4040f00103f901e714301903000000c0020192031550686f6b65204e6f6f646c65732026204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333037343833333637",
+        "bbox": {
+          "lon1": -96.8755887,
+          "lat1": 33.2207525,
+          "lon2": -96.8754887,
+          "lat2": 33.2208525
+        }
+      }
+    ],
+    "query": {
+      "text": "DH Noodles & Grill"
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "queriedName": "Godfather's Pizza Frisco",
+  "queriedAt": "2026-09-09T00:38:18.807Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Godfather's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75072",
+        "street": "South Custer Road",
+        "housenumber": "4701",
+        "iso3166_2": "US-TX",
+        "lon": -96.732498,
+        "lat": 33.154862,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 42445.114752791436,
+        "formatted": "Godfather's Pizza, 4701 South Custer Road, McKinney, TX 75072, United States of America",
+        "address_line1": "Godfather's Pizza",
+        "address_line2": "4701 South Custer Road, McKinney, TX 75072, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555739+W2",
+        "plus_code_short": "5739+W2 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.8024508254793314,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51ab984a3fe12e58c05953b29c84d2934040f00103f901c98f811c03000000c00201920311476f6466617468657227732050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333633313534383839",
+        "bbox": {
+          "lon1": -96.732548,
+          "lat1": 33.154812,
+          "lon2": -96.732448,
+          "lat2": 33.154912
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Palio's Pizza",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.84083,
+        "lat": 33.108046,
+        "result_type": "amenity",
+        "distance": 37037.214187330246,
+        "postcode": "75034",
+        "formatted": "Palio's Pizza, Frisco, TX 75034, United States of America",
+        "address_line1": "Palio's Pizza",
+        "address_line2": "Frisco, TX 75034, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554555+6M",
+        "plus_code_short": "4555+6M, 75034 Frisco, United States",
+        "rank": {
+          "popularity": 4.606379718420256,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b9dfa128d03558c059583b8a73d48d4040f00103f9010c3a0c6801000000c0020192030d50616c696f27732050697a7a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36303430353939303532"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Godfather's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Aubrey",
+        "postcode": "75068",
+        "street": "US Highway 380 East",
+        "housenumber": "27379",
+        "iso3166_2": "US-TX",
+        "lon": -96.9000377,
+        "lat": 33.2203835,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 50229.731394065995,
+        "formatted": "Godfather's Pizza, 27379 US Highway 380 East, Aubrey, TX 75068, United States of America",
+        "address_line1": "Godfather's Pizza",
+        "address_line2": "27379 US Highway 380 East, Aubrey, TX 75068, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865563CX+5X",
+        "plus_code_short": "63CX+5X Aubrey, Denton County, United States",
+        "rank": {
+          "importance": 0.000040588235294072134,
+          "popularity": 2.9403448277031554,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51b1aab9379a3958c059fc89ca86359c4040f00103f901d90f5d5002000000c00201920311476f6466617468657227732050697a7a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393338323130373737",
+        "bbox": {
+          "lon1": -96.9000877,
+          "lat1": 33.2203335,
+          "lon2": -96.8999877,
+          "lat2": 33.2204335
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Palio's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Legacy Drive",
+        "housenumber": "3492",
+        "iso3166_2": "US-TX",
+        "lon": -96.8408297,
+        "lat": 33.1080461,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37037.22214707286,
+        "formatted": "Palio's Pizza, 3492 Legacy Drive, Frisco, TX 75034, United States of America",
+        "address_line1": "Palio's Pizza",
+        "address_line2": "3492 Legacy Drive, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554555+6M",
+        "plus_code_short": "4555+6M, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515ac05f27d03558c059edfa6074d48d4040f00103f9010c3a0c6801000000c0020192030d50616c696f27732050697a7a61",
+        "bbox": {
+          "lon1": -96.8408797,
+          "lat1": 33.1079961,
+          "lon2": -96.8407797,
+          "lat2": 33.1080961
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zalat Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Legacy Drive",
+        "housenumber": "4275",
+        "iso3166_2": "US-TX",
+        "lon": -96.8403106,
+        "lat": 33.1151209,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 37813.96804384705,
+        "formatted": "Zalat Pizza, 4275 Legacy Drive, Frisco, TX 75034, United States of America",
+        "address_line1": "Zalat Pizza",
+        "address_line2": "4275 Legacy Drive, Frisco, TX 75034, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554585+2V",
+        "plus_code_short": "4585+2V, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.564850743241475,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51db5e1ca6c73558c059054b1a48bc8e4040f00103f901947bcae602000000c0020192030b5a616c61742050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343631393634313830",
+        "bbox": {
+          "lon1": -96.8403606,
+          "lat1": 33.1150709,
+          "lon2": -96.8402606,
+          "lat2": 33.1151709
+        }
+      }
+    ],
+    "query": {
+      "text": "Godfather's Pizza Frisco"
+    }
+  }
+}

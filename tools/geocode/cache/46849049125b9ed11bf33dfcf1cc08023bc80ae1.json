@@ -1,0 +1,268 @@
+{
+  "queriedName": "Mexican Kitchen & Ice Cream - Halal",
+  "queriedAt": "2026-09-09T00:37:20.156Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Parlor's Ice Creams",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6465",
+        "iso3166_2": "US-TX",
+        "lon": -96.7514693,
+        "lat": 32.8371496,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Caruth Terrace",
+        "result_type": "amenity",
+        "distance": 7927.246312907397,
+        "formatted": "Parlor's Ice Creams, 6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Parlor's Ice Creams",
+        "address_line2": "6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PX+VC",
+        "plus_code_short": "R6PX+VC, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.936477485103446,
+          "confidence": 0.0042352941176470585,
+          "confidence_city_level": 0.15,
+          "confidence_street_level": 0.045,
+          "match_type": "full_match"
+        },
+        "place_id": "51acdcb012183058c05903eed4b7276b4040f00103f901d7d4accd02000000c002019203135061726c6f7227732049636520437265616d73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303430353930353531",
+        "bbox": {
+          "lon1": -96.7515193,
+          "lat1": 32.8370996,
+          "lon2": -96.7514193,
+          "lat2": 32.8371996
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tastee Ice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Grand Prairie",
+        "postcode": "75051",
+        "street": "South Belt Line Road",
+        "housenumber": "829",
+        "iso3166_2": "US-TX",
+        "lon": -96.995288,
+        "lat": 32.7366645,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19077.078014017163,
+        "formatted": "Tastee Ice, 829 South Belt Line Road, Grand Prairie, TX 75051, United States of America",
+        "address_line1": "Tastee Ice",
+        "address_line2": "829 South Belt Line Road, Grand Prairie, TX 75051, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P2P3+MV",
+        "plus_code_short": "P3+MV Grand Prairie, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.106760393426258,
+          "confidence": 0.07200000000000001,
+          "confidence_city_level": 0.15,
+          "confidence_street_level": 0.03,
+          "match_type": "full_match"
+        },
+        "place_id": "517b8670ccb23f58c059e6cfb7054b5e4040f00103f9013a0fddbe00000000c0020192030a54617374656520496365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33323032313538333934",
+        "bbox": {
+          "lon1": -96.995338,
+          "lat1": 32.7366145,
+          "lon2": -96.995238,
+          "lat2": 32.7367145
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Ice House Drive",
+        "street": "Ice House Drive",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "North Richland Hills",
+        "iso3166_2": "US-TX",
+        "lon": -97.197983,
+        "lat": 32.859862,
+        "result_type": "street",
+        "distance": 38587.01450972064,
+        "postcode": "76180",
+        "formatted": "Ice House Drive, North Richland Hills, TX 76180, United States of America",
+        "address_line1": "Ice House Drive",
+        "address_line2": "North Richland Hills, TX 76180, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VR52+WR",
+        "plus_code_short": "VR52+WR North Richland Hills, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.014589509961776,
+          "confidence": 0.004105642256902762,
+          "confidence_city_level": 0.15,
+          "confidence_street_level": 0.026470588235294117,
+          "match_type": "full_match"
+        },
+        "place_id": "517e8ae3c0ab4c58c0595d8940f50f6e4040c0020492030f49636520486f757365204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353432333935",
+        "bbox": {
+          "lon1": -97.199609,
+          "lat1": 32.859207,
+          "lon2": -97.194818,
+          "lat2": 32.861706
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Ice House Road",
+        "street": "Ice House Road",
+        "country": "United States",
+        "county": "Parker County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "PR",
+        "iso3166_2": "US-TX",
+        "lon": -97.612852,
+        "lat": 32.912455,
+        "result_type": "street",
+        "distance": 77690.53554420403,
+        "postcode": "76085",
+        "formatted": "Ice House Road, Parker County, TX 76085, United States of America",
+        "address_line1": "Ice House Road",
+        "address_line2": "Parker County, TX 76085, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644W96P+XV",
+        "rank": {
+          "popularity": 2.390406745991306,
+          "confidence": 0.03526530612244898,
+          "confidence_city_level": 0.03571428571428571,
+          "confidence_street_level": 0.010714285714285713,
+          "match_type": "full_match"
+        },
+        "place_id": "51725298f7386758c0592d095053cb744040c0020492030e49636520486f75736520526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353631363833",
+        "bbox": {
+          "lon1": -97.616844,
+          "lat1": 32.90476,
+          "lon2": -97.61244,
+          "lat2": 32.917351
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Ice House Circle",
+        "street": "Ice House Circle",
+        "country": "United States",
+        "county": "Parker County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "PR",
+        "iso3166_2": "US-TX",
+        "lon": -97.614942,
+        "lat": 32.911554,
+        "result_type": "street",
+        "distance": 77863.15389287425,
+        "postcode": "76085",
+        "formatted": "Ice House Circle, Parker County, TX 76085, United States of America",
+        "address_line1": "Ice House Circle",
+        "address_line2": "Parker County, TX 76085, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644W96P+J2",
+        "rank": {
+          "popularity": 2.390406745991306,
+          "confidence": 0.04478134110787173,
+          "confidence_city_level": 0.04285714285714285,
+          "confidence_street_level": 0.009183673469387752,
+          "match_type": "full_match"
+        },
+        "place_id": "51f5bbb0355b6758c059dd442dcdad744040c0020492031049636520486f75736520436972636c65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353631383332",
+        "bbox": {
+          "lon1": -97.614953,
+          "lat1": 32.909046,
+          "lon2": -97.612728,
+          "lat2": 32.914081
+        }
+      }
+    ],
+    "query": {
+      "text": "Mexican Kitchen & Ice Cream - Halal"
+    }
+  }
+}

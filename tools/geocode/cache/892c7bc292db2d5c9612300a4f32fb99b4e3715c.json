@@ -1,0 +1,160 @@
+{
+  "queriedName": "Sal's Nashville Hot Chicken - Plano",
+  "queriedAt": "2026-09-09T00:37:18.618Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hot Chicks Nashville Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Dallas Parkway",
+        "housenumber": "1885",
+        "iso3166_2": "US-TX",
+        "lon": -96.8307455,
+        "lat": 33.0261959,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 27887.882597032352,
+        "formatted": "Hot Chicks Nashville Hot Chicken, 1885 Dallas Parkway, Plano, TX 75093, United States of America",
+        "address_line1": "Hot Chicks Nashville Hot Chicken",
+        "address_line2": "1885 Dallas Parkway, Plano, TX 75093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865525G9+FP",
+        "plus_code_short": "25G9+FP, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 6.668979637418233,
+          "confidence": 0.45,
+          "confidence_city_level": 0.2857142857142857,
+          "confidence_street_level": 0.14285714285714285,
+          "match_type": "full_match"
+        },
+        "place_id": "5126732cef2a3558c05907e522635a834040f00103f901bc7c274e02000000c00201920320486f7420436869636b73204e61736876696c6c6520486f7420436869636b656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393031313435323736",
+        "bbox": {
+          "lon1": -96.8307955,
+          "lat1": 33.0261459,
+          "lon2": -96.8306955,
+          "lat2": 33.0262459
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Ricky's Nashville Hot Chicken",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.804956,
+        "lat": 33.092165,
+        "result_type": "amenity",
+        "distance": 35052.66215827838,
+        "postcode": "75024",
+        "formatted": "Ricky's Nashville Hot Chicken, Plano, TX 75024, United States of America",
+        "address_line1": "Ricky's Nashville Hot Chicken",
+        "address_line2": "Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+V2",
+        "plus_code_short": "35RW+V2, 75024 Plano, United States",
+        "rank": {
+          "popularity": 4.998335826938353,
+          "confidence": 0.7714285714285715,
+          "confidence_city_level": 0.2857142857142857,
+          "match_type": "full_match"
+        },
+        "place_id": "5104ae2b66843358c059fd6a0e10cc8b4040f00103f901ad9e2be502000000c0020192031d5269636b792773204e61736876696c6c6520486f7420436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343334373735373235"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ricky's Nashville Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "housenumber": "8400",
+        "iso3166_2": "US-TX",
+        "lon": -96.8049557,
+        "lat": 33.0921653,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 35052.69491625461,
+        "formatted": "Ricky's Nashville Hot Chicken, 8400 Preston Road, Plano, TX 75024, United States of America",
+        "address_line1": "Ricky's Nashville Hot Chicken",
+        "address_line2": "8400 Preston Road, Plano, TX 75024, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RW+V2",
+        "plus_code_short": "35RW+V2, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "confidence": 0.22040816326530613,
+          "confidence_city_level": 0.2857142857142857,
+          "confidence_street_level": 0.08163265306122448,
+          "match_type": "full_match"
+        },
+        "place_id": "51a48ee964843358c059bba99212cc8b4040f00103f901ad9e2be502000000c0020192031d5269636b792773204e61736876696c6c6520486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.8050057,
+          "lat1": 33.0921153,
+          "lon2": -96.8049057,
+          "lat2": 33.0922153
+        }
+      }
+    ],
+    "query": {
+      "text": "Sal's Nashville Hot Chicken - Plano"
+    }
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "queriedName": "Sugar - Sweets & Gelato",
+  "queriedAt": "2026-09-09T00:34:53.533Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Le Rêve Gelato & Patisserie",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Preston Road",
+        "housenumber": "12817",
+        "iso3166_2": "US-TX",
+        "lon": -96.8056679,
+        "lat": 32.9234348,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 16302.949126370504,
+        "formatted": "Le Rêve Gelato & Patisserie, 12817 Preston Road, Dallas, TX 75230, United States of America",
+        "address_line1": "Le Rêve Gelato & Patisserie",
+        "address_line2": "12817 Preston Road, Dallas, TX 75230, United States of America",
+        "category": "commercial.food_and_drink.bakery",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5FV+9P",
+        "plus_code_short": "W5FV+9P, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.013068657516846,
+          "confidence": 0.0074415879017013225,
+          "confidence_city_level": 0.044444444444444446,
+          "confidence_street_level": 0.014814814814814815,
+          "match_type": "full_match"
+        },
+        "place_id": "51f87b1810903358c05981fe8c1c33764040f00103f901cbf1940f03000000c0020192031c4c652052c3aa76652047656c61746f20262050617469737365726965e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133313436333231333535",
+        "bbox": {
+          "lon1": -96.8057179,
+          "lat1": 32.9233848,
+          "lon2": -96.8056179,
+          "lat2": 32.9234848
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Royal Sweets & Fast Food",
+        "other_names": {
+          "short_name": "Royal Sweets"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Belt Line Road",
+        "housenumber": "524",
+        "iso3166_2": "US-TX",
+        "lon": -96.7373461,
+        "lat": 32.9516431,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20202.923944356207,
+        "formatted": "Royal Sweets & Fast Food, 524 West Belt Line Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Royal Sweets & Fast Food",
+        "address_line2": "524 West Belt Line Road, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X727+M3",
+        "plus_code_short": "27+M3 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.007020229158536,
+          "confidence": 0.03169565217391305,
+          "confidence_city_level": 0.037037037037037035,
+          "confidence_street_level": 0.012345679012345678,
+          "match_type": "full_match"
+        },
+        "place_id": "515255b2ad302f58c05966fbeb70cf794040f00103f9014b31142602000000c00201920318526f79616c205377656574732026204661737420466f6f64e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323238373932313339",
+        "bbox": {
+          "lon1": -96.7373961,
+          "lat1": 32.9515931,
+          "lon2": -96.7372961,
+          "lat2": 32.9516931
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kwality Ice Cream, Sweets & Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "North Main Street",
+        "housenumber": "1060",
+        "iso3166_2": "US-TX",
+        "lon": -97.0814244,
+        "lat": 32.8501516,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27796.939827452086,
+        "formatted": "Kwality Ice Cream, Sweets & Bakery, 1060 North Main Street, Euless, TX 76039, United States of America",
+        "address_line1": "Kwality Ice Cream, Sweets & Bakery",
+        "address_line2": "1060 North Main Street, Euless, TX 76039, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW29+3C",
+        "plus_code_short": "29+3C Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.355154187380979,
+          "confidence": 0.003382539955318784,
+          "confidence_city_level": 0.0606060606060606,
+          "confidence_street_level": 0.006060606060606061,
+          "match_type": "full_match"
+        },
+        "place_id": "512cc6af0e364558c0592f5283c4d16c4040f00103f901de3ae83303000000c002019203224b77616c6974792049636520437265616d2c2053776565747320262042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373535373539333236",
+        "bbox": {
+          "lon1": -97.0814744,
+          "lat1": 32.8501016,
+          "lon2": -97.0813744,
+          "lat2": 32.8502016
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tifa Chocolate & Gelato",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "suburb": "Glade Parks",
+        "street": "Red River Drive",
+        "housenumber": "1300",
+        "iso3166_2": "US-TX",
+        "lon": -97.1031812,
+        "lat": 32.8757448,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30643.929148803465,
+        "formatted": "Tifa Chocolate & Gelato, 1300 Red River Drive, Euless, TX 76039, United States of America",
+        "address_line1": "Tifa Chocolate & Gelato",
+        "address_line2": "1300 Red River Drive, Euless, TX 76039, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VVGW+7P",
+        "plus_code_short": "VVGW+7P Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005574654764625036,
+          "popularity": 4.239797930860269,
+          "confidence": 0.03313636363636363,
+          "confidence_city_level": 0.0606060606060606,
+          "confidence_street_level": 0.00909090909090909,
+          "match_type": "full_match"
+        },
+        "place_id": "51f8e351859a4658c0592fd2d56718704040f00103f901f7a2b03403000000c00201920317546966612043686f636f6c61746520262047656c61746fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373638383933313735",
+        "bbox": {
+          "lon1": -97.1032312,
+          "lat1": 32.8756948,
+          "lon2": -97.1031312,
+          "lat2": 32.8757948
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Epic Gelato & Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75028",
+        "suburb": "Lakeside Village",
+        "street": "Lakeside Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -97.0645942,
+        "lat": 32.9944762,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 34772.59269180856,
+        "formatted": "Epic Gelato & Coffee, Lakeside Parkway, Flower Mound, TX 75028, United States of America",
+        "address_line1": "Epic Gelato & Coffee",
+        "address_line2": "Lakeside Parkway, Flower Mound, TX 75028, United States of America",
+        "category": "catering.ice_cream",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644XWVP+Q5",
+        "plus_code_short": "XWVP+Q5 Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.6249725613629895,
+          "confidence": 0.09041529300567107,
+          "confidence_city_level": 0.162,
+          "match_type": "full_match"
+        },
+        "place_id": "51b920b64f224458c0593fd301ff4a7f4040f00103f9018616410003000000c00201920314457069632047656c61746f202620436f66666565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132383839313637343934",
+        "bbox": {
+          "lon1": -97.0646442,
+          "lat1": 32.9944262,
+          "lon2": -97.0645442,
+          "lat2": 32.9945262
+        }
+      }
+    ],
+    "query": {
+      "text": "Sugar - Sweets & Gelato"
+    }
+  }
+}

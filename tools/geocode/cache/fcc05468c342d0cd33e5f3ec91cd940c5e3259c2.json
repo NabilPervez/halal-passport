@@ -1,0 +1,117 @@
+{
+  "queriedName": "Sky Rocket Burger-Plano",
+  "queriedAt": "2026-09-09T00:32:36.567Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sky Rocket Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "South Hall Street",
+        "housenumber": "111",
+        "iso3166_2": "US-TX",
+        "lon": -96.7788854,
+        "lat": 32.7842025,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1873.3131030950158,
+        "formatted": "Sky Rocket Burger, 111 South Hall Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Sky Rocket Burger",
+        "address_line2": "111 South Hall Street, Dallas, TX 75226, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6MC+MC",
+        "plus_code_short": "Q6MC+MC, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.109411596176307,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "513d152642d93158c05981785dbf60644040f00102f90145e9a71b00000000c00201920311536b7920526f636b657420427572676572e203216f70656e7374726565746d61703a76656e75653a7761792f343633393839303631",
+        "bbox": {
+          "lon1": -96.7789654,
+          "lat1": 32.7841319,
+          "lon2": -96.7788055,
+          "lat2": 32.784273
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sky Rocket Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Frankford Road",
+        "housenumber": "7877",
+        "iso3166_2": "US-TX",
+        "lon": -96.7688696,
+        "lat": 32.9981551,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Renner",
+        "result_type": "amenity",
+        "distance": 24731.241460153284,
+        "formatted": "Sky Rocket Burger, 7877 Frankford Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Sky Rocket Burger",
+        "address_line2": "7877 Frankford Road, Dallas, TX 75252, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6XJ+7F",
+        "plus_code_short": "X6XJ+7F, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.940375425390854,
+          "confidence": 0.75,
+          "match_type": "full_match"
+        },
+        "place_id": "51dfb8d628353158c059f56adb8bc37f4040f00103f901f83cea5b01000000c00201920311536b7920526f636b657420427572676572e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35383337303434393834",
+        "bbox": {
+          "lon1": -96.7689196,
+          "lat1": 32.9981051,
+          "lon2": -96.7688196,
+          "lat2": 32.9982051
+        }
+      }
+    ],
+    "query": {
+      "text": "Sky Rocket Burger-Plano"
+    }
+  }
+}

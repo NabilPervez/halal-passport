@@ -1,0 +1,210 @@
+{
+  "queriedName": "Closed MoMo Plano",
+  "queriedAt": "2026-09-09T00:36:33.414Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Butcher Shop Steakhouse (Closed)",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "West End Historic District",
+        "iso3166_2": "US-TX",
+        "lon": -96.80706,
+        "lat": 32.78311,
+        "result_type": "amenity",
+        "distance": 1160.217190565361,
+        "formatted": "Butcher Shop Steakhouse (Closed), West End Historic District, Dallas, TX, United States of America",
+        "address_line1": "Butcher Shop Steakhouse (Closed)",
+        "address_line2": "West End Historic District, Dallas, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5MV+65",
+        "plus_code_short": "+65 Dallas, Dallas County, United States",
+        "rank": {
+          "popularity": 7.750668345006645,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513a7afcdea63358c059d595cff23c644040c00201920320427574636865722053686f7020537465616b686f7573652028436c6f73656429e2031667656f6e616d65733a76656e75653a37323838393138"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Everest Momo",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "East Harwood Road",
+        "housenumber": "699",
+        "iso3166_2": "US-TX",
+        "lon": -97.0732491,
+        "lat": 32.8522473,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27137.953056199138,
+        "formatted": "Everest Momo, 699 East Harwood Road, Euless, TX 76039, United States of America",
+        "address_line1": "Everest Momo",
+        "address_line2": "699 East Harwood Road, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VW2G+VP",
+        "plus_code_short": "VW2G+VP Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.39351442256121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51883dfe1cb04458c0595acd8470166d4040f00103f9010306ac6202000000c0020192030c45766572657374204d6f6d6fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435333735343931",
+        "bbox": {
+          "lon1": -97.0732991,
+          "lat1": 32.8521973,
+          "lon2": -97.0731991,
+          "lat2": 32.8522973
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roy's - CLOSED",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Keller",
+        "postcode": "76248",
+        "street": "Keller Parkway",
+        "housenumber": "1100",
+        "iso3166_2": "US-TX",
+        "lon": -97.2261023,
+        "lat": 32.9336774,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Heritage",
+        "result_type": "amenity",
+        "distance": 43704.33766497476,
+        "formatted": "Roy's - CLOSED, 1100 Keller Parkway, Keller, TX 76248, United States of America",
+        "address_line1": "Roy's - CLOSED",
+        "address_line2": "1100 Keller Parkway, Keller, TX 76248, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WQMF+FH",
+        "plus_code_short": "WQMF+FH Keller, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005644541084911906,
+          "popularity": 3.731333504168975,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513903c875784e58c059d501b5bd82774040f00102f9016e43ed2e00000000c0020192030e526f792773202d20434c4f534544e203216f70656e7374726565746d61703a76656e75653a7761792f373837333031323330",
+        "bbox": {
+          "lon1": -97.2262958,
+          "lat1": 32.9335206,
+          "lon2": -97.2259089,
+          "lat2": 32.9338482
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "51 Rainbow Indian Grill & Momo House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "McKinney Ranch Parkway",
+        "housenumber": "5151",
+        "iso3166_2": "US-TX",
+        "lon": -96.6828975,
+        "lat": 33.1587749,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 43765.69438765763,
+        "formatted": "51 Rainbow Indian Grill & Momo House, 5151 McKinney Ranch Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "51 Rainbow Indian Grill & Momo House",
+        "address_line2": "5151 McKinney Ranch Parkway, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555858+GR",
+        "plus_code_short": "5858+GR McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.8391075325667288,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514a41b797b42b58c0597c7665bc52944040f00103f9014e86f93003000000c002019203243531205261696e626f7720496e6469616e204772696c6c2026204d6f6d6f20486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373036353631313032",
+        "bbox": {
+          "lon1": -96.6829475,
+          "lat1": 33.1587249,
+          "lon2": -96.6828475,
+          "lat2": 33.1588249
+        }
+      }
+    ],
+    "query": {
+      "text": "Closed MoMo Plano"
+    }
+  }
+}

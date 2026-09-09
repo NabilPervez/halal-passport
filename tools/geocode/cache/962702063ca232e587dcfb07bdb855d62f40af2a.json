@@ -1,0 +1,163 @@
+{
+  "queriedName": "Bob's Steak & Chop House",
+  "queriedAt": "2026-09-09T00:36:35.152Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bob's Steak & Chop House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76051",
+        "street": "Hanover Drive",
+        "iso3166_2": "US-TX",
+        "lon": -97.0776528,
+        "lat": 32.9260903,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31018.354265521393,
+        "formatted": "Bob's Steak & Chop House, Hanover Drive, Grapevine, TX 76051, United States of America",
+        "address_line1": "Bob's Steak & Chop House",
+        "address_line2": "Hanover Drive, Grapevine, TX 76051, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WWGC+CW",
+        "plus_code_short": "GC+CW Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005779888609135603,
+          "popularity": 4.798792648592501,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51571c7343f84458c05948d27f208a764040f00102f901fa07f02600000000c00201920318426f62277320537465616b20262043686f7020486f757365",
+        "bbox": {
+          "lon1": -97.0777747,
+          "lat1": 32.9259206,
+          "lon2": -97.0775298,
+          "lat2": 32.9262704
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bob's Steak & Chop House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "79093",
+        "suburb": "The Shops at Legacy East",
+        "street": "Olivia Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.820308,
+        "lat": 33.0774615,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33480.58843300325,
+        "formatted": "Bob's Steak & Chop House, Olivia Lane, Plano, TX 79093, United States of America",
+        "address_line1": "Bob's Steak & Chop House",
+        "address_line2": "Olivia Lane, Plano, TX 79093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535GH+XV",
+        "plus_code_short": "35GH+XV, 79093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.038039379768765,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516b2920ed7f3458c0597c992842ea894040f00103f90108e451af00000000c00201920318426f62277320537465616b20262043686f7020486f757365",
+        "bbox": {
+          "lon1": -96.820358,
+          "lat1": 33.0774115,
+          "lon2": -96.820258,
+          "lat2": 33.0775115
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bob's Steak & Chop House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "State Highway 121",
+        "housenumber": "7220",
+        "iso3166_2": "US-TX",
+        "lon": -96.7053508,
+        "lat": 33.1365736,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 40886.97843945147,
+        "formatted": "Bob's Steak & Chop House, 7220 State Highway 121, McKinney, TX 75070, United States of America",
+        "address_line1": "Bob's Steak & Chop House",
+        "address_line2": "7220 State Highway 121, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865547PV+JV",
+        "plus_code_short": "47PV+JV McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 4.552556381947835,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51478dae77242d58c0599dbf643e7b914040f00102f9012d42124e00000000c00201920318426f62277320537465616b20262043686f7020486f757365",
+        "bbox": {
+          "lon1": -96.7054879,
+          "lat1": 33.1363844,
+          "lon2": -96.7052126,
+          "lat2": 33.1367662
+        }
+      }
+    ],
+    "query": {
+      "text": "Bob's Steak & Chop House"
+    }
+  }
+}

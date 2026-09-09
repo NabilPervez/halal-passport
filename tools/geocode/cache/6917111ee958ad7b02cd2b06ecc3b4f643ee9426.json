@@ -1,0 +1,281 @@
+{
+  "queriedName": "Biryani Bistro",
+  "queriedAt": "2026-09-09T00:40:53.199Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sky Blossom Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "Elm Street",
+        "housenumber": "1514",
+        "iso3166_2": "US-TX",
+        "lon": -96.7988747,
+        "lat": 32.7812546,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 504.51163344516505,
+        "formatted": "Sky Blossom Bistro, 1514 Elm Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Sky Blossom Bistro",
+        "address_line2": "1514 Elm Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J2+GF",
+        "plus_code_short": "J2+GF, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51848659c3203358c059be6c962600644040f00103f90133565be902000000c00201920312536b7920426c6f73736f6d2042697374726fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353035303131373633",
+        "bbox": {
+          "lon1": -96.7989247,
+          "lat1": 32.7812046,
+          "lon2": -96.7988247,
+          "lat2": 32.7813046
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "IKEA Bistro",
+        "other_names": {
+          "brand": "IKEA"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75231",
+        "district": "Vickery Meadows PID",
+        "street": "Park Lane",
+        "housenumber": "8030",
+        "iso3166_2": "US-TX",
+        "lon": -96.7691087,
+        "lat": 32.8689856,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Vickery Meadows",
+        "result_type": "amenity",
+        "distance": 10555.166473059922,
+        "formatted": "IKEA Bistro, 8030 Park Lane, Dallas, TX 75231, United States of America",
+        "address_line1": "IKEA Bistro",
+        "address_line2": "8030 Park Lane, Dallas, TX 75231, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V69J+H9",
+        "plus_code_short": "V69J+H9, 75231 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.592683040199612,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516c64b213393158c059f4588eeb3a6f4040f00103f9011454da3003000000c0020192030b494b45412042697374726fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373034353136363238",
+        "bbox": {
+          "lon1": -96.7691587,
+          "lat1": 32.8689356,
+          "lon2": -96.7690587,
+          "lat2": 32.8690356
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hyderabadi Biryani and BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75229",
+        "district": "Asian Trade District",
+        "street": "Harry Hines Boulevard",
+        "housenumber": "11276",
+        "iso3166_2": "US-TX",
+        "lon": -96.8894884,
+        "lat": 32.892463,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Koreatown",
+        "result_type": "amenity",
+        "distance": 15476.061251322017,
+        "formatted": "Hyderabadi Biryani and BBQ, 11276 Harry Hines Boulevard, Dallas, TX 75229, United States of America",
+        "address_line1": "Hyderabadi Biryani and BBQ",
+        "address_line2": "11276 Harry Hines Boulevard, Dallas, TX 75229, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V4R6+X6",
+        "plus_code_short": "V4R6+X6, 75229 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.730391234929563,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f80ac160ed3858c059edf1423a3c724040f00103f901fa98da4a02000000c0020192031a487964657261626164692042697279616e6920616e6420424251e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39383435373734353836",
+        "bbox": {
+          "lon1": -96.8895384,
+          "lat1": 32.892413,
+          "lon2": -96.8894384,
+          "lat2": 32.892513
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bistro B",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75243",
+        "district": "North Lake Highlands",
+        "suburb": "Lake Highlands",
+        "street": "Walnut Street",
+        "housenumber": "9780",
+        "iso3166_2": "US-TX",
+        "lon": -96.7197261,
+        "lat": 32.9218075,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17645.89899050838,
+        "formatted": "Bistro B, 9780 Walnut Street, Dallas, TX 75243, United States of America",
+        "address_line1": "Bistro B",
+        "address_line2": "9780 Walnut Street, Dallas, TX 75243, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7CJ+P4",
+        "plus_code_short": "W7CJ+P4, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.761633095887742,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f8640ffe0f2e58c05990dac4c9fd754040f00103f901fb0bc88502000000c0020192030842697374726f2042e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383334343134353837",
+        "bbox": {
+          "lon1": -96.7197761,
+          "lat1": 32.9217575,
+          "lon2": -96.7196761,
+          "lat2": 32.9218575
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Salem RR Biryani",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Coit Road",
+        "housenumber": "6832 Suite 200",
+        "iso3166_2": "US-TX",
+        "lon": -96.7706498,
+        "lat": 33.0701872,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 32693.613165873066,
+        "formatted": "Salem RR Biryani, 6832 Suite 200 Coit Road, Plano, TX 75023, United States of America",
+        "address_line1": "Salem RR Biryani",
+        "address_line2": "6832 Suite 200 Coit Road, Plano, TX 75023, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865536CH+3P",
+        "plus_code_short": "36CH+3P, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.789282693434228,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d0ea8953523158c059854ce8e4fb884040f00103f90141b164fc02000000c0020192031053616c656d2052522042697279616e69e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132383234333932303031",
+        "bbox": {
+          "lon1": -96.7706998,
+          "lat1": 33.0701372,
+          "lon2": -96.7705998,
+          "lat2": 33.0702372
+        }
+      }
+    ],
+    "query": {
+      "text": "Biryani Bistro"
+    }
+  }
+}

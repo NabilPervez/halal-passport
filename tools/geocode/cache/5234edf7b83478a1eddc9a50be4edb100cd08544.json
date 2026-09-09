@@ -1,0 +1,267 @@
+{
+  "queriedName": "Northlake Mo:Mo Food Truck",
+  "queriedAt": "2026-09-09T00:31:48.858Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "NorthLake Automotive",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75238",
+        "suburb": "Lake Highlands",
+        "street": "Shoreview Road",
+        "housenumber": "10150",
+        "iso3166_2": "US-TX",
+        "lon": -96.7116078,
+        "lat": 32.865612,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 12679.00471743385,
+        "formatted": "NorthLake Automotive, 10150 Shoreview Road, Dallas, TX 75238, United States of America",
+        "address_line1": "NorthLake Automotive",
+        "address_line2": "10150 Shoreview Road, Dallas, TX 75238, United States of America",
+        "category": "commercial;service.vehicle.repair.car",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V78Q+69",
+        "plus_code_short": "V78Q+69, 75238 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.541848179555818,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51062571fb8a2d58c0593883bf5fcc6e4040f00102f901ed91e61b00000000c002019203144e6f7274684c616b65204175746f6d6f74697665e203216f70656e7374726565746d61703a76656e75653a7761792f343638303935343639",
+        "bbox": {
+          "lon1": -96.7117715,
+          "lat1": 32.8654346,
+          "lon2": -96.7114438,
+          "lat2": 32.8657668
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Northlake Baptist Church",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75238",
+        "suburb": "Lake Highlands",
+        "street": "Ferndale Road",
+        "housenumber": "10110",
+        "iso3166_2": "US-TX",
+        "lon": -96.7097968,
+        "lat": 32.8713385,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 13282.917684993732,
+        "formatted": "Northlake Baptist Church, 10110 Ferndale Road, Dallas, TX 75238, United States of America",
+        "address_line1": "Northlake Baptist Church",
+        "address_line2": "10110 Ferndale Road, Dallas, TX 75238, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V7CR+G3",
+        "plus_code_short": "V7CR+G3, 75238 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.58870170901948,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518db38e4f6d2d58c059739f1c05886f4040f00102f901a694e61b00000000c002019203184e6f7274686c616b65204261707469737420436875726368e203216f70656e7374726565746d61703a76656e75653a7761792f343638303936313636",
+        "bbox": {
+          "lon1": -96.7105297,
+          "lat1": 32.8711552,
+          "lon2": -96.7094121,
+          "lat2": 32.8715106
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Northlake Elementary School",
+        "housenumber": "10059",
+        "street": "Ravensway Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75238",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Lake Highlands",
+        "iso3166_2": "US-TX",
+        "lon": -96.720037,
+        "lat": 32.885104,
+        "result_type": "amenity",
+        "distance": 14007.345710545484,
+        "formatted": "Northlake Elementary School, 10059 Ravensway Drive, Dallas, TX 75238, United States of America",
+        "address_line1": "Northlake Elementary School",
+        "address_line2": "10059 Ravensway Drive, Dallas, TX 75238, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V7PH+2X",
+        "plus_code_short": "V7PH+2X, 75238 Dallas, United States",
+        "rank": {
+          "popularity": 4.599469656729686,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513dba1116152e58c05986c77e164b714040f00102f90188c4c31a00000000c0020192031b4e6f7274686c616b6520456c656d656e74617279205363686f6f6ce203216f70656e7374726565746d61703a76656e75653a7761792f343439303337343438",
+        "bbox": {
+          "lon1": -96.7214078,
+          "lat1": 32.884296,
+          "lon2": -96.7193666,
+          "lat2": 32.8862804
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Northlake",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Northlake",
+        "iso3166_2": "US-TX",
+        "lon": -97.245316,
+        "lat": 33.085403,
+        "result_type": "city",
+        "distance": 54098.41603697018,
+        "formatted": "Northlake, TX, United States of America",
+        "address_line1": "Northlake, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86543QP3+5V",
+        "plus_code_short": "3QP3+5V Northlake, Denton County, United States",
+        "rank": {
+          "popularity": 3.029258375897863,
+          "confidence": 0.19999999999999996,
+          "confidence_city_level": 0.19999999999999996,
+          "match_type": "full_match"
+        },
+        "place_id": "51e04be141b34f58c0597afd497cee8a4040c002089203094e6f7274686c616b65e2031e77686f736f6e66697273743a6c6f63616c6974793a313031373234343733",
+        "bbox": {
+          "lon1": -97.293289,
+          "lat1": 33.017958,
+          "lon2": -97.216616,
+          "lat2": 33.150575
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Northlake Dentistry",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Northlake",
+        "postcode": "76226",
+        "suburb": "Northlake Commons",
+        "street": "Commons Circle",
+        "housenumber": "1500",
+        "iso3166_2": "US-TX",
+        "lon": -97.2332322,
+        "lat": 33.1017406,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 54416.2513430125,
+        "formatted": "Northlake Dentistry, 1500 Commons Circle, Northlake, TX 76226, United States of America",
+        "address_line1": "Northlake Dentistry",
+        "address_line2": "1500 Commons Circle, Northlake, TX 76226, United States of America",
+        "category": "healthcare.dentist",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86544Q28+MP",
+        "plus_code_short": "4Q28+MP, 76226 Northlake, United States",
+        "rank": {
+          "importance": 0.0000457976653696043,
+          "popularity": 3.0268179184543182,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f2d7bf46ed4e58c05974d602d6058d4040f00102f901e090413100000000c002019203134e6f7274686c616b652044656e746973747279e203216f70656e7374726565746d61703a76656e75653a7761792f383236333830353132",
+        "bbox": {
+          "lon1": -97.2333355,
+          "lat1": 33.1016138,
+          "lon2": -97.2331319,
+          "lat2": 33.1017837
+        }
+      }
+    ],
+    "query": {
+      "text": "Northlake Mo:Mo Food Truck"
+    }
+  }
+}

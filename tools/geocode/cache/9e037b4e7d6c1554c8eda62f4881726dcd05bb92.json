@@ -1,0 +1,62 @@
+{
+  "queriedName": "Halal Munchies",
+  "queriedAt": "2026-09-09T00:30:57.505Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Halal Munchies",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75082",
+        "street": "North Plano Road",
+        "housenumber": "2000",
+        "iso3166_2": "US-TX",
+        "lon": -96.6989234,
+        "lat": 32.976044,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23952.961464400236,
+        "formatted": "Halal Munchies, 2000 North Plano Road, Richardson, TX 75082, United States of America",
+        "address_line1": "Halal Munchies",
+        "address_line2": "2000 North Plano Road, Richardson, TX 75082, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8G2+CC",
+        "plus_code_short": "X8G2+CC Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.8299544600428055,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512f5a3629bb2c58c05980ba8102ef7c4040f00103f9013d1e671f03000000c0020192030e48616c616c204d756e6368696573",
+        "bbox": {
+          "lon1": -96.6989734,
+          "lat1": 32.975994,
+          "lon2": -96.6988734,
+          "lat2": 32.976094
+        }
+      }
+    ],
+    "query": {
+      "text": "Halal Munchies"
+    }
+  }
+}

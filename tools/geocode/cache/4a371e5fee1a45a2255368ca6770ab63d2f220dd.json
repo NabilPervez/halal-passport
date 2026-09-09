@@ -1,0 +1,63 @@
+{
+  "queriedName": "Flaming Skewer",
+  "queriedAt": "2026-09-09T00:39:31.229Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Flaming Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Lochwood Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.6863474,
+        "lat": 32.8484197,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Casa View",
+        "result_type": "amenity",
+        "distance": 13038.456661719725,
+        "formatted": "Flaming Burger, Lochwood Boulevard, Dallas, TX 75218, United States of America",
+        "address_line1": "Flaming Burger",
+        "address_line2": "Lochwood Boulevard, Dallas, TX 75218, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R8X7+9F",
+        "plus_code_short": "R8X7+9F, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.531269264764243,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51752ca51ded2b58c0591d644804996c4040f00103f9010d05e88102000000c0020192030e466c616d696e6720427572676572e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373639343031313031",
+        "bbox": {
+          "lon1": -96.6863974,
+          "lat1": 32.8483697,
+          "lon2": -96.6862974,
+          "lat2": 32.8484697
+        }
+      }
+    ],
+    "query": {
+      "text": "Flaming Skewer"
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "queriedName": "Godfather's Pizza McKinney",
+  "queriedAt": "2026-09-09T00:36:58.210Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Godfather's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75072",
+        "street": "South Custer Road",
+        "housenumber": "4701",
+        "iso3166_2": "US-TX",
+        "lon": -96.732498,
+        "lat": 33.154862,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "county_code": "CI",
+        "distance": 42445.114752791436,
+        "formatted": "Godfather's Pizza, 4701 South Custer Road, McKinney, TX 75072, United States of America",
+        "address_line1": "Godfather's Pizza",
+        "address_line2": "4701 South Custer Road, McKinney, TX 75072, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555739+W2",
+        "plus_code_short": "5739+W2 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.8024508254793314,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51ab984a3fe12e58c05953b29c84d2934040f00103f901c98f811c03000000c00201920311476f6466617468657227732050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333633313534383839",
+        "bbox": {
+          "lon1": -96.732548,
+          "lat1": 33.154812,
+          "lon2": -96.732448,
+          "lat2": 33.154912
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Godfather's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Aubrey",
+        "postcode": "75068",
+        "street": "US Highway 380 East",
+        "housenumber": "27379",
+        "iso3166_2": "US-TX",
+        "lon": -96.9000377,
+        "lat": 33.2203835,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 50229.731394065995,
+        "formatted": "Godfather's Pizza, 27379 US Highway 380 East, Aubrey, TX 75068, United States of America",
+        "address_line1": "Godfather's Pizza",
+        "address_line2": "27379 US Highway 380 East, Aubrey, TX 75068, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865563CX+5X",
+        "plus_code_short": "63CX+5X Aubrey, Denton County, United States",
+        "rank": {
+          "importance": 0.000040588235294072134,
+          "popularity": 2.9403448277031554,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51b1aab9379a3958c059fc89ca86359c4040f00103f901d90f5d5002000000c00201920311476f6466617468657227732050697a7a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393338323130373737",
+        "bbox": {
+          "lon1": -96.9000877,
+          "lat1": 33.2203335,
+          "lon2": -96.8999877,
+          "lat2": 33.2204335
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "North Alma Road",
+        "housenumber": "6720",
+        "iso3166_2": "US-TX",
+        "lon": -96.7074719,
+        "lat": 33.1364835,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 40836.24229398224,
+        "formatted": "Pizza Twist, 6720 North Alma Road, McKinney, TX 75070, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "6720 North Alma Road, McKinney, TX 75070, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865547PV+H2",
+        "plus_code_short": "47PV+H2 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 4.551447382318234,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2553838472d58c059c878944a78914040f00103f90144f8ee6002000000c0020192030b50697a7a61205477697374e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323136323038343532",
+        "bbox": {
+          "lon1": -96.7075219,
+          "lat1": 33.1364335,
+          "lon2": -96.7074219,
+          "lat2": 33.1365335
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "MOD Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "South Custer Road",
+        "housenumber": "3009",
+        "iso3166_2": "US-TX",
+        "lon": -96.7323376,
+        "lat": 33.173771,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 44529.399896121264,
+        "formatted": "MOD Pizza, 3009 South Custer Road, McKinney, TX 75070, United States of America",
+        "address_line1": "MOD Pizza",
+        "address_line2": "3009 South Custer Road, McKinney, TX 75070, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865557F9+G3",
+        "plus_code_short": "57F9+G3 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.508275238277976,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516468869ede2e58c05922ffcc203e964040f00103f9017108305d02000000c002019203094d4f442050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130313533333633353639",
+        "bbox": {
+          "lon1": -96.7323876,
+          "lat1": 33.173721,
+          "lon2": -96.7322876,
+          "lat2": 33.173821
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shelby's Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75071",
+        "street": "North Coit Road",
+        "housenumber": "210",
+        "iso3166_2": "US-TX",
+        "lon": -96.7671181,
+        "lat": 33.2048535,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 47656.76334571724,
+        "formatted": "Shelby's Pizza, 210 North Coit Road, McKinney, TX 75071, United States of America",
+        "address_line1": "Shelby's Pizza",
+        "address_line2": "210 North Coit Road, McKinney, TX 75071, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655663M+W5",
+        "plus_code_short": "663M+W5 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.4731768810001964,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51dcea8376183158c0594e7cb5a3389a4040f00103f9019fe865ee02000000c0020192030e5368656c627927732050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353839353930363837",
+        "bbox": {
+          "lon1": -96.7671681,
+          "lat1": 33.2048035,
+          "lon2": -96.7670681,
+          "lat2": 33.2049035
+        }
+      }
+    ],
+    "query": {
+      "text": "Godfather's Pizza McKinney"
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "queriedName": "FIRIN Bakery & Pizzeria",
+  "queriedAt": "2026-09-09T00:33:05.936Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mimi's Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75238",
+        "street": "West Northwest Highway",
+        "housenumber": "6807",
+        "iso3166_2": "US-TX",
+        "lon": -96.7884083,
+        "lat": 32.8660428,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Center",
+        "result_type": "amenity",
+        "distance": 9933.617789664095,
+        "formatted": "Mimi's Pizzeria, 6807 West Northwest Highway, Dallas, TX 75238, United States of America",
+        "address_line1": "Mimi's Pizzeria",
+        "address_line2": "6807 West Northwest Highway, Dallas, TX 75238, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V686+CJ",
+        "plus_code_short": "V686+CJ, 75238 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.391642245841511,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5147191648753258c059d8778f7dda6e4040f00103f901df633aa600000000c0020192030f4d696d6927732050697a7a65726961e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32373838383434353131",
+        "bbox": {
+          "lon1": -96.7884583,
+          "lat1": 32.8659928,
+          "lon2": -96.7883583,
+          "lat2": 32.8660928
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Grimaldi's Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "suburb": "Las Colinas",
+        "street": "West Las Colinas Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.9441122,
+        "lat": 32.8739944,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 17472.258520843876,
+        "formatted": "Grimaldi's Pizzeria, West Las Colinas Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "Grimaldi's Pizzeria",
+        "address_line2": "West Las Colinas Boulevard, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V3F4+H9",
+        "plus_code_short": "V3F4+H9 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.84526993160609,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514cb093556c3c58c0598e716a0cdf6f4040f00103f901d5db627701000000c002019203134772696d616c646927732050697a7a65726961e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36323937393334383035",
+        "bbox": {
+          "lon1": -96.9441622,
+          "lat1": 32.8739444,
+          "lon2": -96.9440622,
+          "lat2": 32.8740444
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Carmine's Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75243",
+        "street": "Spring Valley Road",
+        "housenumber": "5365",
+        "iso3166_2": "US-TX",
+        "lon": -96.8152316,
+        "lat": 32.9398283,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 18185.61387546574,
+        "formatted": "Carmine's Pizzeria, 5365 Spring Valley Road, Dallas, TX 75243, United States of America",
+        "address_line1": "Carmine's Pizzeria",
+        "address_line2": "5365 Spring Valley Road, Dallas, TX 75243, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5QM+WW",
+        "plus_code_short": "W5QM+WW, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 5.453762615912221,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519c2a29c12c3458c0597a2d324b4c784040f00103f901a84ad88f01000000c002019203124361726d696e6527732050697a7a65726961e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36373038323834303732",
+        "bbox": {
+          "lon1": -96.8152816,
+          "lat1": 32.9397783,
+          "lon2": -96.8151816,
+          "lat2": 32.9398783
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Brooklyn Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75287",
+        "street": "Frankford Road",
+        "housenumber": "4520",
+        "iso3166_2": "US-TX",
+        "lon": -96.8312678,
+        "lat": 32.996977,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24668.759528350332,
+        "formatted": "Brooklyn Pizzeria, 4520 Frankford Road, Dallas, TX 75287, United States of America",
+        "address_line1": "Brooklyn Pizzeria",
+        "address_line2": "4520 Frankford Road, Dallas, TX 75287, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5W9+QF",
+        "plus_code_short": "X5W9+QF, 75287 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.9747860176513266,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f2cddb7d333558c0599eee3cf19c7f4040f00103f9017c5b276b00000000c0020192031142726f6f6b6c796e2050697a7a65726961e203236f70656e7374726565746d61703a76656e75653a6e6f64652f31373937373431343336",
+        "bbox": {
+          "lon1": -96.8313178,
+          "lat1": 32.996927,
+          "lon2": -96.8312178,
+          "lat2": 32.997027
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ferrari's Pizzeria",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Legacy Drive",
+        "housenumber": "3949",
+        "iso3166_2": "US-TX",
+        "lon": -96.7711193,
+        "lat": 33.0737265,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 33082.83188598548,
+        "formatted": "Ferrari's Pizzeria, 3949 Legacy Drive, Plano, TX 75023, United States of America",
+        "address_line1": "Ferrari's Pizzeria",
+        "address_line2": "3949 Legacy Drive, Plano, TX 75023, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865536FH+FH",
+        "plus_code_short": "36FH+FH, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.783451409310198,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511fb4c3045a3158c0599d2cb5de6f894040f00103f9017217342e03000000c002019203124665727261726927732050697a7a65726961e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363630303637363938",
+        "bbox": {
+          "lon1": -96.7711693,
+          "lat1": 33.0736765,
+          "lon2": -96.7710693,
+          "lat2": 33.0737765
+        }
+      }
+    ],
+    "query": {
+      "text": "FIRIN Bakery & Pizzeria"
+    }
+  }
+}

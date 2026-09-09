@@ -1,0 +1,267 @@
+{
+  "queriedName": "Chadra Mezza & Grill",
+  "queriedAt": "2026-09-09T00:33:44.012Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shivas Bar & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75202",
+        "district": "West End Historic District",
+        "suburb": "Downtown PID",
+        "street": "Ross Avenue",
+        "housenumber": "1001",
+        "iso3166_2": "US-TX",
+        "lon": -96.804366,
+        "lat": 32.7828288,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 945.6702430563474,
+        "formatted": "Shivas Bar & Grill, 1001 Ross Avenue, Dallas, TX 75202, United States of America",
+        "address_line1": "Shivas Bar & Grill",
+        "address_line2": "1001 Ross Avenue, Dallas, TX 75202, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5MW+47",
+        "plus_code_short": "MW+47, 75202 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.691079436266744,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51eb0088bb7a3358c059f72eefbb33644040f00103f9016d72f1a302000000c00201920312536869766173204261722026204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131333430343434323639",
+        "bbox": {
+          "lon1": -96.804416,
+          "lat1": 32.7827788,
+          "lon2": -96.804316,
+          "lat2": 32.7828788
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Reno's Bar & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "North Crowdus Street",
+        "housenumber": "210",
+        "iso3166_2": "US-TX",
+        "lon": -96.7835921,
+        "lat": 32.7851636,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1547.6364534299066,
+        "formatted": "Reno's Bar & Grill, 210 North Crowdus Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Reno's Bar & Grill",
+        "address_line2": "210 North Crowdus Street, Dallas, TX 75226, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6P8+3H",
+        "plus_code_short": "Q6P8+3H, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.14410181800787,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51dbb97a5f263258c0593b01a83d80644040f00103f901d035a21903000000c0020192031252656e6f2773204261722026204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333134393632383936",
+        "bbox": {
+          "lon1": -96.7836421,
+          "lat1": 32.7851136,
+          "lon2": -96.7835421,
+          "lat2": 32.7852136
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "JR's Bar & Grill",
+        "housenumber": "3923",
+        "street": "Cedar Springs Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75219",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Turtle Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.811193,
+        "lat": 32.810847,
+        "result_type": "amenity",
+        "distance": 3990.598583884739,
+        "formatted": "JR's Bar & Grill, 3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "JR's Bar & Grill",
+        "address_line2": "3923 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+8G",
+        "plus_code_short": "R56Q+8G, 75219 Dallas, United States",
+        "rank": {
+          "popularity": 6.115755277856817,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a06f0b96ea3358c059a587a1d5c9674040f00102f9017fc2a24e00000000c002019203104a522773204261722026204772696c6ce203226f70656e7374726565746d61703a76656e75653a7761792f31333139323839343731",
+        "bbox": {
+          "lon1": -96.8114653,
+          "lat1": 32.8106073,
+          "lon2": -96.8111206,
+          "lat2": 32.8108988
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Jadewaters Grill & Bar",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Dallas Market Center",
+        "iso3166_2": "US-TX",
+        "lon": -96.83246,
+        "lat": 32.79957,
+        "result_type": "amenity",
+        "distance": 4157.6640913262045,
+        "postcode": "75207",
+        "formatted": "Jadewaters Grill & Bar, Dallas, TX 75207, United States of America",
+        "address_line1": "Jadewaters Grill & Bar",
+        "address_line2": "Dallas, TX 75207, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5X9+R2",
+        "plus_code_short": "Q5X9+R2, 75207 Dallas, United States",
+        "rank": {
+          "popularity": 5.650884735717494,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519ace4e06473558c0596e6e4c4f58664040f00102f901a9b6f24d00000000c00201e203226f70656e7374726565746d61703a76656e75653a7761792f31333037373532313035",
+        "bbox": {
+          "lon1": -96.8327497,
+          "lat1": 32.7994588,
+          "lon2": -96.8322082,
+          "lat2": 32.799801
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jadewaters Grill & Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75207",
+        "street": "Wycliff Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.8326268,
+        "lat": 32.799633,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4174.324738711059,
+        "formatted": "Jadewaters Grill & Bar, Wycliff Avenue, Dallas, TX 75207, United States of America",
+        "address_line1": "Jadewaters Grill & Bar",
+        "address_line2": "Wycliff Avenue, Dallas, TX 75207, United States of America",
+        "category": "building.accommodation",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5X8+VW",
+        "plus_code_short": "Q5X8+VW, 75207 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517bf1eac1493558c059b4e6c75f5a664040f00102f901a9b6f24d00000000c002019203164a616465776174657273204772696c6c202620426172",
+        "bbox": {
+          "lon1": -96.8327497,
+          "lat1": 32.7994588,
+          "lon2": -96.8322082,
+          "lat2": 32.799801
+        }
+      }
+    ],
+    "query": {
+      "text": "Chadra Mezza & Grill"
+    }
+  }
+}

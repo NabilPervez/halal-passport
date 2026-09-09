@@ -1,0 +1,297 @@
+{
+  "queriedName": "Moudi’s (Bagels, Deli, and Mediterranean)",
+  "queriedAt": "2026-09-09T00:33:29.520Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Moudi’s",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "Pacific Avenue",
+        "housenumber": "1700",
+        "iso3166_2": "US-TX",
+        "lon": -96.7967831,
+        "lat": 32.78221,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 579.681138466409,
+        "formatted": "Moudi’s, 1700 Pacific Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Moudi’s",
+        "address_line2": "1700 Pacific Avenue, Dallas, TX 75201, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J3+V7",
+        "plus_code_short": "J3+V7, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "confidence_street_level": 0.07142857142857142,
+          "match_type": "full_match"
+        },
+        "place_id": "515a208b7efe3258c059554d10751f644040f00103f9013c68db1803000000c002019203094d6f756469e2809973e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333031393334313430",
+        "bbox": {
+          "lon1": -96.7968331,
+          "lat1": 32.78216,
+          "lon2": -96.7967331,
+          "lat2": 32.78226
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Einstein Bros. Bagels",
+        "other_names": {
+          "alt_name": "Einstein Brothers Bagels"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "district": "Oak Lawn",
+        "street": "Lemmon Avenue",
+        "housenumber": "3827",
+        "iso3166_2": "US-TX",
+        "lon": -96.8067104,
+        "lat": 32.8124447,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Turtle Creek",
+        "result_type": "amenity",
+        "distance": 4044.4400516883593,
+        "formatted": "Einstein Bros. Bagels, 3827 Lemmon Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Einstein Bros. Bagels",
+        "address_line2": "3827 Lemmon Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56V+X8",
+        "plus_code_short": "R56V+X8, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.141707982700871,
+          "confidence": 0.024820739106453386,
+          "confidence_city_level": 0.21428571428571427,
+          "confidence_street_level": 0.03061224489795918,
+          "match_type": "full_match"
+        },
+        "place_id": "51f555a824a13358c0597e271c30fe674040f00102f90130c1310d00000000c0020192031545696e737465696e2042726f732e20426167656c73e203216f70656e7374726565746d61703a76656e75653a7761792f323231333634353238",
+        "bbox": {
+          "lon1": -96.8068985,
+          "lat1": 32.8122781,
+          "lon2": -96.8065628,
+          "lat2": 32.8125494
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Einstein Bros. Bagels",
+        "other_names": {
+          "alt_name": "Einstein Brothers Bagels"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6333",
+        "iso3166_2": "US-TX",
+        "lon": -96.7535391,
+        "lat": 32.8379467,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Caruth Terrace",
+        "result_type": "amenity",
+        "distance": 7900.992689165515,
+        "formatted": "Einstein Bros. Bagels, 6333 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Einstein Bros. Bagels",
+        "address_line2": "6333 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6QW+5H",
+        "plus_code_short": "R6QW+5H, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.936477485103446,
+          "confidence": 0.03723110865968008,
+          "confidence_city_level": 0.21428571428571427,
+          "confidence_street_level": 0.04591836734693877,
+          "match_type": "full_match"
+        },
+        "place_id": "5177b00ffc393058c059442564d6416b4040f00103f9017d8e0e8202000000c0020192031545696e737465696e2042726f732e20426167656c73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130373731393236363533",
+        "bbox": {
+          "lon1": -96.7535891,
+          "lat1": 32.8378967,
+          "lon2": -96.7534891,
+          "lat2": 32.8379967
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Einstein Bros. Bagels",
+        "other_names": {
+          "alt_name": "Einstein Brothers Bagels"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75244",
+        "street": "Inwood Road",
+        "housenumber": "12050",
+        "iso3166_2": "US-TX",
+        "lon": -96.81798,
+        "lat": 32.912684,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 15214.165014952405,
+        "formatted": "Einstein Bros. Bagels, 12050 Inwood Road, Dallas, TX 75244, United States of America",
+        "address_line1": "Einstein Bros. Bagels",
+        "address_line2": "12050 Inwood Road, Dallas, TX 75244, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W57J+3R",
+        "plus_code_short": "W57J+3R, 75244 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.857219555915035,
+          "confidence": 0.023889961389961387,
+          "confidence_city_level": 0.21428571428571427,
+          "confidence_street_level": 0.026785714285714284,
+          "match_type": "full_match"
+        },
+        "place_id": "510e32c9c8593458c0598eca4dd4d2744040f00103f9019f4b2faa02000000c0020192031545696e737465696e2042726f732e20426167656c73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131343435313630383633",
+        "bbox": {
+          "lon1": -96.81803,
+          "lat1": 32.912634,
+          "lon2": -96.81793,
+          "lat2": 32.912734
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Einstein Bros. Bagels",
+        "other_names": {
+          "alt_name": "Einstein Brothers Bagels"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Belt Line Road",
+        "housenumber": "3750",
+        "iso3166_2": "US-TX",
+        "lon": -96.8532671,
+        "lat": 32.9527032,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20231.7852492725,
+        "formatted": "Einstein Bros. Bagels, 3750 Belt Line Road, Addison, TX 75001, United States of America",
+        "address_line1": "Einstein Bros. Bagels",
+        "address_line2": "3750 Belt Line Road, Addison, TX 75001, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X43W+3M",
+        "plus_code_short": "X43W+3M, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.280005102794329,
+          "confidence": 0.09803921568627452,
+          "confidence_city_level": 0.29411764705882354,
+          "confidence_street_level": 0.14705882352941177,
+          "match_type": "full_match"
+        },
+        "place_id": "512d509ced9b3658c059b465af2df2794040f00103f9017424fa1302000000c0020192031545696e737465696e2042726f732e20426167656c73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38393235303935303238",
+        "bbox": {
+          "lon1": -96.8533171,
+          "lat1": 32.9526532,
+          "lon2": -96.8532171,
+          "lat2": 32.9527532
+        }
+      }
+    ],
+    "query": {
+      "text": "Moudi’s (Bagels, Deli, and Mediterranean)"
+    }
+  }
+}

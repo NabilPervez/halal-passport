@@ -1,0 +1,66 @@
+{
+  "queriedName": "Dessert Avenue",
+  "queriedAt": "2026-09-09T00:44:52.803Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dessert Avenue",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75094",
+        "street": "Coolidge Street",
+        "housenumber": "208",
+        "iso3166_2": "US-TX",
+        "lon": -96.6174508,
+        "lat": 33.0101971,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30877.531554061043,
+        "formatted": "Dessert Avenue, 208 Coolidge Street, Plano, TX 75094, United States of America",
+        "address_line1": "Dessert Avenue",
+        "address_line2": "208 Coolidge Street, Plano, TX 75094, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655296M+32",
+        "plus_code_short": "296M+32, 75094 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.047988516774209,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e6385c50842758c059cc8179234e814040f00103f9011feb7f1d03000000c0020192030e44657373657274204176656e7565",
+        "bbox": {
+          "lon1": -96.6175008,
+          "lat1": 33.0101471,
+          "lon2": -96.6174008,
+          "lat2": 33.0102471
+        }
+      }
+    ],
+    "query": {
+      "text": "Dessert Avenue",
+      "parsed": {
+        "street": "dessert avenue",
+        "expected_type": "unknown"
+      }
+    }
+  }
+}

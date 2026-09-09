@@ -1,0 +1,62 @@
+{
+  "queriedName": "La Souq",
+  "queriedAt": "2026-09-09T00:33:06.641Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "La Souq",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "West Main Street",
+        "housenumber": "150",
+        "iso3166_2": "US-TX",
+        "lon": -96.7331594,
+        "lat": 32.9501295,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20153.426196493372,
+        "formatted": "La Souq, 150 West Main Street, Richardson, TX 75081, United States of America",
+        "address_line1": "La Souq",
+        "address_line2": "150 West Main Street, Richardson, TX 75081, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X728+3P",
+        "plus_code_short": "28+3P Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.076190519006005,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5152706715ec2e58c05980bbecd79d794040f00103f9018a43a64003000000c002019203074c6120536f7571",
+        "bbox": {
+          "lon1": -96.7332094,
+          "lat1": 32.9500795,
+          "lon2": -96.7331094,
+          "lat2": 32.9501795
+        }
+      }
+    ],
+    "query": {
+      "text": "La Souq"
+    }
+  }
+}

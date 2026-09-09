@@ -1,0 +1,165 @@
+{
+  "queriedName": "Kincaid's Hamburgers",
+  "queriedAt": "2026-09-09T00:37:15.347Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kincaid's Hamburgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76018",
+        "suburb": "Arlington Highlands",
+        "street": "Arlington Highlands Blvd.",
+        "housenumber": "3900",
+        "iso3166_2": "US-TX",
+        "lon": -97.1100173,
+        "lat": 32.6808711,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31170.17530236377,
+        "formatted": "Kincaid's Hamburgers, 3900 Arlington Highlands Blvd., Arlington, TX 76018, United States of America",
+        "address_line1": "Kincaid's Hamburgers",
+        "address_line2": "3900 Arlington Highlands Blvd., Arlington, TX 76018, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MVJQ+8X",
+        "plus_code_short": "MVJQ+8X, 76018 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.51753410829397,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a15f00860a4758c05951a5c1c826574040f00102f901cd078a3d00000000c002019203144b696e6361696427732048616d62757267657273",
+        "bbox": {
+          "lon1": -97.1101456,
+          "lat1": 32.6807364,
+          "lon2": -97.1098891,
+          "lat2": 32.6809779
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kincaid's Hamburgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76107",
+        "street": "Camp Bowie Boulevard",
+        "housenumber": "4901",
+        "iso3166_2": "US-TX",
+        "lon": -97.3933369,
+        "lat": 32.7374098,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 55937.97566066832,
+        "formatted": "Kincaid's Hamburgers, 4901 Camp Bowie Boulevard, Fort Worth, TX 76107, United States of America",
+        "address_line1": "Kincaid's Hamburgers",
+        "address_line2": "4901 Camp Bowie Boulevard, Fort Worth, TX 76107, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PJP4+XM",
+        "plus_code_short": "PJP4+XM Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.625176063451092,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d773886e2c5958c059fd5fbf71635e4040f00102f901f453d11d00000000c002019203144b696e6361696427732048616d62757267657273",
+        "bbox": {
+          "lon1": -97.3934,
+          "lat1": 32.7372612,
+          "lon2": -97.3932744,
+          "lat2": 32.7375824
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kincaid's Hamburgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76132",
+        "street": "Overton Ridge Boulevard",
+        "housenumber": "4825",
+        "iso3166_2": "US-TX",
+        "lon": -97.40027,
+        "lat": 32.6761076,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 57536.54014634874,
+        "formatted": "Kincaid's Hamburgers, 4825 Overton Ridge Boulevard, Fort Worth, TX 76132, United States of America",
+        "address_line1": "Kincaid's Hamburgers",
+        "address_line2": "4825 Overton Ridge Boulevard, Fort Worth, TX 76132, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MHGX+CV",
+        "plus_code_short": "MHGX+CV Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.3681279945072347,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517ae40f069e5958c059dd499fb18a564040f00103f90115cc75db02000000c002019203144b696e6361696427732048616d62757267657273",
+        "bbox": {
+          "lon1": -97.40032,
+          "lat1": 32.6760576,
+          "lon2": -97.40022,
+          "lat2": 32.6761576
+        }
+      }
+    ],
+    "query": {
+      "text": "Kincaid's Hamburgers"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "queriedName": "Desi District",
+  "queriedAt": "2026-09-09T00:45:41.046Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Desi District",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75035",
+        "street": "Eldorado Parkway",
+        "housenumber": "12990",
+        "iso3166_2": "US-TX",
+        "lon": -96.7651192,
+        "lat": 33.1753318,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 44392.25910273411,
+        "formatted": "Desi District, 12990 Eldorado Parkway, Frisco, TX 75035, United States of America",
+        "address_line1": "Desi District",
+        "address_line2": "12990 Eldorado Parkway, Frisco, TX 75035, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865556GM+4X",
+        "plus_code_short": "56GM+4X, 75035 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.57353351586917,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ab6285b6f73058c0597379bd4571964040f00103f90126b0733603000000c0020192030d44657369204469737472696374",
+        "bbox": {
+          "lon1": -96.7651692,
+          "lat1": 33.1752818,
+          "lon2": -96.7650692,
+          "lat2": 33.1753818
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Desi District",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75068",
+        "street": "West University Drive",
+        "housenumber": "2275",
+        "iso3166_2": "US-TX",
+        "lon": -96.8696311,
+        "lat": 33.2175753,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 49455.847219132214,
+        "formatted": "Desi District, 2275 West University Drive, Frisco, TX 75068, United States of America",
+        "address_line1": "Desi District",
+        "address_line2": "2275 West University Drive, Frisco, TX 75068, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655649J+24",
+        "plus_code_short": "649J+24, 75068 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 2.976644535964311,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5169853309a83758c0596df5e681d99b4040f00103f9019f6dd21903000000c0020192030d44657369204469737472696374",
+        "bbox": {
+          "lon1": -96.8696811,
+          "lat1": 33.2175253,
+          "lon2": -96.8695811,
+          "lat2": 33.2176253
+        }
+      }
+    ],
+    "query": {
+      "text": "Desi District"
+    }
+  }
+}

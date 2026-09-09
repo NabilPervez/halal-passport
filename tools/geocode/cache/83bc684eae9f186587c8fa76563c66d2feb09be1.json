@@ -1,0 +1,67 @@
+{
+  "queriedName": "Turan Uyghur Kitchen",
+  "queriedAt": "2026-09-09T00:35:16.917Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Turan Uyghur Kitchen",
+        "other_names": {
+          "name:de": "Turan Uigurische Küche",
+          "name:fr": "Cuisine ouïghoure de Turan",
+          "name:tr": "Turan Uygur Sofrası"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "Coit Road",
+        "housenumber": "2001",
+        "iso3166_2": "US-TX",
+        "lon": -96.771736,
+        "lat": 33.0292372,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 28146.531804364997,
+        "formatted": "Turan Uyghur Kitchen, 2001 Coit Road, Plano, TX 75075, United States of America",
+        "address_line1": "Turan Uyghur Kitchen",
+        "address_line2": "2001 Coit Road, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526HH+M8",
+        "plus_code_short": "26HH+M8, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.949836040105896,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515649641f643158c059cee9680bbe834040f00103f901ecbd021603000000c00201920314547572616e20557967687572204b69746368656e",
+        "bbox": {
+          "lon1": -96.771786,
+          "lat1": 33.0291872,
+          "lon2": -96.771686,
+          "lat2": 33.0292872
+        }
+      }
+    ],
+    "query": {
+      "text": "Turan Uyghur Kitchen"
+    }
+  }
+}

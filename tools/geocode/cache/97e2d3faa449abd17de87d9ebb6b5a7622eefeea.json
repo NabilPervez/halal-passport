@@ -1,0 +1,260 @@
+{
+  "queriedName": "Crimson Coward",
+  "queriedAt": "2026-09-09T00:34:01.645Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Crimson Court",
+        "street": "Crimson Court",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.081372,
+        "lat": 32.668645,
+        "result_type": "street",
+        "distance": 29203.676262672645,
+        "postcode": "76018",
+        "formatted": "Crimson Court, Arlington, TX 76018, United States of America",
+        "address_line1": "Crimson Court",
+        "address_line2": "Arlington, TX 76018, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MW99+FF",
+        "plus_code_short": "MW99+FF, 76018 Arlington, United States",
+        "rank": {
+          "popularity": 4.062406264166953,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d9b3e732354558c05924d1cb2896554040c0020492030d4372696d736f6e20436f757274e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363939323238",
+        "bbox": {
+          "lon1": -97.082452,
+          "lat1": 32.668622,
+          "lon2": -97.080292,
+          "lat2": 32.668667
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Crimson Drive",
+        "street": "Crimson Drive",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.180979,
+        "lat": 32.63218,
+        "result_type": "street",
+        "distance": 39371.53593354944,
+        "postcode": "76001",
+        "formatted": "Crimson Drive, Arlington, TX 76001, United States of America",
+        "address_line1": "Crimson Drive",
+        "address_line2": "Arlington, TX 76001, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644JRJ9+VJ",
+        "plus_code_short": "JRJ9+VJ, 76001 Arlington, United States",
+        "rank": {
+          "popularity": 3.724530454905647,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d190f128954b58c059b7973446eb504040c0020492030d4372696d736f6e204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373035313632",
+        "bbox": {
+          "lon1": -97.180987,
+          "lat1": 32.631745,
+          "lon2": -97.18096,
+          "lat2": 32.632617
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Crimson Lane",
+        "street": "Crimson Lane",
+        "country": "United States",
+        "county": "Ellis County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "EL",
+        "city": "Waxahachie",
+        "iso3166_2": "US-TX",
+        "lon": -96.879551,
+        "lat": 32.426566,
+        "result_type": "street",
+        "distance": 39726.42606877281,
+        "postcode": "75167",
+        "formatted": "Crimson Lane, Waxahachie, TX 75167, United States of America",
+        "address_line1": "Crimson Lane",
+        "address_line2": "Waxahachie, TX 75167, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645C4GC+J5",
+        "plus_code_short": "C4GC+J5 Waxahachie, Ellis County, United States",
+        "rank": {
+          "popularity": 2.5335034728774284,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51810a47904a3858c059f3caf5b699364040c0020492030c4372696d736f6e204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230383336353133",
+        "bbox": {
+          "lon1": -96.879782,
+          "lat1": 32.426367,
+          "lon2": -96.87932,
+          "lat2": 32.426765
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Crimson Lane",
+        "street": "Crimson Lane",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.892801,
+        "lat": 33.128284,
+        "result_type": "street",
+        "distance": 40070.78312155947,
+        "postcode": "75036",
+        "formatted": "Crimson Lane, Frisco, TX 75036, United States of America",
+        "address_line1": "Crimson Lane",
+        "address_line2": "Frisco, TX 75036, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865544H4+8V",
+        "plus_code_short": "44H4+8V, 75036 Frisco, United States",
+        "rank": {
+          "popularity": 4.039231251991615,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518335cea6233958c059cf4c309c6b904040c0020492030c4372696d736f6e204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343039323031",
+        "bbox": {
+          "lon1": -96.893039,
+          "lat1": 33.127484,
+          "lon2": -96.892748,
+          "lat2": 33.12906
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Crimson Lion Games",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "North Richland Hills",
+        "postcode": "76180",
+        "street": "Boulevard 26",
+        "housenumber": "7410",
+        "iso3166_2": "US-TX",
+        "lon": -97.2239748,
+        "lat": 32.8262863,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "North Fort Worth",
+        "result_type": "amenity",
+        "distance": 40281.78012539387,
+        "formatted": "Crimson Lion Games, 7410 Boulevard 26, North Richland Hills, TX 76180, United States of America",
+        "address_line1": "Crimson Lion Games",
+        "address_line2": "7410 Boulevard 26, North Richland Hills, TX 76180, United States of America",
+        "category": "commercial.hobby.games;commercial.toy_and_game",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RQGG+GC",
+        "plus_code_short": "GG+GC North Richland Hills, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005435950255584066,
+          "popularity": 3.8916093283309223,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513348669a554e58c05901d1ddbfc3694040f00103f90104c3062303000000c002019203124372696d736f6e204c696f6e2047616d6573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343732353437353838",
+        "bbox": {
+          "lon1": -97.2240248,
+          "lat1": 32.8262363,
+          "lon2": -97.2239248,
+          "lat2": 32.8263363
+        }
+      }
+    ],
+    "query": {
+      "text": "Crimson Coward"
+    }
+  }
+}

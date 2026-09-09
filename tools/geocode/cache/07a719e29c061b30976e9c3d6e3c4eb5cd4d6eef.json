@@ -1,0 +1,62 @@
+{
+  "queriedName": "ZDAR Food",
+  "queriedAt": "2026-09-09T00:38:13.446Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zdar Food",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Spring Valley Road",
+        "housenumber": "214",
+        "iso3166_2": "US-TX",
+        "lon": -96.7345651,
+        "lat": 32.9397076,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19008.949284756833,
+        "formatted": "Zdar Food, 214 East Spring Valley Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Zdar Food",
+        "address_line2": "214 East Spring Valley Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7Q8+V5",
+        "plus_code_short": "Q8+V5 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.874099279234535,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511c52561d032f58c059bde6b05648784040f00103f901c8ad952003000000c002019203095a64617220466f6f64",
+        "bbox": {
+          "lon1": -96.7346151,
+          "lat1": 32.9396576,
+          "lon2": -96.7345151,
+          "lat2": 32.9397576
+        }
+      }
+    ],
+    "query": {
+      "text": "ZDAR Food"
+    }
+  }
+}

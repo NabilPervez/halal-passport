@@ -1,0 +1,62 @@
+{
+  "queriedName": "Sababa Mediterranean Cuisine",
+  "queriedAt": "2026-09-09T00:37:21.773Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "​Sababa Mediterranean Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Brick Row",
+        "housenumber": "743",
+        "iso3166_2": "US-TX",
+        "lon": -96.7363959,
+        "lat": 32.9402941,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19019.429773288615,
+        "formatted": "​Sababa Mediterranean Cuisine, 743 Brick Row, Richardson, TX 75081, United States of America",
+        "address_line1": "​Sababa Mediterranean Cuisine",
+        "address_line2": "743 Brick Row, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7R7+4C",
+        "plus_code_short": "R7+4C Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.9055460674737,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5125da441c212f58c059960f9c8e5b784040f00103f9016a2c14e102000000c0020192031fe2808b536162616261204d65646974657272616e65616e2043756973696e65",
+        "bbox": {
+          "lon1": -96.7364459,
+          "lat1": 32.9402441,
+          "lon2": -96.7363459,
+          "lat2": 32.9403441
+        }
+      }
+    ],
+    "query": {
+      "text": "Sababa Mediterranean Cuisine"
+    }
+  }
+}

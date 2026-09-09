@@ -1,0 +1,280 @@
+{
+  "queriedName": "Deccan Grill - Irving",
+  "queriedAt": "2026-09-09T00:39:15.337Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chipotle",
+        "other_names": {
+          "alt_name": "Chipotle Mexican Grill",
+          "official_name": "Chipotle Mexican Grill"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "East John Carpenter Freeway",
+        "housenumber": "118",
+        "iso3166_2": "US-TX",
+        "lon": -96.9436606,
+        "lat": 32.8657947,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16890.90924648526,
+        "formatted": "Chipotle, 118 East John Carpenter Freeway, Irving, TX 75062, United States of America",
+        "address_line1": "Chipotle",
+        "address_line2": "118 East John Carpenter Freeway, Irving, TX 75062, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V384+8G",
+        "plus_code_short": "V384+8G Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.812900820691801,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5185e16def643c58c0596bc6585cd26e4040f00103f901d55d3ce000000000c00201920308436869706f746c65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33373632303532353635",
+        "bbox": {
+          "lon1": -96.9437106,
+          "lat1": 32.8657447,
+          "lon2": -96.9436106,
+          "lat2": 32.8658447
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zeytin Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "Montessori Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.9446788,
+        "lat": 32.8660453,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16984.411012593344,
+        "formatted": "Zeytin Mediterranean Grill, Montessori Drive, Irving, TX 75062, United States of America",
+        "address_line1": "Zeytin Mediterranean Grill",
+        "address_line2": "Montessori Drive, Irving, TX 75062, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V384+C4",
+        "plus_code_short": "V384+C4 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.812900820691801,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515fce119e753c58c059612d8892da6e4040f00103f9013ae04ee000000000c0020192031a5a657974696e204d65646974657272616e65616e204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f33373633323635353934",
+        "bbox": {
+          "lon1": -96.9447288,
+          "lat1": 32.8659953,
+          "lon2": -96.9446288,
+          "lat2": 32.8660953
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyro Oasis Deli and Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "Regent Boulevard",
+        "housenumber": "3550",
+        "iso3166_2": "US-TX",
+        "lon": -96.9949878,
+        "lat": 32.9201193,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24399.42539515666,
+        "formatted": "Gyro Oasis Deli and Grill, 3550 Regent Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Gyro Oasis Deli and Grill",
+        "address_line2": "3550 Regent Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2C4+22",
+        "plus_code_short": "W2C4+22 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.663248678633068,
+          "confidence": 0.6561000000000001,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d13a4fe1ad3f58c0598ff51e78c6754040f00103f90188703da600000000c002019203194779726f204f617369732044656c6920616e64204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f32373839303434333630",
+        "bbox": {
+          "lon1": -96.9950378,
+          "lat1": 32.9200693,
+          "lon2": -96.9949378,
+          "lat2": 32.9201693
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Namaste Grill & Bar Irving",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75038",
+        "street": "West Walnut Hill Lane",
+        "housenumber": "2234",
+        "iso3166_2": "US-TX",
+        "lon": -96.9763165,
+        "lat": 32.8651921,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19414.869610581263,
+        "formatted": "Namaste Grill & Bar Irving, 2234 West Walnut Hill Lane, Irving, TX 75038, United States of America",
+        "address_line1": "Namaste Grill & Bar Irving",
+        "address_line2": "2234 West Walnut Hill Lane, Irving, TX 75038, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V28F+3F",
+        "plus_code_short": "V28F+3F Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.5841287583044945,
+          "confidence": 0.06627272727272729,
+          "confidence_city_level": 1,
+          "confidence_street_level": 0.09090909090909091,
+          "match_type": "full_match"
+        },
+        "place_id": "51e48233f87b3e58c059f8205f9dbe6e4040f00103f901957c724602000000c0020192031a4e616d61737465204772696c6c20262042617220497276696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39373731383432373039",
+        "bbox": {
+          "lon1": -96.9763665,
+          "lat1": 32.8651421,
+          "lon2": -96.9762665,
+          "lat2": 32.8652421
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75039",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "6450",
+        "iso3166_2": "US-TX",
+        "lon": -96.9581064,
+        "lat": 32.8971396,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20125.069267668474,
+        "formatted": "Andalous Mediterranean Grill, 6450 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "Andalous Mediterranean Grill",
+        "address_line2": "6450 North MacArthur Boulevard, Irving, TX 75039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WR+VQ",
+        "plus_code_short": "V2WR+VQ Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.60604292812387,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a785819d513d58c05928f96c78d5724040f00103f901af9daebd02000000c0020192031c416e64616c6f7573204d65646974657272616e65616e204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131373732323732303437",
+        "bbox": {
+          "lon1": -96.9581564,
+          "lat1": 32.8970896,
+          "lon2": -96.9580564,
+          "lat2": 32.8971896
+        }
+      }
+    ],
+    "query": {
+      "text": "Deccan Grill - Irving"
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "queriedName": "Spice Wing Lewisville",
+  "queriedAt": "2026-09-09T00:31:37.332Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Red Wing",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75019",
+        "street": "East Round Grove Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.9730493,
+        "lat": 33.0051978,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 30233.547770168225,
+        "formatted": "Red Wing, East Round Grove Road, Lewisville, TX 75019, United States of America",
+        "address_line1": "Red Wing",
+        "address_line2": "East Round Grove Road, Lewisville, TX 75019, United States of America",
+        "category": "commercial.clothing.shoes",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655224G+3Q",
+        "plus_code_short": "224G+3Q, 75019 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.163056159604157,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5153399270463e58c0596d814e52aa804040f00103f9017e7beeab02000000c002019203085265642057696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131343734343637373130",
+        "bbox": {
+          "lon1": -96.9730993,
+          "lat1": 33.0051478,
+          "lon2": -96.9729993,
+          "lat2": 33.0052478
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wing Castle",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "70567",
+        "street": "East Corporate Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.9847613,
+        "lat": 33.0176371,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 31988.7507101002,
+        "formatted": "Wing Castle, East Corporate Drive, Lewisville, TX 70567, United States of America",
+        "address_line1": "Wing Castle",
+        "address_line2": "East Corporate Drive, Lewisville, TX 70567, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552298+33",
+        "plus_code_short": "2298+33, 70567 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.048510889936894,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5174774254063f58c05920d9b7ee41824040f00103f9010f4ddcd802000000c0020192030b57696e6720436173746c65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132323238323530383935",
+        "bbox": {
+          "lon1": -96.9848113,
+          "lat1": 33.0175871,
+          "lon2": -96.9847113,
+          "lat2": 33.0176871
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Red Wing Drive",
+        "street": "Red Wing Drive",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Lewisville",
+        "iso3166_2": "US-TX",
+        "lon": -97.004927,
+        "lat": 33.025125,
+        "result_type": "street",
+        "distance": 33735.05857556106,
+        "postcode": "75067",
+        "formatted": "Red Wing Drive, Lewisville, TX 75067, United States of America",
+        "address_line1": "Red Wing Drive",
+        "address_line2": "Lewisville, TX 75067, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542XGW+32",
+        "plus_code_short": "2XGW+32, 75067 Lewisville, United States",
+        "rank": {
+          "popularity": 3.9573423133183745,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5183f755b9504058c059f0a7c64b37834040c0020492030e5265642057696e67204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343139333836",
+        "bbox": {
+          "lon1": -97.00766,
+          "lat1": 33.025,
+          "lon2": -97.002267,
+          "lat2": 33.02538
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Wing 2 Go & Burget",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Lewisville",
+        "iso3166_2": "US-TX",
+        "lon": -97.014178,
+        "lat": 33.055437,
+        "result_type": "amenity",
+        "distance": 37007.29287049274,
+        "postcode": "75065",
+        "formatted": "Wing 2 Go & Burget, Lewisville, TX 75065, United States of America",
+        "address_line1": "Wing 2 Go & Burget",
+        "address_line2": "Lewisville, TX 75065, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86543X4P+58",
+        "plus_code_short": "3X4P+58, 75065 Lewisville, United States",
+        "rank": {
+          "popularity": 3.8593381333185866,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a794d74ae84058c05982fe428f18874040f00103f9013de96ee702000000c0020192031257696e67203220476f202620427572676574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343732373430313537"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wing 2 Go & Burget",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75065",
+        "street": "Valley Ridge Boulevard",
+        "housenumber": "850",
+        "iso3166_2": "US-TX",
+        "lon": -97.0141782,
+        "lat": 33.0554372,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37007.32169004414,
+        "formatted": "Wing 2 Go & Burget, 850 Valley Ridge Boulevard, Lewisville, TX 75065, United States of America",
+        "address_line1": "Wing 2 Go & Burget",
+        "address_line2": "850 Valley Ridge Boulevard, Lewisville, TX 75065, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86543X4P+58",
+        "plus_code_short": "3X4P+58, 75065 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513c54ae4be84058c059ac7df09018874040f00103f9013de96ee702000000c0020192031257696e67203220476f202620427572676574",
+        "bbox": {
+          "lon1": -97.0142282,
+          "lat1": 33.0553872,
+          "lon2": -97.0141282,
+          "lat2": 33.0554872
+        }
+      }
+    ],
+    "query": {
+      "text": "Spice Wing Lewisville"
+    }
+  }
+}

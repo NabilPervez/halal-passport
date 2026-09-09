@@ -1,0 +1,61 @@
+{
+  "queriedName": "Yummy Thai",
+  "queriedAt": "2026-09-09T00:37:25.139Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Yummy Thai",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Coppell",
+        "postcode": "75063",
+        "street": "West Lyndon B Johnson Freeway",
+        "iso3166_2": "US-TX",
+        "lon": -96.9956012,
+        "lat": 32.9256638,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 24848.264092396177,
+        "formatted": "Yummy Thai, West Lyndon B Johnson Freeway, Coppell, TX 75063, United States of America",
+        "address_line1": "Yummy Thai",
+        "address_line2": "West Lyndon B Johnson Freeway, Coppell, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2G3+7Q",
+        "plus_code_short": "W2G3+7Q Coppell, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.664819174603681,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51ef7618eeb73f58c059a90bc2267c764040f00103f901077b968202000000c0020192030a59756d6d792054686169",
+        "bbox": {
+          "lon1": -96.9956512,
+          "lat1": 32.9256138,
+          "lon2": -96.9955512,
+          "lat2": 32.9257138
+        }
+      }
+    ],
+    "query": {
+      "text": "Yummy Thai"
+    }
+  }
+}

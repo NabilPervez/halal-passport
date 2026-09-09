@@ -1,0 +1,14 @@
+{
+  "queriedName": "Grand Cafe",
+  "queriedAt": "2026-09-09T00:40:11.945Z",
+  "raw": {
+    "results": [],
+    "query": {
+      "text": "Grand Cafe",
+      "parsed": {
+        "suburb": "grand cafe",
+        "expected_type": "unknown"
+      }
+    }
+  }
+}

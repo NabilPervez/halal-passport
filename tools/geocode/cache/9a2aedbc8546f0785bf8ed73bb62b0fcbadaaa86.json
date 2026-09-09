@@ -1,0 +1,266 @@
+{
+  "queriedName": "Bawarchi Indian Cuisine - Richardson",
+  "queriedAt": "2026-09-09T00:40:11.326Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Sigree Indian Cuisine",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Addison",
+        "iso3166_2": "US-TX",
+        "lon": -96.839975,
+        "lat": 32.954792,
+        "result_type": "amenity",
+        "distance": 20172.93102001376,
+        "postcode": "75001",
+        "formatted": "Sigree Indian Cuisine, Addison, TX 75001, United States of America",
+        "address_line1": "Sigree Indian Cuisine",
+        "address_line2": "Addison, TX 75001, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X536+W2",
+        "plus_code_short": "36+W2, 75001 Addison, United States",
+        "rank": {
+          "popularity": 5.456600845893935,
+          "confidence": 0.5625,
+          "confidence_city_level": 0.12857142857142856,
+          "match_type": "full_match"
+        },
+        "place_id": "51499d8026c23558c059c03dcf9f367a4040f00103f901384676ca02000000c0020192031553696772656520496e6469616e2043756973696e65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393836363833343438"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Vindu Indian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75282",
+        "street": "Old Bent Tree Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.8263687,
+        "lat": 32.9993184,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 24872.347503231256,
+        "formatted": "Vindu Indian Cuisine, Old Bent Tree Lane, Dallas, TX 75282, United States of America",
+        "address_line1": "Vindu Indian Cuisine",
+        "address_line2": "Old Bent Tree Lane, Dallas, TX 75282, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X5XF+PF",
+        "plus_code_short": "X5XF+PF, 75282 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.242086902700746,
+          "confidence": 0.5625,
+          "confidence_city_level": 0.12857142857142856,
+          "match_type": "full_match"
+        },
+        "place_id": "51093c8b39e33458c059412553aae97f4040f00103f9010439c4e801000000c0020192031456696e647520496e6469616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38323030313431303630",
+        "bbox": {
+          "lon1": -96.8264187,
+          "lat1": 32.9992684,
+          "lon2": -96.8263187,
+          "lat2": 32.9993684
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sigree Indian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Belt Line Road",
+        "housenumber": "4145",
+        "iso3166_2": "US-TX",
+        "lon": -96.8399749,
+        "lat": 32.954792,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20172.929161711403,
+        "formatted": "Sigree Indian Cuisine, 4145 Belt Line Road, Addison, TX 75001, United States of America",
+        "address_line1": "Sigree Indian Cuisine",
+        "address_line2": "4145 Belt Line Road, Addison, TX 75001, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X536+W2",
+        "plus_code_short": "36+W2, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0.02747252747252747,
+          "confidence_city_level": 0.04395604395604396,
+          "confidence_street_level": 0.006279434850863423,
+          "match_type": "full_match"
+        },
+        "place_id": "517f3d1526c23558c059c03dcf9f367a4040f00103f901384676ca02000000c0020192031553696772656520496e6469616e2043756973696e65",
+        "bbox": {
+          "lon1": -96.8400249,
+          "lat1": 32.954742,
+          "lon2": -96.8399249,
+          "lat2": 32.954842
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mythri's Indian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "8350",
+        "iso3166_2": "US-TX",
+        "lon": -96.9561132,
+        "lat": 32.9217779,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21910.940052259408,
+        "formatted": "Mythri's Indian Cuisine, 8350 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Mythri's Indian Cuisine",
+        "address_line2": "8350 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W2CV+PH",
+        "plus_code_short": "W2CV+PH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.59058247081006,
+          "confidence": 0.08333333333333331,
+          "confidence_city_level": 0.03061224489795918,
+          "confidence_street_level": 0.013605442176870746,
+          "match_type": "full_match"
+        },
+        "place_id": "5188516bf5303d58c059795677d1fc754040f00103f901cbe0b82d02000000c002019203174d7974687269277320496e6469616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39333537303235343833",
+        "bbox": {
+          "lon1": -96.9561632,
+          "lat1": 32.9217279,
+          "lon2": -96.9560632,
+          "lat2": 32.9218279
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mehfil Indian Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Murphy",
+        "postcode": "75094",
+        "street": "North Murphy Road",
+        "housenumber": "109 N",
+        "iso3166_2": "US-TX",
+        "lon": -96.6133022,
+        "lat": 33.0138625,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 31430.083351524994,
+        "formatted": "Mehfil Indian Cuisine, 109 N North Murphy Road, Murphy, TX 75094, United States of America",
+        "address_line1": "Mehfil Indian Cuisine",
+        "address_line2": "109 N North Murphy Road, Murphy, TX 75094, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655297P+GM",
+        "plus_code_short": "7P+GM, 75094 Murphy, United States",
+        "rank": {
+          "importance": 0.00005413519493395922,
+          "popularity": 4.027750697951502,
+          "confidence": 0.030000000000000002,
+          "confidence_city_level": 0.07142857142857142,
+          "confidence_street_level": 0.007142857142857143,
+          "match_type": "full_match"
+        },
+        "place_id": "5127e4de57402758c0590612143fc6814040f00103f901d7c4ace801000000c002019203154d656866696c20496e6469616e2043756973696e65e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38313938363033393931",
+        "bbox": {
+          "lon1": -96.6133522,
+          "lat1": 33.0138125,
+          "lon2": -96.6132522,
+          "lat2": 33.0139125
+        }
+      }
+    ],
+    "query": {
+      "text": "Bawarchi Indian Cuisine - Richardson"
+    }
+  }
+}

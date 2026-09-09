@@ -1,0 +1,158 @@
+{
+  "queriedName": "Casablanca Greek Mediterranean Cuisine",
+  "queriedAt": "2026-09-09T00:42:06.438Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Casablanca Court",
+        "street": "Casablanca Court",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.785688,
+        "lat": 32.960503,
+        "result_type": "street",
+        "distance": 20431.962799945057,
+        "postcode": "75248",
+        "formatted": "Casablanca Court, Dallas, TX 75248, United States of America",
+        "address_line1": "Casablanca Court",
+        "address_line2": "Dallas, TX 75248, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X667+6P",
+        "plus_code_short": "X667+6P, 75248 Dallas, United States",
+        "rank": {
+          "popularity": 4.936708788803465,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51043752b6483258c059de5a26c3f17a4040c0020492031043617361626c616e636120436f757274e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353337333539",
+        "bbox": {
+          "lon1": -96.786071,
+          "lat1": 32.960496,
+          "lon2": -96.785305,
+          "lat2": 32.960509
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Casablanca Court North",
+        "street": "Casablanca Court North",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.148736,
+        "lat": 32.701765,
+        "result_type": "street",
+        "distance": 33945.05839880483,
+        "postcode": "76015",
+        "formatted": "Casablanca Court North, Arlington, TX 76015, United States of America",
+        "address_line1": "Casablanca Court North",
+        "address_line2": "Arlington, TX 76015, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PV22+PG",
+        "plus_code_short": "PV22+PG, 76015 Arlington, United States",
+        "rank": {
+          "popularity": 4.303978905285933,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5139efffe3844958c0591d3d7e6fd3594040c0020492031643617361626c616e636120436f757274204e6f727468e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373030343634",
+        "bbox": {
+          "lon1": -97.148737,
+          "lat1": 32.701234,
+          "lon2": -97.148734,
+          "lat2": 32.702295
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Casablanca Court South",
+        "street": "Casablanca Court South",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.148735,
+        "lat": 32.700614,
+        "result_type": "street",
+        "distance": 33976.941847263784,
+        "postcode": "76015",
+        "formatted": "Casablanca Court South, Arlington, TX 76015, United States of America",
+        "address_line1": "Casablanca Court South",
+        "address_line2": "Arlington, TX 76015, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PV22+6G",
+        "plus_code_short": "PV22+6G, 76015 Arlington, United States",
+        "rank": {
+          "popularity": 4.303978905285933,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515131cedf844958c059548f34b8ad594040c0020492031643617361626c616e636120436f75727420536f757468e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230373030343635",
+        "bbox": {
+          "lon1": -97.148737,
+          "lat1": 32.699993,
+          "lon2": -97.148734,
+          "lat2": 32.701234
+        }
+      }
+    ],
+    "query": {
+      "text": "Casablanca Greek Mediterranean Cuisine"
+    }
+  }
+}

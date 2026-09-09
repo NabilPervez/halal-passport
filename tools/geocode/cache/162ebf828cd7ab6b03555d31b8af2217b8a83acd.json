@@ -1,0 +1,118 @@
+{
+  "queriedName": "Sizzling Spices",
+  "queriedAt": "2026-09-09T00:34:55.097Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Spices of India Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75060",
+        "street": "East Shady Grove Road",
+        "housenumber": "833",
+        "iso3166_2": "US-TX",
+        "lon": -96.9364383,
+        "lat": 32.8012466,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Eagle Ford",
+        "result_type": "amenity",
+        "distance": 13310.37102645438,
+        "formatted": "Spices of India Kitchen, 833 East Shady Grove Road, Irving, TX 75060, United States of America",
+        "address_line1": "Spices of India Kitchen",
+        "address_line2": "833 East Shady Grove Road, Irving, TX 75060, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R327+FC",
+        "plus_code_short": "27+FC Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.3308314815760465,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51334ee89aee3b58c059fe83a33f8f664040f00103f90101a61ddf02000000c00201920317537069636573206f6620496e646961204b69746368656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132333333313936383031",
+        "bbox": {
+          "lon1": -96.9364883,
+          "lat1": 32.8011966,
+          "lon2": -96.9363883,
+          "lat2": 32.8012966
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pendery's World of Chilis and Spices",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76104",
+        "district": "Fairmount",
+        "street": "8th Avenue",
+        "housenumber": "1407",
+        "iso3166_2": "US-TX",
+        "lon": -97.3434307,
+        "lat": 32.7290143,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Hospital District",
+        "result_type": "amenity",
+        "distance": 51377.90667419959,
+        "formatted": "Pendery's World of Chilis and Spices, 1407 8th Avenue, Fort Worth, TX 76104, United States of America",
+        "address_line1": "Pendery's World of Chilis and Spices",
+        "address_line2": "1407 8th Avenue, Fort Worth, TX 76104, United States of America",
+        "category": "commercial.furniture_and_interior.kitchen",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PMH4+JJ",
+        "plus_code_short": "PMH4+JJ Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 4.257648743921303,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51503cc2c4fa5558c0597e683057505d4040f00103f901f9e0531b03000000c0020192032450656e64657279277320576f726c64206f66204368696c697320616e6420537069636573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333433333833383031",
+        "bbox": {
+          "lon1": -97.3434807,
+          "lat1": 32.7289643,
+          "lon2": -97.3433807,
+          "lat2": 32.7290643
+        }
+      }
+    ],
+    "query": {
+      "text": "Sizzling Spices"
+    }
+  }
+}

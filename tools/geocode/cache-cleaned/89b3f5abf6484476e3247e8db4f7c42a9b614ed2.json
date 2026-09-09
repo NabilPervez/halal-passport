@@ -1,0 +1,62 @@
+{
+  "queriedName": "Imperial Biryani",
+  "queriedAt": "2026-09-09T00:44:53.500Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Imperial Biryani & Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "North Greenville Avenue",
+        "housenumber": "400",
+        "iso3166_2": "US-TX",
+        "lon": -96.7275115,
+        "lat": 32.9543106,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20756.78761106056,
+        "formatted": "Imperial Biryani & Cafe, 400 North Greenville Avenue, Richardson, TX 75081, United States of America",
+        "address_line1": "Imperial Biryani & Cafe",
+        "address_line2": "400 North Greenville Avenue, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X73C+PX",
+        "plus_code_short": "3C+PX Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.075015176256518,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b1fd648c8f2e58c059f29c88d9267a4040f00103f90144cdeb1903000000c00201920317496d70657269616c2042697279616e6920262043616665",
+        "bbox": {
+          "lon1": -96.7275615,
+          "lat1": 32.9542606,
+          "lon2": -96.7274615,
+          "lat2": 32.9543606
+        }
+      }
+    ],
+    "query": {
+      "text": "Imperial Biryani"
+    }
+  }
+}

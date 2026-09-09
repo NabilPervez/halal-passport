@@ -1,0 +1,216 @@
+{
+  "queriedName": "Wulf Burger",
+  "queriedAt": "2026-09-09T00:30:35.939Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wulf Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "University Crossing PID",
+        "street": "East Mockingbird Lane",
+        "housenumber": "5331",
+        "iso3166_2": "US-TX",
+        "lon": -96.7763565,
+        "lat": 32.8371342,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 6959.403461958493,
+        "formatted": "Wulf Burger, 5331 East Mockingbird Lane, Dallas, TX 75206, United States of America",
+        "address_line1": "Wulf Burger",
+        "address_line2": "5331 East Mockingbird Lane, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PF+VF",
+        "plus_code_short": "R6PF+VF, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.670005293202333,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515f622cd3af3158c0597baea536276b4040f00103f90105f2fd7a02000000c0020192030b57756c6620427572676572",
+        "bbox": {
+          "lon1": -96.7764065,
+          "lat1": 32.8370842,
+          "lon2": -96.7763065,
+          "lat2": 32.8371842
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wulf Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "Independence Parkway",
+        "housenumber": "3100",
+        "iso3166_2": "US-TX",
+        "lon": -96.7510204,
+        "lat": 33.0403506,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 29596.198664865562,
+        "formatted": "Wulf Burger, 3100 Independence Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Wulf Burger",
+        "address_line2": "3100 Independence Parkway, Plano, TX 75023, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526RX+4H",
+        "plus_code_short": "26RX+4H, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.85904348917188,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513f28deb7103058c059deaf5d352a854040f00103f901f566173603000000c0020192030b57756c6620427572676572",
+        "bbox": {
+          "lon1": -96.7510704,
+          "lat1": 33.0403006,
+          "lon2": -96.7509704,
+          "lat2": 33.0404006
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wulf Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Dallas Parkway",
+        "housenumber": "9250",
+        "iso3166_2": "US-TX",
+        "lon": -96.8394407,
+        "lat": 33.1545871,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 42172.10389900041,
+        "formatted": "Wulf Burger, 9250 Dallas Parkway, Frisco, TX 75034, United States of America",
+        "address_line1": "Wulf Burger",
+        "address_line2": "9250 Dallas Parkway, Frisco, TX 75034, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555536+R6",
+        "plus_code_short": "5536+R6, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.8983521502347913,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519b5b7c65b93558c05916719582c9934040f00103f9018217f81d03000000c0020192030b57756c6620427572676572",
+        "bbox": {
+          "lon1": -96.8394907,
+          "lat1": 33.1545371,
+          "lon2": -96.8393907,
+          "lat2": 33.1546371
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Wulf Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Stacy Road",
+        "housenumber": "7701",
+        "iso3166_2": "US-TX",
+        "lon": -96.717179,
+        "lat": 33.1515732,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 42311.1684526475,
+        "formatted": "Wulf Burger, 7701 Stacy Road, McKinney, TX 75070, United States of America",
+        "address_line1": "Wulf Burger",
+        "address_line2": "7701 Stacy Road, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655572M+J4",
+        "plus_code_short": "572M+J4 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.8611422984951687,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513198bf42e62d58c0599c7928c066934040f00103f901244d795d02000000c0020192030b57756c6620427572676572",
+        "bbox": {
+          "lon1": -96.717229,
+          "lat1": 33.1515232,
+          "lon2": -96.717129,
+          "lat2": 33.1516232
+        }
+      }
+    ],
+    "query": {
+      "text": "Wulf Burger"
+    }
+  }
+}

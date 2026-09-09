@@ -1,0 +1,14 @@
+{
+  "queriedName": "Zeytin",
+  "queriedAt": "2026-09-09T00:39:14.291Z",
+  "raw": {
+    "results": [],
+    "query": {
+      "text": "Zeytin",
+      "parsed": {
+        "city": "zeytin",
+        "expected_type": "unknown"
+      }
+    }
+  }
+}

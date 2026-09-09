@@ -1,0 +1,61 @@
+{
+  "queriedName": "Original Mocha Coffee House",
+  "queriedAt": "2026-09-09T00:32:09.618Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Original Mocha Coffee House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Murphy",
+        "postcode": "75094",
+        "street": "East FM 544",
+        "iso3166_2": "US-TX",
+        "lon": -96.6063181,
+        "lat": 33.0109041,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31518.78457045653,
+        "formatted": "Original Mocha Coffee House, East FM 544, Murphy, TX 75094, United States of America",
+        "address_line1": "Original Mocha Coffee House",
+        "address_line2": "East FM 544, Murphy, TX 75094, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655296V+9F",
+        "plus_code_short": "6V+9F, 75094 Murphy, United States",
+        "rank": {
+          "importance": 0.00005413519493395922,
+          "popularity": 4.203413815552605,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51439e6eeacd2658c0593772384e65814040f00103f90125f2e00903000000c0020192031b4f726967696e616c204d6f63686120436f6666656520486f757365",
+        "bbox": {
+          "lon1": -96.6063681,
+          "lat1": 33.0108541,
+          "lon2": -96.6062681,
+          "lat2": 33.0109541
+        }
+      }
+    ],
+    "query": {
+      "text": "Original Mocha Coffee House"
+    }
+  }
+}

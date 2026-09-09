@@ -1,0 +1,258 @@
+{
+  "queriedName": "The Taco King",
+  "queriedAt": "2026-09-09T00:44:52.068Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Taco Pronto Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75235",
+        "street": "Harry Hines Boulevard",
+        "housenumber": "6801",
+        "iso3166_2": "US-TX",
+        "lon": -96.8527193,
+        "lat": 32.8237194,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Stemmons Corridor",
+        "result_type": "amenity",
+        "distance": 7355.934702414466,
+        "formatted": "The Taco Pronto Cafe, 6801 Harry Hines Boulevard, Dallas, TX 75235, United States of America",
+        "address_line1": "The Taco Pronto Cafe",
+        "address_line2": "6801 Harry Hines Boulevard, Dallas, TX 75235, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R4FW+FW",
+        "plus_code_short": "R4FW+FW, 75235 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.791676973531578,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c18af8f3923658c059560a26a36f694040f00102f901d0edb71b00000000c00201920314546865205461636f2050726f6e746f2043616665e203216f70656e7374726565746d61703a76656e75653a7761792f343635303338383030",
+        "bbox": {
+          "lon1": -96.852849,
+          "lat1": 32.8236068,
+          "lon2": -96.8525897,
+          "lat2": 32.8238319
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Christ the King School",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Devonshire",
+        "iso3166_2": "US-TX",
+        "lon": -96.807225,
+        "lat": 32.860878,
+        "result_type": "amenity",
+        "distance": 9375.63647941504,
+        "postcode": "75225",
+        "formatted": "Christ the King School, Dallas, TX 75225, United States of America",
+        "address_line1": "Christ the King School",
+        "address_line2": "Dallas, TX 75225, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V56V+94",
+        "plus_code_short": "V56V+94, 75225 Dallas, United States",
+        "rank": {
+          "popularity": 5.585094608069873,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51dfe00b93a93358c05946ec1340316e4040f00102f9012240ff1a00000000c00201e203216f70656e7374726565746d61703a76656e75653a7761792f343532393335373134",
+        "bbox": {
+          "lon1": -96.8084691,
+          "lat1": 32.8604054,
+          "lon2": -96.8064548,
+          "lat2": 32.8611906
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Christ the King School",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75225",
+        "suburb": "Preston Center",
+        "street": "Weldon Howell Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.8074642,
+        "lat": 32.8607501,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 9363.796707040961,
+        "formatted": "Christ the King School, Weldon Howell Parkway, Dallas, TX 75225, United States of America",
+        "address_line1": "Christ the King School",
+        "address_line2": "Weldon Howell Parkway, Dallas, TX 75225, United States of America",
+        "category": "education.school",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V56V+82",
+        "plus_code_short": "V56V+82, 75225 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5136ec527ead3358c059adc32c0f2d6e4040f00102f9012240ff1a00000000c0020192031643687269737420746865204b696e67205363686f6f6c",
+        "bbox": {
+          "lon1": -96.8084691,
+          "lat1": 32.8604054,
+          "lon2": -96.8064548,
+          "lat2": 32.8611906
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Combo Gordo Taco",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75077",
+        "street": "Valley Ridge Boulevard",
+        "housenumber": "1191",
+        "iso3166_2": "US-TX",
+        "lon": -97.0231407,
+        "lat": 33.0574083,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 37653.30289763136,
+        "formatted": "The Combo Gordo Taco, 1191 Valley Ridge Boulevard, Lewisville, TX 75077, United States of America",
+        "address_line1": "The Combo Gordo Taco",
+        "address_line2": "1191 Valley Ridge Boulevard, Lewisville, TX 75077, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86543X4G+XP",
+        "plus_code_short": "3X4G+XP, 75077 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 3.8633003010671514,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51386d21237b4158c0596d82b92759874040f00103f901a70be11901000000c0020192031454686520436f6d626f20476f72646f205461636fe203236f70656e7374726565746d61703a76656e75653a6e6f64652f34373239313436323739",
+        "bbox": {
+          "lon1": -97.0231907,
+          "lat1": 33.0573583,
+          "lon2": -97.0230907,
+          "lat2": 33.0574583
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Christ the King",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Carter Riverside",
+        "iso3166_2": "US-TX",
+        "lon": -97.295092,
+        "lat": 32.779354,
+        "result_type": "amenity",
+        "distance": 46567.21749574399,
+        "postcode": "76111",
+        "formatted": "Christ the King, Fort Worth, TX 76111, United States of America",
+        "address_line1": "Christ the King",
+        "address_line2": "Fort Worth, TX 76111, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QPH3+PX",
+        "plus_code_short": "QPH3+PX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.88502876057176,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51eb538ec9e25258c059de0033dfc1634040f00103f901ef8928a001000000c0020192030f43687269737420746865204b696e67e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36393831393738363037"
+      }
+    ],
+    "query": {
+      "text": "The Taco King"
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "queriedName": "Chef Sun s Noodle and Dumpling McKinney",
+  "queriedAt": "2026-09-09T00:44:54.280Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "King Ramen & Dumpling",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75019",
+        "street": "East State Highway 121",
+        "iso3166_2": "US-TX",
+        "lon": -96.9628229,
+        "lat": 32.9992598,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 29163.87445920529,
+        "formatted": "King Ramen & Dumpling, East State Highway 121, Lewisville, TX 75019, United States of America",
+        "address_line1": "King Ramen & Dumpling",
+        "address_line2": "East State Highway 121, Lewisville, TX 75019, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X2XP+PV",
+        "plus_code_short": "X2XP+PV, 75019 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.081648310359856,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c1d5f0e39e3d58c0598f9ac0bee77f4040f00103f901d47eb6fe02000000c002019203154b696e672052616d656e20262044756d706c696e67e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132383633333037343736",
+        "bbox": {
+          "lon1": -96.9628729,
+          "lat1": 32.9992098,
+          "lon2": -96.9627729,
+          "lat2": 32.9993098
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mulan Noodle & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Carrollton",
+        "postcode": "75010",
+        "street": "East Hebron Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.9138944,
+        "lat": 33.0202294,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 29164.842680389113,
+        "formatted": "Mulan Noodle & Grill, East Hebron Parkway, Carrollton, TX 75010, United States of America",
+        "address_line1": "Mulan Noodle & Grill",
+        "address_line2": "East Hebron Parkway, Carrollton, TX 75010, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865523CP+3C",
+        "plus_code_short": "23CP+3C, 75010 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.443624394953315,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d8ffef3e7d3a58c05977b581e096824040f00103f9010b70c9f501000000c002019203144d756c616e204e6f6f646c652026204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f38343138353836363335",
+        "bbox": {
+          "lon1": -96.9139444,
+          "lat1": 33.0201794,
+          "lon2": -96.9138444,
+          "lat2": 33.0202794
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rumdoul Asian Cuisine & Noodle House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Rowlett",
+        "postcode": "75088",
+        "street": "Lakeview Parkway",
+        "housenumber": "8602",
+        "iso3166_2": "US-TX",
+        "lon": -96.5184041,
+        "lat": 32.9160844,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 30274.16850795245,
+        "formatted": "Rumdoul Asian Cuisine & Noodle House, 8602 Lakeview Parkway, Rowlett, TX 75088, United States of America",
+        "address_line1": "Rumdoul Asian Cuisine & Noodle House",
+        "address_line2": "8602 Lakeview Parkway, Rowlett, TX 75088, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645WF8J+CJ",
+        "plus_code_short": "WF8J+CJ Rowlett, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005548256656743751,
+          "popularity": 3.657107645870729,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5130e763882d2158c0591a30ed4042754040f00103f901a5aadefe02000000c0020192032452756d646f756c20417369616e2043756973696e652026204e6f6f646c6520486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132383635393430313333",
+        "bbox": {
+          "lon1": -96.5184541,
+          "lat1": 32.9160344,
+          "lon2": -96.5183541,
+          "lat2": 32.9161344
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pho V Noodle House & Sushi",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Bedford",
+        "postcode": "76021",
+        "street": "East Harwood Road",
+        "housenumber": "3504",
+        "iso3166_2": "US-TX",
+        "lon": -97.1095254,
+        "lat": 32.8509282,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30340.995893673262,
+        "formatted": "Pho V Noodle House & Sushi, 3504 East Harwood Road, Bedford, TX 76021, United States of America",
+        "address_line1": "Pho V Noodle House & Sushi",
+        "address_line2": "3504 East Harwood Road, Bedford, TX 76021, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VV2R+95",
+        "plus_code_short": "VV2R+95, 76021 Bedford, United States",
+        "rank": {
+          "importance": 0.00005616311894403017,
+          "popularity": 4.246879714526796,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5134c5d276024758c059401f1b37eb6c4040f00103f9018ec903a600000000c0020192031a50686f2056204e6f6f646c6520486f7573652026205375736869e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32373835323636303632",
+        "bbox": {
+          "lon1": -97.1095754,
+          "lat1": 32.8508782,
+          "lon2": -97.1094754,
+          "lat2": 32.8509782
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Noodles & Dumpling Time",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75003",
+        "street": "East Stacy Road",
+        "housenumber": "190",
+        "iso3166_2": "US-TX",
+        "lon": -96.6577163,
+        "lat": 33.1270543,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 41036.56777993987,
+        "formatted": "Noodles & Dumpling Time, 190 East Stacy Road, Allen, TX 75003, United States of America",
+        "address_line1": "Noodles & Dumpling Time",
+        "address_line2": "190 East Stacy Road, Allen, TX 75003, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548GR+RW",
+        "plus_code_short": "48GR+RW Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.691202022364501,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f4a21b06182a58c05978a8b75043904040f00103f9015981f24103000000c002019203174e6f6f646c657320262044756d706c696e672054696d65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393931333133373533",
+        "bbox": {
+          "lon1": -96.6577663,
+          "lat1": 33.1270043,
+          "lon2": -96.6576663,
+          "lat2": 33.1271043
+        }
+      }
+    ],
+    "query": {
+      "text": "Chef Sun s Noodle and Dumpling McKinney"
+    }
+  }
+}

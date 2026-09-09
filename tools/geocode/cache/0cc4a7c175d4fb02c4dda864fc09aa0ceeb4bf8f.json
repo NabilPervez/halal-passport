@@ -1,0 +1,263 @@
+{
+  "queriedName": "Peri Peri Original",
+  "queriedAt": "2026-09-09T00:38:08.428Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Original ChopShop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "University Park",
+        "postcode": "75205",
+        "street": "Hillcrest Avenue",
+        "housenumber": "6401",
+        "iso3166_2": "US-TX",
+        "lon": -96.7873852,
+        "lat": 32.8440147,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Greenville Ave",
+        "result_type": "amenity",
+        "distance": 7505.685492653845,
+        "formatted": "Original ChopShop, 6401 Hillcrest Avenue, University Park, TX 75205, United States of America",
+        "address_line1": "Original ChopShop",
+        "address_line2": "6401 Hillcrest Avenue, University Park, TX 75205, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6V7+J2",
+        "plus_code_short": "V7+J2, 75205 University Park, United States",
+        "rank": {
+          "importance": 0.00005673228046077695,
+          "popularity": 5.538381357223874,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51afd6e484643258c059f0eb76ac086c4040f00103f90101269bf101000000c002019203114f726967696e616c2043686f7053686f70e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333438343434313631",
+        "bbox": {
+          "lon1": -96.7874352,
+          "lat1": 32.8439647,
+          "lon2": -96.7873352,
+          "lat2": 32.8440647
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Original ChopShop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6465",
+        "iso3166_2": "US-TX",
+        "lon": -96.7525145,
+        "lat": 32.8377888,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Caruth Terrace",
+        "result_type": "amenity",
+        "distance": 7935.686531897807,
+        "formatted": "Original ChopShop, 6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Original ChopShop",
+        "address_line2": "6465 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6QW+4X",
+        "plus_code_short": "R6QW+4X, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.936477485103446,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5103d19332293058c059407ad4a93c6b4040f00103f9013a15adcd02000000c002019203114f726967696e616c2043686f7053686f70e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132303430363037303334",
+        "bbox": {
+          "lon1": -96.7525645,
+          "lat1": 32.8377388,
+          "lon2": -96.7524645,
+          "lat2": 32.8378388
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Original Town",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Mesquite",
+        "suburb": "Original Town",
+        "iso3166_2": "US-TX",
+        "lon": -96.596135,
+        "lat": 32.767885,
+        "result_type": "suburb",
+        "distance": 18807.36747390046,
+        "formatted": "Original Town, Mesquite, TX, United States of America",
+        "address_line1": "Original Town",
+        "address_line2": "Mesquite, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645QC93+5G",
+        "plus_code_short": "93+5G Mesquite, Dallas County, United States",
+        "rank": {
+          "popularity": 4.239104698891968,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5110406a13272658c059630b410e4a624040c0020592030d4f726967696e616c20546f776ee2032377686f736f6e66697273743a6e65696768626f7572686f6f643a343230353432393039",
+        "bbox": {
+          "lon1": -96.601135,
+          "lat1": 32.762885,
+          "lon2": -96.591135,
+          "lat2": 32.772885
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Original Donation",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "Plano",
+        "suburb": "Original Donation",
+        "iso3166_2": "US-TX",
+        "lon": -96.700795,
+        "lat": 33.020145,
+        "result_type": "suburb",
+        "distance": 28489.468787612732,
+        "formatted": "Original Donation, Plano, TX, United States of America",
+        "address_line1": "Original Donation",
+        "address_line2": "Plano, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865527CX+3M",
+        "plus_code_short": "CX+3M Plano, Collin County, United States",
+        "rank": {
+          "popularity": 5.210557019236719,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d28c45d3d92c58c059c616821c94824040c002059203114f726967696e616c20446f6e6174696f6ee2032277686f736f6e66697273743a6e65696768626f7572686f6f643a3835383739393239",
+        "bbox": {
+          "lon1": -96.705795,
+          "lat1": 33.015145,
+          "lon2": -96.695795,
+          "lat2": 33.025145
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Original ChopShop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Southlake",
+        "postcode": "76092",
+        "street": "East Southlake Boulevard",
+        "housenumber": "2101",
+        "iso3166_2": "US-TX",
+        "lon": -97.1222614,
+        "lat": 32.940452,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 35402.540855699604,
+        "formatted": "Original ChopShop, 2101 East Southlake Boulevard, Southlake, TX 76092, United States of America",
+        "address_line1": "Original ChopShop",
+        "address_line2": "2101 East Southlake Boulevard, Southlake, TX 76092, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WVRH+53",
+        "plus_code_short": "RH+53 Southlake, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005686503395127821,
+          "popularity": 4.067912373080987,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510ba47a21d34758c05999ba2bbb60784040f00103f901df9a90ff02000000c002019203114f726967696e616c2043686f7053686f70e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132383737363031353033",
+        "bbox": {
+          "lon1": -97.1223114,
+          "lat1": 32.940402,
+          "lon2": -97.1222114,
+          "lat2": 32.940502
+        }
+      }
+    ],
+    "query": {
+      "text": "Peri Peri Original"
+    }
+  }
+}

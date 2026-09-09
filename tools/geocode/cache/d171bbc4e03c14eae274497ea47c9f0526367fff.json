@@ -1,0 +1,63 @@
+{
+  "queriedName": "Sofra Kebab House",
+  "queriedAt": "2026-09-09T00:38:42.089Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "House of Biryani & Kebab",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75035",
+        "street": "Preston Road",
+        "housenumber": "9101",
+        "iso3166_2": "US-TX",
+        "lon": -96.803859,
+        "lat": 33.1536078,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 41881.82312225963,
+        "formatted": "House of Biryani & Kebab, 9101 Preston Road, Frisco, TX 75035, United States of America",
+        "address_line1": "House of Biryani & Kebab",
+        "address_line2": "9101 Preston Road, Frisco, TX 75035, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655553W+CF",
+        "plus_code_short": "553W+CF, 75035 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.9020979492209653,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5119e6046d723358c0598cb49e6ba9934040f00103f901683f1f2b03000000c00201920318486f757365206f662042697279616e692026204b65626162e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363038333730303234",
+        "bbox": {
+          "lon1": -96.803909,
+          "lat1": 33.1535578,
+          "lon2": -96.803809,
+          "lat2": 33.1536578
+        }
+      }
+    ],
+    "query": {
+      "text": "Sofra Kebab House"
+    }
+  }
+}

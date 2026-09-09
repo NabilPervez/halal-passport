@@ -1,0 +1,63 @@
+{
+  "queriedName": "Al Hamra Restaurant",
+  "queriedAt": "2026-09-09T00:37:41.030Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Al-Amir Lebanese Restaurant and Club",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Belt Line Road",
+        "housenumber": "3885",
+        "iso3166_2": "US-TX",
+        "lon": -96.849844,
+        "lat": 32.9535301,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20240.257773363795,
+        "formatted": "Al-Amir Lebanese Restaurant and Club, 3885 Belt Line Road, Addison, TX 75001, United States of America",
+        "address_line1": "Al-Amir Lebanese Restaurant and Club",
+        "address_line2": "3885 Belt Line Road, Addison, TX 75001, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X532+C3",
+        "plus_code_short": "X532+C3, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.313234577275618,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ebac16d8633658c05935a039460d7a4040f00103f90140b55e3802000000c00201920324416c2d416d6972204c6562616e6573652052657374617572616e7420616e6420436c7562e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39353335363635343732",
+        "bbox": {
+          "lon1": -96.849894,
+          "lat1": 32.9534801,
+          "lon2": -96.849794,
+          "lat2": 32.9535801
+        }
+      }
+    ],
+    "query": {
+      "text": "Al Hamra Restaurant"
+    }
+  }
+}

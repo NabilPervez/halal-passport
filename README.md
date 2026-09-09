@@ -7,42 +7,96 @@ reviews, and native SMS/WhatsApp sharing.
 
 ## Stack
 React + TypeScript + Vite, Tailwind CSS, Framer Motion, IndexedDB (`idb`),
-Google Maps JavaScript API, Web Share API, `vite-plugin-pwa`.
+MapLibre GL + Geoapify (map tiles and geocoding), Web Share API,
+`vite-plugin-pwa`.
 
 ## Getting started
 ```bash
 npm install
 cp .env.example .env
-# add your Google Maps API key to .env (optional — see below)
+# add your Geoapify API key to .env (optional — see below)
 npm run dev
 ```
 
-## Google Maps
-`VITE_GOOGLE_MAPS_API_KEY` is optional. Without it, Discover falls back to
-a neighborhood-grouped list so the app is fully usable out of the box. Add
-a key from the [Google Cloud Console](https://console.cloud.google.com/google/maps-apis)
-to enable the live jewel-toned map with markers and info cards.
+## Map & geocoding
+`VITE_GEOAPIFY_KEY` is optional for browsing the app — the bundled catalog
+already has real coordinates. Without a key the map falls back to the
+default MapLibre style with no tiles; add a free key from
+[Geoapify](https://myprojects.geoapify.com/) to see the styled dark map.
+Restrict the key to this app's origin(s) in the Geoapify dashboard once you
+have one — a client-side key can't be kept secret, only scoped.
 
 ## Data
-All restaurant, wishlist, eaten, and review data lives in IndexedDB on the
-device — nothing is sent to a server. Eight demo DFW restaurants are
-seeded on first launch so the app isn't empty; replace `src/data/mockRestaurants.ts`
-with real data whenever you're ready.
+Restaurant, wishlist, eaten, and review data lives in IndexedDB on the
+device — nothing is sent to a server. The catalog itself
+(`src/data/restaurants.json`) is real, geocoded data produced by the
+pipeline in `tools/geocode/` — see
+[`docs/data-pipeline-plan.md`](docs/data-pipeline-plan.md) for the full
+approach and rationale.
 
-## Sprints implemented
-1. **Local data + map** — IndexedDB schema (`restaurants`, `reviews`), Google
-   Map centered on DFW with jewel-toned markers and styled info cards.
-2. **Lists** — Wishlist/Eaten states with a Bento-grid layout and Framer
-   Motion spring transitions on save/state changes.
-3. **Reviews** — 1–5 gem rating, "what to get" / "what to avoid" notes,
-   price point, and dietary-tag badges.
-4. **Sharing + PWA** — Web Share API with SMS/WhatsApp deep-link fallback,
-   installable manifest, offline-capable service worker via Workbox.
+**Current coverage: 148 of 591 scraped names have been resolved to a real,
+verified location (133 restaurants + 15 mosques).** The remaining 443 are
+listed in `tools/geocode/unresolved.json` and `tools/geocode/report.csv` —
+either the automated pipeline couldn't confidently match them to a real
+place (common for small/independent restaurants not well mapped in
+OpenStreetMap), or they were dropped because they'd have collided with
+another record's location (a chain with only one branch mapped in OSM, or a
+literal duplicate scrape). Resolving more of them is a manual task — see
+"Adding more restaurants" below. Shipping fewer real places was a deliberate
+choice over shipping fabricated ones; see the plan doc for why.
+
+Map data and location attribution: **© OpenStreetMap contributors**,
+[ODbL](https://opendatacommons.org/licenses/odbl/), via
+[Geoapify](https://www.geoapify.com/).
+
+### Adding more restaurants
+1. Work through `tools/geocode/report.csv` (sorted with `review`-status rows
+   first, easiest matches at the top).
+2. For each one you can confidently resolve, add an entry to
+   `tools/geocode/overrides.json` — either a corrected location, or
+   `{ "drop": true, "reason": "..." }` to explicitly exclude it.
+3. Re-run `node tools/geocode/04-emit-seed.mjs` to regenerate
+   `src/data/restaurants.json` — no need to re-run the geocoding phases,
+   `overrides.json` applies on top of the cached results.
+4. Run `npm run verify:data` before committing.
+
+### Re-running the pipeline
+`tools/geocode/input.json` (591 scraped names + ids) is committed and is now
+the durable source of truth — `01-build-input.mjs` already ran against the
+original scrape and `src/data/mockRestaurants.ts`, both since deleted (see
+`docs/data-pipeline-plan.md`, item 14), so that step isn't re-runnable and
+isn't part of the normal flow below. Steps 2 onward read only from
+`input.json` and are fully reproducible:
+```bash
+export GEOAPIFY_KEY=your_key_here
+node tools/geocode/02-resolve.mjs
+node tools/geocode/03-score.mjs
+node tools/geocode/02b-retry-cleaned.mjs   # improves match rate on non-auto rows
+node tools/geocode/03-score.mjs            # re-score after the retry pass
+node tools/geocode/04-emit-seed.mjs
+node tools/geocode/05-verify-mosques.mjs   # optional, mosque coordinates only
+npm run verify:data
+```
+Every geocoder response is cached under `tools/geocode/cache/` and
+`tools/geocode/cache-cleaned/`, and both are committed — re-running the
+pipeline against unchanged input costs zero API calls and is byte-for-byte
+reproducible. If you're feeding in a fresh scrape, adapt `01-build-input.mjs`
+to your new source and id scheme first.
+
+### Halal verification status
+Every seeded listing starts as `halalStatus: "unverified"` — being resolved
+to a real address is not the same as being confirmed halal. The UI shows
+this honestly rather than assuming every result is Zabihah. Promoting a
+listing to a verified status is intentionally a manual, documented action
+(via `overrides.json` for now; a future sprint should let users submit
+verification from the app itself).
 
 ## Build
 ```bash
 npm run build   # type-checks then builds to dist/
 npm run preview # serve the production build locally
+npm test        # migration + pipeline tests
+npm run verify:data  # Definition-of-Done checks on the shipped catalog
 ```
 
 ## Design

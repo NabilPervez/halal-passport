@@ -1,0 +1,275 @@
+{
+  "queriedName": "Farida's Kitchen",
+  "queriedAt": "2026-09-09T00:34:25.829Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Astra Kitchen + Lounge",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Downtown PID",
+        "street": "Leonard Street",
+        "housenumber": "1717",
+        "iso3166_2": "US-TX",
+        "lon": -96.7969184,
+        "lat": 32.7896348,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1404.9483093253086,
+        "formatted": "Astra Kitchen + Lounge, 1717 Leonard Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Astra Kitchen + Lounge",
+        "address_line2": "1717 Leonard Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6Q3+V6",
+        "plus_code_short": "Q3+V6, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.894673883737748,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51296508b6003358c0594ae4ccc012654040f00102f90132e1353f00000000c002019203164173747261204b69746368656e202b204c6f756e6765e203226f70656e7374726565746d61703a76656e75653a7761792f31303630343935363636",
+        "bbox": {
+          "lon1": -96.7974339,
+          "lat1": 32.7892477,
+          "lon2": -96.796466,
+          "lat2": 32.7900776
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Snap Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "street": "Skillman Street",
+        "housenumber": "4115",
+        "iso3166_2": "US-TX",
+        "lon": -96.7618006,
+        "lat": 32.8362051,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Stonewall Terrace",
+        "result_type": "amenity",
+        "distance": 7359.5102593023685,
+        "formatted": "Snap Kitchen, 4115 Skillman Street, Dallas, TX 75206, United States of America",
+        "address_line1": "Snap Kitchen",
+        "address_line2": "4115 Skillman Street, Dallas, TX 75206, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PQ+F7",
+        "plus_code_short": "R6PQ+F7, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.054909771288179,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51afc44d57c13058c059cc9fcac4086b4040f00102f9011399a71b00000000c0020192030c536e6170204b69746368656ee203216f70656e7374726565746d61703a76656e75653a7761792f343633393638353331",
+        "bbox": {
+          "lon1": -96.7618494,
+          "lat1": 32.8361166,
+          "lon2": -96.7617519,
+          "lat2": 32.8362935
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Malai Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75225",
+        "suburb": "Preston Center",
+        "street": "Luther Lane",
+        "housenumber": "6130",
+        "iso3166_2": "US-TX",
+        "lon": -96.8052274,
+        "lat": 32.8634402,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 9642.42356987255,
+        "formatted": "Malai Kitchen, 6130 Luther Lane, Dallas, TX 75225, United States of America",
+        "address_line1": "Malai Kitchen",
+        "address_line2": "6130 Luther Lane, Dallas, TX 75225, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V57V+9W",
+        "plus_code_short": "V57V+9W, 75225 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.468854658296832,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f63581d8883358c0599e865e35856e4040f00103f901b6465ed602000000c0020192030d4d616c6169204b69746368656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132313836343337333032",
+        "bbox": {
+          "lon1": -96.8052774,
+          "lat1": 32.8633902,
+          "lon2": -96.8051774,
+          "lat2": 32.8634902
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sun's Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Arapaho Road",
+        "housenumber": "800",
+        "iso3166_2": "US-TX",
+        "lon": -96.7125486,
+        "lat": 32.9602936,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21854.262453001822,
+        "formatted": "Sun's Kitchen, 800 East Arapaho Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Sun's Kitchen",
+        "address_line2": "800 East Arapaho Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X76P+4X",
+        "plus_code_short": "X76P+4X Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.863741731052478,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e17371659a2d58c059704793e6ea7a4040f00103f9014ff927f500000000c0020192030d53756e2773204b69746368656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f34313133303337363437",
+        "bbox": {
+          "lon1": -96.7125986,
+          "lat1": 32.9602436,
+          "lon2": -96.7124986,
+          "lat2": 32.9603436
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Bae's Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75067",
+        "street": "West Round Grove Road",
+        "housenumber": "771",
+        "iso3166_2": "US-TX",
+        "lon": -97.0081562,
+        "lat": 33.0053249,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 32144.900607318385,
+        "formatted": "Bae's Kitchen, 771 West Round Grove Road, Lewisville, TX 75067, United States of America",
+        "address_line1": "Bae's Kitchen",
+        "address_line2": "771 West Round Grove Road, Lewisville, TX 75067, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542X4R+4P",
+        "plus_code_short": "2X4R+4P, 75067 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 3.9788510865846844,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519e1095a1854058c0595fad7f7cae804040f00103f901b0e3f7d901000000c0020192030d4261652773204b69746368656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f37393531383638383438",
+        "bbox": {
+          "lon1": -97.0082062,
+          "lat1": 33.0052749,
+          "lon2": -97.0081062,
+          "lat2": 33.0053749
+        }
+      }
+    ],
+    "query": {
+      "text": "Farida's Kitchen"
+    }
+  }
+}

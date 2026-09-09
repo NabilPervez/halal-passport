@@ -1,0 +1,273 @@
+{
+  "queriedName": "Taco King",
+  "queriedAt": "2026-09-09T00:32:48.819Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Velvet Taco",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Elm Street",
+        "housenumber": "2556",
+        "iso3166_2": "US-TX",
+        "lon": -96.7867612,
+        "lat": 32.7839026,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1226.9230134340198,
+        "formatted": "Velvet Taco, 2556 Elm Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Velvet Taco",
+        "address_line2": "2556 Elm Street, Dallas, TX 75226, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M7+H7",
+        "plus_code_short": "Q6M7+H7, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.3837938884960295,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c0f0a54b5a3258c059eb1f9feb56644040f00103f9017119d47802000000c0020192030b56656c766574205461636fe203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363137313030363537",
+        "bbox": {
+          "lon1": -96.7868112,
+          "lat1": 32.7838526,
+          "lon2": -96.7867112,
+          "lat2": 32.7839526
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Bell",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75228",
+        "street": "North Jim Miller Road",
+        "housenumber": "5575",
+        "iso3166_2": "US-TX",
+        "lon": -96.7004267,
+        "lat": 32.7926205,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 9193.514202861386,
+        "formatted": "Taco Bell, 5575 North Jim Miller Road, Dallas, TX 75228, United States of America",
+        "address_line1": "Taco Bell",
+        "address_line2": "5575 North Jim Miller Road, Dallas, TX 75228, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q7VX+2R",
+        "plus_code_short": "Q7VX+2R, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.457355263634086,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b16f82cad32c58c059d0d1aa9674654040f00102f90158eac11b00000000c002019203095461636f2042656c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343635363933323732",
+        "bbox": {
+          "lon1": -96.7005332,
+          "lat1": 32.7925655,
+          "lon2": -96.7003208,
+          "lat2": 32.7926506
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Bell",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75212",
+        "suburb": "Pinnacle Pointe",
+        "street": "North Cockrell Hill Road",
+        "housenumber": "1702",
+        "iso3166_2": "US-TX",
+        "lon": -96.8955298,
+        "lat": 32.768292,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 9262.852810751876,
+        "formatted": "Taco Bell, 1702 North Cockrell Hill Road, Dallas, TX 75212, United States of America",
+        "address_line1": "Taco Bell",
+        "address_line2": "1702 North Cockrell Hill Road, Dallas, TX 75212, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q493+8Q",
+        "plus_code_short": "Q493+8Q, 75212 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.377254345495039,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fbe5385c503958c059a4e36a6457624040f00103f901320e0c9c01000000c002019203095461636f2042656c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f36393133303033303538",
+        "bbox": {
+          "lon1": -96.8955798,
+          "lat1": 32.768242,
+          "lon2": -96.8954798,
+          "lat2": 32.768342
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Bell",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "East Belt Line Road",
+        "housenumber": "1907",
+        "iso3166_2": "US-TX",
+        "lon": -96.8889751,
+        "lat": 32.9540877,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21483.46682791815,
+        "formatted": "Taco Bell, 1907 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "address_line1": "Taco Bell",
+        "address_line2": "1907 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X436+JC",
+        "plus_code_short": "36+JC, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.522727976348788,
+          "popularity": 4.8982390900140125,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51555dd1f7e43858c0590882b68b1f7a4040f00102f901fbaf571900000000c002019203095461636f2042656c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343235313737303833",
+        "bbox": {
+          "lon1": -96.8890311,
+          "lat1": 32.9539642,
+          "lon2": -96.8889191,
+          "lat2": 32.9542112
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Bell",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Arapaho Road",
+        "housenumber": "517",
+        "iso3166_2": "US-TX",
+        "lon": -96.7362909,
+        "lat": 32.961822,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21319.07619110477,
+        "formatted": "Taco Bell, 517 West Arapaho Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Taco Bell",
+        "address_line2": "517 West Arapaho Road, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X767+PF",
+        "plus_code_short": "67+PF Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.000985044702559,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51eaf5dd631f2f58c0596249b9fb1c7b4040f00102f9016b63411b00000000c002019203095461636f2042656c6ce203216f70656e7374726565746d61703a76656e75653a7761792f343537323730313233",
+        "bbox": {
+          "lon1": -96.7364373,
+          "lat1": 32.9617793,
+          "lon2": -96.7361445,
+          "lat2": 32.9618647
+        }
+      }
+    ],
+    "query": {
+      "text": "Taco King"
+    }
+  }
+}

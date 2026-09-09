@@ -1,0 +1,62 @@
+{
+  "queriedName": "Apna Bazaar Grocery and Grill",
+  "queriedAt": "2026-09-09T00:38:21.972Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Apna Bazaar Grocery and Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "Old Denton Road",
+        "housenumber": "2000",
+        "iso3166_2": "US-TX",
+        "lon": -96.9112417,
+        "lat": 32.9688396,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23850.91880861153,
+        "formatted": "Apna Bazaar Grocery and Grill, 2000 Old Denton Road, Carrollton, TX 75006, United States of America",
+        "address_line1": "Apna Bazaar Grocery and Grill",
+        "address_line2": "2000 Old Denton Road, Carrollton, TX 75006, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X39Q+GG",
+        "plus_code_short": "X39Q+GG, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.537190359001526,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511810b5c8513a58c059ed889eef027c4040f00103f901d2f198f201000000c0020192031d41706e612042617a6161722047726f6365727920616e64204772696c6c",
+        "bbox": {
+          "lon1": -96.9112917,
+          "lat1": 32.9687896,
+          "lon2": -96.9111917,
+          "lat2": 32.9688896
+        }
+      }
+    ],
+    "query": {
+      "text": "Apna Bazaar Grocery and Grill"
+    }
+  }
+}

@@ -12,21 +12,56 @@ export type PricePoint = "$" | "$$" | "$$$";
 
 export type SaveState = "none" | "wishlist" | "eaten";
 
+export type BusinessStatus = "operational" | "temporarily_closed" | "permanently_closed";
+
+/**
+ * How confident we are that this listing is actually halal. Every seeded
+ * record starts "unverified" — a name resolved via a mapping directory is
+ * not a religious determination. Only community submissions or hand-checked
+ * overrides may claim "verified-zabihah".
+ */
+export type HalalStatus = "verified-zabihah" | "self-reported" | "halal-options" | "unverified";
+
+export type MatchMethod = "auto" | "manual";
+
+/**
+ * Pure catalog data — sourced from the geocoding pipeline (see
+ * tools/geocode/), replaceable wholesale on every data refresh. Never holds
+ * per-user state; see UserPlaceState for that.
+ */
 export interface Restaurant {
   id: string;
   name: string;
-  cuisine: string;
-  neighborhood: string;
+  /** Upstream stable id (Geoapify place_id) for future re-syncs. */
+  placeRef: string | null;
+  cuisine: string | null;
+  city: string;
   lat: number;
   lng: number;
   address: string;
+  businessStatus: BusinessStatus;
+  halalStatus: HalalStatus;
   dietaryTags: DietaryTag[];
-  pricePoint: PricePoint;
+  pricePoint: PricePoint | null;
+  /** Rating collected from the original directory scrape, if any. */
+  scrapedRating: number | null;
   heroColor: JewelTone;
+  isMosque?: boolean;
+  /** Provenance — how this record's coordinates were resolved. */
+  matchConfidence: number;
+  matchMethod: MatchMethod;
+}
+
+/** Per-user, per-place state — lives in its own IndexedDB store so a
+ *  catalog refresh never touches what someone has saved. */
+export interface UserPlaceState {
+  placeId: string;
   saveState: SaveState;
   savedAt?: number;
-  isMosque?: boolean;
 }
+
+/** A Restaurant joined with the viewer's save state, for rendering. */
+export type RestaurantWithSaveState = Restaurant & { saveState: SaveState; savedAt?: number };
 
 export type JewelTone = "emerald" | "ruby" | "sapphire" | "amethyst" | "topaz";
 
@@ -41,7 +76,7 @@ export interface Review {
   createdAt: number;
 }
 
-export interface RestaurantWithReview extends Restaurant {
+export interface RestaurantWithReview extends RestaurantWithSaveState {
   review?: Review;
 }
 

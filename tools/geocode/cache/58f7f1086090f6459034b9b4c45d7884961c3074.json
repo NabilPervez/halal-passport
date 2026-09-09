@@ -1,0 +1,61 @@
+{
+  "queriedName": "Shan Grills",
+  "queriedAt": "2026-09-09T00:33:07.303Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shan Grills",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Wylie",
+        "postcode": "75086",
+        "street": "FM 544",
+        "iso3166_2": "US-TX",
+        "lon": -96.5877954,
+        "lat": 33.0107738,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 32515.40476698354,
+        "formatted": "Shan Grills, FM 544, Wylie, TX 75086, United States of America",
+        "address_line1": "Shan Grills",
+        "address_line2": "FM 544, Wylie, TX 75086, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552C66+8V",
+        "plus_code_short": "2C66+8V Wylie, Collin County, United States",
+        "rank": {
+          "importance": 0.000055952544441855764,
+          "popularity": 3.7432038553796185,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5150ef98709e2558c059ab532f0961814040f00103f901b1a85b0903000000c0020192030b5368616e204772696c6c73",
+        "bbox": {
+          "lon1": -96.5878454,
+          "lat1": 33.0107238,
+          "lon2": -96.5877454,
+          "lat2": 33.0108238
+        }
+      }
+    ],
+    "query": {
+      "text": "Shan Grills"
+    }
+  }
+}

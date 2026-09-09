@@ -1,0 +1,164 @@
+{
+  "queriedName": "Mike's Chicken",
+  "queriedAt": "2026-09-09T00:31:08.588Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mike's Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "street": "Maple Avenue",
+        "housenumber": "4234",
+        "iso3166_2": "US-TX",
+        "lon": -96.8187236,
+        "lat": 32.8083778,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4036.9382593019586,
+        "formatted": "Mike's Chicken, 4234 Maple Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Mike's Chicken",
+        "address_line2": "4234 Maple Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R55J+9G",
+        "plus_code_short": "R55J+9G, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.933747643968099,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a89dabf7653458c059fee77aec78674040f00103f9014f2443be02000000c0020192030e4d696b65277320436869636b656e",
+        "bbox": {
+          "lon1": -96.8187736,
+          "lat1": 32.8083278,
+          "lon2": -96.8186736,
+          "lat2": 32.8084278
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mike's Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75251",
+        "street": "Forest Lane",
+        "housenumber": "7752",
+        "iso3166_2": "US-TX",
+        "lon": -96.7732529,
+        "lat": 32.9091944,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 14865.836105927481,
+        "formatted": "Mike's Chicken, 7752 Forest Lane, Dallas, TX 75251, United States of America",
+        "address_line1": "Mike's Chicken",
+        "address_line2": "7752 Forest Lane, Dallas, TX 75251, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W65G+MM",
+        "plus_code_short": "W65G+MM, 75251 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.970879970080758,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516142bbf97c3158c05969da6a7b60744040f00103f9010a0d143001000000c0020192030e4d696b65277320436869636b656e",
+        "bbox": {
+          "lon1": -96.7733029,
+          "lat1": 32.9091444,
+          "lon2": -96.7732029,
+          "lat2": 32.9092444
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mike's Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75074",
+        "street": "President George Bush Highway",
+        "housenumber": "3345",
+        "iso3166_2": "US-TX",
+        "lon": -96.6704183,
+        "lat": 32.9984676,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27315.663882984718,
+        "formatted": "Mike's Chicken, 3345 President George Bush Highway, Plano, TX 75074, United States of America",
+        "address_line1": "Mike's Chicken",
+        "address_line2": "3345 President George Bush Highway, Plano, TX 75074, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X8XH+9R",
+        "plus_code_short": "X8XH+9R, 75074 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.59513037397816,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f4482822e82a58c059cc0e4cc9cd7f4040f00102f901022d895700000000c0020192030e4d696b65277320436869636b656e",
+        "bbox": {
+          "lon1": -96.6705433,
+          "lat1": 32.9983563,
+          "lon2": -96.6702932,
+          "lat2": 32.9985788
+        }
+      }
+    ],
+    "query": {
+      "text": "Mike's Chicken"
+    }
+  }
+}

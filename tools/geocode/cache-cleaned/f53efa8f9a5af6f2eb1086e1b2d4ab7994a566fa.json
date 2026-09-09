@@ -1,0 +1,62 @@
+{
+  "queriedName": "Moe s Gyro",
+  "queriedAt": "2026-09-09T00:45:14.640Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Moe's Gyro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Hurst",
+        "postcode": "76053",
+        "street": "West Pipeline Road",
+        "housenumber": "819",
+        "iso3166_2": "US-TX",
+        "lon": -97.1880101,
+        "lat": 32.8226759,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 36897.76069797642,
+        "formatted": "Moe's Gyro, 819 West Pipeline Road, Hurst, TX 76053, United States of America",
+        "address_line1": "Moe's Gyro",
+        "address_line2": "819 West Pipeline Road, Hurst, TX 76053, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RRF6+3Q",
+        "plus_code_short": "RRF6+3Q Hurst, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000056024261844770236,
+          "popularity": 4.023876374762387,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5155b4835b084c58c0598bdaa2714d694040f00103f9016840765001000000c0020192030a4d6f652773204779726f",
+        "bbox": {
+          "lon1": -97.1880601,
+          "lat1": 32.8226259,
+          "lon2": -97.1879601,
+          "lat2": 32.8227259
+        }
+      }
+    ],
+    "query": {
+      "text": "Moe s Gyro"
+    }
+  }
+}

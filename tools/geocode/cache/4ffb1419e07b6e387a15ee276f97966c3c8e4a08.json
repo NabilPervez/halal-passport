@@ -1,0 +1,267 @@
+{
+  "queriedName": "The Halal Guys",
+  "queriedAt": "2026-09-09T00:39:07.592Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "Lowest Greenville",
+        "street": "Greenville Avenue",
+        "housenumber": "1811",
+        "iso3166_2": "US-TX",
+        "lon": -96.7704825,
+        "lat": 32.8124601,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 4657.3477466096965,
+        "formatted": "The Halal Guys, 1811 Greenville Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "1811 Greenville Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R66H+XR",
+        "plus_code_short": "R66H+XR, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.7099338953613366,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fbe8d4954f3158c05907674bb1fe674040f00103f9014692b8f200000000c0020192030e5468652048616c616c2047757973",
+        "bbox": {
+          "lon1": -96.7705325,
+          "lat1": 32.8124101,
+          "lon2": -96.7704325,
+          "lat2": 32.8125101
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75209",
+        "street": "Lemmon Avenue",
+        "housenumber": "5444",
+        "iso3166_2": "US-TX",
+        "lon": -96.8236566,
+        "lat": 32.828011,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 6195.224298394251,
+        "formatted": "The Halal Guys, 5444 Lemmon Avenue, Dallas, TX 75209, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "5444 Lemmon Avenue, Dallas, TX 75209, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R5HG+6G",
+        "plus_code_short": "R5HG+6G, 75209 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.339911844852961,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "519d082ccab63458c05937ddb243fc694040f00103f901e1b7abe602000000c0020192030e5468652048616c616c2047757973",
+        "bbox": {
+          "lon1": -96.8237066,
+          "lat1": 32.827961,
+          "lon2": -96.8236066,
+          "lat2": 32.828061
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "746",
+        "iso3166_2": "US-TX",
+        "lon": -96.7436057,
+        "lat": 32.9426643,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19084.228141354684,
+        "formatted": "The Halal Guys, 746 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "746 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7V4+3H",
+        "plus_code_short": "V4+3H Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.891107141109623,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a1a75c3c972f58c059a9cd4939a9784040f00103f9012beb142602000000c0020192030e5468652048616c616c2047757973",
+        "bbox": {
+          "lon1": -96.7436557,
+          "lat1": 32.9426143,
+          "lon2": -96.7435557,
+          "lat2": 32.9427143
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Addison",
+        "postcode": "75001",
+        "street": "Belt Line Road",
+        "housenumber": "5000",
+        "iso3166_2": "US-TX",
+        "lon": -96.8251114,
+        "lat": 32.9534662,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19797.050552473742,
+        "formatted": "The Halal Guys, 5000 Belt Line Road, Addison, TX 75001, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "5000 Belt Line Road, Addison, TX 75001, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X53F+9X",
+        "plus_code_short": "3F+9X, 75001 Addison, United States",
+        "rank": {
+          "importance": 0.000056242465857892994,
+          "popularity": 6.789272912032165,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a2a30ba0ce3458c059b36b312e0b7a4040f00103f901f48cb7ec02000000c0020192030e5468652048616c616c2047757973",
+        "bbox": {
+          "lon1": -96.8251614,
+          "lat1": 32.9534162,
+          "lon2": -96.8250614,
+          "lat2": 32.9535162
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Guys",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Plano",
+        "postcode": "75187",
+        "street": "East Hebron Parkway",
+        "housenumber": "3432",
+        "iso3166_2": "US-TX",
+        "lon": -96.8402623,
+        "lat": 33.0268604,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 28075.289498361315,
+        "formatted": "The Halal Guys, 3432 East Hebron Parkway, Plano, TX 75187, United States of America",
+        "address_line1": "The Halal Guys",
+        "address_line2": "3432 East Hebron Parkway, Plano, TX 75187, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865525G5+PV",
+        "plus_code_short": "25G5+PV, 75187 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.787441342860019,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f4a386dbc63558c0595bc75d2970834040f00103f901f245de1b03000000c0020192030e5468652048616c616c2047757973",
+        "bbox": {
+          "lon1": -96.8403123,
+          "lat1": 33.0268104,
+          "lon2": -96.8402123,
+          "lat2": 33.0269104
+        }
+      }
+    ],
+    "query": {
+      "text": "The Halal Guys"
+    }
+  }
+}

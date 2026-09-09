@@ -1,0 +1,63 @@
+{
+  "queriedName": "Another Time & Place Grille",
+  "queriedAt": "2026-09-09T00:39:29.160Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Another Time & Place",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Legacy Drive",
+        "housenumber": "5760",
+        "iso3166_2": "US-TX",
+        "lon": -96.8205403,
+        "lat": 33.0774792,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 33483.96805146844,
+        "formatted": "Another Time & Place, 5760 Legacy Drive, Plano, TX 75024, United States of America",
+        "address_line1": "Another Time & Place",
+        "address_line2": "5760 Legacy Drive, Plano, TX 75024, United States of America",
+        "category": "commercial.jewelry",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535GH+XQ",
+        "plus_code_short": "35GH+XQ, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.038039379768765,
+          "confidence": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "51346376bb833458c059640fa3d6ea894040f00103f901b98159e302000000c00201920314416e6f746865722054696d65202620506c616365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343034323238353337",
+        "bbox": {
+          "lon1": -96.8205903,
+          "lat1": 33.0774292,
+          "lon2": -96.8204903,
+          "lat2": 33.0775292
+        }
+      }
+    ],
+    "query": {
+      "text": "Another Time & Place Grille"
+    }
+  }
+}

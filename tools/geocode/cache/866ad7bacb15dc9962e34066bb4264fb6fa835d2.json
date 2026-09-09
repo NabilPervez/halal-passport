@@ -1,0 +1,268 @@
+{
+  "queriedName": "Zaika Eats",
+  "queriedAt": "2026-09-09T00:32:23.926Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Too Thai Street Eats",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "district": "New Koreatown",
+        "street": "Old Denton Road",
+        "housenumber": "2540",
+        "iso3166_2": "US-TX",
+        "lon": -96.9078826,
+        "lat": 32.9820574,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 25042.353882696865,
+        "formatted": "Too Thai Street Eats, 2540 Old Denton Road, Carrollton, TX 75006, United States of America",
+        "address_line1": "Too Thai Street Eats",
+        "address_line2": "2540 Old Denton Road, Carrollton, TX 75006, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X3JR+RR",
+        "plus_code_short": "X3JR+RR, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.655328078434089,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e0e69ebf1a3a58c059bce58f0eb47d4040f00103f901daab3f4f02000000c00201920314546f6f2054686169205374726565742045617473e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393139353037343138",
+        "bbox": {
+          "lon1": -96.9079326,
+          "lat1": 32.9820074,
+          "lon2": -96.9078326,
+          "lat2": 32.9821074
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "New York Eats",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76010",
+        "street": "Doug Russell Road",
+        "housenumber": "604 B",
+        "iso3166_2": "US-TX",
+        "lon": -97.1132733,
+        "lat": 32.7248925,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30139.540585823503,
+        "formatted": "New York Eats, 604 B Doug Russell Road, Arlington, TX 76010, United States of America",
+        "address_line1": "New York Eats",
+        "address_line2": "604 B Doug Russell Road, Arlington, TX 76010, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVFP+XM",
+        "plus_code_short": "FP+XM, 76010 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.886234921887989,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a4c0a7de3f4758c059cf4e0647c95c4040f00103f901edf4f99b02000000c0020192030d4e657720596f726b2045617473e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131323036373834323337",
+        "bbox": {
+          "lon1": -97.1133233,
+          "lat1": 32.7248425,
+          "lon2": -97.1132233,
+          "lat2": 32.7249425
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dubs Tea n' Eats",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "Custer Road",
+        "housenumber": "3131",
+        "iso3166_2": "US-TX",
+        "lon": -96.7343089,
+        "lat": 33.0399757,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 29821.496047970188,
+        "formatted": "Dubs Tea n' Eats, 3131 Custer Road, Plano, TX 75075, United States of America",
+        "address_line1": "Dubs Tea n' Eats",
+        "address_line2": "3131 Custer Road, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865527Q8+X7",
+        "plus_code_short": "27Q8+X7, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.8464029579540835,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515aaac1eafe2e58c0593e117aec1d854040f00103f901ebb55be802000000c002019203104475627320546561206e272045617473e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343838323539303531",
+        "bbox": {
+          "lon1": -96.7343589,
+          "lat1": 33.0399257,
+          "lon2": -96.7342589,
+          "lat2": 33.0400257
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Guru's Indian Eats",
+        "housenumber": "111",
+        "street": "South Bowen Road",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "76012-4873",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.148875,
+        "lat": 32.734957,
+        "result_type": "amenity",
+        "distance": 33235.35345871687,
+        "formatted": "Guru's Indian Eats, 111 South Bowen Road, Arlington, TX 76012-4873, United States of America",
+        "address_line1": "Guru's Indian Eats",
+        "address_line2": "111 South Bowen Road, Arlington, TX 76012-4873, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVM2+XC",
+        "plus_code_short": "PVM2+XC, 76012-4873 Arlington, United States",
+        "rank": {
+          "popularity": 4.5231957038901305,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514a0c022b874958c059af7b2b12135e4040f00102f90132a9171c00000000c0020192031247757275277320496e6469616e2045617473e203216f70656e7374726565746d61703a76656e75653a7761792f343731333132363930",
+        "bbox": {
+          "lon1": -97.1489521,
+          "lat1": 32.7348934,
+          "lon2": -97.1487979,
+          "lat2": 32.7350212
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Guru's Indian Eats",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76012",
+        "street": "South Bowen Road",
+        "housenumber": "111",
+        "iso3166_2": "US-TX",
+        "lon": -97.148875,
+        "lat": 32.7349573,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33235.348711584404,
+        "formatted": "Guru's Indian Eats, 111 South Bowen Road, Arlington, TX 76012, United States of America",
+        "address_line1": "Guru's Indian Eats",
+        "address_line2": "111 South Bowen Road, Arlington, TX 76012, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVM2+XC",
+        "plus_code_short": "PVM2+XC, 76012 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514a0c022b874958c0596dbaaf14135e4040f00102f90132a9171c00000000c0020192031247757275277320496e6469616e2045617473",
+        "bbox": {
+          "lon1": -97.1489521,
+          "lat1": 32.7348934,
+          "lon2": -97.1487979,
+          "lat2": 32.7350212
+        }
+      }
+    ],
+    "query": {
+      "text": "Zaika Eats"
+    }
+  }
+}

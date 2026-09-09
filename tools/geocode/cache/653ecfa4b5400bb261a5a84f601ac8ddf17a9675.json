@@ -1,0 +1,61 @@
+{
+  "queriedName": "German Doner Kebab",
+  "queriedAt": "2026-09-09T00:34:56.566Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "German Doner Kebab",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75069",
+        "street": "University Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.7711709,
+        "lat": 33.2177077,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 49063.693132961846,
+        "formatted": "German Doner Kebab, University Drive, Frisco, TX 75069, United States of America",
+        "address_line1": "German Doner Kebab",
+        "address_line2": "University Drive, Frisco, TX 75069, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655669H+3G",
+        "plus_code_short": "669H+3G, 75069 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.114359390492341,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511fc830dd5a3158c0592fcb8dd8dd9b4040f00103f901db5c712303000000c002019203124765726d616e20446f6e6572204b65626162",
+        "bbox": {
+          "lon1": -96.7712209,
+          "lat1": 33.2176577,
+          "lon2": -96.7711209,
+          "lat2": 33.2177577
+        }
+      }
+    ],
+    "query": {
+      "text": "German Doner Kebab"
+    }
+  }
+}

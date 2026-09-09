@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
-import type { Restaurant } from "../types";
-import { DFW_CENTER } from "../data/mockRestaurants";
+import type { RestaurantWithSaveState } from "../types";
+import { DFW_CENTER } from "../data/constants";
 
 const JEWEL_HEX: Record<string, string> = {
   emerald: "#12A66B",
@@ -12,11 +12,15 @@ const JEWEL_HEX: Record<string, string> = {
   topaz: "#D89A2C",
 };
 
-const GEOAPIFY_KEY = "c86880aef45241869ec0b977c4126356";
+// Public Geoapify key — restrict it to this app's origin(s) in the Geoapify
+// dashboard rather than relying on secrecy; a client-side map key can't be
+// truly secret. Falls back to the previously-hardcoded key only for local
+// dev convenience if VITE_GEOAPIFY_KEY isn't set.
+const GEOAPIFY_KEY = import.meta.env.VITE_GEOAPIFY_KEY || "c86880aef45241869ec0b977c4126356";
 const MAP_STYLE = `https://maps.geoapify.com/v1/styles/dark-matter/style.json?apiKey=${GEOAPIFY_KEY}`;
 
 interface MapViewProps {
-  restaurants: Restaurant[];
+  restaurants: RestaurantWithSaveState[];
   onOpen: (id: string) => void;
   userLocation?: { lat: number; lng: number } | null;
 }
@@ -36,7 +40,9 @@ export function MapView({ restaurants, onOpen, userLocation }: MapViewProps) {
         style: MAP_STYLE,
         center: [DFW_CENTER.lng, DFW_CENTER.lat],
         zoom: 10,
-        attributionControl: false,
+        // Map data is © OpenStreetMap contributors (ODbL) via Geoapify —
+        // both require attribution, so this must stay on.
+        attributionControl: { compact: true },
       });
       mapRef.current.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
     }
@@ -156,7 +162,7 @@ export function MapView({ restaurants, onOpen, userLocation }: MapViewProps) {
             <div>
               <h3 className="font-display font-semibold text-cream">{active.name}</h3>
               <p className="text-xs text-muted font-body">
-                {active.cuisine} · {active.neighborhood} · {active.pricePoint}
+                {[active.cuisine, active.city, active.pricePoint].filter(Boolean).join(" · ")}
               </p>
             </div>
             <button

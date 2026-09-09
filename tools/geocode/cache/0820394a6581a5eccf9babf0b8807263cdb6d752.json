@@ -1,0 +1,262 @@
+{
+  "queriedName": "The Monk's Irving",
+  "queriedAt": "2026-09-09T00:35:20.329Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Church of the Incarnation",
+        "housenumber": "1809",
+        "street": "Maher Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75062",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.92081,
+        "lat": 32.846167,
+        "result_type": "amenity",
+        "distance": 13893.569113209689,
+        "formatted": "Church of the Incarnation, 1809 Maher Lane, Irving, TX 75062, United States of America",
+        "address_line1": "Church of the Incarnation",
+        "address_line2": "1809 Maher Lane, Irving, TX 75062, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R3WH+FM",
+        "plus_code_short": "R3WH+FM Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.571041803075296,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511bf5108dee3a58c0592bfa43334f6c4040f00102f901aede872100000000c00201920319436875726368206f662074686520496e6361726e6174696f6ee203216f70656e7374726565746d61703a76656e75653a7761792f353632353532343934",
+        "bbox": {
+          "lon1": -96.9212884,
+          "lat1": 32.8459904,
+          "lon2": -96.9207688,
+          "lat2": 32.8463823
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "The Highlands School",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.930089,
+        "lat": 32.848439,
+        "result_type": "amenity",
+        "distance": 14757.928489592057,
+        "postcode": "75062",
+        "formatted": "The Highlands School, Irving, TX 75062, United States of America",
+        "address_line1": "The Highlands School",
+        "address_line2": "Irving, TX 75062, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R3X9+9X",
+        "plus_code_short": "R3X9+9X Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.582966771893607,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a3570394863b58c05952d32ea6996c4040f00102f901cdde872100000000c00201e203216f70656e7374726565746d61703a76656e75653a7761792f353632353532353235",
+        "bbox": {
+          "lon1": -96.9330168,
+          "lat1": 32.8464414,
+          "lon2": -96.9274163,
+          "lat2": 32.8508039
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Highlands School",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "Namur Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.9291157,
+        "lat": 32.8488976,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 14708.979880272744,
+        "formatted": "The Highlands School, Namur Drive, Irving, TX 75062, United States of America",
+        "address_line1": "The Highlands School",
+        "address_line2": "Namur Drive, Irving, TX 75062, United States of America",
+        "category": "education.school",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R3XC+H9",
+        "plus_code_short": "R3XC+H9 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51cf6cb2a1763b58c05992d332ada86c4040f00102f901cdde872100000000c0020192031454686520486967686c616e6473205363686f6f6c",
+        "bbox": {
+          "lon1": -96.9330168,
+          "lat1": 32.8464414,
+          "lon2": -96.9274163,
+          "lat2": 32.8508039
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Sloan School",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "North O'Connor Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.9513398,
+        "lat": 32.848225,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16454.93242483964,
+        "formatted": "The Sloan School, North O'Connor Road, Irving, TX 75062, United States of America",
+        "address_line1": "The Sloan School",
+        "address_line2": "North O'Connor Road, Irving, TX 75062, United States of America",
+        "category": "education.school",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R2XX+7F",
+        "plus_code_short": "R2XX+7F Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.551691535944607,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51861854c0e23c58c059265305a3926c4040f00102f901d852132800000000c0020192031054686520536c6f616e205363686f6f6ce203216f70656e7374726565746d61703a76656e75653a7761792f363732333535303332",
+        "bbox": {
+          "lon1": -96.9520494,
+          "lat1": 32.8478813,
+          "lon2": -96.9506335,
+          "lat2": 32.8485654
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Joint Chiropractic",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "100",
+        "iso3166_2": "US-TX",
+        "lon": -96.9610602,
+        "lat": 32.9015495,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20657.499922545478,
+        "formatted": "The Joint Chiropractic, 100 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "The Joint Chiropractic",
+        "address_line2": "100 North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "healthcare.clinic_or_praxis",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W22Q+JH",
+        "plus_code_short": "W22Q+JH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.654025305671435,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512f1fa402823d58c059d21c59f965734040f00103f901eb5cb9b102000000c00201920316546865204a6f696e7420436869726f70726163746963e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131353731363439373731",
+        "bbox": {
+          "lon1": -96.9611102,
+          "lat1": 32.9014995,
+          "lon2": -96.9610102,
+          "lat2": 32.9015995
+        }
+      }
+    ],
+    "query": {
+      "text": "The Monk's Irving"
+    }
+  }
+}

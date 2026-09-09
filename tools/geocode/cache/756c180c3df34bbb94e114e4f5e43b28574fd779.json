@@ -1,0 +1,63 @@
+{
+  "queriedName": "Baboushi",
+  "queriedAt": "2026-09-09T00:36:37.747Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Baboushi",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75242",
+        "suburb": "Downtown PID",
+        "street": "South Akard Street",
+        "housenumber": "211",
+        "iso3166_2": "US-TX",
+        "lon": -96.8001238,
+        "lat": 32.7794173,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 396.91105910695967,
+        "formatted": "Baboushi, 211 South Akard Street, Dallas, TX 75242, United States of America",
+        "address_line1": "Baboushi",
+        "address_line2": "211 South Akard Street, Dallas, TX 75242, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5HX+QX",
+        "plus_code_short": "HX+QX, 75242 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511470743a353358c059e3b732f2c3634040f00103f901a1c772df02000000c002019203084261626f75736869",
+        "bbox": {
+          "lon1": -96.8001738,
+          "lat1": 32.7793673,
+          "lon2": -96.8000738,
+          "lat2": 32.7794673
+        }
+      }
+    ],
+    "query": {
+      "text": "Baboushi"
+    }
+  }
+}

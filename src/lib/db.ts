@@ -1,12 +1,22 @@
 import { openDB, type IDBPDatabase, type DBSchema } from "idb";
-import type { Restaurant, Review, Meetup } from "../types";
-import { SEED_RESTAURANTS } from "../data/mockRestaurants";
-import mosques from "../data/mosques.json";
+import type {
+  Restaurant,
+  Review,
+  Meetup,
+  UserPlaceState,
+  RestaurantWithSaveState,
+  SaveState,
+} from "../types";
+import restaurantsData from "../data/restaurants.json";
 
 interface SofraDB extends DBSchema {
   restaurants: {
     key: string;
     value: Restaurant;
+  };
+  userPlaceState: {
+    key: string;
+    value: UserPlaceState;
     indexes: { "by-saveState": string };
   };
   reviews: {
@@ -22,18 +32,19 @@ interface SofraDB extends DBSchema {
 }
 
 const DB_NAME = "sofra-db";
-const DB_VERSION = 3; // Bumped to force re-seed of expanded restaurant list
+// v4: split per-user save state (wishlist/eaten) out of the restaurant
+// catalog into its own store, so refreshing the catalog with real geocoded
+// data never touches what a user has already saved. See docs/data-pipeline-plan.md.
+const DB_VERSION = 4;
 
 let dbPromise: Promise<IDBPDatabase<SofraDB>> | null = null;
 
 export function getDB() {
   if (!dbPromise) {
     dbPromise = openDB<SofraDB>(DB_NAME, DB_VERSION, {
-      upgrade(db, oldVersion) {
+      async upgrade(db, oldVersion, _newVersion, tx) {
         if (oldVersion < 1) {
-          const restaurantStore = db.createObjectStore("restaurants", { keyPath: "id" });
-          restaurantStore.createIndex("by-saveState", "saveState");
-
+          db.createObjectStore("restaurants", { keyPath: "id" });
           const reviewStore = db.createObjectStore("reviews", { keyPath: "id" });
           reviewStore.createIndex("by-restaurant", "restaurantId");
         }
@@ -41,58 +52,113 @@ export function getDB() {
           const meetupStore = db.createObjectStore("meetups", { keyPath: "id" });
           meetupStore.createIndex("by-date", "date");
         }
-        // v3: no schema changes — just triggers re-seed of expanded restaurant list
+        // v3 (legacy): no schema change, just re-seeded the restaurant list.
+        // The v3 "restaurants" store also carried a "by-saveState" index and
+        // saveState/savedAt fields directly on each restaurant record —
+        // both are migrated away below.
+
+        if (oldVersion < 4) {
+          const userPlaceStore = db.createObjectStore("userPlaceState", {
+            keyPath: "placeId",
+          });
+          userPlaceStore.createIndex("by-saveState", "saveState");
+
+          // Preserve every existing user's wishlist/eaten state before the
+          // restaurant store gets wiped and re-seeded with real data below.
+          if (oldVersion >= 1 && oldVersion < 4) {
+            const oldRestaurants = tx.objectStore("restaurants");
+            // oldVersion < 4 store may still have the legacy "by-saveState"
+            // index; getAll() works regardless of which indexes exist.
+            const legacyRows = (await oldRestaurants.getAll()) as Array<
+              Restaurant & { saveState?: SaveState; savedAt?: number }
+            >;
+            for (const row of legacyRows) {
+              if (row.saveState && row.saveState !== "none") {
+                await userPlaceStore.put({
+                  placeId: row.id,
+                  saveState: row.saveState,
+                  savedAt: row.savedAt ?? Date.now(),
+                });
+              }
+            }
+          }
+
+          // Wipe and let syncCatalog() below re-seed with real geocoded
+          // data on next load — the old store may have a stale keyPath
+          // ("by-saveState" index) we don't want to carry forward.
+          const restaurantStore = tx.objectStore("restaurants");
+          await restaurantStore.clear();
+        }
       },
     });
   }
   return dbPromise;
 }
 
-export async function seedIfEmpty(): Promise<void> {
+/**
+ * Replaces the restaurant catalog wholesale with the bundled, geocoded
+ * dataset. Safe to call on every launch — user save state lives in a
+ * separate store this never touches.
+ */
+export async function syncCatalog(): Promise<void> {
   const db = await getDB();
+  const catalog = restaurantsData as unknown as Restaurant[];
 
-  // Upsert any SEED_RESTAURANTS that are not yet in the DB so newly added
-  // restaurants always appear, while preserving save-state on existing ones.
-  const existingKeys = new Set(await db.getAllKeys("restaurants"));
-  const missing = SEED_RESTAURANTS.filter((r) => !existingKeys.has(r.id));
-  if (missing.length > 0) {
-    const tx = db.transaction("restaurants", "readwrite");
-    await Promise.all([...missing.map((r) => tx.store.put(r)), tx.done]);
+  const existingCount = await db.count("restaurants");
+  if (existingCount === catalog.length) {
+    // Cheap check to avoid rewriting all rows on every launch once seeded.
+    // A real version bump (DB_VERSION) still forces a full re-seed via the
+    // upgrade handler's store.clear() above.
+    return;
   }
-  
-  // Ensure mosques are seeded
-  for (const m of mosques) {
-    const existing = await db.get("restaurants", m.id);
-    if (!existing) {
-      await db.put("restaurants", m as Restaurant);
-    }
-  }
-  
+
+  const tx = db.transaction("restaurants", "readwrite");
+  await Promise.all([...catalog.map((r) => tx.store.put(r)), tx.done]);
+
   const meetupCount = await db.count("meetups");
   if (meetupCount === 0) {
-    // Find Shami's or just use r1 if not found
-    const restaurants = await getAllRestaurants();
-    const shami = restaurants.find(r => r.name.toLowerCase().includes("shami")) || restaurants[0];
-    
-    await db.put("meetups", {
-      id: "m1",
-      title: "Shami's after Qalam Institute (mosque) after magrib",
-      restaurantId: shami.id,
-      date: new Date(Date.now() + 86400000 * 2).toISOString(), // 2 days from now
-      organizer: "Nabil",
-      attendees: 12,
-    });
+    const shami =
+      catalog.find((r) => r.name.toLowerCase().includes("shami")) ?? catalog[0];
+    if (shami) {
+      await db.put("meetups", {
+        id: "m1",
+        title: "Shami's after Qalam Institute (mosque) after magrib",
+        restaurantId: shami.id,
+        date: new Date(Date.now() + 86400000 * 2).toISOString(),
+        organizer: "Nabil",
+        attendees: 12,
+      });
+    }
   }
 }
 
-export async function getAllRestaurants(): Promise<Restaurant[]> {
+export async function getAllRestaurantsWithState(): Promise<RestaurantWithSaveState[]> {
   const db = await getDB();
-  return db.getAll("restaurants");
+  const [restaurants, userStates] = await Promise.all([
+    db.getAll("restaurants"),
+    db.getAll("userPlaceState"),
+  ]);
+  const stateByPlace = new Map(userStates.map((s) => [s.placeId, s]));
+  return restaurants.map((r) => {
+    const state = stateByPlace.get(r.id);
+    return {
+      ...r,
+      saveState: state?.saveState ?? "none",
+      savedAt: state?.savedAt,
+    };
+  });
 }
 
-export async function putRestaurant(restaurant: Restaurant): Promise<void> {
+export async function setUserPlaceState(
+  placeId: string,
+  saveState: SaveState
+): Promise<void> {
   const db = await getDB();
-  await db.put("restaurants", restaurant);
+  if (saveState === "none") {
+    await db.delete("userPlaceState", placeId);
+    return;
+  }
+  await db.put("userPlaceState", { placeId, saveState, savedAt: Date.now() });
 }
 
 export async function getAllReviews(): Promise<Review[]> {

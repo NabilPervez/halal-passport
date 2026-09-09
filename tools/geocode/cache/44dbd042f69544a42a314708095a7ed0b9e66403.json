@@ -1,0 +1,266 @@
+{
+  "queriedName": "Deccan Grill Frisco",
+  "queriedAt": "2026-09-09T00:39:21.207Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Frisco",
+        "other_names": {
+          "name:ko": "프리스코",
+          "name:sr": "Фриско"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.8238183,
+        "lat": 33.1505998,
+        "state_code": "TX",
+        "result_type": "city",
+        "distance": 41617.73522700352,
+        "formatted": "Frisco, TX, United States of America",
+        "address_line1": "Frisco, TX",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655552G+6F",
+        "plus_code_short": "+6F Frisco, Collin County, United States",
+        "rank": {
+          "importance": 0.5745736435028687,
+          "popularity": 4.177810950086043,
+          "confidence": 0.25,
+          "confidence_city_level": 1,
+          "match_type": "match_by_city_or_disrict"
+        },
+        "place_id": "512a166470b93458c0595fe4afda46934040f00101f9019166640000000000c0020892030646726973636f",
+        "bbox": {
+          "lon1": -96.9227866,
+          "lat1": 33.0810976,
+          "lon2": -96.7327675,
+          "lat2": 33.219578
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Fadi's Mediterranean Grill",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.807192,
+        "lat": 33.10189,
+        "result_type": "amenity",
+        "postcode": "75024",
+        "formatted": "Fadi's Mediterranean Grill, Frisco, TX 75024, United States of America",
+        "address_line1": "Fadi's Mediterranean Grill",
+        "address_line2": "Frisco, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655452V+Q4",
+        "plus_code_short": "452V+Q4, 75024 Frisco, United States",
+        "rank": {
+          "popularity": 4.948303933346839,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f165a208a93358c0590ce544bb0a8d4040f00103f9014e9844ea02000000c0020192031a466164692773204d65646974657272616e65616e204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132353230323938353734"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fadi's Mediterranean Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "housenumber": "2787",
+        "iso3166_2": "US-TX",
+        "lon": -96.8071924,
+        "lat": 33.1018897,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "formatted": "Fadi's Mediterranean Grill, 2787 Preston Road, Frisco, TX 75024, United States of America",
+        "address_line1": "Fadi's Mediterranean Grill",
+        "address_line2": "2787 Preston Road, Frisco, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655452V+Q4",
+        "plus_code_short": "452V+Q4, 75024 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "511be54f0aa93358c0594ea6c0b80a8d4040f00103f9014e9844ea02000000c0020192031a466164692773204d65646974657272616e65616e204772696c6c",
+        "bbox": {
+          "lon1": -96.8072424,
+          "lat1": 33.1018397,
+          "lon2": -96.8071424,
+          "lat2": 33.1019397
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Roti Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "suburb": "Dallas Cowboys & Frisco Multi Event Center",
+        "street": "Gaylord Parkway",
+        "housenumber": "3675",
+        "iso3166_2": "US-TX",
+        "lon": -96.8270006,
+        "lat": 33.1083094,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "formatted": "Roti Grill, 3675 Gaylord Parkway, Dallas Cowboys & Frisco Multi Event Center, Frisco, TX 75034, United States of America",
+        "address_line1": "Roti Grill",
+        "address_line2": "3675 Gaylord Parkway, Dallas Cowboys & Frisco Multi Event Center, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655455F+85",
+        "plus_code_short": "455F+85, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.874327520717193,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516fb1ec93ed3458c059b96c1915dd8d4040f00103f9017453fcfa01000000c0020192030a526f7469204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f38353035383037373332",
+        "bbox": {
+          "lon1": -96.8270506,
+          "lat1": 33.1082594,
+          "lon2": -96.8269506,
+          "lat2": 33.1083594
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Little Greek Fresh Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Preston Road",
+        "housenumber": "4710",
+        "iso3166_2": "US-TX",
+        "lon": -96.8046887,
+        "lat": 33.1176887,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "formatted": "Little Greek Fresh Grill, 4710 Preston Road, Frisco, TX 75034, United States of America",
+        "address_line1": "Little Greek Fresh Grill",
+        "address_line2": "4710 Preston Road, Frisco, TX 75034, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655459W+34",
+        "plus_code_short": "459W+34, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.779291241851263,
+          "confidence": 0,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517d7d0805803358c059eccd5e6c108f4040f00103f901d163fb8802000000c002019203184c6974746c6520477265656b204672657368204772696c6ce203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383838313131303537",
+        "bbox": {
+          "lon1": -96.8047387,
+          "lat1": 33.1176387,
+          "lon2": -96.8046387,
+          "lat2": 33.1177387
+        }
+      }
+    ],
+    "query": {
+      "text": "Deccan Grill Frisco",
+      "parsed": {
+        "house": "deccan grill",
+        "city": "frisco",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "queriedName": "Fattoush Restaurant",
+  "queriedAt": "2026-09-09T00:41:50.693Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Fattoush Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Pantego",
+        "postcode": "76013",
+        "street": "West Park Row Drive",
+        "iso3166_2": "US-TX",
+        "lon": -97.1460385,
+        "lat": 32.7203223,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 33245.170802152905,
+        "formatted": "Fattoush Restaurant, West Park Row Drive, Pantego, TX 76013, United States of America",
+        "address_line1": "Fattoush Restaurant",
+        "address_line2": "West Park Row Drive, Pantego, TX 76013, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVC3+4H",
+        "plus_code_short": "C3+4H Pantego, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.4176922962640495,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513e5dddb1584958c0592d8a6885335c4040f00103f901a6f6217602000000c00201920313466174746f7573682052657374617572616e74",
+        "bbox": {
+          "lon1": -97.1460885,
+          "lat1": 32.7202723,
+          "lon2": -97.1459885,
+          "lat2": 32.7203723
+        }
+      }
+    ],
+    "query": {
+      "text": "Fattoush Restaurant"
+    }
+  }
+}

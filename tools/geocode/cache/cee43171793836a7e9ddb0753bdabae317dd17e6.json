@@ -1,0 +1,269 @@
+{
+  "queriedName": "Dimassi’s Mediterranean Buffet",
+  "queriedAt": "2026-09-09T00:39:39.420Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dimassi's Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Mesquite",
+        "postcode": "75150",
+        "street": "Towne Crossing Boulevard",
+        "housenumber": "3700",
+        "iso3166_2": "US-TX",
+        "lon": -96.6294016,
+        "lat": 32.8152028,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 16231.317622443232,
+        "formatted": "Dimassi's Mediterranean Buffet, 3700 Towne Crossing Boulevard, Mesquite, TX 75150, United States of America",
+        "address_line1": "Dimassi's Mediterranean Buffet",
+        "address_line2": "3700 Towne Crossing Boulevard, Mesquite, TX 75150, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R98C+36",
+        "plus_code_short": "R98C+36, 75150 Mesquite, United States",
+        "rank": {
+          "importance": 0.000058079652094255246,
+          "popularity": 4.269005584406107,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "513403a61d482858c059c7cdba9058684040f00102f901e21fc91c00000000c0020192031e44696d617373692773204d65646974657272616e65616e20427566666574",
+        "bbox": {
+          "lon1": -96.6295888,
+          "lat1": 32.8150485,
+          "lon2": -96.6292144,
+          "lat2": 32.8152772
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dimassi's Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "West Royal Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.9608667,
+        "lat": 32.8971012,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20315.864473605994,
+        "formatted": "Dimassi's Mediterranean Buffet, West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Dimassi's Mediterranean Buffet",
+        "address_line2": "West Royal Lane, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WQ+RM",
+        "plus_code_short": "V2WQ+RM Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.605744352143677,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5130140bd77e3d58c059e7994d36d4724040f00103f90175369a3901000000c0020192031e44696d617373692773204d65646974657272616e65616e20427566666574",
+        "bbox": {
+          "lon1": -96.9609167,
+          "lat1": 32.8970512,
+          "lon2": -96.9608167,
+          "lat2": 32.8971512
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dimassi's Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Campbell Road",
+        "housenumber": "180",
+        "iso3166_2": "US-TX",
+        "lon": -96.7196728,
+        "lat": 32.9759534,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23271.405958532203,
+        "formatted": "Dimassi's Mediterranean Buffet, 180 West Campbell Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Dimassi's Mediterranean Buffet",
+        "address_line2": "180 West Campbell Road, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7GJ+94",
+        "plus_code_short": "X7GJ+94 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.562505246774528,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5187f4801e0f2e58c059c3b57f0aec7c4040f00102f901fa775d1700000000c0020192031e44696d617373692773204d65646974657272616e65616e20427566666574",
+        "bbox": {
+          "lon1": -96.7198193,
+          "lat1": 32.9758209,
+          "lon2": -96.7195264,
+          "lat2": 32.9760859
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dimassi's Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "State Highway 121",
+        "housenumber": "4940",
+        "iso3166_2": "US-TX",
+        "lon": -96.8030168,
+        "lat": 33.0967529,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 35559.38286425939,
+        "formatted": "Dimassi's Mediterranean Buffet, 4940 State Highway 121, Plano, TX 75024, United States of America",
+        "address_line1": "Dimassi's Mediterranean Buffet",
+        "address_line2": "4940 State Highway 121, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535WW+PQ",
+        "plus_code_short": "35WW+PQ, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.003592083905867,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51de8893a0643358c05986a52666628c4040f00102f90172a9780f00000000c0020192031e44696d617373692773204d65646974657272616e65616e20427566666574",
+        "bbox": {
+          "lon1": -96.8032448,
+          "lat1": 33.0966058,
+          "lon2": -96.8027888,
+          "lat2": 33.0969451
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dimassi's Mediterranean Buffet",
+        "other_names": {
+          "addr:housename": "B3200"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75002",
+        "street": "East Stacy Road",
+        "housenumber": "190",
+        "iso3166_2": "US-TX",
+        "lon": -96.6607529,
+        "lat": 33.1269534,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 40937.056587386294,
+        "formatted": "Dimassi's Mediterranean Buffet, 190 East Stacy Road, Allen, TX 75002, United States of America",
+        "address_line1": "Dimassi's Mediterranean Buffet",
+        "address_line2": "190 East Stacy Road, Allen, TX 75002, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865548GQ+QM",
+        "plus_code_short": "48GQ+QM Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.686370047195168,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512e0f88c6492a58c059d98e4e0240904040f00102f90160a0091100000000c0020192031e44696d617373692773204d65646974657272616e65616e20427566666574",
+        "bbox": {
+          "lon1": -96.6609173,
+          "lat1": 33.1267906,
+          "lon2": -96.6605642,
+          "lat2": 33.1270942
+        }
+      }
+    ],
+    "query": {
+      "text": "Dimassi’s Mediterranean Buffet"
+    }
+  }
+}

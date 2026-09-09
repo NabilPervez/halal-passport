@@ -1,0 +1,275 @@
+{
+  "queriedName": "Zaiqa House",
+  "queriedAt": "2026-09-09T00:44:57.674Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sapa House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1623",
+        "iso3166_2": "US-TX",
+        "lon": -96.7973562,
+        "lat": 32.7814205,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 492.66458728987044,
+        "formatted": "Sapa House, 1623 Main Street, Dallas, TX 75201, United States of America",
+        "address_line1": "Sapa House",
+        "address_line2": "1623 Main Street, Dallas, TX 75201, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J3+H3",
+        "plus_code_short": "J3+H3, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d2904ce2073358c05945f6419605644040f00103f901361e5b8300000000c0020192030a5361706120486f757365e203236f70656e7374726565746d61703a76656e75653a6e6f64652f32323033373836383036",
+        "bbox": {
+          "lon1": -96.7974062,
+          "lat1": 32.7813705,
+          "lon2": -96.7973062,
+          "lat2": 32.7814705
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Kovandovitch House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75203",
+        "district": "Tenth Street Historic District",
+        "street": "Eads Avenue",
+        "housenumber": "523",
+        "iso3166_2": "US-TX",
+        "lon": -96.8085158,
+        "lat": 32.7546763,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Lake Cliff",
+        "result_type": "amenity",
+        "distance": 2705.7627705994396,
+        "formatted": "Kovandovitch House, 523 Eads Avenue, Dallas, TX 75203, United States of America",
+        "address_line1": "Kovandovitch House",
+        "address_line2": "523 Eads Avenue, Dallas, TX 75203, United States of America",
+        "category": "building.residential",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q53R+VH",
+        "plus_code_short": "Q53R+VH, 75203 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.1824733582245806,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5127d30db9be3358c0597cc8a53b99604040f00102f901d8e3bb1b00000000c002019203124b6f76616e646f766974636820486f757365e203216f70656e7374726565746d61703a76656e75653a7761792f343635323938333932",
+        "bbox": {
+          "lon1": -96.8085821,
+          "lat1": 32.7546011,
+          "lon2": -96.8084497,
+          "lat2": 32.7547377
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Aldredge House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "Swiss Avenue Historic District",
+        "street": "Swiss Avenue",
+        "iso3166_2": "US-TX",
+        "lon": -96.7641,
+        "lat": 32.80641,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Junius Heights",
+        "result_type": "amenity",
+        "distance": 4489.128606887886,
+        "formatted": "Aldredge House, Swiss Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Aldredge House",
+        "address_line2": "Swiss Avenue, Dallas, TX 75206, United States of America",
+        "category": "tourism.sights.memorial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R64P+H9",
+        "plus_code_short": "R64P+H9, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.406457097972805,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e9b7af03e73058c0596c95607138674040f00103f901e7a44fe302000000c0020192030e416c64726564676520486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343033353832313833",
+        "bbox": {
+          "lon1": -96.76415,
+          "lat1": 32.80636,
+          "lon2": -96.76405,
+          "lat2": 32.80646
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "DeGolyer House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "East Lawther Drive",
+        "iso3166_2": "US-TX",
+        "lon": -96.7175,
+        "lat": 32.82294,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "East Dallas",
+        "result_type": "amenity",
+        "distance": 9017.141169687653,
+        "formatted": "DeGolyer House, East Lawther Drive, Dallas, TX 75218, United States of America",
+        "address_line1": "DeGolyer House",
+        "address_line2": "East Lawther Drive, Dallas, TX 75218, United States of America",
+        "category": "tourism.sights.memorial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7FJ+5X",
+        "plus_code_short": "R7FJ+5X, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.585349456550994,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5152b81e85eb2d58c059fe48111956694040f00103f901f8a44fe302000000c0020192030e4465476f6c79657220486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343033353832323030",
+        "bbox": {
+          "lon1": -96.71755,
+          "lat1": 32.82289,
+          "lon2": -96.71745,
+          "lat2": 32.82299
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Caruth House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75225",
+        "street": "Cornerstone Parkway",
+        "iso3166_2": "US-TX",
+        "lon": -96.77441,
+        "lat": 32.86091,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Vickery Meadows",
+        "result_type": "amenity",
+        "distance": 9566.198448486051,
+        "formatted": "Caruth House, Cornerstone Parkway, Dallas, TX 75225, United States of America",
+        "address_line1": "Caruth House",
+        "address_line2": "Cornerstone Parkway, Dallas, TX 75225, United States of America",
+        "category": "tourism.sights.memorial",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V66G+96",
+        "plus_code_short": "V66G+96, 75225 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.542659341094368,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5181ecf5ee8f3158c0595166834c326e4040f00103f90132a54fe302000000c0020192030c43617275746820486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343033353832323538",
+        "bbox": {
+          "lon1": -96.77446,
+          "lat1": 32.86086,
+          "lon2": -96.77436,
+          "lat2": 32.86096
+        }
+      }
+    ],
+    "query": {
+      "text": "Zaiqa House"
+    }
+  }
+}

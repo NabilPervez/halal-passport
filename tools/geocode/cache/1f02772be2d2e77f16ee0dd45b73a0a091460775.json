@@ -1,0 +1,256 @@
+{
+  "queriedName": "Wave Bowl",
+  "queriedAt": "2026-09-09T00:39:42.313Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Cotton Bowl Plaza",
+        "street": "Cotton Bowl Plaza",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Wheatley Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.761076,
+        "lat": 32.778593,
+        "result_type": "street",
+        "distance": 3363.2100485218716,
+        "postcode": "75210",
+        "formatted": "Cotton Bowl Plaza, Dallas, TX 75210, United States of America",
+        "address_line1": "Cotton Bowl Plaza",
+        "address_line2": "Dallas, TX 75210, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6HQ+CH",
+        "plus_code_short": "Q6HQ+CH, 75210 Dallas, United States",
+        "rank": {
+          "popularity": 5.385076264555906,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5150711c78b53058c05980f277efa8634040c00204920311436f74746f6e20426f776c20506c617a61e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353336363238",
+        "bbox": {
+          "lon1": -96.761519,
+          "lat1": 32.778203,
+          "lon2": -96.760616,
+          "lat2": 32.778969
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Cotton Bowl Circle",
+        "street": "Cotton Bowl Circle",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Wheatley Place",
+        "iso3166_2": "US-TX",
+        "lon": -96.760792,
+        "lat": 32.780362,
+        "result_type": "street",
+        "distance": 3405.6400469302075,
+        "postcode": "75210",
+        "formatted": "Cotton Bowl Circle, Dallas, TX 75210, United States of America",
+        "address_line1": "Cotton Bowl Circle",
+        "address_line2": "Dallas, TX 75210, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6JQ+4M",
+        "plus_code_short": "Q6JQ+4M, 75210 Dallas, United States",
+        "rank": {
+          "popularity": 5.384181518101723,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51bdc3edd0b03058c0594485eae6e2634040c00204920312436f74746f6e20426f776c20436972636c65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353338383539",
+        "bbox": {
+          "lon1": -96.760953,
+          "lat1": 32.778338,
+          "lon2": -96.758042,
+          "lat2": 32.780758
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Wave Rock Street",
+        "street": "Wave Rock Street",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.754508,
+        "lat": 33.011785,
+        "result_type": "street",
+        "distance": 26406.668611536636,
+        "postcode": "75075",
+        "formatted": "Wave Rock Street, Plano, TX 75075, United States of America",
+        "address_line1": "Wave Rock Street",
+        "address_line2": "Plano, TX 75075, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655266W+P5",
+        "plus_code_short": "266W+P5, 75075 Plano, United States",
+        "rank": {
+          "popularity": 4.8406246726637665,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518124ecdb493058c059accabe2b82814040c002049203105761766520526f636b20537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343134393636",
+        "bbox": {
+          "lon1": -96.754841,
+          "lat1": 33.011757,
+          "lon2": -96.754173,
+          "lat2": 33.011785
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Rogue Wave Drive",
+        "street": "Rogue Wave Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.919095,
+        "lat": 33.139687,
+        "result_type": "street",
+        "distance": 41906.9639793665,
+        "postcode": "75036",
+        "formatted": "Rogue Wave Drive, Frisco, TX 75036, United States of America",
+        "address_line1": "Rogue Wave Drive",
+        "address_line2": "Frisco, TX 75036, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865543QJ+V9",
+        "plus_code_short": "43QJ+V9, 75036 Frisco, United States",
+        "rank": {
+          "popularity": 3.2004882109059403,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2bad573d23a58c05993567c43e1914040c00204920310526f6775652057617665204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343131333632",
+        "bbox": {
+          "lon1": -96.919536,
+          "lat1": 33.139628,
+          "lon2": -96.918653,
+          "lat2": 33.139753
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Heat Wave Lane",
+        "street": "Heat Wave Lane",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "iso3166_2": "US-TX",
+        "lon": -96.516973,
+        "lat": 33.142184,
+        "result_type": "street",
+        "distance": 48285.31814905135,
+        "postcode": "75407",
+        "formatted": "Heat Wave Lane, Collin County, TX 75407, United States of America",
+        "address_line1": "Heat Wave Lane",
+        "address_line2": "Collin County, TX 75407, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554FRM+V6",
+        "rank": {
+          "popularity": 2.756993415915956,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518ffaeb15162158c059da01d71533924040c0020492030e486561742057617665204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343033313034",
+        "bbox": {
+          "lon1": -96.518516,
+          "lat1": 33.14045,
+          "lon2": -96.516288,
+          "lat2": 33.143651
+        }
+      }
+    ],
+    "query": {
+      "text": "Wave Bowl"
+    }
+  }
+}

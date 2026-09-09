@@ -1,0 +1,62 @@
+{
+  "queriedName": "s & Juice",
+  "queriedAt": "2026-09-09T00:45:12.739Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Base Smoothies + Juice",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75072",
+        "street": "Custer Road",
+        "housenumber": "11625",
+        "iso3166_2": "US-TX",
+        "lon": -96.7335037,
+        "lat": 33.1729301,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 44422.12892595697,
+        "formatted": "Base Smoothies + Juice, 11625 Custer Road, Frisco, TX 75072, United States of America",
+        "address_line1": "Base Smoothies + Juice",
+        "address_line2": "11625 Custer Road, Frisco, TX 75072, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865557F8+5H",
+        "plus_code_short": "57F8+5H, 75072 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.508275238277976,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51aebf80b9f12e58c0593cffd19222964040f00103f90125b68f2b03000000c002019203164261736520536d6f6f7468696573202b204a75696365",
+        "bbox": {
+          "lon1": -96.7335537,
+          "lat1": 33.1728801,
+          "lon2": -96.7334537,
+          "lat2": 33.1729801
+        }
+      }
+    ],
+    "query": {
+      "text": "s & Juice"
+    }
+  }
+}

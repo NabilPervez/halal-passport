@@ -1,0 +1,62 @@
+{
+  "queriedName": "Tutto Italian Kitchen",
+  "queriedAt": "2026-09-09T00:32:30.116Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tutto Italian Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Eldorado Parkway",
+        "housenumber": "4150",
+        "iso3166_2": "US-TX",
+        "lon": -96.6709602,
+        "lat": 33.1689293,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 45138.77330676383,
+        "formatted": "Tutto Italian Kitchen, 4150 Eldorado Parkway, McKinney, TX 75070, United States of America",
+        "address_line1": "Tutto Italian Kitchen",
+        "address_line2": "4150 Eldorado Parkway, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655589H+HJ",
+        "plus_code_short": "589H+HJ McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.569730656792369,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51bafa0c03f12a58c059086bad799f954040f00103f90149a9262603000000c00201920315547574746f204974616c69616e204b69746368656e",
+        "bbox": {
+          "lon1": -96.6710102,
+          "lat1": 33.1688793,
+          "lon2": -96.6709102,
+          "lat2": 33.1689793
+        }
+      }
+    ],
+    "query": {
+      "text": "Tutto Italian Kitchen"
+    }
+  }
+}

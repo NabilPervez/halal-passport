@@ -1,0 +1,66 @@
+{
+  "queriedName": "Lammie Q BBQ",
+  "queriedAt": "2026-09-09T00:34:50.624Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cousin’s BBQ",
+        "other_names": {
+          "alt_name": "Cousins Bar-B-Q"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Dallas",
+        "postcode": "75261",
+        "street": "Terminal B",
+        "housenumber": "2141",
+        "iso3166_2": "US-TX",
+        "lon": -97.0444394,
+        "lat": 32.9029354,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27027.566299449114,
+        "formatted": "Cousin’s BBQ, 2141 Terminal B, Dallas, TX 75261, United States of America",
+        "address_line1": "Cousin’s BBQ",
+        "address_line2": "2141 Terminal B, Dallas, TX 75261, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WX34+56",
+        "plus_code_short": "WX34+56, 75261 Dallas, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.224274368037322,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d9695a18d84258c05949b31e6393734040f00103f9019e9448ad01000000c0020192030e436f7573696ee280997320424251e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37323032313832333032",
+        "bbox": {
+          "lon1": -97.0444894,
+          "lat1": 32.9028854,
+          "lon2": -97.0443894,
+          "lat2": 32.9029854
+        }
+      }
+    ],
+    "query": {
+      "text": "Lammie Q BBQ"
+    }
+  }
+}

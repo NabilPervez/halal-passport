@@ -1,0 +1,113 @@
+{
+  "queriedName": "Mogio's Gourmet Pizza",
+  "queriedAt": "2026-09-09T00:34:04.441Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mogio's Gourmet Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Murphy",
+        "postcode": "75094",
+        "street": "West FM 544",
+        "housenumber": "158",
+        "iso3166_2": "US-TX",
+        "lon": -96.6162103,
+        "lat": 33.0102027,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 30941.089325588768,
+        "formatted": "Mogio's Gourmet Pizza, 158 West FM 544, Murphy, TX 75094, United States of America",
+        "address_line1": "Mogio's Gourmet Pizza",
+        "address_line2": "158 West FM 544, Murphy, TX 75094, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655296M+3G",
+        "plus_code_short": "6M+3G, 75094 Murphy, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.047988516774209,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51567d53fd6f2758c0595b6a73524e814040f00103f9019180260d01000000c002019203154d6f67696f277320476f75726d65742050697a7a61",
+        "bbox": {
+          "lon1": -96.6162603,
+          "lat1": 33.0101527,
+          "lon2": -96.6161603,
+          "lat2": 33.0102527
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mogio's Gourmet Pizza",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Rockwall County",
+        "city": "Rockwall",
+        "postcode": "75087",
+        "street": "North Goliad Street",
+        "housenumber": "3084",
+        "iso3166_2": "US-TX",
+        "lon": -96.4626683,
+        "lat": 32.9651158,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37582.91475485845,
+        "formatted": "Mogio's Gourmet Pizza, 3084 North Goliad Street, Rockwall, TX 75087, United States of America",
+        "address_line1": "Mogio's Gourmet Pizza",
+        "address_line2": "3084 North Goliad Street, Rockwall, TX 75087, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645XG8P+2W",
+        "plus_code_short": "XG8P+2W Rockwall, Rockwall County, United States",
+        "rank": {
+          "importance": 0.0000578355077439081,
+          "popularity": 3.23103436212947,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515759805b9c1d58c0592bed1eea887b4040f00103f90161544a0d01000000c002019203154d6f67696f277320476f75726d65742050697a7a61",
+        "bbox": {
+          "lon1": -96.4627183,
+          "lat1": 32.9650658,
+          "lon2": -96.4626183,
+          "lat2": 32.9651658
+        }
+      }
+    ],
+    "query": {
+      "text": "Mogio's Gourmet Pizza"
+    }
+  }
+}

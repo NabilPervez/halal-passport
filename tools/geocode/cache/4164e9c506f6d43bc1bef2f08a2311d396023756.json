@@ -1,0 +1,274 @@
+{
+  "queriedName": "Noorsha Express",
+  "queriedAt": "2026-09-09T00:33:27.130Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Italia Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "district": "Oak Lawn",
+        "street": "Cedar Springs Road",
+        "housenumber": "4000",
+        "iso3166_2": "US-TX",
+        "lon": -96.8111301,
+        "lat": 32.8111287,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Oak Lawn",
+        "result_type": "amenity",
+        "distance": 4018.216985773278,
+        "formatted": "Italia Express, 4000 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "address_line1": "Italia Express",
+        "address_line2": "4000 Cedar Springs Road, Dallas, TX 75219, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R56Q+FG",
+        "plus_code_short": "R56Q+FG, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.115755277856817,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514713398ee93358c0596aacb310d3674040f00103f901912bf75902000000c0020192030e4974616c69612045787072657373e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130303939333035333631",
+        "bbox": {
+          "lon1": -96.8111801,
+          "lat1": 32.8110787,
+          "lon2": -96.8110801,
+          "lat2": 32.8111787
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Panda Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "Dallas Fort Worth Turnpike",
+        "housenumber": "4390",
+        "iso3166_2": "US-TX",
+        "lon": -96.8988135,
+        "lat": 32.7652351,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Turnpike Distribution Center",
+        "result_type": "amenity",
+        "distance": 9608.749134296224,
+        "formatted": "Panda Express, 4390 Dallas Fort Worth Turnpike, Dallas, TX 75211, United States of America",
+        "address_line1": "Panda Express",
+        "address_line2": "4390 Dallas Fort Worth Turnpike, Dallas, TX 75211, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q482+3F",
+        "plus_code_short": "Q482+3F, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.377254345495039,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5103ed0e29863958c0592a204839f3614040f00103f901319bc3c600000000c0020192030d50616e64612045787072657373e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33333334373038303137",
+        "bbox": {
+          "lon1": -96.8988635,
+          "lat1": 32.7651851,
+          "lon2": -96.8987635,
+          "lat2": 32.7652851
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Panda Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75228",
+        "street": "East R L Thornton Freeway",
+        "housenumber": "8950",
+        "iso3166_2": "US-TX",
+        "lon": -96.6899572,
+        "lat": 32.795282,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 10210.91984262347,
+        "formatted": "Panda Express, 8950 East R L Thornton Freeway, Dallas, TX 75228, United States of America",
+        "address_line1": "Panda Express",
+        "address_line2": "8950 East R L Thornton Freeway, Dallas, TX 75228, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q8W6+42",
+        "plus_code_short": "Q8W6+42, 75228 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.446637725476537,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f1683e42282c58c0597a8cf2cccb654040f00102f901d3161d2800000000c0020192030d50616e64612045787072657373e203216f70656e7374726565746d61703a76656e75653a7761792f363732393935303237",
+        "bbox": {
+          "lon1": -96.6900251,
+          "lat1": 32.7951832,
+          "lon2": -96.6898893,
+          "lat2": 32.7953807
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Panda Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "South Plano Road",
+        "housenumber": "507",
+        "iso3166_2": "US-TX",
+        "lon": -96.6994274,
+        "lat": 32.9421087,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20496.883291965947,
+        "formatted": "Panda Express, 507 South Plano Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Panda Express",
+        "address_line2": "507 South Plano Road, Richardson, TX 75081, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W8R2+R6",
+        "plus_code_short": "W8R2+R6 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.825805677929949,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51493b246bc32c58c05977e3930497784040f00102f901d0bac21f00000000c0020192030d50616e64612045787072657373e203216f70656e7374726565746d61703a76656e75653a7761792f353332383535353034",
+        "bbox": {
+          "lon1": -96.6995475,
+          "lat1": 32.9420339,
+          "lon2": -96.6993072,
+          "lat2": 32.9421537
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Watermill Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Carrollton",
+        "postcode": "75006",
+        "street": "East Belt Line Road",
+        "housenumber": "1927",
+        "iso3166_2": "US-TX",
+        "lon": -96.8898263,
+        "lat": 32.9545242,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 21559.800725888705,
+        "formatted": "Watermill Express, 1927 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "address_line1": "Watermill Express",
+        "address_line2": "1927 East Belt Line Road, Carrollton, TX 75006, United States of America",
+        "category": "amenity.drinking_water",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X436+R3",
+        "plus_code_short": "36+R3, 75006 Carrollton, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.897148565460687,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b96702eaf23858c059cb1e57d92d7a4040f00103f901977e34f401000000c0020192031157617465726d696c6c2045787072657373e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333932303438323739",
+        "bbox": {
+          "lon1": -96.8898763,
+          "lat1": 32.9544742,
+          "lon2": -96.8897763,
+          "lat2": 32.9545742
+        }
+      }
+    ],
+    "query": {
+      "text": "Noorsha Express"
+    }
+  }
+}

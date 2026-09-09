@@ -1,0 +1,217 @@
+{
+  "queriedName": "O' Desi aroma",
+  "queriedAt": "2026-09-09T00:39:20.122Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "O'Desi Aroma",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75242",
+        "suburb": "Downtown PID",
+        "street": "South Akard Street",
+        "housenumber": "211",
+        "iso3166_2": "US-TX",
+        "lon": -96.8002984,
+        "lat": 32.7794347,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 410.34486627691643,
+        "formatted": "O'Desi Aroma, 211 South Akard Street, Dallas, TX 75242, United States of America",
+        "address_line1": "O'Desi Aroma",
+        "address_line2": "211 South Akard Street, Dallas, TX 75242, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5HX+QV",
+        "plus_code_short": "HX+QV, 75242 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a2c2c716383358c0590def2884c4634040f00103f901aac772df02000000c0020192030c4f27446573692041726f6d61",
+        "bbox": {
+          "lon1": -96.8003484,
+          "lat1": 32.7793847,
+          "lon2": -96.8002484,
+          "lat2": 32.7794847
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "O'Desi Aroma",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "North MacArthur Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.9581082,
+        "lat": 32.8972538,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20133.619179701764,
+        "formatted": "O'Desi Aroma, North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "O'Desi Aroma",
+        "address_line2": "North MacArthur Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WR+WQ",
+        "plus_code_short": "V2WR+WQ Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.60604292812387,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e2410ea5513d58c0591a9b6736d9724040f00103f901c36ab06202000000c0020192030c4f27446573692041726f6d61",
+        "bbox": {
+          "lon1": -96.9581582,
+          "lat1": 32.8972038,
+          "lon2": -96.9580582,
+          "lat2": 32.8973038
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "O’Desi Aroma",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Parkwood Boulevard",
+        "housenumber": "8448",
+        "iso3166_2": "US-TX",
+        "lon": -96.8132658,
+        "lat": 33.0911559,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34965.55791799996,
+        "formatted": "O’Desi Aroma, 8448 Parkwood Boulevard, Plano, TX 75024, United States of America",
+        "address_line1": "O’Desi Aroma",
+        "address_line2": "8448 Parkwood Boulevard, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RP+FM",
+        "plus_code_short": "35RP+FM, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 5.141180208095647,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51237dff8b0c3458c05931ab1cffaa8b4040f00103f9018deef91c03000000c0020192030e4fe28099446573692041726f6d61",
+        "bbox": {
+          "lon1": -96.8133158,
+          "lat1": 33.0911059,
+          "lon2": -96.8132158,
+          "lat2": 33.0912059
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "O'Desi Aroma",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "hamlet": "Buckner",
+        "postcode": "75071",
+        "street": "North Hardin Boulevard",
+        "housenumber": "1620",
+        "iso3166_2": "US-TX",
+        "lon": -96.6606765,
+        "lat": 33.2141718,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 50246.37462111264,
+        "formatted": "O'Desi Aroma, 1620 North Hardin Boulevard, McKinney, TX 75071, United States of America",
+        "address_line1": "O'Desi Aroma",
+        "address_line2": "1620 North Hardin Boulevard, McKinney, TX 75071, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655687Q+MP",
+        "plus_code_short": "687Q+MP McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.0674727626178853,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51162f1686482a58c059dc5c46fb699b4040f00103f901f7d7c72c03000000c0020192030c4f27446573692041726f6d61",
+        "bbox": {
+          "lon1": -96.6607265,
+          "lat1": 33.2141218,
+          "lon2": -96.6606265,
+          "lat2": 33.2142218
+        }
+      }
+    ],
+    "query": {
+      "text": "O' Desi aroma"
+    }
+  }
+}

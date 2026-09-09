@@ -1,0 +1,62 @@
+{
+  "queriedName": "Istanbul Cuisine",
+  "queriedAt": "2026-09-09T00:35:34.885Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Istanbul Cuisine",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75022",
+        "street": "Cross Timbers Road",
+        "housenumber": "2911",
+        "iso3166_2": "US-TX",
+        "lon": -97.0744,
+        "lat": 33.0362867,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 38754.08394667407,
+        "formatted": "Istanbul Cuisine, 2911 Cross Timbers Road, Flower Mound, TX 75022, United States of America",
+        "address_line1": "Istanbul Cuisine",
+        "address_line2": "2911 Cross Timbers Road, Flower Mound, TX 75022, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542WPG+G6",
+        "plus_code_short": "2WPG+G6 Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.639370465137013,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51a2b437f8c24458c059cfe3e60aa5844040f00103f9018628740603000000c00201920310497374616e62756c2043756973696e65",
+        "bbox": {
+          "lon1": -97.07445,
+          "lat1": 33.0362367,
+          "lon2": -97.07435,
+          "lat2": 33.0363367
+        }
+      }
+    ],
+    "query": {
+      "text": "Istanbul Cuisine"
+    }
+  }
+}

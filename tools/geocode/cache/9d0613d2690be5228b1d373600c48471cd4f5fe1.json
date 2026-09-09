@@ -1,0 +1,262 @@
+{
+  "queriedName": "Tandoori Flame",
+  "queriedAt": "2026-09-09T00:42:27.749Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Flame Birch Lane",
+        "street": "Flame Birch Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Oak Lawn",
+        "iso3166_2": "US-TX",
+        "lon": -96.828326,
+        "lat": 32.809049,
+        "result_type": "street",
+        "distance": 4612.384461749843,
+        "postcode": "75219",
+        "formatted": "Flame Birch Lane, Dallas, TX 75219, United States of America",
+        "address_line1": "Flame Birch Lane",
+        "address_line2": "Dallas, TX 75219, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R55C+JM",
+        "plus_code_short": "R55C+JM, 75219 Dallas, United States",
+        "rank": {
+          "popularity": 5.628197718974168,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514c1b0e4b033558c05946eee9ea8e674040c00204920310466c616d65204269726368204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353432313731",
+        "bbox": {
+          "lon1": -96.828761,
+          "lat1": 32.808961,
+          "lon2": -96.827904,
+          "lat2": 32.809453
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Blue Flame Lane",
+        "street": "Blue Flame Lane",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.555958,
+        "lat": 32.838713,
+        "result_type": "street",
+        "distance": 23549.42106449594,
+        "postcode": "75043",
+        "formatted": "Blue Flame Lane, Dallas, TX 75043, United States of America",
+        "address_line1": "Blue Flame Lane",
+        "address_line2": "Dallas, TX 75043, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645RCQV+FJ",
+        "plus_code_short": "RCQV+FJ, 75043 Dallas, United States",
+        "rank": {
+          "popularity": 3.6700144123674896,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c6fcdcd0942358c05972dd94f25a6b4040c0020492030f426c756520466c616d65204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353331393333",
+        "bbox": {
+          "lon1": -96.556588,
+          "lat1": 32.837816,
+          "lon2": -96.555326,
+          "lat2": 32.83961
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Skillet Flame",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75025",
+        "street": "State Highway 121",
+        "housenumber": "14550",
+        "iso3166_2": "US-TX",
+        "lon": -96.7502272,
+        "lat": 33.1204228,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 38435.51724633,
+        "formatted": "Skillet Flame, 14550 State Highway 121, Frisco, TX 75025, United States of America",
+        "address_line1": "Skillet Flame",
+        "address_line2": "14550 State Highway 121, Frisco, TX 75025, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865546CX+5W",
+        "plus_code_short": "46CX+5W, 75025 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.392106348516058,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517524f2b8033058c059acd8a9036a8f4040f00103f90173efc26202000000c0020192030d536b696c6c657420466c616d65e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323436383737303433",
+        "bbox": {
+          "lon1": -96.7502772,
+          "lat1": 33.1203728,
+          "lon2": -96.7501772,
+          "lat2": 33.1204728
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Famous Tandoori",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Main Street",
+        "iso3166_2": "US-TX",
+        "lon": -96.8614442,
+        "lat": 33.151798,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 42107.126699560155,
+        "formatted": "Famous Tandoori, Main Street, Frisco, TX 75034, United States of America",
+        "address_line1": "Famous Tandoori",
+        "address_line2": "Main Street, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655542Q+PC",
+        "plus_code_short": "542Q+PC, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 3.545162369344136,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "510c95dae6213758c05992ccea1d6e934040f00102f901a336c73600000000c0020192030f46616d6f75732054616e646f6f7269e203216f70656e7374726565746d61703a76656e75653a7761792f393139303235333135",
+        "bbox": {
+          "lon1": -96.861566,
+          "lat1": 33.1517701,
+          "lon2": -96.8613224,
+          "lat2": 33.1518264
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Dancing Flame Drive",
+        "street": "Dancing Flame Drive",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DN",
+        "city": "Denton",
+        "iso3166_2": "US-TX",
+        "lon": -97.144989,
+        "lat": 33.239968,
+        "result_type": "street",
+        "distance": 60852.993880323185,
+        "postcode": "76201",
+        "formatted": "Dancing Flame Drive, Denton, TX 76201, United States of America",
+        "address_line1": "Dancing Flame Drive",
+        "address_line2": "Denton, TX 76201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546VQ4+X2",
+        "plus_code_short": "6VQ4+X2, 76201 Denton, United States",
+        "rank": {
+          "popularity": 2.738966699437844,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e751f17f474958c059130b7c45b79e4040c0020492031344616e63696e6720466c616d65204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343232313735",
+        "bbox": {
+          "lon1": -97.145071,
+          "lat1": 33.238437,
+          "lon2": -97.144944,
+          "lat2": 33.241484
+        }
+      }
+    ],
+    "query": {
+      "text": "Tandoori Flame"
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "queriedName": "Al Markaz Groceries And Restaurant",
+  "queriedAt": "2026-09-09T00:41:00.251Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gilgamesh Restaurant & Bakery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "Terrace Drive",
+        "housenumber": "300 #301",
+        "iso3166_2": "US-TX",
+        "lon": -96.7278551,
+        "lat": 32.9515513,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20455.45304604538,
+        "formatted": "Gilgamesh Restaurant & Bakery, 300 #301 Terrace Drive, Richardson, TX 75081, United States of America",
+        "address_line1": "Gilgamesh Restaurant & Bakery",
+        "address_line2": "300 #301 Terrace Drive, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X72C+JV",
+        "plus_code_short": "2C+JV Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.051308431546644,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5184ae8e2d952e58c059affbd86ecc794040f00103f9016609ee4103000000c0020192031d47696c67616d6573682052657374617572616e7420262042616b657279e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393931303230393032",
+        "bbox": {
+          "lon1": -96.7279051,
+          "lat1": 32.9515013,
+          "lon2": -96.7278051,
+          "lat2": 32.9516013
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Touchdown Restaurant and Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Grand Prairie",
+        "postcode": "75054",
+        "street": "Lake Ridge Parkway",
+        "housenumber": "7535",
+        "iso3166_2": "US-TX",
+        "lon": -97.0346585,
+        "lat": 32.5916619,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Mountain Creek",
+        "result_type": "amenity",
+        "distance": 30322.030944920058,
+        "formatted": "Touchdown Restaurant and Bar, 7535 Lake Ridge Parkway, Grand Prairie, TX 75054, United States of America",
+        "address_line1": "Touchdown Restaurant and Bar",
+        "address_line2": "7535 Lake Ridge Parkway, Grand Prairie, TX 75054, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644HXR8+M4",
+        "plus_code_short": "HXR8+M4 Grand Prairie, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005970473792625342,
+          "popularity": 3.3324396550448263,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d20149d8374258c0590565bf93bb4b4040f00103f901d404812803000000c0020192031c546f756368646f776e2052657374617572616e7420616e6420426172e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353634343435393038",
+        "bbox": {
+          "lon1": -97.0347085,
+          "lat1": 32.5916119,
+          "lon2": -97.0346085,
+          "lat2": 32.5917119
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hizzy Bar & Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "70567",
+        "street": "West Round Grove Road",
+        "iso3166_2": "US-TX",
+        "lon": -97.0084046,
+        "lat": 33.0052862,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 32155.736723491762,
+        "formatted": "Hizzy Bar & Restaurant, West Round Grove Road, Lewisville, TX 70567, United States of America",
+        "address_line1": "Hizzy Bar & Restaurant",
+        "address_line2": "West Round Grove Road, Lewisville, TX 70567, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542X4R+4J",
+        "plus_code_short": "2X4R+4J, 70567 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 3.9788510865846844,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b48872b3894058c059600fdc37ad804040f00103f901a7c11f6502000000c0020192031648697a7a792042617220262052657374617572616e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323836353134353939",
+        "bbox": {
+          "lon1": -97.0084546,
+          "lat1": 33.0052362,
+          "lon2": -97.0083546,
+          "lat2": 33.0053362
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "BaseCamp Restaurant & Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Stonebrook Parkway",
+        "housenumber": "2552",
+        "iso3166_2": "US-TX",
+        "lon": -96.8676735,
+        "lat": 33.1335813,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 40194.660879961564,
+        "formatted": "BaseCamp Restaurant & Bar, 2552 Stonebrook Parkway, Frisco, TX 75034, United States of America",
+        "address_line1": "BaseCamp Restaurant & Bar",
+        "address_line2": "2552 Stonebrook Parkway, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865544MJ+CW",
+        "plus_code_short": "44MJ+CW, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.076453222233441,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c6866ef6873758c059b86d293119914040f00103f90114aa0f1e03000000c002019203194261736543616d702052657374617572616e74202620426172e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333839323434393438",
+        "bbox": {
+          "lon1": -96.8677235,
+          "lat1": 33.1335313,
+          "lon2": -96.8676235,
+          "lat2": 33.1336313
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Butchers and Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76109",
+        "suburb": "The Shops at Clearfork",
+        "street": "Marathon Avenue",
+        "housenumber": "5212",
+        "iso3166_2": "US-TX",
+        "lon": -97.4000345,
+        "lat": 32.7094014,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 56898.32860201347,
+        "formatted": "Butchers and Restaurant, 5212 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "address_line1": "Butchers and Restaurant",
+        "address_line2": "5212 Marathon Avenue, Fort Worth, TX 76109, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PH5X+QX",
+        "plus_code_short": "PH5X+QX Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.5933518615405906,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5164b14d2a9a5958c059495e42aacd5a4040f00103f901ea87f37101000000c00201920317427574636865727320616e642052657374617572616e74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36323036373532373436",
+        "bbox": {
+          "lon1": -97.4000845,
+          "lat1": 32.7093514,
+          "lon2": -97.3999845,
+          "lat2": 32.7094514
+        }
+      }
+    ],
+    "query": {
+      "text": "Al Markaz Groceries And Restaurant"
+    }
+  }
+}

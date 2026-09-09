@@ -1,0 +1,62 @@
+{
+  "queriedName": "Ali Baba Mediterranean",
+  "queriedAt": "2026-09-09T00:40:10.475Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ali Baba Mediterranean",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "North Central Expressway",
+        "housenumber": "2103",
+        "iso3166_2": "US-TX",
+        "lon": -96.715556,
+        "lat": 32.9786941,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23681.924939500932,
+        "formatted": "Ali Baba Mediterranean, 2103 North Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Ali Baba Mediterranean",
+        "address_line2": "2103 North Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7HM+FQ",
+        "plus_code_short": "X7HM+FQ Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 5.582381969919524,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51399d64abcb2d58c059e22428d9457d4040f00102f9018e625d1700000000c00201920316416c692042616261204d65646974657272616e65616e",
+        "bbox": {
+          "lon1": -96.7157064,
+          "lat1": 32.9785995,
+          "lon2": -96.7154063,
+          "lat2": 32.9787933
+        }
+      }
+    ],
+    "query": {
+      "text": "Ali Baba Mediterranean"
+    }
+  }
+}

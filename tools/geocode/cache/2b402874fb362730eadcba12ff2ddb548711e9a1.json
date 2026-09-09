@@ -1,0 +1,273 @@
+{
+  "queriedName": "Karachi Food Company",
+  "queriedAt": "2026-09-09T00:32:23.142Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Campuzano Mexican Food",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75219",
+        "district": "Oak Lawn",
+        "street": "Oak Lawn Avenue",
+        "housenumber": "2618",
+        "iso3166_2": "US-TX",
+        "lon": -96.8120311,
+        "lat": 32.8057207,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Turtle Creek",
+        "result_type": "amenity",
+        "distance": 3489.017008585673,
+        "formatted": "Campuzano Mexican Food, 2618 Oak Lawn Avenue, Dallas, TX 75219, United States of America",
+        "address_line1": "Campuzano Mexican Food",
+        "address_line2": "2618 Oak Lawn Avenue, Dallas, TX 75219, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R54Q+75",
+        "plus_code_short": "R54Q+75, 75219 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.117684235963178,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516f754a51f83358c059e91a1cdb21674040f00102f9014aeb470d00000000c0020192031643616d70757a616e6f204d65786963616e20466f6f64e203216f70656e7374726565746d61703a76656e75653a7761792f323232383137303938",
+        "bbox": {
+          "lon1": -96.8121574,
+          "lat1": 32.8056129,
+          "lon2": -96.8119047,
+          "lat2": 32.8058392
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ly Food oriental food and Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75211",
+        "street": "West Illinois Avenue",
+        "housenumber": "4440",
+        "iso3166_2": "US-TX",
+        "lon": -96.8923755,
+        "lat": 32.7190043,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 11006.716118200682,
+        "formatted": "Ly Food oriental food and Market, 4440 West Illinois Avenue, Dallas, TX 75211, United States of America",
+        "address_line1": "Ly Food oriental food and Market",
+        "address_line2": "4440 West Illinois Avenue, Dallas, TX 75211, United States of America",
+        "category": "commercial.marketplace",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P495+J2",
+        "plus_code_short": "P495+J2, 75211 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.2151311399620734,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511b1021ae1c3958c05979173955085c4040f00102f9010f29d91b00000000c002019203204c7920466f6f64206f7269656e74616c20666f6f6420616e64204d61726b6574e203216f70656e7374726565746d61703a76656e75653a7761792f343637323136363535",
+        "bbox": {
+          "lon1": -96.8924686,
+          "lat1": 32.7188545,
+          "lon2": -96.8922825,
+          "lat2": 32.7191554
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Food Mart",
+        "housenumber": "10405",
+        "street": "North Central Expressway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Pebble Creek",
+        "iso3166_2": "US-TX",
+        "lon": -96.770515,
+        "lat": 32.888025,
+        "result_type": "amenity",
+        "distance": 12590.996781405443,
+        "postcode": "75230",
+        "formatted": "Food Mart, 10405 North Central Expressway, Dallas, TX 75230, United States of America",
+        "address_line1": "Food Mart",
+        "address_line2": "10405 North Central Expressway, Dallas, TX 75230, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6QH+6Q",
+        "plus_code_short": "V6QH+6Q, 75230 Dallas, United States",
+        "rank": {
+          "popularity": 5.318671565310025,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f584251e503158c059e4839ecdaa714040f00102f9015e56165600000000c00201920309466f6f64204d617274e203226f70656e7374726565746d61703a76656e75653a7761792f31343434333034343738",
+        "bbox": {
+          "lon1": -96.7708859,
+          "lat1": 32.8878411,
+          "lon2": -96.7702713,
+          "lat2": 32.8883831
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Food Mart",
+        "other_names": {
+          "brand": "Shell"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75243",
+        "street": "North Central Expressway",
+        "housenumber": "10405",
+        "iso3166_2": "US-TX",
+        "lon": -96.7705874,
+        "lat": 32.8881406,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 12602.273789345581,
+        "formatted": "Food Mart, 10405 North Central Expressway, Dallas, TX 75243, United States of America",
+        "address_line1": "Food Mart",
+        "address_line2": "10405 North Central Expressway, Dallas, TX 75243, United States of America",
+        "category": "service.vehicle.fuel",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6QH+7Q",
+        "plus_code_short": "V6QH+7Q, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516b6dd04d513158c059fa9f5797ae714040f00102f9015e56165600000000c00201920309466f6f64204d617274",
+        "bbox": {
+          "lon1": -96.7708859,
+          "lat1": 32.8878411,
+          "lon2": -96.7702713,
+          "lat2": 32.8883831
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zdar Food",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Spring Valley Road",
+        "housenumber": "214",
+        "iso3166_2": "US-TX",
+        "lon": -96.7345651,
+        "lat": 32.9397076,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19008.949284756833,
+        "formatted": "Zdar Food, 214 East Spring Valley Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Zdar Food",
+        "address_line2": "214 East Spring Valley Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7Q8+V5",
+        "plus_code_short": "Q8+V5 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.874099279234535,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511c52561d032f58c059bde6b05648784040f00103f901c8ad952003000000c002019203095a64617220466f6f64e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343331353832313532",
+        "bbox": {
+          "lon1": -96.7346151,
+          "lat1": 32.9396576,
+          "lon2": -96.7345151,
+          "lat2": 32.9397576
+        }
+      }
+    ],
+    "query": {
+      "text": "Karachi Food Company"
+    }
+  }
+}

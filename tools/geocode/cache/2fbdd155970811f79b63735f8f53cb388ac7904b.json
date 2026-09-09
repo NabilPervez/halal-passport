@@ -1,0 +1,63 @@
+{
+  "queriedName": "Shalimar Supermarket Cafe",
+  "queriedAt": "2026-09-09T00:38:50.467Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Indopak Supermarket & Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75023",
+        "street": "West Spring Creek Parkway",
+        "housenumber": "2060",
+        "iso3166_2": "US-TX",
+        "lon": -96.7319154,
+        "lat": 33.057242,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 31748.21690134673,
+        "formatted": "Indopak Supermarket & Cafe, 2060 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "address_line1": "Indopak Supermarket & Cafe",
+        "address_line2": "2060 West Spring Creek Parkway, Plano, TX 75023, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553749+V6",
+        "plus_code_short": "3749+V6, 75023 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.916113284053692,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51159cb0b3d72e58c05994fab2b453874040f00103f901f3080e9102000000c0020192031a496e646f70616b2053757065726d61726b657420262043616665e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131303233353530373037",
+        "bbox": {
+          "lon1": -96.7319654,
+          "lat1": 33.057192,
+          "lon2": -96.7318654,
+          "lat2": 33.057292
+        }
+      }
+    ],
+    "query": {
+      "text": "Shalimar Supermarket Cafe"
+    }
+  }
+}

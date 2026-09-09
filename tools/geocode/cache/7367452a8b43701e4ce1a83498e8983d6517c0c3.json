@@ -1,0 +1,271 @@
+{
+  "queriedName": "Gyros Paradise Wing & Grill",
+  "queriedAt": "2026-09-09T00:41:28.782Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Stop -N- Go Gyros",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75019",
+        "street": "South Stemmons Freeway",
+        "housenumber": "2601",
+        "iso3166_2": "US-TX",
+        "lon": -96.963495,
+        "lat": 33.0008426,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 29346.29323101589,
+        "formatted": "Stop -N- Go Gyros, 2601 South Stemmons Freeway, Lewisville, TX 75019, United States of America",
+        "address_line1": "Stop -N- Go Gyros",
+        "address_line2": "2601 South Stemmons Freeway, Lewisville, TX 75019, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655222P+8J",
+        "plus_code_short": "222P+8J, 75019 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.081500453245385,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5102b7eee6a93d58c059c8b83d9c1b804040f00103f90103e5455102000000c0020192031153746f70202d4e2d20476f204779726f73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393533343639363939",
+        "bbox": {
+          "lon1": -96.963545,
+          "lat1": 33.0007926,
+          "lon2": -96.963445,
+          "lat2": 33.0008926
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyros House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76012",
+        "street": "West Division Street",
+        "housenumber": "720",
+        "iso3166_2": "US-TX",
+        "lon": -97.115379,
+        "lat": 32.738879,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30072.193224053335,
+        "formatted": "Gyros House, 720 West Division Street, Arlington, TX 76012, United States of America",
+        "address_line1": "Gyros House",
+        "address_line2": "720 West Division Street, Arlington, TX 76012, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PVQM+HR",
+        "plus_code_short": "QM+HR, 76012 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 5.953503828594334,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514be9995e624758c059c0594a96935e4040f00102f9012f8f342600000000c0020192030b4779726f7320486f757365e203216f70656e7374726565746d61703a76656e75653a7761792f363430393738373335",
+        "bbox": {
+          "lon1": -97.115431,
+          "lat1": 32.738806,
+          "lon2": -97.115327,
+          "lat2": 32.738952
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyros & Kabobs",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Wylie",
+        "postcode": "75098",
+        "street": "Woodbridge Parkway",
+        "housenumber": "805",
+        "iso3166_2": "US-TX",
+        "lon": -96.5740123,
+        "lat": 33.0088329,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 33136.34726130115,
+        "formatted": "Gyros & Kabobs, 805 Woodbridge Parkway, Wylie, TX 75098, United States of America",
+        "address_line1": "Gyros & Kabobs",
+        "address_line2": "805 Woodbridge Parkway, Wylie, TX 75098, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86552C5G+G9",
+        "plus_code_short": "2C5G+G9 Wylie, Collin County, United States",
+        "rank": {
+          "importance": 0.000055952544441855764,
+          "popularity": 3.755924416183829,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511d00169ebc2458c0597e50bc6f21814040f00103f90170c3491f03000000c0020192030e4779726f732026204b61626f6273e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343039383239373434",
+        "bbox": {
+          "lon1": -96.5740623,
+          "lat1": 33.0087829,
+          "lon2": -96.5739623,
+          "lat2": 33.0088829
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Gyros",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "North Richland Hills",
+        "postcode": "76180",
+        "street": "Grapevine Highway",
+        "iso3166_2": "US-TX",
+        "lon": -97.2011936,
+        "lat": 32.8437749,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 38497.09856626502,
+        "formatted": "Gyros, Grapevine Highway, North Richland Hills, TX 76180, United States of America",
+        "address_line1": "Gyros",
+        "address_line2": "Grapevine Highway, North Richland Hills, TX 76180, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RQVX+GG",
+        "plus_code_short": "RQVX+GG North Richland Hills, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000056076142519219004,
+          "popularity": 4.000630387760646,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51870a1f5be04c58c059c457e0d0006c4040f00103f901e6b70e5202000000c002019203054779726f73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39393636363330383836",
+        "bbox": {
+          "lon1": -97.2012436,
+          "lat1": 32.8437249,
+          "lon2": -97.2011436,
+          "lat2": 32.8438249
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Simply Gyros",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76137",
+        "street": "North Freeway",
+        "housenumber": "6600",
+        "iso3166_2": "US-TX",
+        "lon": -97.3131259,
+        "lat": 32.8614006,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Northbrook",
+        "result_type": "amenity",
+        "distance": 49134.80007979955,
+        "formatted": "Simply Gyros, 6600 North Freeway, Fort Worth, TX 76137, United States of America",
+        "address_line1": "Simply Gyros",
+        "address_line2": "6600 North Freeway, Fort Worth, TX 76137, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VM6P+HP",
+        "plus_code_short": "VM6P+HP Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 3.7026335140054494,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f50137410a5458c0599de0f65f426e4040f00103f901e81d367c01000000c0020192030c53696d706c79204779726f73e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36333738383838363830",
+        "bbox": {
+          "lon1": -97.3131759,
+          "lat1": 32.8613506,
+          "lon2": -97.3130759,
+          "lat2": 32.8614506
+        }
+      }
+    ],
+    "query": {
+      "text": "Gyros Paradise Wing & Grill"
+    }
+  }
+}

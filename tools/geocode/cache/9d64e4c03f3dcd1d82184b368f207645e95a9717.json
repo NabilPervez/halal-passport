@@ -1,0 +1,256 @@
+{
+  "queriedName": "Baklava Bakery & Coffee Co",
+  "queriedAt": "2026-09-09T00:31:03.737Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Coffee Tavern Road",
+        "street": "Coffee Tavern Road",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Bedford",
+        "iso3166_2": "US-TX",
+        "lon": -97.156984,
+        "lat": 32.834266,
+        "result_type": "street",
+        "distance": 34241.71458765021,
+        "postcode": "76022",
+        "formatted": "Coffee Tavern Road, Bedford, TX 76022, United States of America",
+        "address_line1": "Coffee Tavern Road",
+        "address_line2": "Bedford, TX 76022, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RRMV+P6",
+        "plus_code_short": "MV+P6, 76022 Bedford, United States",
+        "rank": {
+          "popularity": 4.076196464338179,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b27f9e060c4a58c0591615713ac96a4040c00204920312436f666665652054617665726e20526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353434313335",
+        "bbox": {
+          "lon1": -97.157385,
+          "lat1": 32.833544,
+          "lon2": -97.15545,
+          "lat2": 32.835758
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Coffee Road",
+        "street": "Coffee Road",
+        "country": "United States",
+        "county": "Ellis County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "EL",
+        "iso3166_2": "US-TX",
+        "lon": -96.699411,
+        "lat": 32.425935,
+        "result_type": "street",
+        "distance": 40092.80771368859,
+        "postcode": "75152",
+        "formatted": "Coffee Road, Ellis County, TX 75152, United States of America",
+        "address_line1": "Coffee Road",
+        "address_line2": "Ellis County, TX 75152, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645C8G2+96",
+        "rank": {
+          "popularity": 2.38699714826579,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519cdd5a26c32c58c059639cbf0985364040c0020492030b436f6666656520526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230383333373033",
+        "bbox": {
+          "lon1": -96.699417,
+          "lat1": 32.424256,
+          "lon2": -96.697892,
+          "lat2": 32.427776
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Coffee Road",
+        "street": "Coffee Road",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Haltom City",
+        "suburb": "Fossil Creek",
+        "iso3166_2": "US-TX",
+        "lon": -97.275725,
+        "lat": 32.834614,
+        "result_type": "street",
+        "distance": 45198.28632901019,
+        "postcode": "76117",
+        "formatted": "Coffee Road, Haltom City, TX 76117, United States of America",
+        "address_line1": "Coffee Road",
+        "address_line2": "Haltom City, TX 76117, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RPMF+RP",
+        "plus_code_short": "RPMF+RP Haltom City, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.838554975436037,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51226c787aa55158c0595264ada1d46a4040c0020492030b436f6666656520526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353534303033",
+        "bbox": {
+          "lon1": -97.276509,
+          "lat1": 32.834107,
+          "lon2": -97.274936,
+          "lat2": 32.835127
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Coffee Mill Road",
+        "street": "Coffee Mill Road",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Celina",
+        "iso3166_2": "US-TX",
+        "lon": -96.828709,
+        "lat": 33.267096,
+        "result_type": "street",
+        "distance": 54576.39124786316,
+        "postcode": "75078",
+        "formatted": "Coffee Mill Road, Celina, TX 75078, United States of America",
+        "address_line1": "Coffee Mill Road",
+        "address_line2": "Celina, TX 75078, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655758C+RG",
+        "plus_code_short": "758C+RG, 75078 Celina, United States",
+        "rank": {
+          "popularity": 2.877846946941535,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a8397991093558c0593b72a43330a24040c00204920310436f66666565204d696c6c20526f6164e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230323632313637",
+        "bbox": {
+          "lon1": -96.829262,
+          "lat1": 33.264992,
+          "lon2": -96.827889,
+          "lat2": 33.269219
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Coffee Springs Drive",
+        "street": "Coffee Springs Drive",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Lake Country",
+        "iso3166_2": "US-TX",
+        "lon": -97.385325,
+        "lat": 32.892149,
+        "result_type": "street",
+        "distance": 56438.9819235123,
+        "postcode": "76179",
+        "formatted": "Coffee Springs Drive, Fort Worth, TX 76179, United States of America",
+        "address_line1": "Coffee Springs Drive",
+        "address_line2": "Fort Worth, TX 76179, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VJR7+VV",
+        "plus_code_short": "VJR7+VV Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 3.039717939459832,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513255302aa95858c0595e143df031724040c00204920314436f6666656520537072696e6773204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353630393232",
+        "bbox": {
+          "lon1": -97.386312,
+          "lat1": 32.889023,
+          "lon2": -97.383353,
+          "lat2": 32.896459
+        }
+      }
+    ],
+    "query": {
+      "text": "Baklava Bakery & Coffee Co"
+    }
+  }
+}

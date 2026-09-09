@@ -1,0 +1,103 @@
+{
+  "queriedName": "Chocolate Drip Cafe",
+  "queriedAt": "2026-09-09T00:31:11.700Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Chocolate Angel Café & Teahouse",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Richardson",
+        "iso3166_2": "US-TX",
+        "lon": -96.741629,
+        "lat": 32.977327,
+        "result_type": "amenity",
+        "distance": 22867.66537151491,
+        "postcode": "75080",
+        "formatted": "Chocolate Angel Café & Teahouse, Richardson, TX 75080, United States of America",
+        "address_line1": "Chocolate Angel Café & Teahouse",
+        "address_line2": "Richardson, TX 75080, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7G5+W8",
+        "plus_code_short": "X7G5+W8 Richardson, Dallas County, United States",
+        "rank": {
+          "popularity": 4.9124549910685475,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f9307bd9762f58c059b83f170d197d4040f00103f901b85f8a2003000000c0020192032043686f636f6c61746520416e67656c20436166c3a9202620546561686f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343330383431323732"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chocolate Angel Café & Teahouse",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "West Campbell Road",
+        "housenumber": "635",
+        "iso3166_2": "US-TX",
+        "lon": -96.7416289,
+        "lat": 32.9773271,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 22867.678313999815,
+        "formatted": "Chocolate Angel Café & Teahouse, 635 West Campbell Road, Richardson, TX 75080, United States of America",
+        "address_line1": "Chocolate Angel Café & Teahouse",
+        "address_line2": "635 West Campbell Road, Richardson, TX 75080, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7G5+W8",
+        "plus_code_short": "X7G5+W8 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "512ed10fd9762f58c0594cffed0d197d4040f00103f901b85f8a2003000000c0020192032043686f636f6c61746520416e67656c20436166c3a9202620546561686f757365",
+        "bbox": {
+          "lon1": -96.7416789,
+          "lat1": 32.9772771,
+          "lon2": -96.7415789,
+          "lat2": 32.9773771
+        }
+      }
+    ],
+    "query": {
+      "text": "Chocolate Drip Cafe"
+    }
+  }
+}

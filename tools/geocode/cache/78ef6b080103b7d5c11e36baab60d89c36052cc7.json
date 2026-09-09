@@ -1,0 +1,266 @@
+{
+  "queriedName": "Dave's Hot Chicken",
+  "queriedAt": "2026-09-09T00:31:10.933Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dave's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75254",
+        "street": "Preston Road",
+        "housenumber": "14750",
+        "iso3166_2": "US-TX",
+        "lon": -96.8030614,
+        "lat": 32.9483436,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19060.974812265904,
+        "formatted": "Dave's Hot Chicken, 14750 Preston Road, Dallas, TX 75254, United States of America",
+        "address_line1": "Dave's Hot Chicken",
+        "address_line2": "14750 Preston Road, Dallas, TX 75254, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5XW+8Q",
+        "plus_code_short": "W5XW+8Q, 75254 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.376376314479605,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51856ba45b653358c0597aafb55263794040f00102f90128061f1b00000000c0020192031244617665277320486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.8031448,
+          "lat1": 32.9482596,
+          "lon2": -96.802978,
+          "lat2": 32.9484276
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dave's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Belt Line Road",
+        "housenumber": "1545",
+        "iso3166_2": "US-TX",
+        "lon": -96.6972442,
+        "lat": 32.9457841,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20953.53249957422,
+        "formatted": "Dave's Hot Chicken, 1545 East Belt Line Road, Richardson, TX 75081, United States of America",
+        "address_line1": "Dave's Hot Chicken",
+        "address_line2": "1545 East Belt Line Road, Richardson, TX 75081, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W8W3+84",
+        "plus_code_short": "W8W3+84 Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.818102765526812,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51d81423a69f2c58c059d44911740f794040f00102f901af41a32300000000c0020192031244617665277320486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.6973009,
+          "lat1": 32.9456285,
+          "lon2": -96.6971676,
+          "lat2": 32.9458478
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dave's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Valley Ranch",
+        "street": "Market Place Boulevard",
+        "housenumber": "1700",
+        "iso3166_2": "US-TX",
+        "lon": -96.9695089,
+        "lat": 32.9190452,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 22564.821813418646,
+        "formatted": "Dave's Hot Chicken, 1700 Market Place Boulevard, Irving, TX 75063, United States of America",
+        "address_line1": "Dave's Hot Chicken",
+        "address_line2": "1700 Market Place Boulevard, Irving, TX 75063, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W29J+J5",
+        "plus_code_short": "W29J+J5 Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.617175164238965,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5194ab0e6f0c3e58c059dcc5ea45a3754040f00102f901fba9791700000000c0020192031244617665277320486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.9696164,
+          "lat1": 32.9188776,
+          "lon2": -96.9694323,
+          "lat2": 32.919121
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dave's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "Preston Road",
+        "housenumber": "1709",
+        "iso3166_2": "US-TX",
+        "lon": -96.7957598,
+        "lat": 33.0236892,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 27430.869756514126,
+        "formatted": "Dave's Hot Chicken, 1709 Preston Road, Plano, TX 75093, United States of America",
+        "address_line1": "Dave's Hot Chicken",
+        "address_line2": "1709 Preston Road, Plano, TX 75093, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865526F3+FM",
+        "plus_code_short": "26F3+FM, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.213136013181094,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "512d1e83baed3258c0595ba2693f08834040f00103f9014c0527a802000000c0020192031244617665277320486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.7958098,
+          "lat1": 33.0236392,
+          "lon2": -96.7957098,
+          "lat2": 33.0237392
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dave's Hot Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Preston Road",
+        "iso3166_2": "US-TX",
+        "lon": -96.8066165,
+        "lat": 33.0921943,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 35059.54398291194,
+        "formatted": "Dave's Hot Chicken, Preston Road, Plano, TX 75024, United States of America",
+        "address_line1": "Dave's Hot Chicken",
+        "address_line2": "Preston Road, Plano, TX 75024, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RV+V9",
+        "plus_code_short": "35RV+V9, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.154061444187369,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517ffacf9a9f3358c05956b0d705cd8b4040f00103f9015e964aea02000000c0020192031244617665277320486f7420436869636b656e",
+        "bbox": {
+          "lon1": -96.8066665,
+          "lat1": 33.0921443,
+          "lon2": -96.8065665,
+          "lat2": 33.0922443
+        }
+      }
+    ],
+    "query": {
+      "text": "Dave's Hot Chicken"
+    }
+  }
+}

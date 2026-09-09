@@ -1,0 +1,62 @@
+{
+  "queriedName": "Talkin' Tacos Dallas",
+  "queriedAt": "2026-09-09T00:33:45.912Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Talkin' Tacos Dallas",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75024",
+        "street": "Parkwood Boulevard",
+        "housenumber": "8442",
+        "iso3166_2": "US-TX",
+        "lon": -96.8132493,
+        "lat": 33.0907108,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34916.044971328374,
+        "formatted": "Talkin' Tacos Dallas, 8442 Parkwood Boulevard, Plano, TX 75024, United States of America",
+        "address_line1": "Talkin' Tacos Dallas",
+        "address_line2": "8442 Parkwood Boulevard, Plano, TX 75024, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865535RP+7P",
+        "plus_code_short": "35RP+7P, 75024 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.141180208095647,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51acbfca460c3458c0596eb257699c8b4040f00103f90149964aea02000000c0020192031454616c6b696e27205461636f732044616c6c6173",
+        "bbox": {
+          "lon1": -96.8132993,
+          "lat1": 33.0906608,
+          "lon2": -96.8131993,
+          "lat2": 33.0907608
+        }
+      }
+    ],
+    "query": {
+      "text": "Talkin' Tacos Dallas"
+    }
+  }
+}

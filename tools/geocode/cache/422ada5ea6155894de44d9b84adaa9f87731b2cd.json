@@ -1,0 +1,62 @@
+{
+  "queriedName": "Knife Steakhouse",
+  "queriedAt": "2026-09-09T00:38:28.142Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Knife Steakhouse",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75093",
+        "street": "West Park Boulevard",
+        "housenumber": "6121",
+        "iso3166_2": "US-TX",
+        "lon": -96.8311929,
+        "lat": 33.0313709,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 28464.351332881473,
+        "formatted": "Knife Steakhouse, 6121 West Park Boulevard, Plano, TX 75093, United States of America",
+        "address_line1": "Knife Steakhouse",
+        "address_line2": "6121 West Park Boulevard, Plano, TX 75093, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865525J9+GG",
+        "plus_code_short": "25J9+GG, 75093 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 6.733288476275775,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b78ab443323558c059e6c52ef603844040f00103f9016181f62e03000000c002019203104b6e69666520537465616b686f757365",
+        "bbox": {
+          "lon1": -96.8312429,
+          "lat1": 33.0313209,
+          "lon2": -96.8311429,
+          "lat2": 33.0314209
+        }
+      }
+    ],
+    "query": {
+      "text": "Knife Steakhouse"
+    }
+  }
+}

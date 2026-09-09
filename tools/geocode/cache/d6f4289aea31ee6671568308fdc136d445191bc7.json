@@ -1,0 +1,62 @@
+{
+  "queriedName": "Sayfani Coffee House",
+  "queriedAt": "2026-09-09T00:33:15.576Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sayfani Yemeni Coffee House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "West McDermott Drive",
+        "housenumber": "1201",
+        "iso3166_2": "US-TX",
+        "lon": -96.695201,
+        "lat": 33.1002622,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 37179.3471260039,
+        "formatted": "Sayfani Yemeni Coffee House, 1201 West McDermott Drive, Allen, TX 75013, United States of America",
+        "address_line1": "Sayfani Yemeni Coffee House",
+        "address_line2": "1201 West McDermott Drive, Allen, TX 75013, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554823+4W",
+        "plus_code_short": "4823+4W Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.873027495960458,
+          "confidence": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "5160c9552c7e2c58c05934034b64d58c4040f00103f9016f4790e702000000c0020192031b53617966616e692059656d656e6920436f6666656520486f757365",
+        "bbox": {
+          "lon1": -96.695251,
+          "lat1": 33.1002122,
+          "lon2": -96.695151,
+          "lat2": 33.1003122
+        }
+      }
+    ],
+    "query": {
+      "text": "Sayfani Coffee House"
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "queriedName": "ALBARAKA BBQ GRILL",
+  "queriedAt": "2026-09-09T00:44:56.977Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Cattleack Barbeque",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Farmers Branch",
+        "postcode": "75244",
+        "street": "Gamma Road",
+        "housenumber": "13628",
+        "iso3166_2": "US-TX",
+        "lon": -96.8364359,
+        "lat": 32.9346191,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Inwood",
+        "result_type": "amenity",
+        "distance": 17909.389760333346,
+        "formatted": "Cattleack Barbeque, 13628 Gamma Road, Farmers Branch, TX 75244, United States of America",
+        "address_line1": "Cattleack Barbeque",
+        "address_line2": "13628 Gamma Road, Farmers Branch, TX 75244, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5M7+RC",
+        "plus_code_short": "W5M7+RC Farmers Branch, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.183079669716703,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d2ec702a883558c059c55b4299a1774040f00103f901b7a70a2c03000000c00201920312436174746c6561636b204261726265717565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133363233373937363837",
+        "bbox": {
+          "lon1": -96.8364859,
+          "lat1": 32.9345691,
+          "lon2": -96.8363859,
+          "lat2": 32.9346691
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Crossbuck BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Farmers Branch",
+        "postcode": "75240",
+        "street": "Spring Valley Road",
+        "housenumber": "4400",
+        "iso3166_2": "US-TX",
+        "lon": -96.8337371,
+        "lat": 32.9393005,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Inwood",
+        "result_type": "amenity",
+        "distance": 18370.34802634009,
+        "formatted": "Crossbuck BBQ, 4400 Spring Valley Road, Farmers Branch, TX 75240, United States of America",
+        "address_line1": "Crossbuck BBQ",
+        "address_line2": "4400 Spring Valley Road, Farmers Branch, TX 75240, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W5Q8+PG",
+        "plus_code_short": "W5Q8+PG Farmers Branch, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 5.419196110420546,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518f7ddaf25b3558c059e84eb0ff3a784040f00103f901dc758ee502000000c0020192030d43726f73736275636b20424251e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3132343431323533333430",
+        "bbox": {
+          "lon1": -96.8337871,
+          "lat1": 32.9392505,
+          "lon2": -96.8336871,
+          "lat2": 32.9393505
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Zavala's Barbeque",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Grand Prairie",
+        "postcode": "75050",
+        "street": "West Main Street",
+        "housenumber": "421",
+        "iso3166_2": "US-TX",
+        "lon": -97.0086277,
+        "lat": 32.7449846,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20106.512075312618,
+        "formatted": "Zavala's Barbeque, 421 West Main Street, Grand Prairie, TX 75050, United States of America",
+        "address_line1": "Zavala's Barbeque",
+        "address_line2": "421 West Main Street, Grand Prairie, TX 75050, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PXVR+XG",
+        "plus_code_short": "VR+XG Grand Prairie, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.146094469398269,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51be55325b8d4058c0590783c6a75b5f4040f00103f9012f5789a802000000c002019203115a6176616c612773204261726265717565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131343137353037363331",
+        "bbox": {
+          "lon1": -97.0086777,
+          "lat1": 32.7449346,
+          "lon2": -97.0085777,
+          "lat2": 32.7450346
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "bb.q Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75081",
+        "street": "East Belt Line Road",
+        "housenumber": "1312",
+        "iso3166_2": "US-TX",
+        "lon": -96.7014069,
+        "lat": 32.9441692,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 20621.585527691084,
+        "formatted": "bb.q Chicken, 1312 East Belt Line Road, Richardson, TX 75081, United States of America",
+        "address_line1": "bb.q Chicken",
+        "address_line2": "1312 East Belt Line Road, Richardson, TX 75081, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7VX+MC",
+        "plus_code_short": "W7VX+MC Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.816121655707386,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51142cc4d9e32c58c059fbf14d89da784040f00103f9019e4b014103000000c0020192030c62622e7120436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393735353035383232",
+        "bbox": {
+          "lon1": -96.7014569,
+          "lat1": 32.9441192,
+          "lon2": -96.7013569,
+          "lat2": 32.9442192
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Dickey's BBQ",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Grapevine",
+        "iso3166_2": "US-TX",
+        "lon": -97.034243,
+        "lat": 32.887983,
+        "result_type": "amenity",
+        "distance": 25369.99577513553,
+        "postcode": "75261",
+        "formatted": "Dickey's BBQ, Grapevine, TX 75261, United States of America",
+        "address_line1": "Dickey's BBQ",
+        "address_line2": "Grapevine, TX 75261, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VXQ8+58",
+        "plus_code_short": "VXQ8+58 Grapevine, Tarrant County, United States",
+        "rank": {
+          "popularity": 5.043899876720527,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517c478d09314258c059b5334c6da9714040f00103f90174201c1f02000000c0020192030c4469636b6579277320424251e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39313131383731363034"
+      }
+    ],
+    "query": {
+      "text": "ALBARAKA BBQ GRILL"
+    }
+  }
+}

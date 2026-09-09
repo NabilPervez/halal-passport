@@ -1,0 +1,279 @@
+{
+  "queriedName": "Fratello Pizza & Doner Kebab",
+  "queriedAt": "2026-09-09T00:40:12.982Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lover's Pizza and Pasta",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Mockingbird Lane",
+        "housenumber": "6434",
+        "iso3166_2": "US-TX",
+        "lon": -96.751906,
+        "lat": 32.8355363,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 7754.250467724628,
+        "formatted": "Lover's Pizza and Pasta, 6434 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "address_line1": "Lover's Pizza and Pasta",
+        "address_line2": "6434 East Mockingbird Lane, Dallas, TX 75214, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PX+66",
+        "plus_code_short": "R6PX+66, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.935462770317886,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a3ea573a1f3058c059788f7ddaf26a4040f00103f9010c9162be02000000c002019203174c6f76657227732050697a7a6120616e64205061737461e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131373834303635323932",
+        "bbox": {
+          "lon1": -96.751956,
+          "lat1": 32.8354863,
+          "lon2": -96.751856,
+          "lat2": 32.8355863
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Lover's Pizza & Pasta",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75209",
+        "street": "West Lovers Lane",
+        "housenumber": "5605",
+        "iso3166_2": "US-TX",
+        "lon": -96.8172392,
+        "lat": 32.85147,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Devonshire",
+        "result_type": "amenity",
+        "distance": 8493.957544274039,
+        "formatted": "Lover's Pizza & Pasta, 5605 West Lovers Lane, Dallas, TX 75209, United States of America",
+        "address_line1": "Lover's Pizza & Pasta",
+        "address_line2": "5605 West Lovers Lane, Dallas, TX 75209, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V52M+H4",
+        "plus_code_short": "V52M+H4, 75209 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.986672434628002,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "519740a5a54d3458c05937c30df8fc6c4040f00103f9014ca8a71603000000c002019203154c6f76657227732050697a7a612026205061737461e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323634393838323336",
+        "bbox": {
+          "lon1": -96.8172892,
+          "lat1": 32.85142,
+          "lon2": -96.8171892,
+          "lat2": 32.85152
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Brother's Pizza & Pasta",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75243",
+        "street": "North Central Expressway",
+        "housenumber": "10455",
+        "iso3166_2": "US-TX",
+        "lon": -96.7718555,
+        "lat": 32.8878024,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Pebble Creek",
+        "result_type": "amenity",
+        "distance": 12542.667321790872,
+        "formatted": "Brother's Pizza & Pasta, 10455 North Central Expressway, Dallas, TX 75243, United States of America",
+        "address_line1": "Brother's Pizza & Pasta",
+        "address_line2": "10455 North Central Expressway, Dallas, TX 75243, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V6QH+47",
+        "plus_code_short": "V6QH+47, 75243 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.319563812671836,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51376f9c14663158c059b8a75082a3714040f00103f9017459da5e02000000c0020192031742726f7468657227732050697a7a612026205061737461e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130313831333032363434",
+        "bbox": {
+          "lon1": -96.7719055,
+          "lat1": 32.8877524,
+          "lon2": -96.7718055,
+          "lat2": 32.8878524
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "PRIME Restaurant Doner & Cagkebab",
+        "other_names": {
+          "name:tr": "PRIME Restoranı Doner & Cagkebab"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75075",
+        "street": "West 15th Street",
+        "housenumber": "601",
+        "iso3166_2": "US-TX",
+        "lon": -96.7124182,
+        "lat": 33.0196178,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 28109.91481216044,
+        "formatted": "PRIME Restaurant Doner & Cagkebab, 601 West 15th Street, Plano, TX 75075, United States of America",
+        "address_line1": "PRIME Restaurant Doner & Cagkebab",
+        "address_line2": "601 West 15th Street, Plano, TX 75075, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655279Q+R2",
+        "plus_code_short": "9Q+R2, 75075 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 5.128571943180628,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d0848142982d58c059b1b508d682824040f00103f901e4d26e3901000000c002019203215052494d452052657374617572616e7420446f6e65722026204361676b65626162e203236f70656e7374726565746d61703a76656e75653a6e6f64652f35323538353331353536",
+        "bbox": {
+          "lon1": -96.7124682,
+          "lat1": 33.0195678,
+          "lon2": -96.7123682,
+          "lat2": 33.0196678
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Chicago Pizza",
+        "other_names": {
+          "alt_name": "Chicago Pizza & Pasta"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76011",
+        "street": "North Collins Street",
+        "housenumber": "2141",
+        "iso3166_2": "US-TX",
+        "lon": -97.0963316,
+        "lat": 32.7690173,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 28000.142502693165,
+        "formatted": "Chicago Pizza, 2141 North Collins Street, Arlington, TX 76011, United States of America",
+        "address_line1": "Chicago Pizza",
+        "address_line2": "2141 North Collins Street, Arlington, TX 76011, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QW93+JF",
+        "plus_code_short": "QW93+JF, 76011 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.558478737311619,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5191e4034c2a4658c05974c7ac286f624040f00102f9018eb7733e00000000c0020192030d4368696361676f2050697a7a61e203226f70656e7374726565746d61703a76656e75653a7761792f31303437373731303232",
+        "bbox": {
+          "lon1": -97.0963921,
+          "lat1": 32.76894,
+          "lon2": -97.0962711,
+          "lat2": 32.7690944
+        }
+      }
+    ],
+    "query": {
+      "text": "Fratello Pizza & Doner Kebab"
+    }
+  }
+}

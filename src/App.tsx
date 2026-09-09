@@ -1,7 +1,13 @@
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence } from "framer-motion";
-import type { Restaurant, Review } from "./types";
-import { seedIfEmpty, getAllRestaurants, putRestaurant, getAllReviews, putReview } from "./lib/db";
+import type { RestaurantWithSaveState, Review } from "./types";
+import {
+  syncCatalog,
+  getAllRestaurantsWithState,
+  setUserPlaceState,
+  getAllReviews,
+  putReview,
+} from "./lib/db";
 import { MapView } from "./components/MapView";
 import { BentoGrid } from "./components/BentoGrid";
 import { DiscoverFeed } from "./components/DiscoverFeed";
@@ -21,7 +27,7 @@ function getDistanceInMiles(lat1: number, lon1: number, lat2: number, lon2: numb
 }
 
 export default function App() {
-  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+  const [restaurants, setRestaurants] = useState<RestaurantWithSaveState[]>([]);
   const [reviews, setReviews] = useState<Record<string, Review>>({});
   const [tab, setTab] = useState<Tab>("discover");
   const [activeId, setActiveId] = useState<string | null>(null);
@@ -32,18 +38,17 @@ export default function App() {
 
   useEffect(() => {
     (async () => {
-      await seedIfEmpty();
-      const [r, rv] = await Promise.all([getAllRestaurants(), getAllReviews()]);
+      await syncCatalog();
+      const [r, rv] = await Promise.all([getAllRestaurantsWithState(), getAllReviews()]);
       setRestaurants(r);
       setReviews(Object.fromEntries(rv.map((x) => [x.restaurantId, x])));
       setReady(true);
     })();
   }, []);
 
-  async function handleToggleSave(id: string, next: Restaurant["saveState"]) {
+  async function handleToggleSave(id: string, next: RestaurantWithSaveState["saveState"]) {
     setRestaurants((prev) => prev.map((r) => (r.id === id ? { ...r, saveState: next, savedAt: Date.now() } : r)));
-    const target = restaurants.find((r) => r.id === id);
-    if (target) await putRestaurant({ ...target, saveState: next, savedAt: Date.now() });
+    await setUserPlaceState(id, next);
   }
 
   async function handleSaveReview(review: Review) {
@@ -102,6 +107,18 @@ export default function App() {
     return filtered;
   }, [restaurants, selectedCategory, selectedDistance, userLocation]);
 
+  // "Available" spots means places to eat — mosques are on the map but
+  // aren't a dining option, so they're excluded from this count.
+  const totalSpotCount = useMemo(
+    () => restaurants.filter((r) => !r.isMosque).length,
+    [restaurants]
+  );
+  const filteredSpotCount = useMemo(
+    () => discoverRestaurants.filter((r) => !r.isMosque).length,
+    [discoverRestaurants]
+  );
+  const isFiltered = selectedCategory !== "All" || selectedDistance !== "All";
+
   const active = restaurants.find((r) => r.id === activeId) ?? null;
 
   if (!ready) {
@@ -115,13 +132,25 @@ export default function App() {
   return (
     <div className="min-h-screen bg-base pb-24">
       <header className="px-5 pt-6 pb-4 max-w-md mx-auto sm:max-w-3xl">
-        <p className="text-xs uppercase tracking-widest text-emerald font-body font-semibold mb-1">Halal Passport · DFW</p>
+        <div className="flex items-start justify-between gap-3 mb-1">
+          <p className="text-xs uppercase tracking-widest text-emerald font-body font-semibold">Halal Passport · DFW</p>
+          <p className="text-[10px] text-muted/70 font-body shrink-0 pt-0.5" title={`Commit ${__APP_COMMIT__}`}>
+            v{__APP_VERSION__} · {__APP_COMMIT__}
+          </p>
+        </div>
         <h1 className="font-display font-extrabold text-2xl text-cream">
           {tab === "discover" && "Find your next halal spot"}
           {tab === "wishlist" && "Your wishlist"}
           {tab === "eaten" && "Your Halal Passport"}
           {tab === "meetups" && "Community Meetups"}
         </h1>
+        {tab === "discover" && (
+          <p className="text-sm text-muted font-body mt-1">
+            {isFiltered
+              ? `${filteredSpotCount} of ${totalSpotCount} spots match your filters`
+              : `${totalSpotCount} halal spots in DFW`}
+          </p>
+        )}
       </header>
 
       <main className="px-5 max-w-md mx-auto sm:max-w-3xl flex flex-col gap-5">

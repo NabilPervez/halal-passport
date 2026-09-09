@@ -1,0 +1,226 @@
+{
+  "queriedName": "Shah's Halal Food - Carrollton",
+  "queriedAt": "2026-09-09T00:32:01.047Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Halal Import Food Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Arlington",
+        "postcode": "76010",
+        "street": "Pioneer Parkway",
+        "housenumber": "701",
+        "iso3166_2": "US-TX",
+        "lon": -97.0989873,
+        "lat": 32.7092935,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 29230.02282606103,
+        "formatted": "Halal Import Food Market, 701 Pioneer Parkway, Arlington, TX 76010, United States of America",
+        "address_line1": "Halal Import Food Market",
+        "address_line2": "701 Pioneer Parkway, Arlington, TX 76010, United States of America",
+        "category": "commercial.convenience",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PW52+PC",
+        "plus_code_short": "PW52+PC, 76010 Arlington, United States",
+        "rank": {
+          "importance": 0.00006849088273437121,
+          "popularity": 4.64108393492255,
+          "confidence": 0.25920000000000004,
+          "confidence_city_level": 0.08421052631578947,
+          "match_type": "full_match"
+        },
+        "place_id": "510a0ed4ce554658c059f8e12021ca5a4040f00103f901617cb71803000000c0020192031848616c616c20496d706f727420466f6f64204d61726b6574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323939353830303031",
+        "bbox": {
+          "lon1": -97.0990373,
+          "lat1": 32.7092435,
+          "lon2": -97.0989373,
+          "lat2": 32.7093435
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Halal Albaraka International Food Store",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "North Main Street",
+        "housenumber": "406",
+        "iso3166_2": "US-TX",
+        "lon": -97.0821932,
+        "lat": 32.8417493,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27608.607963501792,
+        "formatted": "Halal Albaraka International Food Store, 406 North Main Street, Euless, TX 76039, United States of America",
+        "address_line1": "Halal Albaraka International Food Store",
+        "address_line2": "406 North Main Street, Euless, TX 76039, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWR9+M4",
+        "plus_code_short": "R9+M4 Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.302323810912851,
+          "confidence": 0.04665600000000001,
+          "confidence_city_level": 0.08421052631578947,
+          "confidence_street_level": 0.016842105263157894,
+          "match_type": "full_match"
+        },
+        "place_id": "51087d44a7424558c0592777e970be6b4040f00102f901e7a6472600000000c0020192032748616c616c20416c626172616b6120496e7465726e6174696f6e616c20466f6f642053746f7265e203216f70656e7374726565746d61703a76656e75653a7761792f363432323239393931",
+        "bbox": {
+          "lon1": -97.0823734,
+          "lat1": 32.8416383,
+          "lon2": -97.0820134,
+          "lat2": 32.8418593
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "St. Mark Specialty Food Fresh Halal Market",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "street": "North Main Street",
+        "housenumber": "501",
+        "iso3166_2": "US-TX",
+        "lon": -97.0829306,
+        "lat": 32.8433828,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 27722.715879389907,
+        "formatted": "St. Mark Specialty Food Fresh Halal Market, 501 North Main Street, Euless, TX 76039, United States of America",
+        "address_line1": "St. Mark Specialty Food Fresh Halal Market",
+        "address_line2": "501 North Main Street, Euless, TX 76039, United States of America",
+        "category": "commercial.supermarket",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RWV8+9R",
+        "plus_code_short": "V8+9R Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.35762715218737,
+          "confidence": 0.03779136000000001,
+          "confidence_city_level": 0.08421052631578947,
+          "confidence_street_level": 0.016842105263157894,
+          "match_type": "full_match"
+        },
+        "place_id": "519cb525bc4e4558c0592401b4f7f36b4040f00103f9014fd3e53303000000c0020192032a53742e204d61726b205370656369616c747920466f6f642046726573682048616c616c204d61726b6574e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373535363031373433",
+        "bbox": {
+          "lon1": -97.0829806,
+          "lat1": 32.8433328,
+          "lon2": -97.0828806,
+          "lat2": 32.8434328
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Halal Papi NYC Street Food",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75003",
+        "street": "East Main Street",
+        "housenumber": "1206",
+        "iso3166_2": "US-TX",
+        "lon": -96.6407774,
+        "lat": 33.0995059,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 38711.225658201234,
+        "formatted": "Halal Papi NYC Street Food, 1206 East Main Street, Allen, TX 75003, United States of America",
+        "address_line1": "Halal Papi NYC Street Food",
+        "address_line2": "1206 East Main Street, Allen, TX 75003, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865539X5+RM",
+        "plus_code_short": "39X5+RM Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.877723066882406,
+          "confidence": 0.05103,
+          "confidence_city_level": 0.1,
+          "confidence_street_level": 0.020000000000000004,
+          "match_type": "full_match"
+        },
+        "place_id": "510541367f022958c0592821fd9bbc8c4040f00103f90150344a3703000000c0020192031a48616c616c2050617069204e59432053747265657420466f6f64e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133383132353131383234",
+        "bbox": {
+          "lon1": -96.6408274,
+          "lat1": 33.0994559,
+          "lon2": -96.6407274,
+          "lat2": 33.0995559
+        }
+      }
+    ],
+    "query": {
+      "text": "Shah's Halal Food - Carrollton"
+    }
+  }
+}

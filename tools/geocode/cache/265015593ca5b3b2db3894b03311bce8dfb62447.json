@@ -1,0 +1,166 @@
+{
+  "queriedName": "Pizza Twist",
+  "queriedAt": "2026-09-09T00:30:43.273Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75063",
+        "suburb": "Las Colinas",
+        "street": "West Royal Lane",
+        "iso3166_2": "US-TX",
+        "lon": -96.961003,
+        "lat": 32.8963528,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20270.930550902136,
+        "formatted": "Pizza Twist, West Royal Lane, Irving, TX 75063, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "West Royal Lane, Irving, TX 75063, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2WQ+GH",
+        "plus_code_short": "V2WQ+GH Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.605744352143677,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e816ba12813d58c059cad644b0bb724040f00103f901bc6ab06202000000c0020192030b50697a7a61205477697374",
+        "bbox": {
+          "lon1": -96.961053,
+          "lat1": 32.8963028,
+          "lon2": -96.960953,
+          "lat2": 32.8964028
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "other_names": {
+          "brand": "Sprint"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Murphy",
+        "postcode": "75094",
+        "street": "East FM 544",
+        "iso3166_2": "US-TX",
+        "lon": -96.6034223,
+        "lat": 33.0118252,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31756.40082179765,
+        "formatted": "Pizza Twist, East FM 544, Murphy, TX 75094, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "East FM 544, Murphy, TX 75094, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655296W+PJ",
+        "plus_code_short": "6W+PJ, 75094 Murphy, United States",
+        "rank": {
+          "importance": 0.00005413519493395922,
+          "popularity": 4.035640485426883,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51560b91789e2658c05963a2f77c83814040f00103f901b72bede601000000c0020192030b50697a7a61205477697374",
+        "bbox": {
+          "lon1": -96.6034723,
+          "lat1": 33.0117752,
+          "lon2": -96.6033723,
+          "lat2": 33.0118752
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Twist",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "North Alma Road",
+        "housenumber": "6720",
+        "iso3166_2": "US-TX",
+        "lon": -96.7074719,
+        "lat": 33.1364835,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 40836.24229398224,
+        "formatted": "Pizza Twist, 6720 North Alma Road, McKinney, TX 75070, United States of America",
+        "address_line1": "Pizza Twist",
+        "address_line2": "6720 North Alma Road, McKinney, TX 75070, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865547PV+H2",
+        "plus_code_short": "47PV+H2 McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 4.551447382318234,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b2553838472d58c059c878944a78914040f00103f90144f8ee6002000000c0020192030b50697a7a61205477697374",
+        "bbox": {
+          "lon1": -96.7075219,
+          "lat1": 33.1364335,
+          "lon2": -96.7074219,
+          "lat2": 33.1365335
+        }
+      }
+    ],
+    "query": {
+      "text": "Pizza Twist"
+    }
+  }
+}

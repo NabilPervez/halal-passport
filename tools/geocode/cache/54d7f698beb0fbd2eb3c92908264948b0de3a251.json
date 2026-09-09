@@ -1,0 +1,266 @@
+{
+  "queriedName": "Mad Dogs DFW",
+  "queriedAt": "2026-09-09T00:31:49.635Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Mad Hatter",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Richardson",
+        "postcode": "75082",
+        "street": "West CityLine Drive",
+        "housenumber": "120",
+        "iso3166_2": "US-TX",
+        "lon": -96.7050173,
+        "lat": 33.0013544,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 26384.15515826552,
+        "formatted": "The Mad Hatter, 120 West CityLine Drive, Richardson, TX 75082, United States of America",
+        "address_line1": "The Mad Hatter",
+        "address_line2": "120 West CityLine Drive, Richardson, TX 75082, United States of America",
+        "category": "catering.bar",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655272V+GX",
+        "plus_code_short": "272V+GX Richardson, Collin County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.989386526120542,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514fa7e1001f2d58c05954da87612c804040f00103f9011be5ef1703000000c0020192030e546865204d616420486174746572e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323836343939363131",
+        "bbox": {
+          "lon1": -96.7050673,
+          "lat1": 33.0013044,
+          "lon2": -96.7049673,
+          "lat2": 33.0014044
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Mad Duck Cyclery",
+        "housenumber": "721",
+        "street": "East NW Highway",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Grapevine",
+        "iso3166_2": "US-TX",
+        "lon": -97.070861,
+        "lat": 32.941529,
+        "result_type": "amenity",
+        "distance": 31448.812811378997,
+        "postcode": "76051",
+        "formatted": "Mad Duck Cyclery, 721 East NW Highway, Grapevine, TX 76051, United States of America",
+        "address_line1": "Mad Duck Cyclery",
+        "address_line2": "721 East NW Highway, Grapevine, TX 76051, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WWRH+JM",
+        "plus_code_short": "RH+JM Grapevine, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.494274205834523,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51f56393fc884458c059289eb30584784040f00102f901a8dfd32800000000c002019203104d6164204475636b204379636c657279e203216f70656e7374726565746d61703a76656e75653a7761792f363834393733393932",
+        "bbox": {
+          "lon1": -97.0709552,
+          "lat1": 32.9413803,
+          "lon2": -97.0708046,
+          "lat2": 32.9416399
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mad Duck Cyclery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Grapevine",
+        "postcode": "76051",
+        "street": "East Northwest Highway",
+        "housenumber": "721",
+        "iso3166_2": "US-TX",
+        "lon": -97.070911,
+        "lat": 32.9414469,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 31447.31204744146,
+        "formatted": "Mad Duck Cyclery, 721 East Northwest Highway, Grapevine, TX 76051, United States of America",
+        "address_line1": "Mad Duck Cyclery",
+        "address_line2": "721 East Northwest Highway, Grapevine, TX 76051, United States of America",
+        "category": "commercial.outdoor_and_sport.bicycle",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644WWRH+HJ",
+        "plus_code_short": "RH+HJ Grapevine, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005779888609135603,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514e7b4ace894458c059d635ff5481784040f00102f901a8dfd32800000000c002019203104d6164204475636b204379636c657279",
+        "bbox": {
+          "lon1": -97.0709552,
+          "lat1": 32.9413803,
+          "lon2": -97.0708046,
+          "lat2": 32.9416399
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mad For Chicken",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Flower Mound",
+        "postcode": "75028",
+        "street": "Morriss Road",
+        "iso3166_2": "US-TX",
+        "lon": -97.0442135,
+        "lat": 33.011681,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 34838.66313722812,
+        "formatted": "Mad For Chicken, Morriss Road, Flower Mound, TX 75028, United States of America",
+        "address_line1": "Mad For Chicken",
+        "address_line2": "Morriss Road, Flower Mound, TX 75028, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542X64+M8",
+        "plus_code_short": "2X64+M8 Flower Mound, Denton County, United States",
+        "rank": {
+          "importance": 0.00004801174944681495,
+          "popularity": 3.689646035152226,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51ab22dc64d44258c059077e54c37e814040f00103f901f159928a02000000c0020192030f4d616420466f7220436869636b656ee203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130393134373831363831",
+        "bbox": {
+          "lon1": -97.0442635,
+          "lat1": 33.011631,
+          "lon2": -97.0441635,
+          "lat2": 33.011731
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Mad Duck Cyclery",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Roanoke",
+        "postcode": "76262",
+        "street": "West Byron Nelson Boulevard",
+        "housenumber": "295",
+        "iso3166_2": "US-TX",
+        "lon": -97.2313021,
+        "lat": 33.0066796,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 47923.05212962823,
+        "formatted": "Mad Duck Cyclery, 295 West Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",
+        "address_line1": "Mad Duck Cyclery",
+        "address_line2": "295 West Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",
+        "category": "commercial.outdoor_and_sport.bicycle",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542Q49+MF",
+        "plus_code_short": "49+MF, 76262 Roanoke, United States",
+        "rank": {
+          "importance": 0.000055679407949904895,
+          "popularity": 3.328192810648092,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c0bf52a7cd4e58c05972c68be0da804040f00103f90115a05fd101000000c002019203104d6164204475636b204379636c657279e203236f70656e7374726565746d61703a76656e75653a6e6f64652f37383037363732333431",
+        "bbox": {
+          "lon1": -97.2313521,
+          "lat1": 33.0066296,
+          "lon2": -97.2312521,
+          "lat2": 33.0067296
+        }
+      }
+    ],
+    "query": {
+      "text": "Mad Dogs DFW"
+    }
+  }
+}

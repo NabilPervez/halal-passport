@@ -1,0 +1,276 @@
+{
+  "queriedName": "Balqees Coffee",
+  "queriedAt": "2026-09-09T00:32:18.583Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Weekend Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Downtown PID",
+        "street": "Main Street",
+        "housenumber": "1530",
+        "iso3166_2": "US-TX",
+        "lon": -96.798229,
+        "lat": 32.7802132,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 375.3121932284782,
+        "formatted": "Weekend Coffee, 1530 Main Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Weekend Coffee",
+        "address_line2": "1530 Main Street, Dallas, TX 75226, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J2+3P",
+        "plus_code_short": "J2+3P, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51016e162f163358c05929f4b006de634040f00103f9011a439e7001000000c0020192030e5765656b656e6420436f66666565e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36313834333837333534",
+        "bbox": {
+          "lon1": -96.798279,
+          "lat1": 32.7801632,
+          "lon2": -96.798179,
+          "lat2": 32.7802632
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Merit Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75226",
+        "suburb": "Deep Ellum PID",
+        "street": "Main Street",
+        "housenumber": "2639",
+        "iso3166_2": "US-TX",
+        "lon": -96.7847921,
+        "lat": 32.7839686,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 1379.4782859664424,
+        "formatted": "Merit Coffee, 2639 Main Street, Dallas, TX 75226, United States of America",
+        "address_line1": "Merit Coffee",
+        "address_line2": "2639 Main Street, Dallas, TX 75226, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6M8+H3",
+        "plus_code_short": "Q6M8+H3, 75226 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 7.389048234071144,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5130eaa4083a3258c059a30b451559644040f00102f90124d07b4200000000c0020192030c4d6572697420436f66666565e203226f70656e7374726565746d61703a76656e75653a7761792f31313135343130343638",
+        "bbox": {
+          "lon1": -96.784874,
+          "lat1": 32.7838614,
+          "lon2": -96.7847102,
+          "lat2": 32.7840757
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "LDU Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75204",
+        "street": "North Fitzhugh Avenue",
+        "housenumber": "2650",
+        "iso3166_2": "US-TX",
+        "lon": -96.7856262,
+        "lat": 32.8144613,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Knox Henderson",
+        "result_type": "amenity",
+        "distance": 4299.037809161598,
+        "formatted": "LDU Coffee, 2650 North Fitzhugh Avenue, Dallas, TX 75204, United States of America",
+        "address_line1": "LDU Coffee",
+        "address_line2": "2650 North Fitzhugh Avenue, Dallas, TX 75204, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R677+QP",
+        "plus_code_short": "R677+QP, 75204 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.89000359831882,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515ef81cb3473258c059c7ad934440684040f00103f901ef7d68be02000000c0020192030a4c445520436f66666565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131373834343533363135",
+        "bbox": {
+          "lon1": -96.7856762,
+          "lat1": 32.8144113,
+          "lon2": -96.7855762,
+          "lat2": 32.8145113
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Houndstooth Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75206",
+        "district": "Lowest Greenville",
+        "street": "McMillan Avenue",
+        "housenumber": "1802",
+        "iso3166_2": "US-TX",
+        "lon": -96.7745417,
+        "lat": 32.8115541,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 4378.318280278005,
+        "formatted": "Houndstooth Coffee, 1802 McMillan Avenue, Dallas, TX 75206, United States of America",
+        "address_line1": "Houndstooth Coffee",
+        "address_line2": "1802 McMillan Avenue, Dallas, TX 75206, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R66G+J5",
+        "plus_code_short": "R66G+J5, 75206 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.748357105823297,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d9b85917923158c059a5373701e1674040f00103f9017fdfce6c00000000c00201920312486f756e6473746f6f746820436f66666565e203236f70656e7374726565746d61703a76656e75653a6e6f64652f31383235343936393539",
+        "bbox": {
+          "lon1": -96.7745917,
+          "lat1": 32.8115041,
+          "lon2": -96.7744917,
+          "lat2": 32.8116041
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Merit Coffee",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "suburb": "Lakewood",
+        "street": "Abrams Road",
+        "housenumber": "4124",
+        "iso3166_2": "US-TX",
+        "lon": -96.7525234,
+        "lat": 32.835837,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 7751.237804244808,
+        "formatted": "Merit Coffee, 4124 Abrams Road, Dallas, TX 75214, United States of America",
+        "address_line1": "Merit Coffee",
+        "address_line2": "4124 Abrams Road, Dallas, TX 75214, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R6PW+8X",
+        "plus_code_short": "R6PW+8X, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.936477485103446,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51621ee857293058c059b4e4f1b4fc6a4040f00103f901fba962be02000000c0020192030c4d6572697420436f66666565e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131373834303731363735",
+        "bbox": {
+          "lon1": -96.7525734,
+          "lat1": 32.835787,
+          "lon2": -96.7524734,
+          "lat2": 32.835887
+        }
+      }
+    ],
+    "query": {
+      "text": "Balqees Coffee"
+    }
+  }
+}

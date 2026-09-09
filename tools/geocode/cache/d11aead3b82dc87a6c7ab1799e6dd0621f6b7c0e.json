@@ -1,0 +1,62 @@
+{
+  "queriedName": "Pizza Vibes",
+  "queriedAt": "2026-09-09T00:36:38.858Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pizza Vibes",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "The Colony",
+        "hamlet": "Camey",
+        "postcode": "75056",
+        "street": "South Colony Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.8660257,
+        "lat": 33.0783277,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 34119.87814603888,
+        "formatted": "Pizza Vibes, South Colony Boulevard, The Colony, TX 75056, United States of America",
+        "address_line1": "Pizza Vibes",
+        "address_line2": "South Colony Boulevard, The Colony, TX 75056, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865534HM+8H",
+        "plus_code_short": "34HM+8H The Colony, Denton County, United States",
+        "rank": {
+          "importance": 0.00005557106889443835,
+          "popularity": 4.496580597223852,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51b6bf0ef76c3758c0597aef5ea4068a4040f00103f901c7bc98ea02000000c0020192030b50697a7a61205669626573",
+        "bbox": {
+          "lon1": -96.8660757,
+          "lat1": 33.0782777,
+          "lon2": -96.8659757,
+          "lat2": 33.0783777
+        }
+      }
+    ],
+    "query": {
+      "text": "Pizza Vibes"
+    }
+  }
+}

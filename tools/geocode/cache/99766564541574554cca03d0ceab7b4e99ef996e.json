@@ -1,0 +1,262 @@
+{
+  "queriedName": "Milano halal Pizza",
+  "queriedAt": "2026-09-09T00:41:04.383Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Milano Nail Spa",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75230",
+        "street": "Preston Road",
+        "housenumber": "11661",
+        "iso3166_2": "US-TX",
+        "lon": -96.804704,
+        "lat": 32.9073713,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Hollow",
+        "result_type": "amenity",
+        "distance": 14514.502585485796,
+        "formatted": "Milano Nail Spa, 11661 Preston Road, Dallas, TX 75230, United States of America",
+        "address_line1": "Milano Nail Spa",
+        "address_line2": "11661 Preston Road, Dallas, TX 75230, United States of America",
+        "category": "commercial.health_and_beauty;service.beauty.spa",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W54W+W4",
+        "plus_code_short": "W54W+W4, 75230 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.793087578077971,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5177bd3445803358c0591d6a25be24744040f00103f901b587b61603000000c0020192030f4d696c616e6f204e61696c20537061e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133323635393632393333",
+        "bbox": {
+          "lon1": -96.804754,
+          "lat1": 32.9073213,
+          "lon2": -96.804654,
+          "lat2": 32.9074213
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Dorfman Milano",
+        "housenumber": "1565",
+        "street": "TX-66",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75040",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.608306,
+        "lat": 32.91176,
+        "result_type": "amenity",
+        "distance": 23136.11119992624,
+        "formatted": "Dorfman Milano, 1565 TX-66, Garland, TX 75040, United States of America",
+        "address_line1": "Dorfman Milano",
+        "address_line2": "1565 TX-66, Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W96R+PM",
+        "plus_code_short": "W96R+PM, 75040 Garland, United States",
+        "rank": {
+          "popularity": 4.423310733318864,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517afd497cee2658c05986e63a8db4744040f00102f901d01a082800000000c0020192030e446f72666d616e204d696c616e6fe203216f70656e7374726565746d61703a76656e75653a7761792f363731363139373932",
+        "bbox": {
+          "lon1": -96.6087002,
+          "lat1": 32.9111401,
+          "lon2": -96.607961,
+          "lat2": 32.9122272
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Dorfman Milano",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75040",
+        "street": "State Highway 66",
+        "housenumber": "1565",
+        "iso3166_2": "US-TX",
+        "lon": -96.6083306,
+        "lat": 32.911527,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23117.60485621605,
+        "formatted": "Dorfman Milano, 1565 State Highway 66, Garland, TX 75040, United States of America",
+        "address_line1": "Dorfman Milano",
+        "address_line2": "1565 State Highway 66, Garland, TX 75040, United States of America",
+        "category": "building",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W96R+JM",
+        "plus_code_short": "W96R+JM, 75040 Garland, United States",
+        "rank": {
+          "importance": 0.00006185778591587729,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fd0978e3ee2658c059e335afeaac744040f00102f901d01a082800000000c0020192030e446f72666d616e204d696c616e6f",
+        "bbox": {
+          "lon1": -96.6087002,
+          "lat1": 32.9111401,
+          "lon2": -96.607961,
+          "lat2": 32.9122272
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Milano Drive",
+        "street": "Milano Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.785095,
+        "lat": 33.054172,
+        "result_type": "street",
+        "distance": 30840.190637759464,
+        "postcode": "75093",
+        "formatted": "Milano Drive, Plano, TX 75093, United States of America",
+        "address_line1": "Milano Drive",
+        "address_line2": "Plano, TX 75093, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86553637+MX",
+        "plus_code_short": "3637+MX, 75093 Plano, United States",
+        "rank": {
+          "popularity": 4.850450881467877,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51335019ff3e3258c059f12dac1bef864040c0020492030c4d696c616e6f204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343038343937",
+        "bbox": {
+          "lon1": -96.785443,
+          "lat1": 33.051826,
+          "lon2": -96.784972,
+          "lat2": 33.056476
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Milano Lane",
+        "street": "Milano Lane",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.848893,
+        "lat": 33.110713,
+        "result_type": "street",
+        "distance": 37421.870019252536,
+        "postcode": "75034",
+        "formatted": "Milano Lane, Frisco, TX 75034, United States of America",
+        "address_line1": "Milano Lane",
+        "address_line2": "Frisco, TX 75034, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554562+7C",
+        "plus_code_short": "4562+7C, 75034 Frisco, United States",
+        "rank": {
+          "popularity": 4.514276853105084,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "516a334e43543658c059fb1ef5d72b8e4040c0020492030b4d696c616e6f204c616e65e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343034363132",
+        "bbox": {
+          "lon1": -96.848971,
+          "lat1": 33.110304,
+          "lon2": -96.848589,
+          "lat2": 33.111185
+        }
+      }
+    ],
+    "query": {
+      "text": "Milano halal Pizza"
+    }
+  }
+}

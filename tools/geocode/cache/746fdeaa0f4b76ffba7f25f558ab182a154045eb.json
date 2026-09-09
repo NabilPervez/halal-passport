@@ -1,0 +1,257 @@
+{
+  "queriedName": "Crescent Moon",
+  "queriedAt": "2026-09-09T00:38:58.858Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hotel Crescent Court",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75201",
+        "district": "Klyde Warren Park-Arts District PID",
+        "suburb": "Uptown PID",
+        "street": "Crescent Court",
+        "housenumber": "400",
+        "iso3166_2": "US-TX",
+        "lon": -96.8041997,
+        "lat": 32.7941483,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 2022.1023023974615,
+        "formatted": "Hotel Crescent Court, 400 Crescent Court, Dallas, TX 75201, United States of America",
+        "address_line1": "Hotel Crescent Court",
+        "address_line2": "400 Crescent Court, Dallas, TX 75201, United States of America",
+        "category": "accommodation.hotel",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5VW+M8",
+        "plus_code_short": "VW+M8, 75201 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 6.835449723507828,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51febc0402783358c0594656c8a6a6654040f00103f9018ec56cfc01000000c00201920314486f74656c204372657363656e7420436f757274e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38353239393534313930",
+        "bbox": {
+          "lon1": -96.8042497,
+          "lat1": 32.7940983,
+          "lon2": -96.8041497,
+          "lat2": 32.7941983
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Crescent Medical Center",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Lancaster",
+        "iso3166_2": "US-TX",
+        "lon": -96.812698,
+        "lat": 32.603451,
+        "result_type": "amenity",
+        "distance": 19353.63017230585,
+        "postcode": "75146",
+        "formatted": "Crescent Medical Center, Lancaster, TX 75146, United States of America",
+        "address_line1": "Crescent Medical Center",
+        "address_line2": "Lancaster, TX 75146, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J53P+9W",
+        "plus_code_short": "J53P+9W, 75146 Lancaster, United States",
+        "rank": {
+          "popularity": 3.3112572655815766,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5193e1783e033458c05987dee2e13d4d4040f00103f90143f0b57c02000000c002019203174372657363656e74204d65646963616c2043656e746572e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130363832323332383939"
+      },
+      {
+        "country_code": "us",
+        "name": "Crescent Medical Center Lancaster",
+        "housenumber": "2600",
+        "street": "West Pleasant Run Road",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75146",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Lancaster",
+        "iso3166_2": "US-TX",
+        "lon": -96.812441,
+        "lat": 32.602918,
+        "result_type": "amenity",
+        "distance": 19410.921802567344,
+        "formatted": "Crescent Medical Center Lancaster, 2600 West Pleasant Run Road, Lancaster, TX 75146, United States of America",
+        "address_line1": "Crescent Medical Center Lancaster",
+        "address_line2": "2600 West Pleasant Run Road, Lancaster, TX 75146, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J53Q+52",
+        "plus_code_short": "J53Q+52, 75146 Lancaster, United States",
+        "rank": {
+          "popularity": 3.3112572655815766,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "517e3b8908ff3358c059ba15c26a2c4d4040f00102f9019f5c432c00000000c002019203214372657363656e74204d65646963616c2043656e746572204c616e636173746572e203216f70656e7374726565746d61703a76656e75653a7761792f373432363132313237",
+        "bbox": {
+          "lon1": -96.8142853,
+          "lat1": 32.6016837,
+          "lon2": -96.811211,
+          "lat2": 32.6040574
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Crescent Medical Center",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Lancaster",
+        "postcode": "75146",
+        "street": "West Pleasant Run Road",
+        "housenumber": "2600",
+        "iso3166_2": "US-TX",
+        "lon": -96.8126979,
+        "lat": 32.603451,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 19353.629461967328,
+        "formatted": "Crescent Medical Center, 2600 West Pleasant Run Road, Lancaster, TX 75146, United States of America",
+        "address_line1": "Crescent Medical Center",
+        "address_line2": "2600 West Pleasant Run Road, Lancaster, TX 75146, United States of America",
+        "category": "public_transport.bus",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J53P+9W",
+        "plus_code_short": "J53P+9W, 75146 Lancaster, United States",
+        "rank": {
+          "importance": 0.00005558937972071439,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c9810d3e033458c05987dee2e13d4d4040f00103f90143f0b57c02000000c002019203174372657363656e74204d65646963616c2043656e746572",
+        "bbox": {
+          "lon1": -96.8127479,
+          "lat1": 32.603401,
+          "lon2": -96.8126479,
+          "lat2": 32.603501
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Callier Center Richardson",
+        "housenumber": "2895",
+        "street": "Facilities Way",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75080",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Richardson",
+        "iso3166_2": "US-TX",
+        "lon": -96.748789,
+        "lat": 32.992376,
+        "result_type": "amenity",
+        "distance": 24368.1997429436,
+        "formatted": "Callier Center Richardson, 2895 Facilities Way, Richardson, TX 75080, United States of America",
+        "address_line1": "Callier Center Richardson",
+        "address_line2": "2895 Facilities Way, Richardson, TX 75080, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7R2+XF",
+        "plus_code_short": "X7R2+XF Richardson, Dallas County, United States",
+        "rank": {
+          "popularity": 4.95774129998902,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b1a6b228ec2f58c059ebaa402d067f4040f00102f901ee74602000000000c0020192031943616c6c6965722043656e7465722052696368617264736f6ee203216f70656e7374726565746d61703a76656e75653a7761792f353433313932333032",
+        "bbox": {
+          "lon1": -96.749079,
+          "lat1": 32.9921035,
+          "lon2": -96.74832,
+          "lat2": 32.9926182
+        }
+      }
+    ],
+    "query": {
+      "text": "Crescent Moon"
+    }
+  }
+}

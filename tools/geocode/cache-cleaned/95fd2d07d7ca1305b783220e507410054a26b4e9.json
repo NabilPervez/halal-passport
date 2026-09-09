@@ -1,0 +1,169 @@
+{
+  "queriedName": "FALAFEL AVE",
+  "queriedAt": "2026-09-09T00:44:33.148Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Park Avenue",
+        "street": "Park Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Government District",
+        "iso3166_2": "US-TX",
+        "lon": -96.793642,
+        "lat": 32.778228,
+        "result_type": "street",
+        "distance": 342.35074833650606,
+        "postcode": "75201",
+        "formatted": "Park Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Park Avenue",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6H4+7G",
+        "plus_code_short": "H4+7G, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 7.362118110465368,
+          "confidence": 0.35,
+          "confidence_street_level": 0.7,
+          "match_type": "match_by_street"
+        },
+        "place_id": "51daaed007cb3258c0596e6aa0f99c634040c0020492030b5061726b204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353338323135",
+        "bbox": {
+          "lon1": -96.793892,
+          "lat1": 32.777541,
+          "lon2": -96.793392,
+          "lat2": 32.778915
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Pacific Avenue",
+        "street": "Pacific Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "Downtown",
+        "iso3166_2": "US-TX",
+        "lon": -96.798067,
+        "lat": 32.782449,
+        "result_type": "street",
+        "distance": 614.0583550963636,
+        "postcode": "75201",
+        "formatted": "Pacific Avenue, Dallas, TX 75201, United States of America",
+        "address_line1": "Pacific Avenue",
+        "address_line2": "Dallas, TX 75201, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q6J2+XQ",
+        "plus_code_short": "J2+XQ, 75201 Dallas, United States",
+        "rank": {
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "confidence_street_level": 0,
+          "match_type": "match_by_street"
+        },
+        "place_id": "5114419c87133358c059dae4f04927644040c0020492030e50616369666963204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353334323436",
+        "bbox": {
+          "lon1": -96.799958,
+          "lat1": 32.78202,
+          "lon2": -96.796172,
+          "lat2": 32.782863
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Pacific Avenue",
+        "street": "Pacific Avenue",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Dallas",
+        "suburb": "West End Historic District",
+        "iso3166_2": "US-TX",
+        "lon": -96.804092,
+        "lat": 32.781225,
+        "result_type": "street",
+        "distance": 812.5948884059808,
+        "postcode": "75202",
+        "formatted": "Pacific Avenue, Dallas, TX 75202, United States of America",
+        "address_line1": "Pacific Avenue",
+        "address_line2": "Dallas, TX 75202, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645Q5JW+F9",
+        "plus_code_short": "JW+F9, 75202 Dallas, United States",
+        "rank": {
+          "popularity": 8.337264815307616,
+          "confidence": 0,
+          "confidence_street_level": 0,
+          "match_type": "match_by_street"
+        },
+        "place_id": "516abe4a3e763358c059a7e8482eff634040c0020492030e50616369666963204176656e7565e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353431313131",
+        "bbox": {
+          "lon1": -96.808195,
+          "lat1": 32.78045,
+          "lon2": -96.799986,
+          "lat2": 32.782122
+        }
+      }
+    ],
+    "query": {
+      "text": "FALAFEL AVE",
+      "parsed": {
+        "house": "falafel",
+        "street": "ave",
+        "expected_type": "amenity"
+      }
+    }
+  }
+}

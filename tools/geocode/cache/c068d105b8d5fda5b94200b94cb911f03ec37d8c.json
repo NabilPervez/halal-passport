@@ -1,0 +1,257 @@
+{
+  "queriedName": "Rose Mediterranean Cuisine",
+  "queriedAt": "2026-09-09T00:36:19.243Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rose Mary Haggar Rose Garden",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "iso3166_2": "US-TX",
+        "lon": -96.7165017,
+        "lat": 32.8235613,
+        "state_code": "TX",
+        "street": "Rose Mary Haggar Rose Garden",
+        "county_code": "DS",
+        "suburb": "East Dallas",
+        "result_type": "amenity",
+        "distance": 9133.148946514482,
+        "postcode": "75218",
+        "formatted": "Rose Mary Haggar Rose Garden, Dallas, TX 75218, United States of America",
+        "address_line1": "Rose Mary Haggar Rose Garden",
+        "address_line2": "Dallas, TX 75218, United States of America",
+        "category": "leisure.park.garden",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7FM+C9",
+        "plus_code_short": "R7FM+C9, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.06674308155947203,
+          "popularity": 4.585349456550994,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51d141f229db2d58c05929e0e8746a694040f00102f90171d65b5500000000c0020192031c526f7365204d6172792048616767617220526f73652047617264656ee203226f70656e7374726565746d61703a76656e75653a7761792f31343332303832303333",
+        "bbox": {
+          "lon1": -96.7166648,
+          "lat1": 32.8234331,
+          "lon2": -96.7163336,
+          "lat2": 32.823683
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoky Rose",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75218",
+        "street": "Garland Road",
+        "housenumber": "8602",
+        "iso3166_2": "US-TX",
+        "lon": -96.7143569,
+        "lat": 32.823049,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Casa Linda",
+        "result_type": "amenity",
+        "distance": 9267.411290716447,
+        "formatted": "Smoky Rose, 8602 Garland Road, Dallas, TX 75218, United States of America",
+        "address_line1": "Smoky Rose",
+        "address_line2": "8602 Garland Road, Dallas, TX 75218, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R7FP+67",
+        "plus_code_short": "R7FP+67, 75218 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.585832654067928,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5101cb0006b82d58c059b4006dab59694040f00102f90141b3cd1b00000000c0020192030a536d6f6b7920526f7365e203216f70656e7374726565746d61703a76656e75653a7761792f343636343635363031",
+        "bbox": {
+          "lon1": -96.7145457,
+          "lat1": 32.8229022,
+          "lon2": -96.7142295,
+          "lat2": 32.823194
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Rose Hill",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Rose Hill",
+        "iso3166_2": "US-TX",
+        "lon": -96.5861,
+        "lat": 32.85318,
+        "result_type": "city",
+        "distance": 21452.094226040273,
+        "formatted": "Rose Hill, TX, United States of America",
+        "address_line1": "Rose Hill, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645VC37+7H",
+        "rank": {
+          "popularity": 3.908768486583208,
+          "confidence": 0,
+          "confidence_city_level": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e10b93a9822558c059f7cc9200356d4040c00208920309526f73652048696c6ce2031967656f6e616d65733a6c6f63616c6974793a34373233383239"
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Rose Nails",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75067",
+        "street": "West Main Street",
+        "iso3166_2": "US-TX",
+        "lon": -97.0240964,
+        "lat": 33.0416943,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 36272.79294019068,
+        "formatted": "Rose Nails, West Main Street, Lewisville, TX 75067, United States of America",
+        "address_line1": "Rose Nails",
+        "address_line2": "West Main Street, Lewisville, TX 75067, United States of America",
+        "category": "commercial.health_and_beauty;service.beauty.spa",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86542XRG+M9",
+        "plus_code_short": "2XRG+M9, 75067 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 3.857277177832495,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51e37ca0cb8a4158c059fe76233d56854040f00103f90137ac658902000000c0020192030a526f7365204e61696c73e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130383935303736343037",
+        "bbox": {
+          "lon1": -97.0241464,
+          "lat1": 33.0416443,
+          "lon2": -97.0240464,
+          "lat2": 33.0417443
+        }
+      },
+      {
+        "country_code": "us",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "street": "Rose Gardens",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Fort Worth",
+        "suburb": "Parks District",
+        "iso3166_2": "US-TX",
+        "lon": -97.364439,
+        "lat": 32.735362,
+        "result_type": "amenity",
+        "distance": 53264.413787408244,
+        "postcode": "76107",
+        "formatted": "Rose Gardens, Fort Worth, TX 76107, United States of America",
+        "address_line1": "Rose Gardens",
+        "address_line2": "Fort Worth, TX 76107, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644PJPP+46",
+        "plus_code_short": "PJPP+46 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.165905928625454,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c498f4f7525758c0594f5c8e57205e4040f00102f9010c7a565500000000c00201e203226f70656e7374726565746d61703a76656e75653a7761792f31343331373330373030",
+        "bbox": {
+          "lon1": -97.3653557,
+          "lat1": 32.7343977,
+          "lon2": -97.3631523,
+          "lat2": 32.7361946
+        }
+      }
+    ],
+    "query": {
+      "text": "Rose Mediterranean Cuisine"
+    }
+  }
+}

@@ -1,9 +1,9 @@
 import { AnimatePresence, motion } from "framer-motion";
-import type { Restaurant } from "../types";
+import type { RestaurantWithSaveState } from "../types";
 import { RestaurantCard } from "./RestaurantCard";
 
 interface BentoGridProps {
-  restaurants: Restaurant[];
+  restaurants: RestaurantWithSaveState[];
   onOpen: (id: string) => void;
   onToggleSave: (id: string, next: "wishlist" | "eaten" | "none") => void;
   emptyTitle: string;

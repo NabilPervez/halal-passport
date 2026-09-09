@@ -1,0 +1,256 @@
+{
+  "queriedName": "Beeso Coffee at Firewheel",
+  "queriedAt": "2026-09-09T00:32:17.869Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Firewheel Parkway",
+        "street": "Firewheel Parkway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.605909,
+        "lat": 32.940915,
+        "result_type": "street",
+        "distance": 25510.52261882762,
+        "postcode": "75040",
+        "formatted": "Firewheel Parkway, Garland, TX 75040, United States of America",
+        "address_line1": "Firewheel Parkway",
+        "address_line2": "Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W9RV+9J",
+        "plus_code_short": "W9RV+9J, 75040 Garland, United States",
+        "rank": {
+          "popularity": 4.303803426431058,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5188d68a36c72658c0596da818e76f784040c0020492031146697265776865656c205061726b776179e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3331383730393832",
+        "bbox": {
+          "lon1": -96.615807,
+          "lat1": 32.928544,
+          "lon2": -96.586178,
+          "lat2": 32.958314
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Firewheel Drive",
+        "street": "Firewheel Drive",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.621647,
+        "lat": 32.95893,
+        "result_type": "street",
+        "distance": 26027.913071619907,
+        "postcode": "75044",
+        "formatted": "Firewheel Drive, Garland, TX 75044, United States of America",
+        "address_line1": "Firewheel Drive",
+        "address_line2": "Garland, TX 75044, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X95H+H8",
+        "plus_code_short": "X95H+H8, 75044 Garland, United States",
+        "rank": {
+          "popularity": 4.273590650994756,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5104aa7f10c92758c0599f93de37be7a4040c0020492030f46697265776865656c204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230353232383331",
+        "bbox": {
+          "lon1": -96.624128,
+          "lat1": 32.958019,
+          "lon2": -96.620333,
+          "lat2": 32.961795
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Alta Firewheel",
+        "housenumber": "3422",
+        "street": "Firewheel Parkway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75040",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Garland",
+        "iso3166_2": "US-TX",
+        "lon": -96.606806,
+        "lat": 32.952262,
+        "result_type": "amenity",
+        "distance": 26369.459327417502,
+        "formatted": "Alta Firewheel, 3422 Firewheel Parkway, Garland, TX 75040, United States of America",
+        "address_line1": "Alta Firewheel",
+        "address_line2": "3422 Firewheel Parkway, Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X92V+W7",
+        "plus_code_short": "X92V+W7, 75040 Garland, United States",
+        "rank": {
+          "popularity": 4.313802793319886,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "511041d5e8d52658c0599d9ca1b8e3794040f00102f90163741a5400000000c0020192030e416c74612046697265776865656ce203226f70656e7374726565746d61703a76656e75653a7761792f31343131303139383735",
+        "bbox": {
+          "lon1": -96.6075619,
+          "lat1": 32.9513009,
+          "lon2": -96.6055351,
+          "lat2": 32.9532799
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Alta Firewheel",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75040",
+        "housenumber": "3422",
+        "iso3166_2": "US-TX",
+        "lon": -96.6064931,
+        "lat": 32.9522626,
+        "state_code": "TX",
+        "result_type": "building",
+        "distance": 26389.20456809069,
+        "formatted": "3422, Garland, TX 75040, United States of America",
+        "address_line1": "3422",
+        "address_line2": "Garland, TX 75040, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X92V+WC",
+        "plus_code_short": "X92V+WC, 75040 Garland, United States",
+        "rank": {
+          "importance": 0.08006185778591589,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fa6f6fc8d02658c0591a1aaabde3794040f00102f90163741a5400000000c0020392030e416c74612046697265776865656c",
+        "bbox": {
+          "lon1": -96.6075619,
+          "lat1": 32.9513009,
+          "lon2": -96.6055351,
+          "lat2": 32.9532799
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Firewheel Drive",
+        "street": "Firewheel Drive",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Plano",
+        "iso3166_2": "US-TX",
+        "lon": -96.782644,
+        "lat": 33.081603,
+        "result_type": "street",
+        "distance": 33896.84576300746,
+        "postcode": "75024",
+        "formatted": "Firewheel Drive, Plano, TX 75024, United States of America",
+        "address_line1": "Firewheel Drive",
+        "address_line2": "Plano, TX 75024, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865536J8+JW",
+        "plus_code_short": "36J8+JW, 75024 Plano, United States",
+        "rank": {
+          "popularity": 4.769655283118592,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51481adcd6163258c059b42094f7718a4040c0020492030f46697265776865656c204472697665e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230343130393130",
+        "bbox": {
+          "lon1": -96.785453,
+          "lat1": 33.081435,
+          "lon2": -96.779842,
+          "lat2": 33.081702
+        }
+      }
+    ],
+    "query": {
+      "text": "Beeso Coffee at Firewheel"
+    }
+  }
+}

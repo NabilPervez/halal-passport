@@ -1,0 +1,266 @@
+{
+  "queriedName": "Hot Breads Irving",
+  "queriedAt": "2026-09-09T00:37:32.560Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Hot Breads",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75038",
+        "suburb": "Las Colinas",
+        "street": "North MacArthur Boulevard",
+        "housenumber": "5330",
+        "iso3166_2": "US-TX",
+        "lon": -96.9626215,
+        "lat": 32.8818461,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "county_code": "DS",
+        "distance": 19375.06060443804,
+        "formatted": "Hot Breads, 5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",
+        "address_line1": "Hot Breads",
+        "address_line2": "5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V2JP+PX",
+        "plus_code_short": "V2JP+PX Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.611802375001198,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "514b3b35979b3d58c05975cd3f55e0704040f00103f90171a9d0d000000000c0020192030a486f7420427265616473e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33353033333335373933",
+        "bbox": {
+          "lon1": -96.9626715,
+          "lat1": 32.8817961,
+          "lon2": -96.9625715,
+          "lat2": 32.8818961
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Omni Mandalay Hotel at Las Colinas",
+        "housenumber": "221",
+        "street": "East Las Colinas Boulevard",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75039",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -96.93768,
+        "lat": 32.867437,
+        "result_type": "amenity",
+        "distance": 16550.942147316335,
+        "formatted": "Omni Mandalay Hotel at Las Colinas, 221 East Las Colinas Boulevard, Irving, TX 75039, United States of America",
+        "address_line1": "Omni Mandalay Hotel at Las Colinas",
+        "address_line2": "221 East Las Colinas Boulevard, Irving, TX 75039, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V386+XW",
+        "plus_code_short": "V386+XW Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.864168131685327,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "514087f9f2023c58c059912bf52c086f4040f00102f90178d22f2600000000c002019203224f6d6e69204d616e64616c617920486f74656c206174204c617320436f6c696e6173e203216f70656e7374726565746d61703a76656e75653a7761792f363430363638323830",
+        "bbox": {
+          "lon1": -96.9383015,
+          "lat1": 32.8667214,
+          "lon2": -96.9369575,
+          "lat2": 32.8677884
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Wyndham DFW Airport Hotel",
+        "housenumber": "4440",
+        "street": "West Airport Freeway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75062",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -97.01429,
+        "lat": 32.835409,
+        "result_type": "amenity",
+        "distance": 21321.278963383786,
+        "formatted": "Wyndham DFW Airport Hotel, 4440 West Airport Freeway, Irving, TX 75062, United States of America",
+        "address_line1": "Wyndham DFW Airport Hotel",
+        "address_line2": "4440 West Airport Freeway, Irving, TX 75062, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RXPP+57",
+        "plus_code_short": "RXPP+57 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.320469359304554,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "513baa9a20ea4058c0595ce49eaeee6a4040f00102f9014370ad0300000000c0020192031957796e6468616d2044465720416972706f727420486f74656ce203206f70656e7374726565746d61703a76656e75653a7761792f3631363938313135",
+        "bbox": {
+          "lon1": -97.0151495,
+          "lat1": 32.8349252,
+          "lon2": -97.0136581,
+          "lat2": 32.8358454
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "Atrium Hotel & Suites",
+        "housenumber": "4600",
+        "street": "West Airport Freeway",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "postcode": "75062",
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Irving",
+        "iso3166_2": "US-TX",
+        "lon": -97.019026,
+        "lat": 32.8351,
+        "result_type": "amenity",
+        "distance": 21733.08518174581,
+        "formatted": "Atrium Hotel & Suites, 4600 West Airport Freeway, Irving, TX 75062, United States of America",
+        "address_line1": "Atrium Hotel & Suites",
+        "address_line2": "4600 West Airport Freeway, Irving, TX 75062, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RXPJ+29",
+        "plus_code_short": "RXPJ+29 Irving, Dallas County, United States",
+        "rank": {
+          "popularity": 4.355621485771445,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5184f1d3b8374158c059de718a8ee46a4040f00102f9014270ad0300000000c0020192031541747269756d20486f74656c202620537569746573e203206f70656e7374726565746d61703a76656e75653a7761792f3631363938313134",
+        "bbox": {
+          "lon1": -97.0194226,
+          "lat1": 32.8346016,
+          "lon2": -97.0186295,
+          "lat2": 32.8352943
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Big Tony's Hot Cheese Steak",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Irving",
+        "postcode": "75062",
+        "street": "West Airport Freeway",
+        "housenumber": "4900",
+        "iso3166_2": "US-TX",
+        "lon": -97.0228128,
+        "lat": 32.8358055,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 22094.263128470062,
+        "formatted": "Big Tony's Hot Cheese Steak, 4900 West Airport Freeway, Irving, TX 75062, United States of America",
+        "address_line1": "Big Tony's Hot Cheese Steak",
+        "address_line2": "4900 West Airport Freeway, Irving, TX 75062, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RXPG+8V",
+        "plus_code_short": "RXPG+8V Irving, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.318605423405227,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51887bd1c3754158c0599128b4acfb6a4040f00103f901aad5d31f03000000c0020192031b42696720546f6e79277320486f742043686565736520537465616be203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343138383738333738",
+        "bbox": {
+          "lon1": -97.0228628,
+          "lat1": 32.8357555,
+          "lon2": -97.0227628,
+          "lat2": 32.8358555
+        }
+      }
+    ],
+    "query": {
+      "text": "Hot Breads Irving"
+    }
+  }
+}

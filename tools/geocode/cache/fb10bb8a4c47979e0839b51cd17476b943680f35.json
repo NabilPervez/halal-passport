@@ -1,0 +1,66 @@
+{
+  "queriedName": "Sultan",
+  "queriedAt": "2026-09-09T00:35:03.637Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Sultan",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75070",
+        "street": "Lake Forest Drive",
+        "housenumber": "3935",
+        "iso3166_2": "US-TX",
+        "lon": -96.6801218,
+        "lat": 33.1611724,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 44087.616005227,
+        "formatted": "Sultan, 3935 Lake Forest Drive, McKinney, TX 75070, United States of America",
+        "address_line1": "Sultan",
+        "address_line2": "3935 Lake Forest Drive, McKinney, TX 75070, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86555869+FX",
+        "plus_code_short": "5869+FX McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.839753004278807,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fc12961d872b58c0594882154ca1944040f00103f90126a9211903000000c0020192030653756c74616e",
+        "bbox": {
+          "lon1": -96.6801718,
+          "lat1": 33.1611224,
+          "lon2": -96.6800718,
+          "lat2": 33.1612224
+        }
+      }
+    ],
+    "query": {
+      "text": "Sultan",
+      "parsed": {
+        "city": "sultan",
+        "expected_type": "unknown"
+      }
+    }
+  }
+}

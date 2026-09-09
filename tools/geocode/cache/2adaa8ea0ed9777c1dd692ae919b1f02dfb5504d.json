@@ -1,0 +1,255 @@
+{
+  "queriedName": "The Burger Life",
+  "queriedAt": "2026-09-09T00:33:39.317Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Burger House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Garland",
+        "postcode": "75040",
+        "street": "Lavon Drive",
+        "housenumber": "1016",
+        "iso3166_2": "US-TX",
+        "lon": -96.6274953,
+        "lat": 32.9212756,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 22540.95123045996,
+        "formatted": "The Burger House, 1016 Lavon Drive, Garland, TX 75040, United States of America",
+        "address_line1": "The Burger House",
+        "address_line2": "1016 Lavon Drive, Garland, TX 75040, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W9CF+G2",
+        "plus_code_short": "CF+G2, 75040 Garland, United States",
+        "rank": {
+          "importance": 0.00006185778591587729,
+          "popularity": 4.513423134268317,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5133f90be2282858c059284dde5bec754040f00103f9015e9cb13403000000c002019203105468652042757267657220486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373638393537303232",
+        "bbox": {
+          "lon1": -96.6275453,
+          "lat1": 32.9212256,
+          "lon2": -96.6274453,
+          "lat2": 32.9213256
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Grind Burger Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Lewisville",
+        "postcode": "75010",
+        "street": "King Arthur Boulevard",
+        "iso3166_2": "US-TX",
+        "lon": -96.8991436,
+        "lat": 33.034544,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 30183.47600348832,
+        "formatted": "The Grind Burger Bar, King Arthur Boulevard, Lewisville, TX 75010, United States of America",
+        "address_line1": "The Grind Burger Bar",
+        "address_line2": "King Arthur Boulevard, Lewisville, TX 75010, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865524M2+R8",
+        "plus_code_short": "24M2+R8, 75010 Lewisville, United States",
+        "rank": {
+          "importance": 0.00005756237125195724,
+          "popularity": 4.670481166914424,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51181a99918b3958c059f22213f06b844040f00103f901a33a2ac602000000c00201920314546865204772696e642042757267657220426172e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131393134353930383833",
+        "bbox": {
+          "lon1": -96.8991936,
+          "lat1": 33.034494,
+          "lon2": -96.8990936,
+          "lat2": 33.034594
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Burger Shop Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Kaufman County",
+        "city": "Forney",
+        "postcode": "75126",
+        "suburb": "Ridgecrest Plaza",
+        "street": "Ranch Road",
+        "housenumber": "1104",
+        "iso3166_2": "US-TX",
+        "lon": -96.4571397,
+        "lat": 32.7653619,
+        "state_code": "TX",
+        "county_code": "KU",
+        "result_type": "amenity",
+        "distance": 31802.29860920423,
+        "formatted": "The Burger Shop Grill, 1104 Ranch Road, Forney, TX 75126, United States of America",
+        "address_line1": "The Burger Shop Grill",
+        "address_line2": "1104 Ranch Road, Forney, TX 75126, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645QG8V+44",
+        "plus_code_short": "QG8V+44 Forney, Kaufman County, United States",
+        "rank": {
+          "importance": 0.000055151445792279204,
+          "popularity": 3.079011373063212,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51024ddfc6411d58c0595e0df560f7614040f00103f901f47c9ef301000000c00201920315546865204275726765722053686f70204772696c6ce203236f70656e7374726565746d61703a76656e75653a6e6f64652f38333832323137343630",
+        "bbox": {
+          "lon1": -96.4571897,
+          "lat1": 32.7653119,
+          "lon2": -96.4570897,
+          "lat2": 32.7654119
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "The Colony",
+        "country": "United States",
+        "county": "Denton County",
+        "datasource": {
+          "sourcename": "whosonfirst",
+          "attribution": "Who's On First",
+          "license": "CC0",
+          "url": "https://www.whosonfirst.org/docs/licenses/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "city": "The Colony",
+        "iso3166_2": "US-TX",
+        "lon": -96.887886,
+        "lat": 33.084935,
+        "result_type": "city",
+        "distance": 35275.84452768407,
+        "formatted": "The Colony, TX, United States of America",
+        "address_line1": "The Colony, TX",
+        "address_line2": "United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865534M6+XR",
+        "plus_code_short": "M6+XR The Colony, Denton County, United States",
+        "rank": {
+          "popularity": 4.472628682547068,
+          "confidence": 0.1,
+          "confidence_city_level": 0.1,
+          "match_type": "full_match"
+        },
+        "place_id": "51e124cd1fd33858c05994a46b26df8a4040c0020892030a54686520436f6c6f6e79e2031e77686f736f6e66697273743a6c6f63616c6974793a313031373234353033",
+        "bbox": {
+          "lon1": -96.960476,
+          "lat1": 33.046636,
+          "lon2": -96.842367,
+          "lat2": 33.137145
+        }
+      },
+      {
+        "country_code": "us",
+        "name": "The Trails Golf Club",
+        "country": "United States",
+        "county": "Collin County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "CI",
+        "city": "Frisco",
+        "iso3166_2": "US-TX",
+        "lon": -96.86503,
+        "lat": 33.16516,
+        "result_type": "amenity",
+        "distance": 43625.549505899195,
+        "formatted": "The Trails Golf Club, Frisco, TX, United States of America",
+        "address_line1": "The Trails Golf Club",
+        "address_line2": "Frisco, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655548M+3X",
+        "plus_code_short": "548M+3X Frisco, Collin County, United States",
+        "rank": {
+          "popularity": 3.4672694609703383,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51c503caa65c3758c059be4d7ff623954040c0020192031454686520547261696c7320476f6c6620436c7562e2031767656f6e616d65733a76656e75653a3133353631373932"
+      }
+    ],
+    "query": {
+      "text": "The Burger Life"
+    }
+  }
+}

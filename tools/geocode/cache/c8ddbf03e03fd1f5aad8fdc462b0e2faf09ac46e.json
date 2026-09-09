@@ -1,0 +1,62 @@
+{
+  "queriedName": "Shahrzad Mediterranean Market & Grill",
+  "queriedAt": "2026-09-09T00:42:15.172Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Shahrzad Mediterranean Market & Grill",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75248",
+        "street": "North Coit Road",
+        "housenumber": "970",
+        "iso3166_2": "US-TX",
+        "lon": -96.7677509,
+        "lat": 32.9608608,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 20626.108073086965,
+        "formatted": "Shahrzad Mediterranean Market & Grill, 970 North Coit Road, Richardson, TX 75248, United States of America",
+        "address_line1": "Shahrzad Mediterranean Market & Grill",
+        "address_line2": "970 North Coit Road, Richardson, TX 75248, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X66J+8V",
+        "plus_code_short": "X66J+8V Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.951936983008176,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "515fbeabd4223158c0591301987cfd7a4040f00103f901ccb4842602000000c0020192032553686168727a6164204d65646974657272616e65616e204d61726b65742026204772696c6c",
+        "bbox": {
+          "lon1": -96.7678009,
+          "lat1": 32.9608108,
+          "lon2": -96.7677009,
+          "lat2": 32.9609108
+        }
+      }
+    ],
+    "query": {
+      "text": "Shahrzad Mediterranean Market & Grill"
+    }
+  }
+}

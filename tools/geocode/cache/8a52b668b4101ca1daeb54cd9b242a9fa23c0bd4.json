@@ -1,0 +1,122 @@
+{
+  "queriedName": "Red Hot - Indo-Chinese & Indian Kitchen",
+  "queriedAt": "2026-09-09T00:40:34.004Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Red Hot Indo Chinese & Indian Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "South Central Expressway",
+        "housenumber": "744",
+        "iso3166_2": "US-TX",
+        "lon": -96.7432742,
+        "lat": 32.9429372,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "county_code": "DS",
+        "distance": 19121.620948798325,
+        "formatted": "Red Hot Indo Chinese & Indian Kitchen, 744 South Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Red Hot Indo Chinese & Indian Kitchen",
+        "address_line2": "744 South Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645W7V4+5M",
+        "plus_code_short": "V4+5M Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.891107141109623,
+          "confidence": 0.012023750424807689,
+          "confidence_city_level": 0.3,
+          "confidence_street_level": 0.023156852669999995,
+          "match_type": "full_match"
+        },
+        "place_id": "517a3df3cd912f58c05946178a2ab2784040f00103f90129eb142602000000c0020192032552656420486f7420496e646f204368696e657365202620496e6469616e204b69746368656ee203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323238383339373231",
+        "bbox": {
+          "lon1": -96.7433242,
+          "lat1": 32.9428872,
+          "lon2": -96.7432242,
+          "lat2": 32.9429872
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Red Hot",
+        "other_names": {
+          "official_name": "Red Hot Indo-Chinese & Indian Kitchen"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "hamlet": "Buckner",
+        "postcode": "75069",
+        "street": "West University Drive",
+        "housenumber": "3905",
+        "iso3166_2": "US-TX",
+        "lon": -96.6637882,
+        "lat": 33.2167647,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 50453.078100889325,
+        "formatted": "Red Hot, 3905 West University Drive, McKinney, TX 75069, United States of America",
+        "address_line1": "Red Hot",
+        "address_line2": "3905 West University Drive, McKinney, TX 75069, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655688P+PF",
+        "plus_code_short": "688P+PF McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.065432967083062,
+          "confidence": 0.010331518883538457,
+          "confidence_city_level": 0.047619047619047616,
+          "confidence_street_level": 0.002315685266999999,
+          "match_type": "full_match"
+        },
+        "place_id": "51209e80817b2a58c059b0b618f2be9b4040f00103f901a96e291203000000c0020192030752656420486f74",
+        "bbox": {
+          "lon1": -96.6638382,
+          "lat1": 33.2167147,
+          "lon2": -96.6637382,
+          "lat2": 33.2168147
+        }
+      }
+    ],
+    "query": {
+      "text": "Red Hot - Indo-Chinese & Indian Kitchen"
+    }
+  }
+}

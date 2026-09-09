@@ -1,0 +1,62 @@
+{
+  "queriedName": "Levant BBQ",
+  "queriedAt": "2026-09-09T00:30:42.601Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Levant Mediterranean BBQ",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Frisco",
+        "postcode": "75034",
+        "street": "Preston Road",
+        "housenumber": "3211",
+        "iso3166_2": "US-TX",
+        "lon": -96.8082979,
+        "lat": 33.1058776,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 36584.76548254179,
+        "formatted": "Levant Mediterranean BBQ, 3211 Preston Road, Frisco, TX 75034, United States of America",
+        "address_line1": "Levant Mediterranean BBQ",
+        "address_line2": "3211 Preston Road, Frisco, TX 75034, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655454R+9M",
+        "plus_code_short": "454R+9M, 75034 Frisco, United States",
+        "rank": {
+          "importance": 0.00006075455863274613,
+          "popularity": 4.953202426715974,
+          "confidence": 0.9,
+          "match_type": "full_match"
+        },
+        "place_id": "513b7b1d27bb3358c05982b0ae658d8d4040f00103f90192a61a3803000000c002019203184c6576616e74204d65646974657272616e65616e20424251",
+        "bbox": {
+          "lon1": -96.8083479,
+          "lat1": 33.1058276,
+          "lon2": -96.8082479,
+          "lat2": 33.1059276
+        }
+      }
+    ],
+    "query": {
+      "text": "Levant BBQ"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "queriedName": "Jimmy's Big Burgers",
+  "queriedAt": "2026-09-09T00:38:37.522Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jimmy's Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "DeSoto",
+        "postcode": "75237",
+        "street": "West Wheatland Road",
+        "housenumber": "4141",
+        "iso3166_2": "US-TX",
+        "lon": -96.8872314,
+        "lat": 32.6478647,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16656.92802199184,
+        "formatted": "Jimmy's Burgers, 4141 West Wheatland Road, DeSoto, TX 75237, United States of America",
+        "address_line1": "Jimmy's Burgers",
+        "address_line2": "4141 West Wheatland Road, DeSoto, TX 75237, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J4X7+44",
+        "plus_code_short": "J4X7+44 DeSoto, Dallas County, United States",
+        "rank": {
+          "importance": 0.0000558701457236136,
+          "popularity": 3.666867028626482,
+          "confidence": 0.6666666666666667,
+          "match_type": "full_match"
+        },
+        "place_id": "51ffbe3566c83858c059ce5d013bed524040f00102f9017b31da1b00000000c0020192030f4a696d6d7927732042757267657273e203216f70656e7374726565746d61703a76656e75653a7761792f343637323834333437",
+        "bbox": {
+          "lon1": -96.8873037,
+          "lat1": 32.6477635,
+          "lon2": -96.8871591,
+          "lat2": 32.6479659
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tara's Big and Juicy Burgers",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Duncanville",
+        "postcode": "75116",
+        "street": "West Camp Wisdom Road",
+        "housenumber": "215",
+        "iso3166_2": "US-TX",
+        "lon": -96.9089493,
+        "lat": 32.6633583,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 16412.21584520193,
+        "formatted": "Tara's Big and Juicy Burgers, 215 West Camp Wisdom Road, Duncanville, TX 75116, United States of America",
+        "address_line1": "Tara's Big and Juicy Burgers",
+        "address_line2": "215 West Camp Wisdom Road, Duncanville, TX 75116, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645M37R+8C",
+        "plus_code_short": "7R+8C Duncanville, Dallas County, United States",
+        "rank": {
+          "importance": 0.0000558701457236136,
+          "popularity": 3.6836843424083434,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51374eaf392c3a58c059dc03beece8544040f00103f9019251a8ed00000000c0020192031c5461726127732042696720616e64204a756963792042757267657273e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33393837323331313232",
+        "bbox": {
+          "lon1": -96.9089993,
+          "lat1": 32.6633083,
+          "lon2": -96.9088993,
+          "lat2": 32.6634083
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Jimmy's Big Burger",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Plano",
+        "postcode": "75082",
+        "street": "14th Street",
+        "housenumber": "3611",
+        "iso3166_2": "US-TX",
+        "lon": -96.6638198,
+        "lat": 33.0147244,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 29212.345374530447,
+        "formatted": "Jimmy's Big Burger, 3611 14th Street, Plano, TX 75082, United States of America",
+        "address_line1": "Jimmy's Big Burger",
+        "address_line2": "3611 14th Street, Plano, TX 75082, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8655287P+VF",
+        "plus_code_short": "287P+VF, 75082 Plano, United States",
+        "rank": {
+          "importance": 0.00006374380102230895,
+          "popularity": 4.5553497884671375,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fcdb0a067c2a58c059033a387de2814040f00103f901f391309d01000000c002019203124a696d6d7927732042696720427572676572e203236f70656e7374726565746d61703a76656e75653a6e6f64652f36393332313733323939",
+        "bbox": {
+          "lon1": -96.6638698,
+          "lat1": 33.0146744,
+          "lon2": -96.6637698,
+          "lat2": 33.0147744
+        }
+      }
+    ],
+    "query": {
+      "text": "Jimmy's Big Burgers"
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "queriedName": "Juicy Joint",
+  "queriedAt": "2026-09-09T00:31:29.288Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Taco Joint",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75254",
+        "street": "Preston Road",
+        "housenumber": "14999",
+        "iso3166_2": "US-TX",
+        "lon": -96.8041131,
+        "lat": 32.9520307,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 19473.888346243217,
+        "formatted": "Taco Joint, 14999 Preston Road, Dallas, TX 75254, United States of America",
+        "address_line1": "Taco Joint",
+        "address_line2": "14999 Preston Road, Dallas, TX 75254, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X52W+R9",
+        "plus_code_short": "X52W+R9, 75254 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.406093126007769,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5140b2ca96763358c059dda45824dc794040f00103f9018773102101000000c0020192030a5461636f204a6f696e74e203236f70656e7374726565746d61703a76656e75653a6e6f64652f34383439363933353735",
+        "bbox": {
+          "lon1": -96.8041631,
+          "lat1": 32.9519807,
+          "lon2": -96.8040631,
+          "lat2": 32.9520807
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Juicy Seafood & Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Cedar Hill",
+        "postcode": "75104",
+        "street": "North Highway 67",
+        "housenumber": "436",
+        "iso3166_2": "US-TX",
+        "lon": -96.9376693,
+        "lat": 32.5967637,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 23978.411994411894,
+        "formatted": "Juicy Seafood & Bar, 436 North Highway 67, Cedar Hill, TX 75104, United States of America",
+        "address_line1": "Juicy Seafood & Bar",
+        "address_line2": "436 North Highway 67, Cedar Hill, TX 75104, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645H3W6+PW",
+        "plus_code_short": "H3W6+PW, 75104 Cedar Hill, United States",
+        "rank": {
+          "importance": 0.000056138704508995463,
+          "popularity": 3.390361948890326,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51a57d18c6023c58c0595078bfc0624c4040f00102f901b1de801400000000c002019203134a7569637920536561666f6f64202620426172e203216f70656e7374726565746d61703a76656e75653a7761792f333433393839393337",
+        "bbox": {
+          "lon1": -96.937805,
+          "lat1": 32.5966095,
+          "lon2": -96.9375336,
+          "lat2": 32.5969179
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Smoke Joint",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Carrollton",
+        "postcode": "75007",
+        "street": "North Josey Lane",
+        "housenumber": "3065",
+        "iso3166_2": "US-TX",
+        "lon": -96.8876012,
+        "lat": 32.9993471,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Far North Dallas",
+        "result_type": "amenity",
+        "distance": 26131.19699061101,
+        "formatted": "Smoke Joint, 3065 North Josey Lane, Carrollton, TX 75007, United States of America",
+        "address_line1": "Smoke Joint",
+        "address_line2": "3065 North Josey Lane, Carrollton, TX 75007, United States of America",
+        "category": "commercial.smoking",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X4X6+PX",
+        "plus_code_short": "X4X6+PX, 75007 Carrollton, United States",
+        "rank": {
+          "importance": 0.00005816205081249741,
+          "popularity": 4.73147933051409,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51fc784375ce3858c0591ded139bea7f4040f00103f9017d80d82203000000c0020192030b536d6f6b65204a6f696e74e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133343639353135393031",
+        "bbox": {
+          "lon1": -96.8876512,
+          "lat1": 32.9992971,
+          "lon2": -96.8875512,
+          "lat2": 32.9993971
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Juicy Dumplings",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Euless",
+        "postcode": "76039",
+        "suburb": "Glade Parks",
+        "street": "Rio Grande Boulevard",
+        "housenumber": "2910",
+        "iso3166_2": "US-TX",
+        "lon": -97.1015351,
+        "lat": 32.8784252,
+        "state_code": "TX",
+        "county_code": "TN",
+        "result_type": "amenity",
+        "distance": 30608.539903732824,
+        "formatted": "Juicy Dumplings, 2910 Rio Grande Boulevard, Euless, TX 76039, United States of America",
+        "address_line1": "Juicy Dumplings",
+        "address_line2": "2910 Rio Grande Boulevard, Euless, TX 76039, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644VVHX+99",
+        "plus_code_short": "VVHX+99 Euless, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00005574654764625036,
+          "popularity": 4.244709115591245,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "515a79138d7f4658c059bbfda83c70704040f00103f901551b252703000000c0020192030f4a756963792044756d706c696e6773e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133353431363435313431",
+        "bbox": {
+          "lon1": -97.1015851,
+          "lat1": 32.8783752,
+          "lon2": -97.1014851,
+          "lat2": 32.8784752
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Juicy Pig Barbecue",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Denton County",
+        "city": "Denton",
+        "postcode": "76204",
+        "street": "North Locust Street",
+        "housenumber": "708",
+        "iso3166_2": "US-TX",
+        "lon": -97.1320994,
+        "lat": 33.2204442,
+        "state_code": "TX",
+        "county_code": "DN",
+        "result_type": "amenity",
+        "distance": 58377.570295509555,
+        "formatted": "Juicy Pig Barbecue, 708 North Locust Street, Denton, TX 76204, United States of America",
+        "address_line1": "Juicy Pig Barbecue",
+        "address_line2": "708 North Locust Street, Denton, TX 76204, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86546VC9+55",
+        "plus_code_short": "C9+55, 76204 Denton, United States",
+        "rank": {
+          "importance": 0.00006243305104138274,
+          "popularity": 2.9994420929819943,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "518fb40a51744858c059e4cbfa83379c4040f00102f901647f753600000000c002019203124a7569637920506967204261726265637565e203216f70656e7374726565746d61703a76656e75653a7761792f393133363639393838",
+        "bbox": {
+          "lon1": -97.1322449,
+          "lat1": 33.2204219,
+          "lon2": -97.131954,
+          "lat2": 33.2205013
+        }
+      }
+    ],
+    "query": {
+      "text": "Juicy Joint"
+    }
+  }
+}

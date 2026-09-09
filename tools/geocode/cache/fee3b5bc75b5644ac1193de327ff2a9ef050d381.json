@@ -1,0 +1,61 @@
+{
+  "queriedName": "The Halal Shack",
+  "queriedAt": "2026-09-09T00:38:27.543Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "The Halal Shack",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "Margaret McDermott Mall",
+        "iso3166_2": "US-TX",
+        "lon": -96.7488345,
+        "lat": 32.9867329,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 23751.020790516,
+        "formatted": "The Halal Shack, Margaret McDermott Mall, Richardson, TX 75080, United States of America",
+        "address_line1": "The Halal Shack",
+        "address_line2": "Margaret McDermott Mall, Richardson, TX 75080, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X7P2+MF",
+        "plus_code_short": "X7P2+MF Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.238082280461582,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5175e789e7ec2f58c05991b17f434d7e4040f00103f9016ef12e9701000000c0020192030f5468652048616c616c20536861636b",
+        "bbox": {
+          "lon1": -96.7488845,
+          "lat1": 32.9866829,
+          "lon2": -96.7487845,
+          "lat2": 32.9867829
+        }
+      }
+    ],
+    "query": {
+      "text": "The Halal Shack"
+    }
+  }
+}

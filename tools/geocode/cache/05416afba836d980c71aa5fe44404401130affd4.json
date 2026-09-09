@@ -1,0 +1,62 @@
+{
+  "queriedName": "Thai Lao Express",
+  "queriedAt": "2026-09-09T00:39:38.827Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Saplai Lao & Thai Express",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Bedford",
+        "postcode": "76021",
+        "street": "North Industrial Boulevard",
+        "housenumber": "505",
+        "iso3166_2": "US-TX",
+        "lon": -97.1003437,
+        "lat": 32.8433649,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 29294.0359569542,
+        "formatted": "Saplai Lao & Thai Express, 505 North Industrial Boulevard, Bedford, TX 76021, United States of America",
+        "address_line1": "Saplai Lao & Thai Express",
+        "address_line2": "505 North Industrial Boulevard, Bedford, TX 76021, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644RVVX+8V",
+        "plus_code_short": "RVVX+8V, 76021 Bedford, United States",
+        "rank": {
+          "importance": 0.00005616311894403017,
+          "popularity": 4.222834106984314,
+          "confidence": 0.81,
+          "match_type": "full_match"
+        },
+        "place_id": "510477fb076c4658c059120c8c61f36b4040f00103f9013ac3883303000000c002019203195361706c6169204c616f202620546861692045787072657373",
+        "bbox": {
+          "lon1": -97.1003937,
+          "lat1": 32.8433149,
+          "lon2": -97.1002937,
+          "lat2": 32.8434149
+        }
+      }
+    ],
+    "query": {
+      "text": "Thai Lao Express"
+    }
+  }
+}

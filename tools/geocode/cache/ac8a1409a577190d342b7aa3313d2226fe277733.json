@@ -1,0 +1,62 @@
+{
+  "queriedName": "Talia's Cafe",
+  "queriedAt": "2026-09-09T00:32:54.070Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Talia's Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Allen",
+        "postcode": "75013",
+        "street": "West Exchange Parkway",
+        "housenumber": "1255",
+        "iso3166_2": "US-TX",
+        "lon": -96.6960633,
+        "lat": 33.1147254,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 38716.53311395154,
+        "formatted": "Talia's Cafe, 1255 West Exchange Parkway, Allen, TX 75013, United States of America",
+        "address_line1": "Talia's Cafe",
+        "address_line2": "1255 West Exchange Parkway, Allen, TX 75013, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86554873+VH",
+        "plus_code_short": "4873+VH Allen, Collin County, United States",
+        "rank": {
+          "importance": 0.000056753643091432324,
+          "popularity": 4.807853110476243,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51895c154d8c2c58c059a0826852af8e4040f00103f9019d3a92e702000000c0020192030c54616c696127732043616665",
+        "bbox": {
+          "lon1": -96.6961133,
+          "lat1": 33.1146754,
+          "lon2": -96.6960133,
+          "lat2": 33.1147754
+        }
+      }
+    ],
+    "query": {
+      "text": "Talia's Cafe"
+    }
+  }
+}

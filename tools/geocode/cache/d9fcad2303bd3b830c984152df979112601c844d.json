@@ -1,0 +1,284 @@
+{
+  "queriedName": "Qahwah House Coffee - McKinney Dallas",
+  "queriedAt": "2026-09-09T00:32:07.869Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Flying Donkey Coffee House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75215",
+        "district": "Bonton",
+        "street": "Bexar Street",
+        "housenumber": "6911",
+        "iso3166_2": "US-TX",
+        "lon": -96.7537729,
+        "lat": 32.7347163,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "South Boulevard",
+        "result_type": "amenity",
+        "distance": 6200.531770668393,
+        "formatted": "Flying Donkey Coffee House, 6911 Bexar Street, Dallas, TX 75215, United States of America",
+        "address_line1": "Flying Donkey Coffee House",
+        "address_line2": "6911 Bexar Street, Dallas, TX 75215, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645P6MW+VF",
+        "plus_code_short": "P6MW+VF, 75215 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.469769822051612,
+          "confidence": 0.0415945945945946,
+          "confidence_city_level": 0.16666666666666666,
+          "confidence_street_level": 0.016666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "511c87b0d03d3058c059482b082f0b5e4040f00102f9019613a41b00000000c0020192031a466c79696e6720446f6e6b657920436f6666656520486f757365e203216f70656e7374726565746d61703a76656e75653a7761792f343633373337373530",
+        "bbox": {
+          "lon1": -96.7538609,
+          "lat1": 32.7346733,
+          "lon2": -96.7536854,
+          "lat2": 32.7347916
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Beans & Brews Coffee House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75214",
+        "street": "East Grand Avenue",
+        "housenumber": "7532",
+        "iso3166_2": "US-TX",
+        "lon": -96.7292799,
+        "lat": 32.8104881,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Santa Monica",
+        "result_type": "amenity",
+        "distance": 7344.067117322071,
+        "formatted": "Beans & Brews Coffee House, 7532 East Grand Avenue, Dallas, TX 75214, United States of America",
+        "address_line1": "Beans & Brews Coffee House",
+        "address_line2": "7532 East Grand Avenue, Dallas, TX 75214, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645R76C+57",
+        "plus_code_short": "R76C+57, 75214 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.746706238431535,
+          "confidence": 0.037435135135135134,
+          "confidence_city_level": 0.16666666666666666,
+          "confidence_street_level": 0.016666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "5154089a85ac2e58c0590aa6f512be674040f00103f9011a9df23703000000c0020192031a4265616e73202620427265777320436f6666656520486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133383233353438363938",
+        "bbox": {
+          "lon1": -96.7293299,
+          "lat1": 32.8104381,
+          "lon2": -96.7292299,
+          "lat2": 32.8105381
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "SoCo Coffee House & Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Dallas",
+        "postcode": "75238",
+        "suburb": "Lake Highlands",
+        "street": "Audelia Road",
+        "housenumber": "9660",
+        "iso3166_2": "US-TX",
+        "lon": -96.7166454,
+        "lat": 32.8781832,
+        "state_code": "TX",
+        "county_code": "DS",
+        "result_type": "amenity",
+        "distance": 13526.23811318679,
+        "formatted": "SoCo Coffee House & Bistro, 9660 Audelia Road, Dallas, TX 75238, United States of America",
+        "address_line1": "SoCo Coffee House & Bistro",
+        "address_line2": "9660 Audelia Road, Dallas, TX 75238, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645V7HM+78",
+        "plus_code_short": "V7HM+78, 75238 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 4.6137014474280775,
+          "confidence": 0.3743513513513514,
+          "confidence_city_level": 0.16666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "510cf5aa84dd2d58c059c5f29d4e68704040f00103f90182ba49d701000000c0020192031a536f436f20436f6666656520486f75736520262042697374726fe203236f70656e7374726565746d61703a76656e75653a6e6f64652f37393036393030363130",
+        "bbox": {
+          "lon1": -96.7166954,
+          "lat1": 32.8781332,
+          "lon2": -96.7165954,
+          "lat2": 32.8782332
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Coffee House Cafe",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Dallas",
+        "postcode": "75252",
+        "street": "Frankford Road",
+        "housenumber": "6150",
+        "iso3166_2": "US-TX",
+        "lon": -96.7991655,
+        "lat": 32.9978796,
+        "state_code": "TX",
+        "county_code": "DS",
+        "suburb": "Preston Highlands",
+        "result_type": "amenity",
+        "distance": 24561.557175460235,
+        "formatted": "Coffee House Cafe, 6150 Frankford Road, Dallas, TX 75252, United States of America",
+        "address_line1": "Coffee House Cafe",
+        "address_line2": "6150 Frankford Road, Dallas, TX 75252, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X6X2+58",
+        "plus_code_short": "X6X2+58, 75252 Dallas, United States",
+        "rank": {
+          "importance": 0.00007641489280532566,
+          "popularity": 5.215221833037157,
+          "confidence": 0.07702702702702702,
+          "confidence_city_level": 0.1,
+          "confidence_street_level": 0.016666666666666666,
+          "match_type": "full_match"
+        },
+        "place_id": "51dba50d87253358c0593baccb84ba7f4040f00102f9010336fd1b00000000c00201920311436f6666656520486f7573652043616665e203216f70656e7374726565746d61703a76656e75653a7761792f343639353739323637",
+        "bbox": {
+          "lon1": -96.7992937,
+          "lat1": 32.9976984,
+          "lon2": -96.798999,
+          "lat2": 32.9979817
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ramble Coffee House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "Celina",
+        "postcode": "75009",
+        "street": "Ramble Way",
+        "housenumber": "2287",
+        "iso3166_2": "US-TX",
+        "lon": -96.768686,
+        "lat": 33.3497484,
+        "state_code": "TX",
+        "county_code": "CI",
+        "result_type": "amenity",
+        "distance": 63741.43764165929,
+        "formatted": "Ramble Coffee House, 2287 Ramble Way, Celina, TX 75009, United States of America",
+        "address_line1": "Ramble Coffee House",
+        "address_line2": "2287 Ramble Way, Celina, TX 75009, United States of America",
+        "category": "catering.cafe",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865586XJ+VG",
+        "plus_code_short": "86XJ+VG, 75009 Celina, United States",
+        "rank": {
+          "importance": 0.000026000610360830357,
+          "popularity": 2.4100642486039017,
+          "confidence": 0.22702702702702704,
+          "confidence_city_level": 0.07142857142857142,
+          "match_type": "full_match"
+        },
+        "place_id": "5128b9c326323158c05907ea398ec4ac4040f00103f901f8c1364103000000c0020192031352616d626c6520436f6666656520486f757365e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393739303039353238",
+        "bbox": {
+          "lon1": -96.768736,
+          "lat1": 33.3496984,
+          "lon2": -96.768636,
+          "lat2": 33.3497984
+        }
+      }
+    ],
+    "query": {
+      "text": "Qahwah House Coffee - McKinney Dallas"
+    }
+  }
+}

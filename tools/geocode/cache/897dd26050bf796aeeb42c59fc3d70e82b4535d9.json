@@ -1,0 +1,113 @@
+{
+  "queriedName": "Pita Town",
+  "queriedAt": "2026-09-09T00:34:46.093Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Palma Pita Street",
+        "street": "Palma Pita Street",
+        "country": "United States",
+        "county": "Dallas County",
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "DS",
+        "city": "Lancaster",
+        "iso3166_2": "US-TX",
+        "lon": -96.79345,
+        "lat": 32.601467,
+        "result_type": "street",
+        "distance": 19521.233146350285,
+        "postcode": "75146",
+        "formatted": "Palma Pita Street, Lancaster, TX 75146, United States of America",
+        "address_line1": "Palma Pita Street",
+        "address_line2": "Lancaster, TX 75146, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645J624+HJ",
+        "plus_code_short": "J624+HJ, 75146 Lancaster, United States",
+        "rank": {
+          "popularity": 3.270715717255718,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51b84082e2c73258c059c64fe3defc4c4040c0020492031150616c6d61205069746120537472656574e203266f70656e7374726565746d61703a7374726565743a706f6c796c696e653a3230363935303432",
+        "bbox": {
+          "lon1": -96.794322,
+          "lat1": 32.601463,
+          "lon2": -96.792578,
+          "lat2": 32.601471
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Pak-A-Pocket Pita Sandwiches",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76109",
+        "street": "Bellaire Drive South",
+        "housenumber": "5512",
+        "iso3166_2": "US-TX",
+        "lon": -97.4128175,
+        "lat": 32.6952747,
+        "state_code": "TX",
+        "county_code": "TN",
+        "suburb": "Mont Del",
+        "result_type": "amenity",
+        "distance": 58312.20497706425,
+        "formatted": "Pak-A-Pocket Pita Sandwiches, 5512 Bellaire Drive South, Fort Worth, TX 76109, United States of America",
+        "address_line1": "Pak-A-Pocket Pita Sandwiches",
+        "address_line2": "5512 Bellaire Drive South, Fort Worth, TX 76109, United States of America",
+        "category": "catering.fast_food",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644MHWP+4V",
+        "plus_code_short": "MHWP+4V Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.000055474937056489164,
+          "popularity": 3.5411104463841823,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "51db6d179a6b5a58c0593c1ee9c2fe584040f00103f901e9e57d9002000000c0020192031c50616b2d412d506f636b657420506974612053616e64776963686573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3131303134313034353533",
+        "bbox": {
+          "lon1": -97.4128675,
+          "lat1": 32.6952247,
+          "lon2": -97.4127675,
+          "lat2": 32.6953247
+        }
+      }
+    ],
+    "query": {
+      "text": "Pita Town"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "queriedName": "MONDO PIZZA",
+  "queriedAt": "2026-09-09T00:36:42.555Z",
+  "raw": {
+    "results": [
+      {
+        "country_code": "us",
+        "name": "Piccolo Mondo",
+        "country": "United States",
+        "county": "Tarrant County",
+        "datasource": {
+          "sourcename": "geonames",
+          "attribution": "GeoNames",
+          "license": "CC BY 4.0",
+          "url": "https://www.geonames.org/datasources/"
+        },
+        "state": "Texas",
+        "state_code": "TX",
+        "county_code": "TN",
+        "city": "Arlington",
+        "iso3166_2": "US-TX",
+        "lon": -97.09798,
+        "lat": 32.76575,
+        "result_type": "amenity",
+        "distance": 28168.493813315574,
+        "formatted": "Piccolo Mondo, Arlington, TX, United States of America",
+        "address_line1": "Piccolo Mondo",
+        "address_line2": "Arlington, TX, United States of America",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QW82+7R",
+        "plus_code_short": "QW82+7R Arlington, Tarrant County, United States",
+        "rank": {
+          "popularity": 4.750469453042856,
+          "confidence": 0,
+          "match_type": "full_match"
+        },
+        "place_id": "5160eae74d454658c059bc74931804624040c0020192030d506963636f6c6f204d6f6e646fe2031667656f6e616d65733a76656e75653a37323839383837"
+      }
+    ],
+    "query": {
+      "text": "MONDO PIZZA"
+    }
+  }
+}

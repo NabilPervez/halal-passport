@@ -1,0 +1,114 @@
+{
+  "queriedName": "Tantra",
+  "queriedAt": "2026-09-09T00:44:39.559Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tao Tantra",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Coppell",
+        "postcode": "75019",
+        "street": "West Sandy Lake Road",
+        "housenumber": "160",
+        "iso3166_2": "US-TX",
+        "lon": -96.9967896,
+        "lat": 32.9704366,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 28474.085479371548,
+        "formatted": "Tao Tantra, 160 West Sandy Lake Road, Coppell, TX 75019, United States of America",
+        "address_line1": "Tao Tantra",
+        "address_line2": "160 West Sandy Lake Road, Coppell, TX 75019, United States of America",
+        "category": "commercial;service.beauty.massage",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X2C3+57",
+        "plus_code_short": "X2C3+57 Coppell, Dallas County, United States",
+        "rank": {
+          "importance": 0.00006166704814216857,
+          "popularity": 4.2984269861496855,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "518c3f9b66cb3f58c059b4eb3944377c4040f00103f901444fd0eb02000000c0020192030a54616f2054616e747261",
+        "bbox": {
+          "lon1": -96.9968396,
+          "lat1": 32.9703866,
+          "lon2": -96.9967396,
+          "lat2": 32.9704866
+        }
+      },
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Tantra - Modern Indian Bistro",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Collin County",
+        "city": "McKinney",
+        "postcode": "75072",
+        "suburb": "Adriatica Village",
+        "street": "Mediterranean Drive",
+        "housenumber": "6675",
+        "iso3166_2": "US-TX",
+        "lon": -96.7050318,
+        "lat": 33.1960066,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 47374.518108753364,
+        "formatted": "Tantra - Modern Indian Bistro, 6675 Mediterranean Drive, McKinney, TX 75072, United States of America",
+        "address_line1": "Tantra - Modern Indian Bistro",
+        "address_line2": "6675 Mediterranean Drive, McKinney, TX 75072, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "865557WV+CX",
+        "plus_code_short": "57WV+CX McKinney, Collin County, United States",
+        "rank": {
+          "importance": 0.000060212863355413405,
+          "popularity": 3.635954966744069,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f6e8b23d1f2d58c0596b6688be16994040f00103f901510cb3b602000000c0020192031d54616e747261202d204d6f6465726e20496e6469616e2042697374726f",
+        "bbox": {
+          "lon1": -96.7050818,
+          "lat1": 33.1959566,
+          "lon2": -96.7049818,
+          "lat2": 33.1960566
+        }
+      }
+    ],
+    "query": {
+      "text": "Tantra"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "queriedName": "Andalous Mediterranean Buffet",
+  "queriedAt": "2026-09-09T00:39:31.846Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Andalous Mediterranean Buffet",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Dallas County",
+        "city": "Richardson",
+        "postcode": "75080",
+        "street": "North Central Expressway",
+        "housenumber": "1601",
+        "iso3166_2": "US-TX",
+        "lon": -96.7209829,
+        "lat": 32.9696008,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 22562.247704423426,
+        "formatted": "Andalous Mediterranean Buffet, 1601 North Central Expressway, Richardson, TX 75080, United States of America",
+        "address_line1": "Andalous Mediterranean Buffet",
+        "address_line2": "1601 North Central Expressway, Richardson, TX 75080, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8645X79H+RJ",
+        "plus_code_short": "X79H+RJ Richardson, Dallas County, United States",
+        "rank": {
+          "importance": 0.00005874189364457187,
+          "popularity": 4.984185995863385,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "516a1e7695242e58c059751607e11b7c4040f00102f9016c1ca72300000000c0020192031d416e64616c6f7573204d65646974657272616e65616e20427566666574",
+        "bbox": {
+          "lon1": -96.7211639,
+          "lat1": 32.9694166,
+          "lon2": -96.7207421,
+          "lat2": 32.9697846
+        }
+      }
+    ],
+    "query": {
+      "text": "Andalous Mediterranean Buffet"
+    }
+  }
+}

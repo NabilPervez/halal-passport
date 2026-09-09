@@ -1,0 +1,64 @@
+{
+  "queriedName": "Ruth's Chris Steak House",
+  "queriedAt": "2026-09-09T00:38:29.112Z",
+  "raw": {
+    "results": [
+      {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "name": "Ruth's Chris Steak House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "Texas",
+        "county": "Tarrant County",
+        "city": "Fort Worth",
+        "postcode": "76102",
+        "district": "Downtown Fort Worth",
+        "suburb": "Sundance Square",
+        "street": "Main Street",
+        "housenumber": "815",
+        "iso3166_2": "US-TX",
+        "lon": -97.3295781,
+        "lat": 32.7524772,
+        "state_code": "TX",
+        "result_type": "amenity",
+        "distance": 49872.689436615874,
+        "formatted": "Ruth's Chris Steak House, 815 Main Street, Fort Worth, TX 76102, United States of America",
+        "address_line1": "Ruth's Chris Steak House",
+        "address_line2": "815 Main Street, Fort Worth, TX 76102, United States of America",
+        "category": "catering.restaurant",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_DST": "-05:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "8644QM2C+X5",
+        "plus_code_short": "QM2C+X5 Fort Worth, Tarrant County, United States",
+        "rank": {
+          "importance": 0.00007138246738379519,
+          "popularity": 5.327706004624761,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51953ebece175558c0592a7e422c51604040f00103f9012e94ba7000000000c0020192031852757468277320436872697320537465616b20486f757365",
+        "bbox": {
+          "lon1": -97.3296281,
+          "lat1": 32.7524272,
+          "lon2": -97.3295281,
+          "lat2": 32.7525272
+        }
+      }
+    ],
+    "query": {
+      "text": "Ruth's Chris Steak House"
+    }
+  }
+}
