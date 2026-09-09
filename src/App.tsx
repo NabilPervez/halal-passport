@@ -107,6 +107,18 @@ export default function App() {
     return filtered;
   }, [restaurants, selectedCategory, selectedDistance, userLocation]);
 
+  // "Available" spots means places to eat — mosques are on the map but
+  // aren't a dining option, so they're excluded from this count.
+  const totalSpotCount = useMemo(
+    () => restaurants.filter((r) => !r.isMosque).length,
+    [restaurants]
+  );
+  const filteredSpotCount = useMemo(
+    () => discoverRestaurants.filter((r) => !r.isMosque).length,
+    [discoverRestaurants]
+  );
+  const isFiltered = selectedCategory !== "All" || selectedDistance !== "All";
+
   const active = restaurants.find((r) => r.id === activeId) ?? null;
 
   if (!ready) {
@@ -120,13 +132,25 @@ export default function App() {
   return (
     <div className="min-h-screen bg-base pb-24">
       <header className="px-5 pt-6 pb-4 max-w-md mx-auto sm:max-w-3xl">
-        <p className="text-xs uppercase tracking-widest text-emerald font-body font-semibold mb-1">Halal Passport · DFW</p>
+        <div className="flex items-start justify-between gap-3 mb-1">
+          <p className="text-xs uppercase tracking-widest text-emerald font-body font-semibold">Halal Passport · DFW</p>
+          <p className="text-[10px] text-muted/70 font-body shrink-0 pt-0.5" title={`Commit ${__APP_COMMIT__}`}>
+            v{__APP_VERSION__} · {__APP_COMMIT__}
+          </p>
+        </div>
         <h1 className="font-display font-extrabold text-2xl text-cream">
           {tab === "discover" && "Find your next halal spot"}
           {tab === "wishlist" && "Your wishlist"}
           {tab === "eaten" && "Your Halal Passport"}
           {tab === "meetups" && "Community Meetups"}
         </h1>
+        {tab === "discover" && (
+          <p className="text-sm text-muted font-body mt-1">
+            {isFiltered
+              ? `${filteredSpotCount} of ${totalSpotCount} spots match your filters`
+              : `${totalSpotCount} halal spots in DFW`}
+          </p>
+        )}
       </header>
 
       <main className="px-5 max-w-md mx-auto sm:max-w-3xl flex flex-col gap-5">
