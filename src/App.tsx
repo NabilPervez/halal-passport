@@ -1,15 +1,17 @@
 import { lazy, Suspense, useEffect, useMemo, useState } from "react";
 import { AnimatePresence } from "framer-motion";
-import type { RestaurantWithSaveState, Review } from "./types";
+import type { RestaurantWithSaveState, Review, HalalStatus } from "./types";
 import {
   syncCatalog,
   getAllRestaurantsWithState,
   setUserPlaceState,
+  setHalalStatus,
   getAllReviews,
   putReview,
 } from "./lib/db";
 import { BentoGrid } from "./components/BentoGrid";
 import { DiscoverFeed } from "./components/DiscoverFeed";
+import { RestaurantCard } from "./components/RestaurantCard";
 import { RestaurantDetail } from "./components/RestaurantDetail";
 import { BottomNav, type Tab } from "./components/BottomNav";
 import { MeetupsView } from "./components/MeetupsView";
@@ -40,6 +42,7 @@ export default function App() {
   const [ready, setReady] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [selectedDistance, setSelectedDistance] = useState<string>("All");
+  const [selectedHalalFilter, setSelectedHalalFilter] = useState<"All" | "verified" | "unverified">("All");
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [userLocation, setUserLocation] = useState<{lat: number, lng: number} | null>(null);
 
@@ -56,6 +59,11 @@ export default function App() {
   async function handleToggleSave(id: string, next: RestaurantWithSaveState["saveState"]) {
     setRestaurants((prev) => prev.map((r) => (r.id === id ? { ...r, saveState: next, savedAt: Date.now() } : r)));
     await setUserPlaceState(id, next);
+  }
+
+  async function handleSetHalalStatus(id: string, next: HalalStatus) {
+    setRestaurants((prev) => prev.map((r) => (r.id === id ? { ...r, halalStatus: next } : r)));
+    await setHalalStatus(id, next);
   }
 
   async function handleSaveReview(review: Review) {
@@ -91,20 +99,29 @@ export default function App() {
     [restaurants]
   );
 
+  // Mosques aren't a dining option — halal verification, cuisine, and price
+  // don't apply to them, so they're browsed in their own section (see
+  // "Mosques & Islamic Centers" below) rather than mixed into the
+  // restaurant catalog under a fake "Uncategorized" cuisine.
+  const mosques = useMemo(() => visitableRestaurants.filter((r) => r.isMosque), [visitableRestaurants]);
+  const nonMosqueRestaurants = useMemo(
+    () => visitableRestaurants.filter((r) => !r.isMosque),
+    [visitableRestaurants]
+  );
+
   const categories = useMemo(() => {
-    const cats = new Set(visitableRestaurants.map(r => r.cuisine || "Uncategorized"));
+    const cats = new Set(nonMosqueRestaurants.map(r => r.cuisine || "Uncategorized"));
     return ["All", ...Array.from(cats).sort()];
-  }, [visitableRestaurants]);
+  }, [nonMosqueRestaurants]);
 
   const trimmedSearch = searchQuery.trim().toLowerCase();
   const isSearching = trimmedSearch.length > 0;
 
-  const discoverRestaurants = useMemo(() => {
-    let filtered = visitableRestaurants;
-
-    if (selectedCategory !== "All") {
-      filtered = filtered.filter(r => (r.cuisine || "Uncategorized") === selectedCategory);
-    }
+  // Shared by both the restaurant list and the mosque row: text search and
+  // distance apply to everything on Discover, but cuisine/halal filters
+  // only make sense for restaurants and are applied separately below.
+  function applySearchAndDistance<T extends RestaurantWithSaveState>(list: T[]): T[] {
+    let filtered = list;
 
     if (trimmedSearch) {
       filtered = filtered.filter((r) =>
@@ -113,7 +130,6 @@ export default function App() {
     }
 
     if (userLocation) {
-      // Annotate with distance for sorting/filtering
       const withDistance = filtered.map(r => ({
         ...r,
         _distance: getDistanceInMiles(userLocation.lat, userLocation.lng, r.lat, r.lng)
@@ -126,25 +142,50 @@ export default function App() {
         filtered = withDistance;
       }
 
-      // Sort nearest to farthest
       filtered = [...filtered].sort((a, b) => (a as any)._distance - (b as any)._distance);
     }
 
     return filtered;
-  }, [visitableRestaurants, selectedCategory, trimmedSearch, selectedDistance, userLocation]);
+  }
+
+  const discoverRestaurants = useMemo(() => {
+    let filtered = nonMosqueRestaurants;
+
+    if (selectedCategory !== "All") {
+      filtered = filtered.filter(r => (r.cuisine || "Uncategorized") === selectedCategory);
+    }
+
+    if (selectedHalalFilter !== "All") {
+      filtered = filtered.filter((r) =>
+        selectedHalalFilter === "verified" ? r.halalStatus !== "unverified" : r.halalStatus === "unverified"
+      );
+    }
+
+    return applySearchAndDistance(filtered);
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- applySearchAndDistance closes over trimmedSearch/userLocation/selectedDistance, listed explicitly below
+  }, [nonMosqueRestaurants, selectedCategory, selectedHalalFilter, trimmedSearch, selectedDistance, userLocation]);
+
+  const mosqueResults = useMemo(
+    () => applySearchAndDistance(mosques),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [mosques, trimmedSearch, selectedDistance, userLocation]
+  );
+
+  // What the map shows: filtered restaurants plus filtered mosques —
+  // mosques are always on the map regardless of the cuisine/halal filters,
+  // which don't apply to them.
+  const mapMarkers = useMemo(
+    () => [...discoverRestaurants, ...mosqueResults],
+    [discoverRestaurants, mosqueResults]
+  );
 
   // "Available" spots means places to eat that are actually open — mosques
   // aren't a dining option and closed businesses aren't available, so both
   // are excluded from this count.
-  const totalSpotCount = useMemo(
-    () => visitableRestaurants.filter((r) => !r.isMosque).length,
-    [visitableRestaurants]
-  );
-  const filteredSpotCount = useMemo(
-    () => discoverRestaurants.filter((r) => !r.isMosque).length,
-    [discoverRestaurants]
-  );
-  const isFiltered = selectedCategory !== "All" || selectedDistance !== "All" || isSearching;
+  const totalSpotCount = nonMosqueRestaurants.length;
+  const filteredSpotCount = discoverRestaurants.length;
+  const isFiltered =
+    selectedCategory !== "All" || selectedDistance !== "All" || selectedHalalFilter !== "All" || isSearching;
 
   const active = restaurants.find((r) => r.id === activeId) ?? null;
 
@@ -188,7 +229,7 @@ export default function App() {
                 <div className="rounded-xl2 border border-base-border h-[52vh] min-h-[320px] bg-base-elevated animate-pulse" />
               }
             >
-              <MapView restaurants={discoverRestaurants} onOpen={setActiveId} userLocation={userLocation} />
+              <MapView restaurants={mapMarkers} onOpen={setActiveId} userLocation={userLocation} />
             </Suspense>
             <section className="flex flex-col gap-4">
               <div className="flex items-center justify-between">
@@ -227,8 +268,8 @@ export default function App() {
 
                 <div className="flex-1 flex flex-col gap-1.5">
                   <label className="text-[10px] uppercase tracking-wider text-muted font-body font-semibold">Distance</label>
-                  <select 
-                    value={selectedDistance} 
+                  <select
+                    value={selectedDistance}
                     onChange={(e) => {
                       setSelectedDistance(e.target.value);
                       if (e.target.value !== "All" && !userLocation) {
@@ -244,6 +285,48 @@ export default function App() {
                   </select>
                 </div>
               </div>
+
+              <div className="flex flex-col gap-1.5">
+                <label className="text-[10px] uppercase tracking-wider text-muted font-body font-semibold">Halal status</label>
+                <select
+                  value={selectedHalalFilter}
+                  onChange={(e) => setSelectedHalalFilter(e.target.value as typeof selectedHalalFilter)}
+                  className="w-full bg-base-elevated border border-base-border text-cream text-sm rounded-lg px-3 py-2.5 focus-visible:outline-emerald appearance-none"
+                >
+                  <option value="All">All (verified &amp; unverified)</option>
+                  <option value="verified">Verified halal only</option>
+                  <option value="unverified">Unverified only</option>
+                </select>
+              </div>
+
+              {mosqueResults.length > 0 && (
+                <div className="flex flex-col gap-2.5 mt-1">
+                  <div className="flex items-center gap-2.5">
+                    <h3 className="font-display font-semibold text-cream text-sm leading-none">
+                      🕌 Mosques &amp; Islamic Centers
+                    </h3>
+                    <span className="text-[10px] font-body font-semibold text-muted bg-base-elevated border border-base-border px-2 py-0.5 rounded-full leading-none">
+                      {mosqueResults.length}
+                    </span>
+                  </div>
+                  <div
+                    className="flex gap-3 overflow-x-auto pb-1 -mx-5 px-5 snap-x snap-mandatory scrollbar-none"
+                    style={{ scrollbarWidth: "none" }}
+                  >
+                    {mosqueResults.map((m) => (
+                      <div key={m.id} className="snap-start shrink-0 w-40">
+                        <RestaurantCard
+                          restaurant={m}
+                          featured={false}
+                          onOpen={setActiveId}
+                          onToggleSave={handleToggleSave}
+                        />
+                      </div>
+                    ))}
+                    <div className="shrink-0 w-1" aria-hidden="true" />
+                  </div>
+                </div>
+              )}
 
               <div className="mt-2">
                 {selectedCategory === "All" && !isSearching ? (
@@ -313,6 +396,7 @@ export default function App() {
             onClose={() => setActiveId(null)}
             onSaveReview={handleSaveReview}
             onSetSaveState={handleToggleSave}
+            onSetHalalStatus={handleSetHalalStatus}
           />
         )}
       </AnimatePresence>

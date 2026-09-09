@@ -7,6 +7,8 @@ import type {
   RestaurantWithSaveState,
   SaveState,
   MeetupRsvp,
+  HalalStatus,
+  HalalStatusOverride,
 } from "../types";
 import restaurantsData from "../data/restaurants.json";
 
@@ -34,6 +36,10 @@ interface SofraDB extends DBSchema {
     key: string;
     value: MeetupRsvp;
   };
+  halalStatusOverrides: {
+    key: string;
+    value: HalalStatusOverride;
+  };
 }
 
 const DB_NAME = "sofra-db";
@@ -41,7 +47,10 @@ const DB_NAME = "sofra-db";
 // catalog into its own store, so refreshing the catalog with real geocoded
 // data never touches what a user has already saved. See docs/data-pipeline-plan.md.
 // v5: local RSVP tracking for meetups (meetupRsvps store).
-const DB_VERSION = 5;
+// v6: local halal-status overrides (halalStatusOverrides store) — lets a
+// user mark a listing verified on their own device. Not a backend/synced
+// verification; see the type's doc comment.
+const DB_VERSION = 6;
 
 let dbPromise: Promise<IDBPDatabase<SofraDB>> | null = null;
 
@@ -99,6 +108,10 @@ export function getDB() {
         if (oldVersion < 5) {
           db.createObjectStore("meetupRsvps", { keyPath: "meetupId" });
         }
+
+        if (oldVersion < 6) {
+          db.createObjectStore("halalStatusOverrides", { keyPath: "placeId" });
+        }
       },
     });
   }
@@ -144,19 +157,38 @@ export async function syncCatalog(): Promise<void> {
 
 export async function getAllRestaurantsWithState(): Promise<RestaurantWithSaveState[]> {
   const db = await getDB();
-  const [restaurants, userStates] = await Promise.all([
+  const [restaurants, userStates, halalOverrides] = await Promise.all([
     db.getAll("restaurants"),
     db.getAll("userPlaceState"),
+    db.getAll("halalStatusOverrides"),
   ]);
   const stateByPlace = new Map(userStates.map((s) => [s.placeId, s]));
+  const halalByPlace = new Map(halalOverrides.map((o) => [o.placeId, o]));
   return restaurants.map((r) => {
     const state = stateByPlace.get(r.id);
+    const halalOverride = halalByPlace.get(r.id);
     return {
       ...r,
+      halalStatus: halalOverride?.halalStatus ?? r.halalStatus,
       saveState: state?.saveState ?? "none",
       savedAt: state?.savedAt,
     };
   });
+}
+
+/**
+ * Marks a listing's halal status as this device sees it. There's no
+ * backend here — this is a local claim recorded on this device, not a
+ * shared/community-verified fact other users would see. Pass "unverified"
+ * to clear a prior override and fall back to the catalog's default status.
+ */
+export async function setHalalStatus(placeId: string, halalStatus: HalalStatus): Promise<void> {
+  const db = await getDB();
+  if (halalStatus === "unverified") {
+    await db.delete("halalStatusOverrides", placeId);
+    return;
+  }
+  await db.put("halalStatusOverrides", { placeId, halalStatus, updatedAt: Date.now() });
 }
 
 export async function setUserPlaceState(

@@ -60,6 +60,18 @@ export interface UserPlaceState {
   savedAt?: number;
 }
 
+/**
+ * A local, per-device claim that overrides a catalog record's halalStatus.
+ * There is no backend here, so this is NOT a shared/community
+ * verification — it's this device's own submission, applied on top of the
+ * catalog value on read. See setHalalStatus() in db.ts.
+ */
+export interface HalalStatusOverride {
+  placeId: string;
+  halalStatus: HalalStatus;
+  updatedAt: number;
+}
+
 /** A Restaurant joined with the viewer's save state, for rendering. */
 export type RestaurantWithSaveState = Restaurant & { saveState: SaveState; savedAt?: number };
 

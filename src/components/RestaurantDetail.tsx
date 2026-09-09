@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import type { RestaurantWithSaveState, Review } from "../types";
+import type { HalalStatus, RestaurantWithSaveState, Review } from "../types";
 import { Badge } from "./Badge";
 import { GemRating } from "./GemRating";
 import { ReviewForm } from "./ReviewForm";
@@ -12,9 +12,17 @@ interface RestaurantDetailProps {
   onClose: () => void;
   onSaveReview: (review: Review) => void;
   onSetSaveState: (id: string, next: RestaurantWithSaveState["saveState"]) => void;
+  onSetHalalStatus: (id: string, next: HalalStatus) => void;
 }
 
-export function RestaurantDetail({ restaurant, review, onClose, onSaveReview, onSetSaveState }: RestaurantDetailProps) {
+export function RestaurantDetail({
+  restaurant,
+  review,
+  onClose,
+  onSaveReview,
+  onSetSaveState,
+  onSetHalalStatus,
+}: RestaurantDetailProps) {
   const [editing, setEditing] = useState(!review);
 
   return (
@@ -52,20 +60,29 @@ export function RestaurantDetail({ restaurant, review, onClose, onSaveReview, on
 
         <div className="p-5 flex flex-col gap-5">
           <div className="flex flex-wrap gap-1.5">
-            {restaurant.pricePoint && <Badge tone="emerald">{restaurant.pricePoint}</Badge>}
-            {restaurant.scrapedRating != null && (
-              <Badge tone="topaz">★ {restaurant.scrapedRating.toFixed(1)}</Badge>
-            )}
-            {restaurant.halalStatus === "unverified" ? (
-              <Badge tone={restaurant.heroColor}>Unverified halal — help confirm below</Badge>
+            {restaurant.isMosque ? (
+              <Badge tone="topaz">🕌 Mosque</Badge>
             ) : (
-              restaurant.dietaryTags.map((tag) => (
-                <Badge key={tag} tone={restaurant.heroColor}>
-                  {tag}
-                </Badge>
-              ))
+              <>
+                {restaurant.pricePoint && <Badge tone="emerald">{restaurant.pricePoint}</Badge>}
+                {restaurant.scrapedRating != null && (
+                  <Badge tone="topaz">★ {restaurant.scrapedRating.toFixed(1)}</Badge>
+                )}
+                {restaurant.halalStatus === "unverified" ? (
+                  <Badge tone={restaurant.heroColor}>Unverified halal — help confirm below</Badge>
+                ) : (
+                  <Badge tone="emerald">✓ Verified halal</Badge>
+                )}
+                {restaurant.dietaryTags.map((tag) => (
+                  <Badge key={tag} tone={restaurant.heroColor}>
+                    {tag}
+                  </Badge>
+                ))}
+              </>
             )}
           </div>
+
+          {!restaurant.isMosque && <HalalStatusControl restaurant={restaurant} onSetHalalStatus={onSetHalalStatus} />}
 
           <div className="flex flex-col gap-2.5 p-3.5 bg-base-elevated2 rounded-xl border border-base-border">
             <div className="flex items-start gap-2">
@@ -152,6 +169,56 @@ export function RestaurantDetail({ restaurant, review, onClose, onSaveReview, on
         </div>
       </motion.div>
     </motion.div>
+  );
+}
+
+/**
+ * Lets a viewer update a listing's halal status. There's no backend, so
+ * this is recorded locally on this device only — not a shared community
+ * verification other users would see. The copy says so explicitly rather
+ * than implying a claim it can't back up.
+ */
+function HalalStatusControl({
+  restaurant,
+  onSetHalalStatus,
+}: {
+  restaurant: RestaurantWithSaveState;
+  onSetHalalStatus: (id: string, next: HalalStatus) => void;
+}) {
+  const isVerified = restaurant.halalStatus !== "unverified";
+
+  if (isVerified) {
+    return (
+      <div className="flex items-center justify-between gap-3 p-3 rounded-lg bg-emerald-soft border border-emerald-deep/40">
+        <p className="text-xs font-body text-emerald leading-snug">
+          Marked verified halal on this device. Not a shared verification —
+          other users won't see this.
+        </p>
+        <button
+          onClick={() => onSetHalalStatus(restaurant.id, "unverified")}
+          className="shrink-0 text-xs font-body font-semibold text-emerald underline decoration-emerald/40 hover:decoration-emerald focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald rounded"
+        >
+          Undo
+        </button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="flex flex-col gap-2 p-3 rounded-lg bg-base-elevated2 border border-base-border">
+      <p className="text-xs font-body text-muted leading-snug">
+        This listing hasn't been confirmed halal — it was matched from a
+        directory, not verified. If you know this spot serves Zabihah
+        halal, you can mark it here (recorded on this device only, not
+        shared with other users).
+      </p>
+      <button
+        onClick={() => onSetHalalStatus(restaurant.id, "verified-zabihah")}
+        className="self-start rounded-full bg-emerald text-base px-3.5 py-1.5 text-xs font-semibold font-body focus-visible:outline focus-visible:outline-2 focus-visible:outline-cream"
+      >
+        ✓ Mark as verified halal
+      </button>
+    </div>
   );
 }
 
