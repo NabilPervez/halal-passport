@@ -7,6 +7,8 @@ import type {
   RestaurantWithSaveState,
   SaveState,
   MeetupRsvp,
+  HalalStatus,
+  HalalStatusOverride,
 } from "../types";
 import restaurantsData from "../data/restaurants.json";
 
@@ -34,6 +36,10 @@ interface SofraDB extends DBSchema {
     key: string;
     value: MeetupRsvp;
   };
+  halalStatusOverrides: {
+    key: string;
+    value: HalalStatusOverride;
+  };
 }
 
 const DB_NAME = "sofra-db";
@@ -41,7 +47,10 @@ const DB_NAME = "sofra-db";
 // catalog into its own store, so refreshing the catalog with real geocoded
 // data never touches what a user has already saved. See docs/data-pipeline-plan.md.
 // v5: local RSVP tracking for meetups (meetupRsvps store).
-const DB_VERSION = 5;
+// v6: local halal-status overrides (halalStatusOverrides store) — lets a
+// user mark a listing verified on their own device. Not a backend/synced
+// verification; see the type's doc comment.
+const DB_VERSION = 6;
 
 let dbPromise: Promise<IDBPDatabase<SofraDB>> | null = null;
 
@@ -99,6 +108,10 @@ export function getDB() {
         if (oldVersion < 5) {
           db.createObjectStore("meetupRsvps", { keyPath: "meetupId" });
         }
+
+        if (oldVersion < 6) {
+          db.createObjectStore("halalStatusOverrides", { keyPath: "placeId" });
+        }
       },
     });
   }
@@ -106,21 +119,18 @@ export function getDB() {
 }
 
 /**
- * Replaces the restaurant catalog wholesale with the bundled, geocoded
- * dataset. Safe to call on every launch — user save state lives in a
- * separate store this never touches.
+ * Upserts the bundled, geocoded catalog into the restaurants store. Safe
+ * to call on every launch — it only ever `put`s rows the app ships (by
+ * id), so it never touches user save state (separate store) and never
+ * deletes anything, including restaurants a user has added locally (see
+ * addUserRestaurant). Cheap enough (a few hundred puts) to just always run
+ * rather than trying to detect "is this already seeded", which broke once
+ * the store could hold more rows than the catalog ships (a user-added
+ * restaurant made the old row-count check permanently wrong).
  */
 export async function syncCatalog(): Promise<void> {
   const db = await getDB();
   const catalog = restaurantsData as unknown as Restaurant[];
-
-  const existingCount = await db.count("restaurants");
-  if (existingCount === catalog.length) {
-    // Cheap check to avoid rewriting all rows on every launch once seeded.
-    // A real version bump (DB_VERSION) still forces a full re-seed via the
-    // upgrade handler's store.clear() above.
-    return;
-  }
 
   const tx = db.transaction("restaurants", "readwrite");
   await Promise.all([...catalog.map((r) => tx.store.put(r)), tx.done]);
@@ -142,21 +152,81 @@ export async function syncCatalog(): Promise<void> {
   }
 }
 
+/**
+ * Adds a restaurant a user found and typed in themselves. Local to this
+ * device only — there is no backend, so it is not shared with other
+ * users. Stored in the same "restaurants" store as the bundled catalog,
+ * under a "user-" id prefix that syncCatalog() never touches, so it
+ * survives every future catalog refresh.
+ */
+export async function addUserRestaurant(input: {
+  name: string;
+  address: string;
+  city: string;
+  lat: number;
+  lng: number;
+  cuisine: string | null;
+  halalStatus: HalalStatus;
+}): Promise<Restaurant> {
+  const db = await getDB();
+  const id = `user-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+  const restaurant: Restaurant = {
+    id,
+    name: input.name,
+    placeRef: null,
+    cuisine: input.cuisine,
+    city: input.city,
+    lat: input.lat,
+    lng: input.lng,
+    address: input.address,
+    businessStatus: "operational",
+    halalStatus: input.halalStatus,
+    dietaryTags: [],
+    pricePoint: null,
+    scrapedRating: null,
+    heroColor: "emerald",
+    matchConfidence: 1,
+    matchMethod: "manual",
+    isUserSubmitted: true,
+  };
+  await db.put("restaurants", restaurant);
+  return restaurant;
+}
+
 export async function getAllRestaurantsWithState(): Promise<RestaurantWithSaveState[]> {
   const db = await getDB();
-  const [restaurants, userStates] = await Promise.all([
+  const [restaurants, userStates, halalOverrides] = await Promise.all([
     db.getAll("restaurants"),
     db.getAll("userPlaceState"),
+    db.getAll("halalStatusOverrides"),
   ]);
   const stateByPlace = new Map(userStates.map((s) => [s.placeId, s]));
+  const halalByPlace = new Map(halalOverrides.map((o) => [o.placeId, o]));
   return restaurants.map((r) => {
     const state = stateByPlace.get(r.id);
+    const halalOverride = halalByPlace.get(r.id);
     return {
       ...r,
+      halalStatus: halalOverride?.halalStatus ?? r.halalStatus,
       saveState: state?.saveState ?? "none",
       savedAt: state?.savedAt,
     };
   });
+}
+
+/**
+ * Marks a listing's halal status as this device sees it. There's no
+ * backend here — this is a local claim recorded on this device, not a
+ * shared/community-verified fact other users would see. Pass "unverified"
+ * to clear a prior override and fall back to the catalog's default status.
+ */
+export async function setHalalStatus(placeId: string, halalStatus: HalalStatus): Promise<void> {
+  const db = await getDB();
+  if (halalStatus === "unverified") {
+    await db.delete("halalStatusOverrides", placeId);
+    return;
+  }
+  await db.put("halalStatusOverrides", { placeId, halalStatus, updatedAt: Date.now() });
 }
 
 export async function setUserPlaceState(

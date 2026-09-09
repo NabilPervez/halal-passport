@@ -16,6 +16,23 @@ const BBOX = { minLng: -97.7, minLat: 32.4, maxLng: -96.4, maxLat: 33.4 };
 const AUTO_CONFIDENCE = 0.9;
 const AUTO_SIMILARITY = 0.85;
 
+// Second, narrower acceptance path: every token of the SMALLER name is
+// contained in the larger one (similarity === 1) — e.g. "Heritage Scoop -
+// Plano" vs OSM's "Heritage Scoop", or "New York Eats (Irving)" vs
+// "New York Eats". This is a stronger signal than the raw similarity ratio
+// used for the primary threshold above, so it's allowed a lower confidence
+// floor. Two extra guards against the two failure modes this reintroduces:
+// requiring at least 2 overlapping tokens excludes degenerate matches like
+// "Spice Shawarma" -> "Spice" or "Bombay Chowpatty..." -> "Irving" (a
+// single generic/place-name token trivially satisfies similarity===1); and
+// this still runs through the same city-conflict check and the same
+// same-placeRef dedup as everything else, so a chain branch OSM only has
+// one location for still collapses to a single shipped record instead of
+// duplicating a pin across every branch name variant.
+const SUBSET_MATCH_SIMILARITY = 1;
+const SUBSET_MATCH_CONFIDENCE = 0.5;
+const SUBSET_MATCH_MIN_TOKENS = 2;
+
 // Result types that count as a real place (a business/POI), not a street,
 // city, or postcode centroid. A street-level match is a failure, not a weak
 // success — it puts the marker at the wrong end of the block at best.
@@ -41,6 +58,15 @@ function tokenSetSimilarity(a, b) {
   return intersection / Math.min(tokensA.size, tokensB.size);
 }
 
+// The size of the smaller token set — how many tokens similarity===1
+// actually represents. Needed to tell "Heritage Scoop" (2 tokens, a real
+// overlap) apart from "Spice" (1 token, trivially satisfied).
+function minTokenCount(a, b) {
+  const tokensA = new Set(normalize(a));
+  const tokensB = new Set(normalize(b));
+  return Math.min(tokensA.size, tokensB.size);
+}
+
 // DFW-area cities that show up as explicit qualifiers in scraped names
 // ("Heritage Scoop - Plano", "New York Eats (Irving)"). When a name declares
 // a city and the geocoder's matched city disagrees, the match is almost
@@ -59,8 +85,16 @@ const DFW_CITIES = [
 ];
 
 function extractDeclaredCity(name) {
+  // Deliberately a bare whole-word match anywhere in the name, not just
+  // after a hyphen/paren delimiter — names like "Williams Chicken
+  // McKinney" or "JAFFA JOINT PLANO" append the city with no punctuation
+  // at all, and missing those let real wrong-city matches through (found
+  // by spot-checking: "Luna Grill Colleyville" matched a Dallas location,
+  // "bb.q Chicken Murphy" matched Richardson). Over-triggering here just
+  // sends an extra row to manual review; under-triggering ships a wrong
+  // pin — so bias hard toward catching it.
   for (const city of DFW_CITIES) {
-    const re = new RegExp(`[(\\-–]\\s*${city}\\b|\\b${city}\\s*\\)`, "i");
+    const re = new RegExp(`\\b${city}\\b`, "i");
     if (re.test(name)) return city;
   }
   return null;
@@ -139,6 +173,13 @@ function scoreRecord(record) {
   } else if (confidence >= AUTO_CONFIDENCE && similarity >= AUTO_SIMILARITY) {
     status = "auto";
     reason = "POI, high confidence, high name similarity";
+  } else if (
+    similarity >= SUBSET_MATCH_SIMILARITY &&
+    confidence >= SUBSET_MATCH_CONFIDENCE &&
+    minTokenCount(record.name, r.name ?? r.address_line1 ?? "") >= SUBSET_MATCH_MIN_TOKENS
+  ) {
+    status = "auto";
+    reason = "POI, full name-token containment (subset match)";
   } else {
     status = "review";
     reason = `below threshold (confidence=${confidence.toFixed(2)}, similarity=${similarity.toFixed(2)})`;

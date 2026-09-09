@@ -73,7 +73,7 @@ function inBbox(lat, lng) {
 }
 
 function emitMosques() {
-  const mosques = JSON.parse(readFileSync(join(ROOT, "src/data/mosques.json"), "utf8"));
+  const mosques = JSON.parse(readFileSync(join(__dirname, "mosques-source.json"), "utf8"));
   const verification = JSON.parse(
     readFileSync(join(__dirname, "mosque-verification.json"), "utf8")
   );

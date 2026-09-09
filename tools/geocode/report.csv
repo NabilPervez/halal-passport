@@ -4,6 +4,7 @@ r43,New York Eats (Irving),New York Eats,amenity,1,1,32.7248925,-97.1132733,"New
 r59,Big Guy's Bodega - NYC Style Deli,Big Guys Bodega,amenity,1,0.667,32.8521281,-97.0665614,"Big Guys Bodega, 1001 East Harwood Road, Euless, TX 76039, United States of America",review
 r123,Dessert Avenue - Murphy.,Dessert Avenue,amenity,1,1,33.0101971,-96.6174508,"Dessert Avenue, 208 Coolidge Street, Plano, TX 75094, United States of America",review
 r127,Imperial Biryani - Richardson,Imperial Biryani & Cafe,amenity,1,0.667,32.9543106,-96.7275115,"Imperial Biryani & Cafe, 400 North Greenville Avenue, Richardson, TX 75081, United States of America",review
+r169,Talkin' Tacos Dallas,Talkin' Tacos Dallas,amenity,1,1,33.0907108,-96.8132493,"Talkin' Tacos Dallas, 8442 Parkwood Boulevard, Plano, TX 75024, United States of America",review
 r182,Krispy Krunchy Chicken - HALAL (Plano),Krispy Krunchy Chicken,amenity,1,1,33.210733,-97.1470891,"Krispy Krunchy Chicken, 1155 Union Circle, Denton, TX 76203, United States of America",review
 r195,Layne's Chicken Fingers- Lewisville,Layne's Chicken Fingers,amenity,1,1,33.0645572,-96.8888944,"Layne's Chicken Fingers, 4650 State Highway 121, The Colony, TX 75056, United States of America",review
 r197,Layne's Chicken Fingers- Frisco,Layne's Chicken Figers,amenity,1,0.75,33.1733998,-96.838722,"Layne's Chicken Figers, 11440 Dallas Parkway, Frisco, TX 75034, United States of America",review
@@ -20,60 +21,42 @@ r545,Trolley Stop Cafe,Trolley Stop Café,amenity,1,0.667,32.7843166,-96.7978323
 r572,Zio Al's Pizza & Pasta - Addison,Zio Al’s Pizza & Pasta,amenity,1,1,32.949964,-96.7328811,"Zio Al’s Pizza & Pasta, 150 West Main Street, Richardson, TX 75081, United States of America",review
 r585,"Desi District - McKinney, TX",Desi District,amenity,1,1,33.1753318,-96.7651192,"Desi District, 12990 Eldorado Parkway, Frisco, TX 75035, United States of America",review
 r590,Shawarma Press - Plano,Shawarma Press,amenity,0.9,1,32.7872417,-96.798571,"Shawarma Press, Ross Avenue, Dallas, TX 75201, United States of America",review
-r10,Delucca Gaucho Pizza & Wine Plano,Delucca Gaucho Pizza & Wine,amenity,0.833,1,33.0907549,-96.8048315,"Delucca Gaucho Pizza & Wine, 8240 Preston Road, Plano, TX 75024, United States of America",review
 r318,Delucca Gaucho Pizza & Wine Southlake,Delucca Gaucho Pizza & Wine,amenity,0.833,1,33.090755,-96.804832,"Delucca Gaucho Pizza & Wine, Plano, TX 75024, United States of America",review
 r471,Zio Al's Pizza & Pasta Plano - Frisco,Zio Al's Pizza & Pasta,amenity,0.833,1,33.007248,-96.7957977,"Zio Al's Pizza & Pasta, 19009 Preston Road, Dallas, TX 75252, United States of America",review
-r106,Prime Doner Restaurant,PRIME Restaurant Doner & Cagkebab,amenity,0.81,1,33.0196178,-96.7124182,"PRIME Restaurant Doner & Cagkebab, 601 West 15th Street, Plano, TX 75075, United States of America",review
-r467,Thai Lao Express,Saplai Lao & Thai Express,amenity,0.81,1,32.8433649,-97.1003437,"Saplai Lao & Thai Express, 505 North Industrial Boulevard, Bedford, TX 76021, United States of America",review
 r350,Sal's Nashville Hot Chicken - Plano,Ricky's Nashville Hot Chicken,amenity,0.771,0.8,33.092165,-96.804956,"Ricky's Nashville Hot Chicken, Plano, TX 75024, United States of America",review
-r511,Pizza Twist Irving - Zabiha Halal,Pizza Twist,amenity,0.758,1,32.8963528,-96.961003,"Pizza Twist, West Royal Lane, Irving, TX 75063, United States of America",review
-r90,Port Coffee Co Irving,Port Coffee Co,amenity,0.75,1,32.8962162,-96.9399848,"Port Coffee Co, 411 East Royal Lane, Irving, TX 75039, United States of America",review
 r101,bb.q Chicken Murphy,bb.q Chicken,amenity,0.75,1,32.9441692,-96.7014069,"bb.q Chicken, 1312 East Belt Line Road, Richardson, TX 75081, United States of America",review
 r108,Sky Rocket Burger-Frisco,Sky Rocket Burger,amenity,0.75,1,32.7842025,-96.7788854,"Sky Rocket Burger, 111 South Hall Street, Dallas, TX 75226, United States of America",review
 r109,Sky Rocket Burger-Plano,Sky Rocket Burger,amenity,0.75,1,32.7842025,-96.7788854,"Sky Rocket Burger, 111 South Hall Street, Dallas, TX 75226, United States of America",review
 r110,Sky Rocket Burger-Lewisville,Sky Rocket Burger,amenity,0.75,1,32.7842025,-96.7788854,"Sky Rocket Burger, 111 South Hall Street, Dallas, TX 75226, United States of America",review
-r189,Hold My Chai Cafe,Hold My Chai,amenity,0.75,1,33.1209502,-96.7499616,"Hold My Chai, 5266 Independence Parkway, Frisco, TX 75035, United States of America",review
 r199,Layne's Chicken Fingers- Denton,Layne's Chicken Fingers,amenity,0.75,1,33.0645572,-96.8888944,"Layne's Chicken Fingers, 4650 State Highway 121, The Colony, TX 75056, United States of America",review
 r249,Thai Noodle Wave Carrollton,Thai Noodle Wave,amenity,0.75,1,32.9092679,-96.8053239,"Thai Noodle Wave, Forest Lane, Dallas, TX 75230, United States of America",review
 r305,The Yellow Chilli,The Yellow Chili,amenity,0.75,0.667,33.077497,-96.8193641,"The Yellow Chili, 5700 Legacy Drive, Plano, TX 75024, United States of America",review
-r339,Mughlai Fine Indian Restaurant,Mughlai Fine Indian,amenity,0.75,1,32.9369914,-97.1003066,"Mughlai Fine Indian, 3311 East State Highway 114, Southlake, TX 76092, United States of America",review
 r340,Fiery Nashville Hot Chicken - Plano,Fiery Hot Chicken,amenity,0.75,1,33.0185778,-96.9168898,"Fiery Hot Chicken, 1025 West Hebron Parkway, Carrollton, TX 75010, United States of America",review
-r418,Queen of Sheba Restaurant,Queen of Sheba,amenity,0.75,1,32.9509985,-96.8301343,"Queen of Sheba, 14875 Inwood Road, Addison, TX 75001, United States of America",review
 r453,"Red Hot Chilli Pepper, Frisco",Red Hot Chili Pepper,amenity,0.75,0.75,33.1030334,-96.80962,"Red Hot Chili Pepper, 8549 Gaylord Parkway, Frisco, TX 75024, United States of America",review
 r114,Shawarma House,Shawarma Way,amenity,0.7,0.5,32.9428419,-96.9527749,"Shawarma Way, 10045 North MacArthur Boulevard, Irving, TX 75063, United States of America",review
 r168,Epic Market,Epic Waters,amenity,0.7,0.5,32.702328,-97.031583,"Epic Waters, 2970 Epic Place, Grand Prairie, TX 75052, United States of America",review
 r321,Williams Chicken McKinney,Williams Chicken,amenity,0.667,1,32.8111826,-96.6846982,"Williams Chicken, 2844 North Buckner Boulevard, Dallas, TX 75228, United States of America",review
-r328,Godfather's Pizza McKinney,Godfather's Pizza,amenity,0.667,1,33.154862,-96.732498,"Godfather's Pizza, 4701 South Custer Road, McKinney, TX 75072, United States of America",review
 r341,Lahori Kabab Halal (Frisco),Lahori Kabab,amenity,0.667,1,33.0703155,-96.770653,"Lahori Kabab, 6832 Coit Road, Plano, TX 75024, United States of America",review
-r349,"Ked's Ice Cream, Waffles & Crepes",Ice Cream & Crepes,amenity,0.667,1,32.8638648,-96.7094239,"Ice Cream & Crepes, 10238 East Northwest Highway, Dallas, TX 75218, United States of America",review
-r359,Hot Breads Irving,Hot Breads,amenity,0.667,1,32.8818461,-96.9626215,"Hot Breads, 5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",review
-r385,Noodle Wave Richardson,Noodle Wave,amenity,0.667,1,32.9407698,-96.7683535,"Noodle Wave, 1490 W Spring Valley Rd West Spring Valley Road, Richardson, TX 75080, United States of America",review
 r390,Luna Grill Colleyville,Luna Grill,amenity,0.667,1,32.8823578,-96.7657983,"Luna Grill, 8165 Walnut Hill Lane, Dallas, TX 75231, United States of America",review
 r397,Godfather's Pizza Frisco,Godfather's Pizza,amenity,0.667,1,33.154862,-96.732498,"Godfather's Pizza, 4701 South Custer Road, McKinney, TX 75072, United States of America",review
 r414,JAFFA JOINT PLANO,Jaffa Joint,amenity,0.667,1,33.0156794,-96.5390304,"Jaffa Joint, North Ballard Avenue, Wylie, TX 75098, United States of America",review
-r419,Lahori Kabab Halal,Lahori Kabab,amenity,0.667,1,33.0703155,-96.770653,"Lahori Kabab, 6832 Coit Road, Plano, TX 75024, United States of America",review
 r472,Hot Breads Plano,Hot Breads,amenity,0.667,1,32.8818461,-96.9626215,"Hot Breads, 5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",review
 r485,Noodle Wave Garland,Noodle Wave,amenity,0.667,1,32.9407698,-96.7683535,"Noodle Wave, 1490 W Spring Valley Rd West Spring Valley Road, Richardson, TX 75080, United States of America",review
-r496,Tuscany Italian Bistro,Italian Bistro,amenity,0.667,1,33.003107,-97.2217681,"Italian Bistro, 501 East Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",review
 r501,Noodle Wave McKinney,Noodle Wave,amenity,0.667,1,32.9407698,-96.7683535,"Noodle Wave, 1490 W Spring Valley Rd West Spring Valley Road, Richardson, TX 75080, United States of America",review
-r530,A1 Burger House,Burger House,amenity,0.667,1,32.8360863,-96.7561938,"Burger House, 6248 East Mockingbird Lane, Dallas, TX 75214, United States of America",review
 r563,Louisiana Famous Fried Chicken & Seafood / JMN Chicken Mart,Louisiana Fried Chicken and Seafood,amenity,0.667,0.8,32.6410338,-97.3953167,"Louisiana Fried Chicken and Seafood, 7289 South Hulen Street, Fort Worth, TX 76123, United States of America",review
 r443,Deccan Grill - Irving,Gyro Oasis Deli and Grill,amenity,0.656,0.333,32.9201193,-96.9949878,"Gyro Oasis Deli and Grill, 3550 Regent Boulevard, Irving, TX 75063, United States of America",review
 r237,101 | Paratha,101 Parantha,amenity,0.63,0.5,32.9211381,-96.9895772,"101 Parantha, 3311 Regent Boulevard, Irving, TX 75063, United States of America",review
 r487,Bawarchi Indian Cuisine - Richardson,Sigree Indian Cuisine,amenity,0.563,0.667,32.954792,-96.839975,"Sigree Indian Cuisine, Addison, TX 75001, United States of America",review
 r175,Bonchon Richardson - Audelia Rd.,Bonchon Chicken,amenity,0.534,0.5,32.9983102,-96.696657,"Bonchon Chicken, Sparrow Lane, Richardson, TX 75074, United States of America",review
-r39,K KORNER FOOD STORE-HALAL GRILL,Korner Food Store,amenity,0.5,1,32.8724159,-97.0834659,"Korner Food Store, 2501 North Main Street, Euless, TX 76039, United States of America",review
 r48,Spice Shawarma,Spice,amenity,0.5,1,32.7305117,-97.3294217,"Spice, 411 West Magnolia Avenue, Fort Worth, TX 76104, United States of America",review
 r95,Heritage Coffee,Merit Coffee,amenity,0.5,0.5,32.7839686,-96.7847921,"Merit Coffee, 2639 Main Street, Dallas, TX 75226, United States of America",review
 r178,Bigdash Garland,Bigdash,amenity,0.5,1,32.9565831,-96.6161867,"Bigdash, 245 Lavon Drive, Garland, TX 75040, United States of America",review
 r179,Bigdash Irving,Bigdash,amenity,0.5,1,32.956583,-96.616187,"Bigdash, Garland, TX 75040, United States of America",review
 r185,"Nest Burger | Plano, Preston Rd.",Preston Road,street,0.5,0.5,32.844345,-96.804306,"Preston Road, University Park, TX 75205, United States of America",review
 r232,Sultan Cafe,Sultan,amenity,0.5,1,33.1611724,-96.6801218,"Sultan, 3935 Lake Forest Drive, McKinney, TX 75070, United States of America",review
-r376,Chicago Pizza & Pasta(HALAL),Chicago Pizza,amenity,0.5,1,32.7690173,-97.0963316,"Chicago Pizza, 2141 North Collins Street, Arlington, TX 76011, United States of America",review
 r455,CAFE LAZIZ,Cafe Brazil,amenity,0.5,0.5,32.7849655,-96.7830206,"Cafe Brazil, 2815 Elm Street, Dallas, TX 75226, United States of America",review
 r497,Bigdash Richardson,Bigdash,amenity,0.5,1,32.956583,-96.616187,"Bigdash, Garland, TX 75040, United States of America",review
 r513,"Bombay Chowpatty | Best Indian Street Food & Chaat in Irving, Tx",Irving,city,0.5,1,32.8295183,-96.9442177,"Irving, TX, United States of America",review
-r515,Our Place Indian Cuisine,Our Place,amenity,0.5,1,32.562399,-97.3174945,"Our Place, 950 North Burleson Boulevard, Burleson, TX 76028, United States of America",review
 r589,Boba Latte,Craft Boba Tea,amenity,0.5,0.5,32.7784503,-96.8291337,"Craft Boba Tea, 320 Singleton Boulevard, Dallas, TX 75212, United States of America",review
 r587,Chop House Gyro - Plano,Gyro & Burrito House,amenity,0.488,0.667,32.821675,-97.057544,"Gyro & Burrito House, Fort Worth, TX 76155, United States of America",review
 r278,"Spice Rack, PLANO / Biryani Pot - Restaurant & Banquet Hall",Terrace Restaurant,amenity,0.405,0.5,32.821125,-96.718683,"Terrace Restaurant, Dallas, TX 75218, United States of America",review
@@ -481,7 +464,6 @@ r155,"Moudi’s (Bagels, Deli, and Mediterranean)",Moudi’s,amenity,1,1,32.7822
 r156,Zio Al's Pizza & Pasta - Cedar Springs,Zio Al’s Pizza & Pasta,amenity,1,1,32.949964,-96.7328811,"Zio Al’s Pizza & Pasta, 150 West Main Street, Richardson, TX 75081, United States of America",auto
 r158,O'Desi aroma,O'Desi Aroma,amenity,1,1,32.7794347,-96.8002984,"O'Desi Aroma, 211 South Akard Street, Dallas, TX 75242, United States of America",auto
 r165,Dumont Creamery & Cafe,Dumont Creamery and Cafe,amenity,1,1,33.0920647,-96.8049685,"Dumont Creamery and Cafe, 8400 Preston Road, Plano, TX 75024, United States of America",auto
-r169,Talkin' Tacos Dallas,Talkin' Tacos Dallas,amenity,1,1,33.0907108,-96.8132493,"Talkin' Tacos Dallas, 8442 Parkwood Boulevard, Plano, TX 75024, United States of America",auto
 r183,Mogio's Gourmet Pizza,Mogio's Gourmet Pizza,amenity,1,1,33.0102027,-96.6162103,"Mogio's Gourmet Pizza, 158 West FM 544, Murphy, TX 75094, United States of America",auto
 r184,Mogio’s Gourmet Pizza,Mogio's Gourmet Pizza,amenity,1,1,33.0102027,-96.6162103,"Mogio's Gourmet Pizza, 158 West FM 544, Murphy, TX 75094, United States of America",auto
 r187,Shawarma Press - Dallas Arts District,Shawarma Press,amenity,1,1,32.7872417,-96.798571,"Shawarma Press, Ross Avenue, Dallas, TX 75201, United States of America",auto
@@ -590,3 +572,21 @@ r8,Levant BBQ,Levant Mediterranean BBQ,amenity,0.9,1,33.1058776,-96.8082979,"Lev
 r142,Sayfani Coffee House,Sayfani Yemeni Coffee House,amenity,0.9,1,33.1002622,-96.695201,"Sayfani Yemeni Coffee House, 1201 West McDermott Drive, Allen, TX 75013, United States of America",auto
 r228,Shawarma Press - Frisco,Shawarma Press - Frisco,amenity,0.9,1,33.1296595,-96.8255094,"Shawarma Press - Frisco, 6363 Dallas Parkway, Frisco, TX 75034, United States of America",auto
 r457,Another Time & Place Grille,Another Time & Place,amenity,0.9,1,33.0774792,-96.8205403,"Another Time & Place, 5760 Legacy Drive, Plano, TX 75024, United States of America",auto
+r10,Delucca Gaucho Pizza & Wine Plano,Delucca Gaucho Pizza & Wine,amenity,0.833,1,33.0907549,-96.8048315,"Delucca Gaucho Pizza & Wine, 8240 Preston Road, Plano, TX 75024, United States of America",auto
+r106,Prime Doner Restaurant,PRIME Restaurant Doner & Cagkebab,amenity,0.81,1,33.0196178,-96.7124182,"PRIME Restaurant Doner & Cagkebab, 601 West 15th Street, Plano, TX 75075, United States of America",auto
+r467,Thai Lao Express,Saplai Lao & Thai Express,amenity,0.81,1,32.8433649,-97.1003437,"Saplai Lao & Thai Express, 505 North Industrial Boulevard, Bedford, TX 76021, United States of America",auto
+r511,Pizza Twist Irving - Zabiha Halal,Pizza Twist,amenity,0.758,1,32.8963528,-96.961003,"Pizza Twist, West Royal Lane, Irving, TX 75063, United States of America",auto
+r90,Port Coffee Co Irving,Port Coffee Co,amenity,0.75,1,32.8962162,-96.9399848,"Port Coffee Co, 411 East Royal Lane, Irving, TX 75039, United States of America",auto
+r189,Hold My Chai Cafe,Hold My Chai,amenity,0.75,1,33.1209502,-96.7499616,"Hold My Chai, 5266 Independence Parkway, Frisco, TX 75035, United States of America",auto
+r339,Mughlai Fine Indian Restaurant,Mughlai Fine Indian,amenity,0.75,1,32.9369914,-97.1003066,"Mughlai Fine Indian, 3311 East State Highway 114, Southlake, TX 76092, United States of America",auto
+r418,Queen of Sheba Restaurant,Queen of Sheba,amenity,0.75,1,32.9509985,-96.8301343,"Queen of Sheba, 14875 Inwood Road, Addison, TX 75001, United States of America",auto
+r328,Godfather's Pizza McKinney,Godfather's Pizza,amenity,0.667,1,33.154862,-96.732498,"Godfather's Pizza, 4701 South Custer Road, McKinney, TX 75072, United States of America",auto
+r349,"Ked's Ice Cream, Waffles & Crepes",Ice Cream & Crepes,amenity,0.667,1,32.8638648,-96.7094239,"Ice Cream & Crepes, 10238 East Northwest Highway, Dallas, TX 75218, United States of America",auto
+r359,Hot Breads Irving,Hot Breads,amenity,0.667,1,32.8818461,-96.9626215,"Hot Breads, 5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",auto
+r385,Noodle Wave Richardson,Noodle Wave,amenity,0.667,1,32.9407698,-96.7683535,"Noodle Wave, 1490 W Spring Valley Rd West Spring Valley Road, Richardson, TX 75080, United States of America",auto
+r419,Lahori Kabab Halal,Lahori Kabab,amenity,0.667,1,33.0703155,-96.770653,"Lahori Kabab, 6832 Coit Road, Plano, TX 75024, United States of America",auto
+r496,Tuscany Italian Bistro,Italian Bistro,amenity,0.667,1,33.003107,-97.2217681,"Italian Bistro, 501 East Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",auto
+r530,A1 Burger House,Burger House,amenity,0.667,1,32.8360863,-96.7561938,"Burger House, 6248 East Mockingbird Lane, Dallas, TX 75214, United States of America",auto
+r39,K KORNER FOOD STORE-HALAL GRILL,Korner Food Store,amenity,0.5,1,32.8724159,-97.0834659,"Korner Food Store, 2501 North Main Street, Euless, TX 76039, United States of America",auto
+r376,Chicago Pizza & Pasta(HALAL),Chicago Pizza,amenity,0.5,1,32.7690173,-97.0963316,"Chicago Pizza, 2141 North Collins Street, Arlington, TX 76011, United States of America",auto
+r515,Our Place Indian Cuisine,Our Place,amenity,0.5,1,32.562399,-97.3174945,"Our Place, 950 North Burleson Boulevard, Burleson, TX 76028, United States of America",auto

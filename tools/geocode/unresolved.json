@@ -72,24 +72,6 @@
     "reason": "below threshold (confidence=0.00, similarity=0.50)"
   },
   {
-    "id": "r10",
-    "name": "Delucca Gaucho Pizza & Wine Plano",
-    "matchedName": "Delucca Gaucho Pizza & Wine",
-    "resultType": "amenity",
-    "confidence": 0.833,
-    "similarity": 1,
-    "lat": 33.0907549,
-    "lng": -96.8048315,
-    "address": "Delucca Gaucho Pizza & Wine, 8240 Preston Road, Plano, TX 75024, United States of America",
-    "city": "Plano",
-    "category": "catering.restaurant",
-    "placeRef": "519ad2fa5b823358c059d3b947db9d8b4040f00103f9015b17213703000000c0020192031b44656c756363612047617563686f2050697a7a6120262057696e65",
-    "scrapedRating": 4.5,
-    "scrapedType": "Pizza restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.83, similarity=1.00)"
-  },
-  {
     "id": "r11",
     "name": "Chino-Mex",
     "matchedName": "Chino Drive",
@@ -448,24 +430,6 @@
     "scrapedType": "Fast food restaurant",
     "status": "review",
     "reason": "below threshold (confidence=0.00, similarity=0.50)"
-  },
-  {
-    "id": "r39",
-    "name": "K KORNER FOOD STORE-HALAL GRILL",
-    "matchedName": "Korner Food Store",
-    "resultType": "amenity",
-    "confidence": 0.5,
-    "similarity": 1,
-    "lat": 32.8724159,
-    "lng": -97.0834659,
-    "address": "Korner Food Store, 2501 North Main Street, Euless, TX 76039, United States of America",
-    "city": "Euless",
-    "category": "commercial.convenience",
-    "placeRef": "5132b55b81574558c0595581ff52ab6f4040f00103f901b62bde3203000000c002019203114b6f726e657220466f6f642053746f7265e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133373338333232383730",
-    "scrapedRating": 4.9,
-    "scrapedType": "Temporarily closed",
-    "status": "review",
-    "reason": "below threshold (confidence=0.50, similarity=1.00)"
   },
   {
     "id": "r40",
@@ -867,7 +831,7 @@
     "scrapedRating": 4.6,
     "scrapedType": "Chinese restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.33)"
+    "reason": "name declares \"Plano\" but matched city is \"Lewisville\""
   },
   {
     "id": "r69",
@@ -1101,25 +1065,7 @@
     "scrapedRating": 4.7,
     "scrapedType": "Coffee shop",
     "status": "review",
-    "reason": "name declares \"McKinney\" but matched city is \"Celina\""
-  },
-  {
-    "id": "r90",
-    "name": "Port Coffee Co Irving",
-    "matchedName": "Port Coffee Co",
-    "resultType": "amenity",
-    "confidence": 0.75,
-    "similarity": 1,
-    "lat": 32.8962162,
-    "lng": -96.9399848,
-    "address": "Port Coffee Co, 411 East Royal Lane, Irving, TX 75039, United States of America",
-    "city": "Irving",
-    "category": "catering.cafe",
-    "placeRef": "512daf01b6283c58c0599c926236b7724040f00103f9014b19801a03000000c0020192030e506f727420436f6666656520436f",
-    "scrapedRating": 4.6,
-    "scrapedType": "Coffee shop",
-    "status": "review",
-    "reason": "below threshold (confidence=0.75, similarity=1.00)"
+    "reason": "name declares \"Dallas\" but matched city is \"Celina\""
   },
   {
     "id": "r93",
@@ -1233,7 +1179,7 @@
     "scrapedRating": 4.3,
     "scrapedType": "Restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.75, similarity=1.00)"
+    "reason": "name declares \"Murphy\" but matched city is \"Richardson\""
   },
   {
     "id": "r102",
@@ -1276,24 +1222,6 @@
     "scrapedType": "Thai restaurant",
     "status": "review",
     "reason": "below threshold (confidence=0.00, similarity=0.67)"
-  },
-  {
-    "id": "r106",
-    "name": "Prime Doner Restaurant",
-    "matchedName": "PRIME Restaurant Doner & Cagkebab",
-    "resultType": "amenity",
-    "confidence": 0.81,
-    "similarity": 1,
-    "lat": 33.0196178,
-    "lng": -96.7124182,
-    "address": "PRIME Restaurant Doner & Cagkebab, 601 West 15th Street, Plano, TX 75075, United States of America",
-    "city": "Plano",
-    "category": "catering.restaurant",
-    "placeRef": "51d0848142982d58c059b1b508d682824040f00103f901e4d26e3901000000c002019203215052494d452052657374617572616e7420446f6e65722026204361676b65626162",
-    "scrapedRating": 4.9,
-    "scrapedType": "Mediterranean restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.81, similarity=1.00)"
   },
   {
     "id": "r107",
@@ -1689,7 +1617,7 @@
     "scrapedRating": 4.3,
     "scrapedType": "Chinese restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.33)"
+    "reason": "name declares \"McKinney\" but matched city is \"Lewisville\""
   },
   {
     "id": "r139",
@@ -2022,6 +1950,24 @@
     "reason": "below threshold (confidence=0.70, similarity=0.50)"
   },
   {
+    "id": "r169",
+    "name": "Talkin' Tacos Dallas",
+    "matchedName": "Talkin' Tacos Dallas",
+    "resultType": "amenity",
+    "confidence": 1,
+    "similarity": 1,
+    "lat": 33.0907108,
+    "lng": -96.8132493,
+    "address": "Talkin' Tacos Dallas, 8442 Parkwood Boulevard, Plano, TX 75024, United States of America",
+    "city": "Plano",
+    "category": "catering.restaurant",
+    "placeRef": "51acbfca460c3458c0596eb257699c8b4040f00103f90149964aea02000000c0020192031454616c6b696e27205461636f732044616c6c6173",
+    "scrapedRating": 4.7,
+    "scrapedType": "Taco restaurant",
+    "status": "review",
+    "reason": "name declares \"Dallas\" but matched city is \"Plano\""
+  },
+  {
     "id": "r170",
     "name": "Mama Miyan - Falooda, Ice Cream and More",
     "matchedName": "Hemp & More",
@@ -2187,7 +2133,7 @@
     "scrapedRating": 4.4,
     "scrapedType": "Dessert shop",
     "status": "review",
-    "reason": "below threshold (confidence=0.50, similarity=1.00)"
+    "reason": "name declares \"Irving\" but matched city is \"Garland\""
   },
   {
     "id": "r180",
@@ -2284,24 +2230,6 @@
     "name": "House of Kabob and Gyro",
     "status": "unresolved",
     "reason": "no geocoder results"
-  },
-  {
-    "id": "r189",
-    "name": "Hold My Chai Cafe",
-    "matchedName": "Hold My Chai",
-    "resultType": "amenity",
-    "confidence": 0.75,
-    "similarity": 1,
-    "lat": 33.1209502,
-    "lng": -96.7499616,
-    "address": "Hold My Chai, 5266 Independence Parkway, Frisco, TX 75035, United States of America",
-    "city": "Frisco",
-    "category": "catering.cafe",
-    "placeRef": "516050f05eff2f58c059ebb8d04b7b8f4040f00103f901f992052603000000c0020192030c486f6c64204d792043686169",
-    "scrapedRating": 4.1,
-    "scrapedType": "Temporarily closed",
-    "status": "review",
-    "reason": "below threshold (confidence=0.75, similarity=1.00)"
   },
   {
     "id": "r191",
@@ -2943,7 +2871,7 @@
     "scrapedRating": 4.3,
     "scrapedType": "Thai restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.75, similarity=1.00)"
+    "reason": "name declares \"Carrollton\" but matched city is \"Dallas\""
   },
   {
     "id": "r250",
@@ -3303,7 +3231,7 @@
     "scrapedRating": 3.7,
     "scrapedType": "Indian restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.41, similarity=0.50)"
+    "reason": "name declares \"Plano\" but matched city is \"Dallas\""
   },
   {
     "id": "r279",
@@ -3501,7 +3429,7 @@
     "scrapedRating": 4.5,
     "scrapedType": "Permanently closed",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.50)"
+    "reason": "name declares \"Plano\" but matched city is \"Euless\""
   },
   {
     "id": "r303",
@@ -3693,7 +3621,7 @@
     "scrapedRating": 4.5,
     "scrapedType": "Pizza restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.83, similarity=1.00)"
+    "reason": "name declares \"Southlake\" but matched city is \"Plano\""
   },
   {
     "id": "r319",
@@ -3729,7 +3657,7 @@
     "scrapedRating": 3.5,
     "scrapedType": "Chicken restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"McKinney\" but matched city is \"Dallas\""
   },
   {
     "id": "r322",
@@ -3778,24 +3706,6 @@
     "name": "Charminar Kabab House",
     "status": "unresolved",
     "reason": "no geocoder results"
-  },
-  {
-    "id": "r328",
-    "name": "Godfather's Pizza McKinney",
-    "matchedName": "Godfather's Pizza",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 33.154862,
-    "lng": -96.732498,
-    "address": "Godfather's Pizza, 4701 South Custer Road, McKinney, TX 75072, United States of America",
-    "city": "McKinney",
-    "category": "catering.restaurant",
-    "placeRef": "51ab984a3fe12e58c05953b29c84d2934040f00103f901c98f811c03000000c00201920311476f6466617468657227732050697a7a61e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133333633313534383839",
-    "scrapedRating": 4,
-    "scrapedType": "Pizza restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
   },
   {
     "id": "r329",
@@ -3862,24 +3772,6 @@
     "name": "Taqueria Tepito #5",
     "status": "unresolved",
     "reason": "no geocoder results"
-  },
-  {
-    "id": "r339",
-    "name": "Mughlai Fine Indian Restaurant",
-    "matchedName": "Mughlai Fine Indian",
-    "resultType": "amenity",
-    "confidence": 0.75,
-    "similarity": 1,
-    "lat": 32.9369914,
-    "lng": -97.1003066,
-    "address": "Mughlai Fine Indian, 3311 East State Highway 114, Southlake, TX 76092, United States of America",
-    "city": "Southlake",
-    "category": "catering.restaurant",
-    "placeRef": "51aba45f6c6b4658c0590ed18d55ef774040f00102f901e69c3c2900000000c002019203134d7567686c61692046696e6520496e6469616e",
-    "scrapedRating": 3.9,
-    "scrapedType": "Permanently closed",
-    "status": "review",
-    "reason": "below threshold (confidence=0.75, similarity=1.00)"
   },
   {
     "id": "r340",
@@ -3984,24 +3876,6 @@
     "reason": "below threshold (confidence=0.00, similarity=0.50)"
   },
   {
-    "id": "r349",
-    "name": "Ked's Ice Cream, Waffles & Crepes",
-    "matchedName": "Ice Cream & Crepes",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 32.8638648,
-    "lng": -96.7094239,
-    "address": "Ice Cream & Crepes, 10238 East Northwest Highway, Dallas, TX 75218, United States of America",
-    "city": "Dallas",
-    "category": "catering.ice_cream",
-    "placeRef": "510d608033672d58c05932152c1f936e4040f00103f901d7cd684103000000c0020192031249636520437265616d202620437265706573e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3133393832323839333637",
-    "scrapedRating": 4.4,
-    "scrapedType": "Ice cream shop",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
-  },
-  {
     "id": "r350",
     "name": "Sal's Nashville Hot Chicken - Plano",
     "matchedName": "Ricky's Nashville Hot Chicken",
@@ -4059,25 +3933,7 @@
     "scrapedRating": 4.3,
     "scrapedType": "Asian fusion restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.50)"
-  },
-  {
-    "id": "r359",
-    "name": "Hot Breads Irving",
-    "matchedName": "Hot Breads",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 32.8818461,
-    "lng": -96.9626215,
-    "address": "Hot Breads, 5330 North MacArthur Boulevard, Irving, TX 75038, United States of America",
-    "city": "Irving",
-    "category": "catering.restaurant",
-    "placeRef": "514b3b35979b3d58c05975cd3f55e0704040f00103f90171a9d0d000000000c0020192030a486f7420427265616473e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33353033333335373933",
-    "scrapedRating": 3.3,
-    "scrapedType": "Indian restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"Dallas\" but matched city is \"Irving\""
   },
   {
     "id": "r360",
@@ -4272,24 +4128,6 @@
     "reason": "no geocoder results"
   },
   {
-    "id": "r376",
-    "name": "Chicago Pizza & Pasta(HALAL)",
-    "matchedName": "Chicago Pizza",
-    "resultType": "amenity",
-    "confidence": 0.5,
-    "similarity": 1,
-    "lat": 32.7690173,
-    "lng": -97.0963316,
-    "address": "Chicago Pizza, 2141 North Collins Street, Arlington, TX 76011, United States of America",
-    "city": "Arlington",
-    "category": "catering.fast_food",
-    "placeRef": "5191e4034c2a4658c05974c7ac286f624040f00102f9018eb7733e00000000c0020192030d4368696361676f2050697a7a61e203226f70656e7374726565746d61703a76656e75653a7761792f31303437373731303232",
-    "scrapedRating": 4.3,
-    "scrapedType": "Pizza restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.50, similarity=1.00)"
-  },
-  {
     "id": "r377",
     "name": "K - Banquets and Event Center",
     "matchedName": "Sterling Hotel Convention, Meeting and Event Center",
@@ -4365,7 +4203,7 @@
     "scrapedRating": 3.9,
     "scrapedType": "Indian grocery store",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.25)"
+    "reason": "name declares \"Frisco\" but matched city is \"Carrollton\""
   },
   {
     "id": "r383",
@@ -4390,24 +4228,6 @@
     "scrapedType": "Pizza restaurant",
     "status": "review",
     "reason": "below threshold (confidence=0.00, similarity=0.25)"
-  },
-  {
-    "id": "r385",
-    "name": "Noodle Wave Richardson",
-    "matchedName": "Noodle Wave",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 32.9407698,
-    "lng": -96.7683535,
-    "address": "Noodle Wave, 1490 W Spring Valley Rd West Spring Valley Road, Richardson, TX 75080, United States of America",
-    "city": "Richardson",
-    "category": "catering.restaurant",
-    "placeRef": "51199128b42c3158c059400812256b784040f00103f901de347be900000000c0020192030b4e6f6f646c652057617665e203236f70656e7374726565746d61703a76656e75653a6e6f64652f33393137313635373930",
-    "scrapedRating": 4.5,
-    "scrapedType": "Thai restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
   },
   {
     "id": "r386",
@@ -4479,7 +4299,7 @@
     "scrapedRating": 4.6,
     "scrapedType": "Permanently closed",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"Colleyville\" but matched city is \"Dallas\""
   },
   {
     "id": "r392",
@@ -4515,7 +4335,7 @@
     "scrapedRating": 3.8,
     "scrapedType": "Restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.50)"
+    "reason": "name declares \"Carrollton\" but matched city is \"Irving\""
   },
   {
     "id": "r394",
@@ -4575,7 +4395,7 @@
     "scrapedRating": 3.8,
     "scrapedType": "Permanently closed",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"Frisco\" but matched city is \"McKinney\""
   },
   {
     "id": "r400",
@@ -4713,7 +4533,7 @@
     "scrapedRating": 4.5,
     "scrapedType": "Mediterranean restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"Plano\" but matched city is \"Wylie\""
   },
   {
     "id": "r415",
@@ -4756,42 +4576,6 @@
     "name": "BBQ Tonite Indo Pak Kitchen and Caterers",
     "status": "unresolved",
     "reason": "no geocoder results"
-  },
-  {
-    "id": "r418",
-    "name": "Queen of Sheba Restaurant",
-    "matchedName": "Queen of Sheba",
-    "resultType": "amenity",
-    "confidence": 0.75,
-    "similarity": 1,
-    "lat": 32.9509985,
-    "lng": -96.8301343,
-    "address": "Queen of Sheba, 14875 Inwood Road, Addison, TX 75001, United States of America",
-    "city": "Addison",
-    "category": "catering.restaurant",
-    "placeRef": "516c729deb203558c059c405a051ba794040f00103f9018b25bec902000000c0020192030e517565656e206f66205368656261",
-    "scrapedRating": 4.5,
-    "scrapedType": "Ethiopian restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.75, similarity=1.00)"
-  },
-  {
-    "id": "r419",
-    "name": "Lahori Kabab Halal",
-    "matchedName": "Lahori Kabab",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 33.0703155,
-    "lng": -96.770653,
-    "address": "Lahori Kabab, 6832 Coit Road, Plano, TX 75024, United States of America",
-    "city": "Plano",
-    "category": "catering.restaurant",
-    "placeRef": "511de4f560523158c05971732a1900894040f00103f901a2b2b42602000000c0020192030c4c61686f7269204b61626162e203236f70656e7374726565746d61703a76656e75653a6e6f64652f39323339333131303130",
-    "scrapedRating": 4.1,
-    "scrapedType": "Pakistani restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
   },
   {
     "id": "r420",
@@ -4983,7 +4767,7 @@
     "scrapedRating": 4.2,
     "scrapedType": "Temporarily closed",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.50)"
+    "reason": "name declares \"Plano\" but matched city is \"Carrollton\""
   },
   {
     "id": "r433",
@@ -5304,24 +5088,6 @@
     "reason": "below threshold (confidence=0.00, similarity=0.75)"
   },
   {
-    "id": "r467",
-    "name": "Thai Lao Express",
-    "matchedName": "Saplai Lao & Thai Express",
-    "resultType": "amenity",
-    "confidence": 0.81,
-    "similarity": 1,
-    "lat": 32.8433649,
-    "lng": -97.1003437,
-    "address": "Saplai Lao & Thai Express, 505 North Industrial Boulevard, Bedford, TX 76021, United States of America",
-    "city": "Bedford",
-    "category": "catering.restaurant",
-    "placeRef": "510477fb076c4658c059120c8c61f36b4040f00103f9013ac3883303000000c002019203195361706c6169204c616f202620546861692045787072657373",
-    "scrapedRating": 4.4,
-    "scrapedType": "Permanently closed",
-    "status": "review",
-    "reason": "below threshold (confidence=0.81, similarity=1.00)"
-  },
-  {
     "id": "r469",
     "name": "Dream Kabob House",
     "matchedName": "Texas Kabob House",
@@ -5373,7 +5139,7 @@
     "scrapedRating": 4.4,
     "scrapedType": "Pizza restaurant",
     "status": "review",
-    "reason": "name declares \"Frisco\" but matched city is \"Dallas\""
+    "reason": "name declares \"Plano\" but matched city is \"Dallas\""
   },
   {
     "id": "r472",
@@ -5391,7 +5157,7 @@
     "scrapedRating": 3.4,
     "scrapedType": "Indian restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"Plano\" but matched city is \"Irving\""
   },
   {
     "id": "r473",
@@ -5535,7 +5301,7 @@
     "scrapedRating": 4.3,
     "scrapedType": "Thai restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"Garland\" but matched city is \"Richardson\""
   },
   {
     "id": "r487",
@@ -5652,24 +5418,6 @@
     "reason": "below threshold (confidence=0.00, similarity=0.50)"
   },
   {
-    "id": "r496",
-    "name": "Tuscany Italian Bistro",
-    "matchedName": "Italian Bistro",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 33.003107,
-    "lng": -97.2217681,
-    "address": "Italian Bistro, 501 East Byron Nelson Boulevard, Roanoke, TX 76262, United States of America",
-    "city": "Roanoke",
-    "category": "catering.restaurant",
-    "placeRef": "51f332d472314e58c059c0b167cf65804040f00102f9016db8fe2300000000c0020192030e4974616c69616e2042697374726fe203216f70656e7374726565746d61703a76656e75653a7761792f363033383935393137",
-    "scrapedRating": 4.3,
-    "scrapedType": "Permanently closed",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
-  },
-  {
     "id": "r497",
     "name": "Bigdash Richardson",
     "matchedName": "Bigdash",
@@ -5685,7 +5433,7 @@
     "scrapedRating": 4.5,
     "scrapedType": "Ice cream shop",
     "status": "review",
-    "reason": "below threshold (confidence=0.50, similarity=1.00)"
+    "reason": "name declares \"Richardson\" but matched city is \"Garland\""
   },
   {
     "id": "r498",
@@ -5757,7 +5505,7 @@
     "scrapedRating": 4.4,
     "scrapedType": "Thai restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
+    "reason": "name declares \"McKinney\" but matched city is \"Richardson\""
   },
   {
     "id": "r502",
@@ -5904,24 +5652,6 @@
     "reason": "below threshold (confidence=0.00, similarity=0.50)"
   },
   {
-    "id": "r511",
-    "name": "Pizza Twist Irving - Zabiha Halal",
-    "matchedName": "Pizza Twist",
-    "resultType": "amenity",
-    "confidence": 0.758,
-    "similarity": 1,
-    "lat": 32.8963528,
-    "lng": -96.961003,
-    "address": "Pizza Twist, West Royal Lane, Irving, TX 75063, United States of America",
-    "city": "Irving",
-    "category": "catering.restaurant",
-    "placeRef": "51e816ba12813d58c059cad644b0bb724040f00103f901bc6ab06202000000c0020192030b50697a7a61205477697374e203246f70656e7374726565746d61703a76656e75653a6e6f64652f3130323435363633343230",
-    "scrapedRating": 4,
-    "scrapedType": "Pizza restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.76, similarity=1.00)"
-  },
-  {
     "id": "r513",
     "name": "Bombay Chowpatty | Best Indian Street Food & Chaat in Irving, Tx",
     "matchedName": "Irving",
@@ -5956,24 +5686,6 @@
     "scrapedType": "Indian restaurant",
     "status": "review",
     "reason": "below threshold (confidence=0.00, similarity=0.50)"
-  },
-  {
-    "id": "r515",
-    "name": "Our Place Indian Cuisine",
-    "matchedName": "Our Place",
-    "resultType": "amenity",
-    "confidence": 0.5,
-    "similarity": 1,
-    "lat": 32.562399,
-    "lng": -97.3174945,
-    "address": "Our Place, 950 North Burleson Boulevard, Burleson, TX 76028, United States of America",
-    "city": "Burleson",
-    "category": "catering.restaurant",
-    "placeRef": "513b8a73d4515458c059cc26c0b0fc474040f00102f901c36b311000000000c002019203094f757220506c616365e203216f70656e7374726565746d61703a76656e75653a7761792f323731363734333037",
-    "scrapedRating": 3.9,
-    "scrapedType": "Indian restaurant",
-    "status": "review",
-    "reason": "below threshold (confidence=0.50, similarity=1.00)"
   },
   {
     "id": "r516",
@@ -6180,24 +5892,6 @@
     "reason": "below threshold (confidence=0.00, similarity=0.33)"
   },
   {
-    "id": "r530",
-    "name": "A1 Burger House",
-    "matchedName": "Burger House",
-    "resultType": "amenity",
-    "confidence": 0.667,
-    "similarity": 1,
-    "lat": 32.8360863,
-    "lng": -96.7561938,
-    "address": "Burger House, 6248 East Mockingbird Lane, Dallas, TX 75214, United States of America",
-    "city": "Dallas",
-    "category": "catering.restaurant",
-    "placeRef": "51081cae7a653058c0591b9139e0046b4040f00102f901d5adc21b00000000c0020192030c42757267657220486f757365e203216f70656e7374726565746d61703a76656e75653a7761792f343635373433333137",
-    "scrapedRating": 4.2,
-    "scrapedType": "Permanently closed",
-    "status": "review",
-    "reason": "below threshold (confidence=0.67, similarity=1.00)"
-  },
-  {
     "id": "r531",
     "name": "Chop House Gyro Arlington",
     "matchedName": "Chop House Burger",
@@ -6213,7 +5907,7 @@
     "scrapedRating": 4.4,
     "scrapedType": "Halal restaurant",
     "status": "review",
-    "reason": "below threshold (confidence=0.00, similarity=0.67)"
+    "reason": "name declares \"Arlington\" but matched city is \"Dallas\""
   },
   {
     "id": "r532",

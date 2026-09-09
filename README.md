@@ -34,14 +34,17 @@ pipeline in `tools/geocode/` — see
 [`docs/data-pipeline-plan.md`](docs/data-pipeline-plan.md) for the full
 approach and rationale.
 
-**Current coverage: 148 of 591 scraped names have been resolved to a real,
-verified location (133 restaurants + 15 mosques).** The remaining 443 are
+**Current coverage: 165 of 591 scraped names have been resolved to a real,
+verified location (150 restaurants + 15 mosques).** The remaining 441 are
 listed in `tools/geocode/unresolved.json` and `tools/geocode/report.csv` —
 either the automated pipeline couldn't confidently match them to a real
 place (common for small/independent restaurants not well mapped in
 OpenStreetMap), or they were dropped because they'd have collided with
 another record's location (a chain with only one branch mapped in OSM, or a
-literal duplicate scrape). Resolving more of them is a manual task — see
+literal duplicate scrape). See `tools/geocode/VERIFICATION.md` for why this
+doesn't get much higher without either a paid geocoding API or a human
+working the review queue by hand. Resolving more of them is a manual task —
+see
 "Adding more restaurants" below. Shipping fewer real places was a deliberate
 choice over shipping fabricated ones; see the plan doc for why.
 

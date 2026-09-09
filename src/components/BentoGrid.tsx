@@ -23,14 +23,8 @@ export function BentoGrid({ restaurants, onOpen, onToggleSave, emptyTitle, empty
   return (
     <motion.div layout className="grid grid-cols-2 sm:grid-cols-3 gap-3 auto-rows-[minmax(0,1fr)]">
       <AnimatePresence>
-        {restaurants.map((r, i) => (
-          <RestaurantCard
-            key={r.id}
-            restaurant={r}
-            featured={i === 0 && restaurants.length > 2}
-            onOpen={onOpen}
-            onToggleSave={onToggleSave}
-          />
+        {restaurants.map((r) => (
+          <RestaurantCard key={r.id} restaurant={r} onOpen={onOpen} onToggleSave={onToggleSave} />
         ))}
       </AnimatePresence>
     </motion.div>

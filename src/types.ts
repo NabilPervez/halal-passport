@@ -50,6 +50,12 @@ export interface Restaurant {
   /** Provenance — how this record's coordinates were resolved. */
   matchConfidence: number;
   matchMethod: MatchMethod;
+  /**
+   * True for a restaurant a user added locally (see addUserRestaurant in
+   * db.ts) rather than one shipped in the bundled catalog. Local to this
+   * device only — there's no backend to share it with other users.
+   */
+  isUserSubmitted?: boolean;
 }
 
 /** Per-user, per-place state — lives in its own IndexedDB store so a
@@ -58,6 +64,18 @@ export interface UserPlaceState {
   placeId: string;
   saveState: SaveState;
   savedAt?: number;
+}
+
+/**
+ * A local, per-device claim that overrides a catalog record's halalStatus.
+ * There is no backend here, so this is NOT a shared/community
+ * verification — it's this device's own submission, applied on top of the
+ * catalog value on read. See setHalalStatus() in db.ts.
+ */
+export interface HalalStatusOverride {
+  placeId: string;
+  halalStatus: HalalStatus;
+  updatedAt: number;
 }
 
 /** A Restaurant joined with the viewer's save state, for rendering. */
