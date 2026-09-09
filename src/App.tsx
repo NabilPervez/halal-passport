@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { lazy, Suspense, useEffect, useMemo, useState } from "react";
 import { AnimatePresence } from "framer-motion";
 import type { RestaurantWithSaveState, Review } from "./types";
 import {
@@ -8,12 +8,18 @@ import {
   getAllReviews,
   putReview,
 } from "./lib/db";
-import { MapView } from "./components/MapView";
 import { BentoGrid } from "./components/BentoGrid";
 import { DiscoverFeed } from "./components/DiscoverFeed";
 import { RestaurantDetail } from "./components/RestaurantDetail";
 import { BottomNav, type Tab } from "./components/BottomNav";
 import { MeetupsView } from "./components/MeetupsView";
+
+// maplibre-gl is the single heaviest dependency in the bundle (~700KB) and
+// is only ever needed on the Discover tab — lazy-load it so Wishlist/
+// Passport/Meetups, and Discover's own first paint, don't pay for it upfront.
+const MapView = lazy(() =>
+  import("./components/MapView").then((m) => ({ default: m.MapView }))
+);
 
 function getDistanceInMiles(lat1: number, lon1: number, lat2: number, lon2: number) {
   const R = 3958.8;
@@ -34,6 +40,7 @@ export default function App() {
   const [ready, setReady] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [selectedDistance, setSelectedDistance] = useState<string>("All");
+  const [searchQuery, setSearchQuery] = useState<string>("");
   const [userLocation, setUserLocation] = useState<{lat: number, lng: number} | null>(null);
 
   useEffect(() => {
@@ -73,17 +80,36 @@ export default function App() {
     () => restaurants.filter((r) => r.saveState === "eaten").sort((a, b) => (b.savedAt ?? 0) - (a.savedAt ?? 0)),
     [restaurants]
   );
-  
+
+  // Closed businesses are excluded from every Discover browsing surface
+  // (map, category rows, filtered grid, cuisine dropdown, spot count) but
+  // deliberately NOT from Wishlist/Passport — a place someone already ate
+  // at and reviewed shouldn't vanish from their own history just because
+  // it closed down later.
+  const visitableRestaurants = useMemo(
+    () => restaurants.filter((r) => r.isMosque || r.businessStatus === "operational"),
+    [restaurants]
+  );
+
   const categories = useMemo(() => {
-    const cats = new Set(restaurants.map(r => r.cuisine || "Uncategorized"));
+    const cats = new Set(visitableRestaurants.map(r => r.cuisine || "Uncategorized"));
     return ["All", ...Array.from(cats).sort()];
-  }, [restaurants]);
+  }, [visitableRestaurants]);
+
+  const trimmedSearch = searchQuery.trim().toLowerCase();
+  const isSearching = trimmedSearch.length > 0;
 
   const discoverRestaurants = useMemo(() => {
-    let filtered = restaurants;
-    
+    let filtered = visitableRestaurants;
+
     if (selectedCategory !== "All") {
       filtered = filtered.filter(r => (r.cuisine || "Uncategorized") === selectedCategory);
+    }
+
+    if (trimmedSearch) {
+      filtered = filtered.filter((r) =>
+        [r.name, r.cuisine, r.city].some((field) => field?.toLowerCase().includes(trimmedSearch))
+      );
     }
 
     if (userLocation) {
@@ -105,19 +131,20 @@ export default function App() {
     }
 
     return filtered;
-  }, [restaurants, selectedCategory, selectedDistance, userLocation]);
+  }, [visitableRestaurants, selectedCategory, trimmedSearch, selectedDistance, userLocation]);
 
-  // "Available" spots means places to eat — mosques are on the map but
-  // aren't a dining option, so they're excluded from this count.
+  // "Available" spots means places to eat that are actually open — mosques
+  // aren't a dining option and closed businesses aren't available, so both
+  // are excluded from this count.
   const totalSpotCount = useMemo(
-    () => restaurants.filter((r) => !r.isMosque).length,
-    [restaurants]
+    () => visitableRestaurants.filter((r) => !r.isMosque).length,
+    [visitableRestaurants]
   );
   const filteredSpotCount = useMemo(
     () => discoverRestaurants.filter((r) => !r.isMosque).length,
     [discoverRestaurants]
   );
-  const isFiltered = selectedCategory !== "All" || selectedDistance !== "All";
+  const isFiltered = selectedCategory !== "All" || selectedDistance !== "All" || isSearching;
 
   const active = restaurants.find((r) => r.id === activeId) ?? null;
 
@@ -156,7 +183,13 @@ export default function App() {
       <main className="px-5 max-w-md mx-auto sm:max-w-3xl flex flex-col gap-5">
         {tab === "discover" && (
           <>
-            <MapView restaurants={discoverRestaurants} onOpen={setActiveId} userLocation={userLocation} />
+            <Suspense
+              fallback={
+                <div className="rounded-xl2 border border-base-border h-[52vh] min-h-[320px] bg-base-elevated animate-pulse" />
+              }
+            >
+              <MapView restaurants={discoverRestaurants} onOpen={setActiveId} userLocation={userLocation} />
+            </Suspense>
             <section className="flex flex-col gap-4">
               <div className="flex items-center justify-between">
                 <h2 className="font-display font-semibold text-cream">Filters</h2>
@@ -164,7 +197,22 @@ export default function App() {
                   {userLocation ? "📍 Location Active" : "📍 Use My Location"}
                 </button>
               </div>
-              
+
+              <div className="relative">
+                <svg viewBox="0 0 24 24" className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted pointer-events-none" fill="none" stroke="currentColor" strokeWidth="2">
+                  <circle cx="11" cy="11" r="7" />
+                  <path d="M21 21l-4.3-4.3" />
+                </svg>
+                <input
+                  type="search"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="Search by name, cuisine, or city"
+                  aria-label="Search restaurants"
+                  className="w-full bg-base-elevated border border-base-border text-cream text-sm rounded-lg pl-9 pr-3 py-2.5 placeholder:text-muted/60 focus-visible:outline-emerald"
+                />
+              </div>
+
               <div className="flex gap-3">
                 <div className="flex-1 flex flex-col gap-1.5">
                   <label className="text-[10px] uppercase tracking-wider text-muted font-body font-semibold">Cuisine</label>
@@ -198,7 +246,7 @@ export default function App() {
               </div>
 
               <div className="mt-2">
-                {selectedCategory === "All" ? (
+                {selectedCategory === "All" && !isSearching ? (
                   <DiscoverFeed
                     restaurants={discoverRestaurants}
                     onOpen={setActiveId}
@@ -211,8 +259,12 @@ export default function App() {
                     restaurants={discoverRestaurants}
                     onOpen={setActiveId}
                     onToggleSave={handleToggleSave}
-                    emptyTitle="No spots found"
-                    emptyBody="Try changing your filters to see more spots."
+                    emptyTitle={isSearching ? `No matches for "${searchQuery.trim()}"` : "No spots found"}
+                    emptyBody={
+                      isSearching
+                        ? "Try a different name, cuisine, or city."
+                        : "Try changing your filters to see more spots."
+                    }
                   />
                 )}
               </div>
