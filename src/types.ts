@@ -50,6 +50,12 @@ export interface Restaurant {
   /** Provenance — how this record's coordinates were resolved. */
   matchConfidence: number;
   matchMethod: MatchMethod;
+  /**
+   * True for a restaurant a user added locally (see addUserRestaurant in
+   * db.ts) rather than one shipped in the bundled catalog. Local to this
+   * device only — there's no backend to share it with other users.
+   */
+  isUserSubmitted?: boolean;
 }
 
 /** Per-user, per-place state — lives in its own IndexedDB store so a

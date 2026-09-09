@@ -11,7 +11,6 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = join(__dirname, "..", "..");
 
 const GEOAPIFY_KEY = process.env.VITE_GEOAPIFY_KEY || process.env.GEOAPIFY_KEY;
 if (!GEOAPIFY_KEY) {
@@ -30,7 +29,7 @@ function haversineMeters(lat1, lng1, lat2, lng2) {
 }
 
 async function main() {
-  const mosques = JSON.parse(readFileSync(join(ROOT, "src/data/mosques.json"), "utf8"));
+  const mosques = JSON.parse(readFileSync(join(__dirname, "mosques-source.json"), "utf8"));
   const results = [];
 
   for (const m of mosques) {

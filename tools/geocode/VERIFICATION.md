@@ -38,6 +38,21 @@ review before any listing is presented to users as confidently correct.
      conflict but cannot catch every kind of wrong-branch match.
 - After both fixes, a second sample of 23 records showed no further
   city/name inconsistencies.
+- **Second pass (retention push):** added a narrower second acceptance
+  path in `03-score.mjs` — full name-token containment (e.g. "Heritage
+  Scoop - Plano" vs OSM's "Heritage Scoop") at a lower confidence floor
+  than the primary threshold, guarded against degenerate single-token
+  matches (`SUBSET_MATCH_MIN_TOKENS`). Spot-checking the newly-promoted
+  records surfaced the SAME class of bug again, worse: 5 of the first 24
+  had a real wrong-city match (`Luna Grill Colleyville` → a Dallas
+  location, `Williams Chicken McKinney` → Dallas, `bb.q Chicken Murphy` →
+  Richardson, `Thai Noodle Wave Carrollton` → Dallas, `JAFFA JOINT PLANO`
+  → Wylie) because `extractDeclaredCity` only matched a city name set off
+  by a hyphen or parens, and these append the city as a bare trailing
+  word with no punctuation at all. Broadened the regex to a bare
+  whole-word match anywhere in the name. Re-ran; a full audit of every
+  shipped restaurant record's name against its shipped city (not just a
+  sample) found **zero mismatches** across all 150.
 - Ran a full "no housenumber" audit and confirmed the remaining cases (e.g.
   "Pizza Vibes" → a Colony Boulevard address with no house number) are
   shopping-center units OSM simply hasn't tagged a housenumber for — the
@@ -54,7 +69,7 @@ review before any listing is presented to users as confidently correct.
 ## What was NOT done (item 10 — not complete)
 
 **Item 10 of the Definition of Done — every `review`-status row
-dispositioned (accepted, overridden, or dropped) — is not met.** 458 rows
+dispositioned (accepted, overridden, or dropped) — is not met.** 441 rows
 remain undispositioned in `tools/geocode/report.csv` /
 `tools/geocode/unresolved.json`, none in `overrides.json`. This is real,
 remaining work for a human reviewer with DFW knowledge (or access to
@@ -65,7 +80,35 @@ something this pass could responsibly complete by proxy. See the README's
 ## Retention
 
 - 591 scraped names in
-- 148 shipped to `src/data/restaurants.json` (133 restaurants, resolved
-  automatically at high confidence + 15 verified mosques) — 25.0% of
-  restaurant names resolved automatically
-- 458 in `tools/geocode/unresolved.json`, awaiting human review
+- 165 shipped to `src/data/restaurants.json` (150 restaurants, resolved
+  automatically + 15 verified mosques) — 25.4% of restaurant names
+  resolved automatically
+- 441 in `tools/geocode/unresolved.json`, awaiting human review
+
+## Why this doesn't get closer to 591 without either a paid API or a human
+
+The remaining 441 fall into three buckets, and none of them are solvable
+by further automated threshold-tuning — every widening attempted so far
+has been immediately caught reintroducing the same wrong-branch/wrong-city
+failure this project exists to eliminate:
+
+- **89 have zero geocoder results at all.** OSM simply doesn't have these
+  businesses mapped — mostly small independent/ethnic restaurants, which
+  is exactly the segment OSM's volunteer-mapped coverage is weakest for
+  (vs. Google Places, which isn't usable here — see the licensing
+  decision in `docs/data-pipeline-plan.md`).
+- **~39 have a real declared-city conflict** (the geocoder found *a*
+  business with that name, in the wrong DFW city) — genuinely ambiguous
+  without a human confirming the correct branch.
+- **~30 share an upstream OSM node with another scraped name** — a chain
+  where OSM has only one branch mapped, so every branch name resolves to
+  the same single pin; one gets to ship, the rest need a human to locate
+  the actual branch address.
+
+The honest path to a materially higher number is either paying for a
+Google Places lookup per remaining row (see the licensing note in the
+plan — that data can't be stored permanently under free-tier terms, so
+it'd change the architecture) or a human working `report.csv` by hand.
+Neither happened here. The in-app "Add a restaurant" feature (see README)
+is the practical middle path: a user who knows a real spot can add it
+directly, geocoded and verified on the spot, without waiting on either.

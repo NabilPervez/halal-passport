@@ -119,21 +119,18 @@ export function getDB() {
 }
 
 /**
- * Replaces the restaurant catalog wholesale with the bundled, geocoded
- * dataset. Safe to call on every launch — user save state lives in a
- * separate store this never touches.
+ * Upserts the bundled, geocoded catalog into the restaurants store. Safe
+ * to call on every launch — it only ever `put`s rows the app ships (by
+ * id), so it never touches user save state (separate store) and never
+ * deletes anything, including restaurants a user has added locally (see
+ * addUserRestaurant). Cheap enough (a few hundred puts) to just always run
+ * rather than trying to detect "is this already seeded", which broke once
+ * the store could hold more rows than the catalog ships (a user-added
+ * restaurant made the old row-count check permanently wrong).
  */
 export async function syncCatalog(): Promise<void> {
   const db = await getDB();
   const catalog = restaurantsData as unknown as Restaurant[];
-
-  const existingCount = await db.count("restaurants");
-  if (existingCount === catalog.length) {
-    // Cheap check to avoid rewriting all rows on every launch once seeded.
-    // A real version bump (DB_VERSION) still forces a full re-seed via the
-    // upgrade handler's store.clear() above.
-    return;
-  }
 
   const tx = db.transaction("restaurants", "readwrite");
   await Promise.all([...catalog.map((r) => tx.store.put(r)), tx.done]);
@@ -153,6 +150,47 @@ export async function syncCatalog(): Promise<void> {
       });
     }
   }
+}
+
+/**
+ * Adds a restaurant a user found and typed in themselves. Local to this
+ * device only — there is no backend, so it is not shared with other
+ * users. Stored in the same "restaurants" store as the bundled catalog,
+ * under a "user-" id prefix that syncCatalog() never touches, so it
+ * survives every future catalog refresh.
+ */
+export async function addUserRestaurant(input: {
+  name: string;
+  address: string;
+  city: string;
+  lat: number;
+  lng: number;
+  cuisine: string | null;
+  halalStatus: HalalStatus;
+}): Promise<Restaurant> {
+  const db = await getDB();
+  const id = `user-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+  const restaurant: Restaurant = {
+    id,
+    name: input.name,
+    placeRef: null,
+    cuisine: input.cuisine,
+    city: input.city,
+    lat: input.lat,
+    lng: input.lng,
+    address: input.address,
+    businessStatus: "operational",
+    halalStatus: input.halalStatus,
+    dietaryTags: [],
+    pricePoint: null,
+    scrapedRating: null,
+    heroColor: "emerald",
+    matchConfidence: 1,
+    matchMethod: "manual",
+    isUserSubmitted: true,
+  };
+  await db.put("restaurants", restaurant);
+  return restaurant;
 }
 
 export async function getAllRestaurantsWithState(): Promise<RestaurantWithSaveState[]> {

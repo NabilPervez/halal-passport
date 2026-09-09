@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useMemo, useState } from "react";
 import { AnimatePresence } from "framer-motion";
-import type { RestaurantWithSaveState, Review, HalalStatus } from "./types";
+import type { Restaurant, RestaurantWithSaveState, Review, HalalStatus } from "./types";
 import {
   syncCatalog,
   getAllRestaurantsWithState,
@@ -13,6 +13,7 @@ import { BentoGrid } from "./components/BentoGrid";
 import { DiscoverFeed } from "./components/DiscoverFeed";
 import { RestaurantCard } from "./components/RestaurantCard";
 import { RestaurantDetail } from "./components/RestaurantDetail";
+import { AddRestaurantForm } from "./components/AddRestaurantForm";
 import { BottomNav, type Tab } from "./components/BottomNav";
 import { MeetupsView } from "./components/MeetupsView";
 
@@ -22,6 +23,25 @@ import { MeetupsView } from "./components/MeetupsView";
 const MapView = lazy(() =>
   import("./components/MapView").then((m) => ({ default: m.MapView }))
 );
+
+// "verified-zabihah" and "self-reported" both mean the whole place is
+// halal; "halal-options" means only some menu items are — a real
+// distinction users asked to filter on separately rather than lumping
+// both under one "verified" bucket.
+type HalalFilterLevel = "All" | "fully-halal" | "halal-options" | "unverified";
+
+function matchesHalalFilter(status: HalalStatus, filter: HalalFilterLevel): boolean {
+  switch (filter) {
+    case "All":
+      return true;
+    case "fully-halal":
+      return status === "verified-zabihah" || status === "self-reported";
+    case "halal-options":
+      return status === "halal-options";
+    case "unverified":
+      return status === "unverified";
+  }
+}
 
 function getDistanceInMiles(lat1: number, lon1: number, lat2: number, lon2: number) {
   const R = 3958.8;
@@ -42,9 +62,10 @@ export default function App() {
   const [ready, setReady] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [selectedDistance, setSelectedDistance] = useState<string>("All");
-  const [selectedHalalFilter, setSelectedHalalFilter] = useState<"All" | "verified" | "unverified">("All");
+  const [selectedHalalFilter, setSelectedHalalFilter] = useState<HalalFilterLevel>("All");
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [userLocation, setUserLocation] = useState<{lat: number, lng: number} | null>(null);
+  const [showAddForm, setShowAddForm] = useState(false);
 
   useEffect(() => {
     (async () => {
@@ -69,6 +90,10 @@ export default function App() {
   async function handleSaveReview(review: Review) {
     setReviews((prev) => ({ ...prev, [review.restaurantId]: review }));
     await putReview(review);
+  }
+
+  function handleRestaurantAdded(restaurant: Restaurant) {
+    setRestaurants((prev) => [...prev, { ...restaurant, saveState: "none" }]);
   }
 
   function handleUseLocation() {
@@ -156,9 +181,7 @@ export default function App() {
     }
 
     if (selectedHalalFilter !== "All") {
-      filtered = filtered.filter((r) =>
-        selectedHalalFilter === "verified" ? r.halalStatus !== "unverified" : r.halalStatus === "unverified"
-      );
+      filtered = filtered.filter((r) => matchesHalalFilter(r.halalStatus, selectedHalalFilter));
     }
 
     return applySearchAndDistance(filtered);
@@ -232,11 +255,19 @@ export default function App() {
               <MapView restaurants={mapMarkers} onOpen={setActiveId} userLocation={userLocation} />
             </Suspense>
             <section className="flex flex-col gap-4">
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between gap-2 flex-wrap">
                 <h2 className="font-display font-semibold text-cream">Filters</h2>
-                <button onClick={handleUseLocation} className="text-xs font-body font-medium bg-emerald/10 text-emerald px-3 py-1.5 rounded-full border border-emerald/20 hover:bg-emerald/20 transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald">
-                  {userLocation ? "📍 Location Active" : "📍 Use My Location"}
-                </button>
+                <div className="flex items-center gap-2">
+                  <button
+                    onClick={() => setShowAddForm(true)}
+                    className="text-xs font-body font-medium bg-base-elevated text-cream px-3 py-1.5 rounded-full border border-base-border hover:border-emerald/60 transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald"
+                  >
+                    + Add a spot
+                  </button>
+                  <button onClick={handleUseLocation} className="text-xs font-body font-medium bg-emerald/10 text-emerald px-3 py-1.5 rounded-full border border-emerald/20 hover:bg-emerald/20 transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald">
+                    {userLocation ? "📍 Location Active" : "📍 Use My Location"}
+                  </button>
+                </div>
               </div>
 
               <div className="relative">
@@ -287,15 +318,16 @@ export default function App() {
               </div>
 
               <div className="flex flex-col gap-1.5">
-                <label className="text-[10px] uppercase tracking-wider text-muted font-body font-semibold">Halal status</label>
+                <label className="text-[10px] uppercase tracking-wider text-muted font-body font-semibold">Halal level</label>
                 <select
                   value={selectedHalalFilter}
-                  onChange={(e) => setSelectedHalalFilter(e.target.value as typeof selectedHalalFilter)}
+                  onChange={(e) => setSelectedHalalFilter(e.target.value as HalalFilterLevel)}
                   className="w-full bg-base-elevated border border-base-border text-cream text-sm rounded-lg px-3 py-2.5 focus-visible:outline-emerald appearance-none"
                 >
-                  <option value="All">All (verified &amp; unverified)</option>
-                  <option value="verified">Verified halal only</option>
-                  <option value="unverified">Unverified only</option>
+                  <option value="All">Any halal level</option>
+                  <option value="fully-halal">Fully halal (Zabihah)</option>
+                  <option value="halal-options">Has halal options</option>
+                  <option value="unverified">Unverified</option>
                 </select>
               </div>
 
@@ -315,12 +347,7 @@ export default function App() {
                   >
                     {mosqueResults.map((m) => (
                       <div key={m.id} className="snap-start shrink-0 w-40">
-                        <RestaurantCard
-                          restaurant={m}
-                          featured={false}
-                          onOpen={setActiveId}
-                          onToggleSave={handleToggleSave}
-                        />
+                        <RestaurantCard restaurant={m} onOpen={setActiveId} onToggleSave={handleToggleSave} />
                       </div>
                     ))}
                     <div className="shrink-0 w-1" aria-hidden="true" />
@@ -398,6 +425,9 @@ export default function App() {
             onSetSaveState={handleToggleSave}
             onSetHalalStatus={handleSetHalalStatus}
           />
+        )}
+        {showAddForm && (
+          <AddRestaurantForm onClose={() => setShowAddForm(false)} onAdded={handleRestaurantAdded} />
         )}
       </AnimatePresence>
     </div>

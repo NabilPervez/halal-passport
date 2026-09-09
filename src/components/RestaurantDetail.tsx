@@ -5,6 +5,7 @@ import { Badge } from "./Badge";
 import { GemRating } from "./GemRating";
 import { ReviewForm } from "./ReviewForm";
 import { ShareSheet } from "./ShareSheet";
+import { describeHalalStatus } from "../lib/halal";
 
 interface RestaurantDetailProps {
   restaurant: RestaurantWithSaveState;
@@ -68,11 +69,15 @@ export function RestaurantDetail({
                 {restaurant.scrapedRating != null && (
                   <Badge tone="topaz">★ {restaurant.scrapedRating.toFixed(1)}</Badge>
                 )}
-                {restaurant.halalStatus === "unverified" ? (
-                  <Badge tone={restaurant.heroColor}>Unverified halal — help confirm below</Badge>
-                ) : (
-                  <Badge tone="emerald">✓ Verified halal</Badge>
-                )}
+                {(() => {
+                  const { label, tone } = describeHalalStatus(restaurant.halalStatus, restaurant.heroColor);
+                  return (
+                    <Badge tone={tone}>
+                      {label}
+                      {restaurant.halalStatus === "unverified" && " — help confirm below"}
+                    </Badge>
+                  );
+                })()}
                 {restaurant.dietaryTags.map((tag) => (
                   <Badge key={tag} tone={restaurant.heroColor}>
                     {tag}
@@ -185,14 +190,14 @@ function HalalStatusControl({
   restaurant: RestaurantWithSaveState;
   onSetHalalStatus: (id: string, next: HalalStatus) => void;
 }) {
-  const isVerified = restaurant.halalStatus !== "unverified";
+  const status = restaurant.halalStatus;
 
-  if (isVerified) {
+  if (status === "verified-zabihah" || status === "self-reported") {
     return (
       <div className="flex items-center justify-between gap-3 p-3 rounded-lg bg-emerald-soft border border-emerald-deep/40">
         <p className="text-xs font-body text-emerald leading-snug">
-          Marked verified halal on this device. Not a shared verification —
-          other users won't see this.
+          Marked fully halal (Zabihah) on this device. Not a shared
+          verification — other users won't see this.
         </p>
         <button
           onClick={() => onSetHalalStatus(restaurant.id, "unverified")}
@@ -204,20 +209,45 @@ function HalalStatusControl({
     );
   }
 
+  if (status === "halal-options") {
+    return (
+      <div className="flex items-center justify-between gap-3 p-3 rounded-lg bg-amethyst-soft border border-amethyst-deep/40">
+        <p className="text-xs font-body text-amethyst leading-snug">
+          Marked "has halal options" on this device — not the whole menu.
+          Not a shared verification.
+        </p>
+        <button
+          onClick={() => onSetHalalStatus(restaurant.id, "unverified")}
+          className="shrink-0 text-xs font-body font-semibold text-amethyst underline decoration-amethyst/40 hover:decoration-amethyst focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald rounded"
+        >
+          Undo
+        </button>
+      </div>
+    );
+  }
+
   return (
     <div className="flex flex-col gap-2 p-3 rounded-lg bg-base-elevated2 border border-base-border">
       <p className="text-xs font-body text-muted leading-snug">
         This listing hasn't been confirmed halal — it was matched from a
-        directory, not verified. If you know this spot serves Zabihah
-        halal, you can mark it here (recorded on this device only, not
-        shared with other users).
+        directory, not verified. If you know this spot, you can mark its
+        halal level here (recorded on this device only, not shared with
+        other users).
       </p>
-      <button
-        onClick={() => onSetHalalStatus(restaurant.id, "verified-zabihah")}
-        className="self-start rounded-full bg-emerald text-base px-3.5 py-1.5 text-xs font-semibold font-body focus-visible:outline focus-visible:outline-2 focus-visible:outline-cream"
-      >
-        ✓ Mark as verified halal
-      </button>
+      <div className="flex gap-2">
+        <button
+          onClick={() => onSetHalalStatus(restaurant.id, "verified-zabihah")}
+          className="flex-1 rounded-full bg-emerald text-base px-3.5 py-1.5 text-xs font-semibold font-body focus-visible:outline focus-visible:outline-2 focus-visible:outline-cream"
+        >
+          ✓ Fully halal
+        </button>
+        <button
+          onClick={() => onSetHalalStatus(restaurant.id, "halal-options")}
+          className="flex-1 rounded-full bg-amethyst-soft text-amethyst border border-amethyst-deep/60 px-3.5 py-1.5 text-xs font-semibold font-body focus-visible:outline focus-visible:outline-2 focus-visible:outline-amethyst"
+        >
+          Has halal options
+        </button>
+      </div>
     </div>
   );
 }

@@ -122,12 +122,7 @@ function SectionRow({
             key={r.id}
             className="snap-start shrink-0 w-40"
           >
-            <RestaurantCard
-              restaurant={r}
-              featured={false}
-              onOpen={onOpen}
-              onToggleSave={onToggleSave}
-            />
+            <RestaurantCard restaurant={r} onOpen={onOpen} onToggleSave={onToggleSave} />
           </div>
         ))}
         {/* Trailing spacer so last card doesn't sit flush against the edge */}
