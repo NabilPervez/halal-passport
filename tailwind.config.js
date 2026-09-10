@@ -1,41 +1,48 @@
 /** @type {import('tailwindcss').Config} */
+
+// Colors are CSS custom properties (RGB triplets, so Tailwind's
+// `<alpha-value>` still works) defined in src/index.css for the dark
+// theme on bare :root and overridden for light under
+// [data-theme="light"]. See src/lib/theme.ts for how the attribute is set.
+const v = (name) => `rgb(var(--c-${name}) / <alpha-value>)`;
+
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       colors: {
         base: {
-          DEFAULT: "#0E0E12",
-          elevated: "#17171D",
-          elevated2: "#1F1F27",
-          border: "#2A2A33",
+          DEFAULT: v("base"),
+          elevated: v("base-elevated"),
+          elevated2: v("base-elevated2"),
+          border: v("base-border"),
         },
-        cream: "#F4F1E8",
-        muted: "#9A9AA6",
+        cream: v("cream"),
+        muted: v("muted"),
         emerald: {
-          DEFAULT: "#12A66B",
-          deep: "#0B6E4C",
-          soft: "#173A2C",
+          DEFAULT: v("emerald"),
+          deep: v("emerald-deep"),
+          soft: v("emerald-soft"),
         },
         ruby: {
-          DEFAULT: "#C23B5B",
-          deep: "#8E2540",
-          soft: "#3A1B23",
+          DEFAULT: v("ruby"),
+          deep: v("ruby-deep"),
+          soft: v("ruby-soft"),
         },
         sapphire: {
-          DEFAULT: "#3564D9",
-          deep: "#22407F",
-          soft: "#1A2440",
+          DEFAULT: v("sapphire"),
+          deep: v("sapphire-deep"),
+          soft: v("sapphire-soft"),
         },
         amethyst: {
-          DEFAULT: "#8B5FBF",
-          deep: "#5C3B85",
-          soft: "#2A2038",
+          DEFAULT: v("amethyst"),
+          deep: v("amethyst-deep"),
+          soft: v("amethyst-soft"),
         },
         topaz: {
-          DEFAULT: "#D89A2C",
-          deep: "#96691C",
-          soft: "#332711",
+          DEFAULT: v("topaz"),
+          deep: v("topaz-deep"),
+          soft: v("topaz-soft"),
         },
       },
       fontFamily: {

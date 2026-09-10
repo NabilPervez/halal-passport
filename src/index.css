@@ -3,6 +3,55 @@
 @tailwind utilities;
 
 @layer base {
+  /* Dark theme — the app's default look, on bare :root so it also applies
+     before src/lib/theme.ts runs. RGB triplets so Tailwind's <alpha-value>
+     (e.g. bg-emerald/10) still works. */
+  :root {
+    --c-base: 14 14 18;
+    --c-base-elevated: 23 23 29;
+    --c-base-elevated2: 31 31 39;
+    --c-base-border: 42 42 51;
+    --c-cream: 244 241 232;
+    --c-muted: 154 154 166;
+
+    --c-emerald: 18 166 107;
+    --c-emerald-deep: 11 110 76;
+    --c-emerald-soft: 23 58 44;
+    --c-ruby: 194 59 91;
+    --c-ruby-deep: 142 37 64;
+    --c-ruby-soft: 58 27 35;
+    --c-sapphire: 53 100 217;
+    --c-sapphire-deep: 34 64 127;
+    --c-sapphire-soft: 26 36 64;
+    --c-amethyst: 139 95 191;
+    --c-amethyst-deep: 92 59 133;
+    --c-amethyst-soft: 42 32 56;
+    --c-topaz: 216 154 44;
+    --c-topaz-deep: 150 105 28;
+    --c-topaz-soft: 51 39 17;
+
+    color-scheme: dark;
+  }
+
+  [data-theme="light"] {
+    --c-base: 247 244 237;
+    --c-base-elevated: 255 255 255;
+    --c-base-elevated2: 240 237 228;
+    --c-base-border: 224 220 209;
+    --c-cream: 26 26 31;
+    --c-muted: 100 100 110;
+
+    /* Jewel accents keep their hue; only the tinted "soft" backgrounds
+       flip from dark-tinted to light-tinted so text/borders still read. */
+    --c-emerald-soft: 219 240 231;
+    --c-ruby-soft: 247 226 231;
+    --c-sapphire-soft: 224 232 250;
+    --c-amethyst-soft: 238 230 247;
+    --c-topaz-soft: 249 239 221;
+
+    color-scheme: light;
+  }
+
   html, body, #root {
     height: 100%;
   }
@@ -12,6 +61,6 @@
   }
   * {
     scrollbar-width: thin;
-    scrollbar-color: #2A2A33 transparent;
+    scrollbar-color: rgb(var(--c-base-border)) transparent;
   }
 }

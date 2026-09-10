@@ -281,3 +281,84 @@ export async function setRsvp(meetupId: string, attending: boolean): Promise<voi
   }
   await db.put("meetupRsvps", { meetupId, attending: true, rsvpedAt: Date.now() });
 }
+
+// ─── Data management (Settings) ──────────────────────────────────────────
+
+export interface UserDataStats {
+  saved: number;
+  reviews: number;
+  addedRestaurants: number;
+  halalMarks: number;
+  rsvps: number;
+}
+
+export async function getUserDataStats(): Promise<UserDataStats> {
+  const db = await getDB();
+  const [userStates, reviews, restaurants, halalOverrides, rsvps] = await Promise.all([
+    db.getAll("userPlaceState"),
+    db.count("reviews"),
+    db.getAll("restaurants"),
+    db.count("halalStatusOverrides"),
+    db.count("meetupRsvps"),
+  ]);
+  return {
+    saved: userStates.length,
+    reviews,
+    addedRestaurants: restaurants.filter((r) => r.isUserSubmitted).length,
+    halalMarks: halalOverrides,
+    rsvps,
+  };
+}
+
+/**
+ * Everything this device has created — safe to hand to the user as a JSON
+ * download. Catalog restaurants and seeded meetups are excluded (they ship
+ * with the app); only user-submitted restaurants are included.
+ */
+export async function exportUserData(): Promise<Record<string, unknown>> {
+  const db = await getDB();
+  const [userPlaceState, reviews, restaurants, halalStatusOverrides, meetupRsvps] =
+    await Promise.all([
+      db.getAll("userPlaceState"),
+      db.getAll("reviews"),
+      db.getAll("restaurants"),
+      db.getAll("halalStatusOverrides"),
+      db.getAll("meetupRsvps"),
+    ]);
+  return {
+    exportedAt: new Date().toISOString(),
+    schema: DB_VERSION,
+    app: { version: __APP_VERSION__, commit: __APP_COMMIT__ },
+    userPlaceState,
+    reviews,
+    addedRestaurants: restaurants.filter((r) => r.isUserSubmitted),
+    halalStatusOverrides,
+    meetupRsvps,
+  };
+}
+
+/**
+ * Wipes everything this device created — wishlist/eaten, reviews, halal
+ * marks, RSVPs, and user-added restaurants — and leaves the bundled
+ * catalog and seeded meetups intact (syncCatalog re-puts the catalog on
+ * next launch regardless).
+ */
+export async function clearUserData(): Promise<void> {
+  const db = await getDB();
+  const tx = db.transaction(
+    ["userPlaceState", "reviews", "halalStatusOverrides", "meetupRsvps", "restaurants"],
+    "readwrite"
+  );
+  await Promise.all([
+    tx.objectStore("userPlaceState").clear(),
+    tx.objectStore("reviews").clear(),
+    tx.objectStore("halalStatusOverrides").clear(),
+    tx.objectStore("meetupRsvps").clear(),
+    (async () => {
+      const store = tx.objectStore("restaurants");
+      const all = await store.getAll();
+      await Promise.all(all.filter((r) => r.isUserSubmitted).map((r) => store.delete(r.id)));
+    })(),
+  ]);
+  await tx.done;
+}

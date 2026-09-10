@@ -16,6 +16,9 @@ import { RestaurantDetail } from "./components/RestaurantDetail";
 import { AddRestaurantForm } from "./components/AddRestaurantForm";
 import { BottomNav, type Tab } from "./components/BottomNav";
 import { MeetupsView } from "./components/MeetupsView";
+import { SettingsView } from "./components/SettingsView";
+import { Onboarding, hasOnboarded } from "./components/Onboarding";
+import { useTheme } from "./lib/theme";
 
 // maplibre-gl is the single heaviest dependency in the bundle (~700KB) and
 // is only ever needed on the Discover tab — lazy-load it so Wishlist/
@@ -66,6 +69,9 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [userLocation, setUserLocation] = useState<{lat: number, lng: number} | null>(null);
   const [showAddForm, setShowAddForm] = useState(false);
+  const [showSettings, setShowSettings] = useState(false);
+  const [showOnboarding, setShowOnboarding] = useState(() => !hasOnboarded());
+  const [, , resolvedTheme] = useTheme();
 
   useEffect(() => {
     (async () => {
@@ -225,9 +231,21 @@ export default function App() {
       <header className="px-5 pt-6 pb-4 max-w-md mx-auto sm:max-w-3xl">
         <div className="flex items-start justify-between gap-3 mb-1">
           <p className="text-xs uppercase tracking-widest text-emerald font-body font-semibold">Halal Passport · DFW</p>
-          <p className="text-[10px] text-muted/70 font-body shrink-0 pt-0.5" title={`Commit ${__APP_COMMIT__}`}>
-            v{__APP_VERSION__} · {__APP_COMMIT__}
-          </p>
+          <div className="flex items-center gap-2 shrink-0">
+            <p className="text-[10px] text-muted/70 font-body pt-0.5" title={`Commit ${__APP_COMMIT__}`}>
+              v{__APP_VERSION__} · {__APP_COMMIT__}
+            </p>
+            <button
+              onClick={() => setShowSettings(true)}
+              aria-label="Settings"
+              className="text-muted hover:text-cream transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-emerald rounded"
+            >
+              <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="1.8">
+                <circle cx="12" cy="12" r="3" />
+                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
+              </svg>
+            </button>
+          </div>
         </div>
         <h1 className="font-display font-extrabold text-2xl text-cream">
           {tab === "discover" && "Find your next halal spot"}
@@ -252,7 +270,7 @@ export default function App() {
                 <div className="rounded-xl2 border border-base-border h-[52vh] min-h-[320px] bg-base-elevated animate-pulse" />
               }
             >
-              <MapView restaurants={mapMarkers} onOpen={setActiveId} userLocation={userLocation} />
+              <MapView restaurants={mapMarkers} onOpen={setActiveId} userLocation={userLocation} theme={resolvedTheme} />
             </Suspense>
             <section className="flex flex-col gap-4">
               <div className="flex items-center justify-between gap-2 flex-wrap">
@@ -415,6 +433,9 @@ export default function App() {
 
       <BottomNav active={tab} onChange={setTab} />
 
+      {/* Each overlay gets its own AnimatePresence — a single shared one
+          with several un-keyed conditional children leaves whichever
+          mounts second stuck at its `initial` (invisible) state. */}
       <AnimatePresence>
         {active && (
           <RestaurantDetail
@@ -426,10 +447,14 @@ export default function App() {
             onSetHalalStatus={handleSetHalalStatus}
           />
         )}
+      </AnimatePresence>
+      <AnimatePresence>
         {showAddForm && (
           <AddRestaurantForm onClose={() => setShowAddForm(false)} onAdded={handleRestaurantAdded} />
         )}
       </AnimatePresence>
+      {showSettings && <SettingsView onClose={() => setShowSettings(false)} />}
+      {showOnboarding && <Onboarding onDone={() => setShowOnboarding(false)} />}
     </div>
   );
 }

@@ -17,15 +17,19 @@ const JEWEL_HEX: Record<string, string> = {
 // truly secret. Falls back to the previously-hardcoded key only for local
 // dev convenience if VITE_GEOAPIFY_KEY isn't set.
 const GEOAPIFY_KEY = import.meta.env.VITE_GEOAPIFY_KEY || "c86880aef45241869ec0b977c4126356";
-const MAP_STYLE = `https://maps.geoapify.com/v1/styles/dark-matter/style.json?apiKey=${GEOAPIFY_KEY}`;
+const mapStyleUrl = (theme: "light" | "dark") =>
+  `https://maps.geoapify.com/v1/styles/${
+    theme === "light" ? "positron" : "dark-matter"
+  }/style.json?apiKey=${GEOAPIFY_KEY}`;
 
 interface MapViewProps {
   restaurants: RestaurantWithSaveState[];
   onOpen: (id: string) => void;
   userLocation?: { lat: number; lng: number } | null;
+  theme?: "light" | "dark";
 }
 
-export function MapView({ restaurants, onOpen, userLocation }: MapViewProps) {
+export function MapView({ restaurants, onOpen, userLocation, theme = "dark" }: MapViewProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const markersRef = useRef<maplibregl.Marker[]>([]);
@@ -37,7 +41,7 @@ export function MapView({ restaurants, onOpen, userLocation }: MapViewProps) {
     if (!mapRef.current) {
       mapRef.current = new maplibregl.Map({
         container: containerRef.current,
-        style: MAP_STYLE,
+        style: mapStyleUrl(theme),
         center: [DFW_CENTER.lng, DFW_CENTER.lat],
         zoom: 10,
         // Map data is © OpenStreetMap contributors (ODbL) via Geoapify —
@@ -60,7 +64,7 @@ export function MapView({ restaurants, onOpen, userLocation }: MapViewProps) {
         el.style.backgroundColor = JEWEL_HEX[r.heroColor] || JEWEL_HEX.emerald;
         el.style.borderRadius = "50%";
       }
-      el.style.border = "2px solid #0E0E12";
+      el.style.border = `2px solid ${theme === "light" ? "#FFFFFF" : "#0E0E12"}`;
       el.style.cursor = "pointer";
 
       const marker = new maplibregl.Marker({ element: el })
@@ -81,7 +85,14 @@ export function MapView({ restaurants, onOpen, userLocation }: MapViewProps) {
     return () => {
       map.off("click", handleMapClick);
     };
-  }, [restaurants]);
+  }, [restaurants, theme]);
+
+  // Swap the basemap style when the app theme changes. Markers are DOM
+  // overlays, not style layers, so they survive setStyle untouched.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (map) map.setStyle(mapStyleUrl(theme));
+  }, [theme]);
 
   // Handle user location: add/move marker and fly to it
   useEffect(() => {
