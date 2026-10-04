@@ -1,0 +1,63 @@
+{
+  "packageId": "app.halalpassport.twa",
+  "host": "halal-passport.netlify.app",
+  "name": "Halal Passport",
+  "launcherName": "Halal Passport",
+  "display": "standalone",
+  "themeColor": "#0E0E12",
+  "themeColorDark": "#0E0E12",
+  "navigationColor": "#0E0E12",
+  "navigationColorDark": "#0E0E12",
+  "navigationDividerColor": "#0E0E12",
+  "navigationDividerColorDark": "#0E0E12",
+  "backgroundColor": "#0E0E12",
+  "enableNotifications": false,
+  "startUrl": "/?source=twa",
+  "iconUrl": "https://halal-passport.netlify.app/icon-512.png",
+  "maskableIconUrl": "https://halal-passport.netlify.app/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "D:/Code/halal-passport-keys/android.keystore",
+    "alias": "halalpassport"
+  },
+  "appVersionName": "0.2.0",
+  "appVersion": "0.2.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "Discover",
+      "shortName": "Discover",
+      "url": "/?tab=discover&source=shortcut",
+      "chosenIconUrl": "https://halal-passport.netlify.app/icon-192.png"
+    },
+    {
+      "name": "Wishlist",
+      "shortName": "Wishlist",
+      "url": "/?tab=wishlist&source=shortcut",
+      "chosenIconUrl": "https://halal-passport.netlify.app/icon-192.png"
+    },
+    {
+      "name": "My Passport",
+      "shortName": "Passport",
+      "url": "/?tab=eaten&source=shortcut",
+      "chosenIconUrl": "https://halal-passport.netlify.app/icon-192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://halal-passport.netlify.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://halal-passport.netlify.app/",
+  "minSdkVersion": 23,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersionNameSuffix": ""
+}

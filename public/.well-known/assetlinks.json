@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.halalpassport.twa",
+      "sha256_cert_fingerprints": [
+        "18:B3:65:C6:88:62:82:96:CE:3F:06:65:55:99:3E:F5:F7:2E:1A:61:2D:3E:3A:A2:34:74:B8:96:CC:E6:8D:19"
+      ]
+    }
+  }
+]

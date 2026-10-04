@@ -35,6 +35,16 @@
   [headers.values]
     Cache-Control = "public, max-age=86400"
 
+# Digital Asset Links — proves this site and the Android TWA share an owner,
+# which is what stops the TWA showing a browser URL bar. Android fetches it
+# as application/json; it must NOT be caught by the SPA catch-all below
+# (Netlify serves real files before applying redirects, so it isn't).
+[[headers]]
+  for = "/.well-known/assetlinks.json"
+  [headers.values]
+    Content-Type  = "application/json"
+    Cache-Control = "public, max-age=3600"
+
 # No cache for service worker
 [[headers]]
   for = "/sw.js"

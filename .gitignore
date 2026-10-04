@@ -39,3 +39,18 @@ tools/geocode/mosque-verification.json
 /android
 *.keystore
 *.jks
+# Bubblewrap-generated Android project (regenerate with `bubblewrap update`)
+/twa/app
+/twa/gradle
+/twa/gradlew
+/twa/gradlew.bat
+/twa/build.gradle
+/twa/settings.gradle
+/twa/gradle.properties
+/twa/local.properties
+/twa/store_icon.png
+/twa/*.apk
+/twa/*.aab
+/twa/node_modules
+/twa/package-lock.json
+/twa/package.json
