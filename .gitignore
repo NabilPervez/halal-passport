@@ -34,3 +34,8 @@ tools/geocode/mosque-verification.json
 *.njsproj
 *.sln
 *.sw?
+
+# TWA / Android build output (regenerable from twa-manifest.json)
+/android
+*.keystore
+*.jks

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useTheme, type ThemePref } from "../lib/theme";
 import { exportUserData, clearUserData, getUserDataStats, type UserDataStats } from "../lib/db";
+import { useInstallPrompt, promptInstall, isStandalone } from "../lib/install";
 
 const THEME_OPTIONS: { value: ThemePref; label: string }[] = [
   { value: "system", label: "System" },
@@ -13,6 +14,8 @@ export function SettingsView({ onClose }: { onClose: () => void }) {
   const [stats, setStats] = useState<UserDataStats | null>(null);
   const [confirmClear, setConfirmClear] = useState(false);
   const [busy, setBusy] = useState(false);
+  const { canInstall, installed } = useInstallPrompt();
+  const alreadyInstalled = installed || isStandalone();
 
   useEffect(() => {
     getUserDataStats().then(setStats);
@@ -66,6 +69,33 @@ export function SettingsView({ onClose }: { onClose: () => void }) {
       </header>
 
       <main className="px-5 py-6 max-w-md mx-auto sm:max-w-3xl flex flex-col gap-8 pb-24">
+        {/* Install — hidden once the app is running installed. */}
+        {!alreadyInstalled && (
+          <section className="flex flex-col gap-3">
+            <h2 className="text-xs uppercase tracking-wider text-muted font-body font-semibold">
+              Install
+            </h2>
+            {canInstall ? (
+              <>
+                <p className="text-xs font-body text-muted leading-relaxed">
+                  Add Halal Passport to your home screen — it opens full screen and works offline.
+                </p>
+                <button
+                  onClick={() => promptInstall()}
+                  className="rounded-lg bg-emerald py-2.5 text-sm font-display font-semibold text-base focus-visible:outline focus-visible:outline-2 focus-visible:outline-cream"
+                >
+                  Install app
+                </button>
+              </>
+            ) : (
+              <p className="text-xs font-body text-muted leading-relaxed">
+                To install: on iPhone, tap Share then "Add to Home Screen". On Android, open the
+                browser menu and tap "Install app" or "Add to Home screen".
+              </p>
+            )}
+          </section>
+        )}
+
         {/* Appearance */}
         <section className="flex flex-col gap-3">
           <h2 className="text-xs uppercase tracking-wider text-muted font-body font-semibold">Appearance</h2>

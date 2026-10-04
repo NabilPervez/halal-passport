@@ -5,6 +5,13 @@
     <link rel="icon" type="image/svg+xml" href="/icon.svg" />
     <link rel="apple-touch-icon" href="/icon-192.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <!-- iOS ignores the web manifest's display/name, so these do the same
+         job for "Add to Home Screen". -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Halal Passport" />
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="theme-color" content="#0E0E12" />
 
     <!-- Resolve the theme before first paint so light-mode users don't

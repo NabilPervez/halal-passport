@@ -9,7 +9,8 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "test": "vitest run",
-    "verify:data": "node tools/verify-data.mjs"
+    "verify:data": "node tools/verify-data.mjs",
+    "icons": "node tools/generate-icons.mjs"
   },
   "dependencies": {
     "framer-motion": "^13.1.1",
@@ -27,6 +28,7 @@
     "fake-indexeddb": "^6.2.5",
     "oxlint": "^1.79.0",
     "postcss": "^8.5.26",
+    "sharp": "^0.35.5",
     "tailwindcss": "^3.4.19",
     "typescript": "~6.0.2",
     "vite": "^8.2.2",

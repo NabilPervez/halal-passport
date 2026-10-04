@@ -18,7 +18,22 @@ import { BottomNav, type Tab } from "./components/BottomNav";
 import { MeetupsView } from "./components/MeetupsView";
 import { SettingsView } from "./components/SettingsView";
 import { Onboarding, hasOnboarded } from "./components/Onboarding";
+import { UpdateToast } from "./components/UpdateToast";
 import { useTheme } from "./lib/theme";
+
+const VALID_TABS: Tab[] = ["discover", "wishlist", "eaten", "meetups"];
+
+/** Reads ?tab= so the manifest's app shortcuts (and any shared link) deep-link
+ *  straight into a tab. Falls back to Discover. */
+function initialTab(): Tab {
+  try {
+    const t = new URLSearchParams(window.location.search).get("tab");
+    if (t && (VALID_TABS as string[]).includes(t)) return t as Tab;
+  } catch {
+    /* ignore */
+  }
+  return "discover";
+}
 
 // maplibre-gl is the single heaviest dependency in the bundle (~700KB) and
 // is only ever needed on the Discover tab — lazy-load it so Wishlist/
@@ -60,7 +75,7 @@ function getDistanceInMiles(lat1: number, lon1: number, lat2: number, lon2: numb
 export default function App() {
   const [restaurants, setRestaurants] = useState<RestaurantWithSaveState[]>([]);
   const [reviews, setReviews] = useState<Record<string, Review>>({});
-  const [tab, setTab] = useState<Tab>("discover");
+  const [tab, setTab] = useState<Tab>(initialTab);
   const [activeId, setActiveId] = useState<string | null>(null);
   const [ready, setReady] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
@@ -455,6 +470,7 @@ export default function App() {
       </AnimatePresence>
       {showSettings && <SettingsView onClose={() => setShowSettings(false)} />}
       {showOnboarding && <Onboarding onDone={() => setShowOnboarding(false)} />}
+      <UpdateToast />
     </div>
   );
 }
